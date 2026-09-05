@@ -525,6 +525,7 @@
   {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 6, "set": "2", "next": "Fuego", "xprev": "Character Zero", "nb": 1},
   {"date": "2026-07-18", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 7, "set": "e", "prev": "If I Could", "last": 1, "nb": 1},
   {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 2, "set": "e", "prev": "Big Black Furry Creature from Mars", "last": 1, "nb": 1},
-  {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 4, "set": "2", "prev": "Golden Age", "in": "->", "xnext": "A Life Beyond The Dream", "nb": 1}
+  {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 4, "set": "2", "prev": "Golden Age", "in": "->", "xnext": "A Life Beyond The Dream", "nb": 1},
+  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1, "set": "2", "out": ">", "prev": "Lonely Trip", "next": "Character Zero", "nb": 1}
  ]
 }

@@ -6,7 +6,7 @@
   "state": "CO",
   "artist": "Phish",
   "tour": "2026 Summer Tour",
-  "notes": "<p>Plasma contained a Prince Caspian quote. Disease was unfinished. Disease and Life Saving Gun featured Trey on mini-drum kit.</p>",
+  "notes": "<p>Trey teased Baby, You're a Rich Man in Oblivion. Plasma contained a Layla tease from Page and a Prince Caspian quote from Trey. Plasma and Down with Disease were unfinished. Down with Disease and Life Saving Gun featured Trey on mini drum kit.</p>",
   "permalink": "https://phish.net/setlists/phish-september-04-2026-dicks-sporting-goods-park-commerce-city-co-usa.html",
   "songs": [
     {
@@ -189,14 +189,15 @@
       "prev_date": "2026-07-18",
       "prev_venue": "Merriweather Post Pavilion",
       "prev_place": "Columbia, MD",
-      "plays": null,
-      "recent_plays": 0,
-      "gap_median": null,
-      "gap_mean": null,
-      "gap_low": null,
-      "gap_high": null,
+      "out": "",
+      "plays": 23,
+      "recent_plays": 21,
+      "gap_median": 6,
+      "gap_mean": 6.190476190476191,
+      "gap_low": 3.3129079334050022,
+      "gap_high": 9.261244714791168,
       "gap_away": null,
-      "verdict": null
+      "verdict": "expected"
     },
     {
       "set": "SET 2",
@@ -226,14 +227,15 @@
       "prev_date": "2026-07-31",
       "prev_venue": "Fenway Park",
       "prev_place": "Boston, MA",
-      "plays": null,
-      "recent_plays": 0,
-      "gap_median": null,
-      "gap_mean": null,
-      "gap_low": null,
-      "gap_high": null,
+      "out": "",
+      "plays": 496,
+      "recent_plays": 60,
+      "gap_median": 6.0,
+      "gap_mean": 6.266666666666667,
+      "gap_low": 3.622850164675108,
+      "gap_high": 8.90124560909591,
       "gap_away": null,
-      "verdict": null
+      "verdict": "premature"
     },
     {
       "set": "SET 2",
@@ -263,14 +265,15 @@
       "prev_date": "2026-08-01",
       "prev_venue": "Fenway Park",
       "prev_place": "Boston, MA",
-      "plays": null,
-      "recent_plays": 0,
-      "gap_median": null,
-      "gap_mean": null,
-      "gap_low": null,
-      "gap_high": null,
+      "out": "",
+      "plays": 112,
+      "recent_plays": 24,
+      "gap_median": 17.0,
+      "gap_mean": 16.0,
+      "gap_low": 6.26509280485271,
+      "gap_high": 27.261626186406044,
       "gap_away": null,
-      "verdict": null
+      "verdict": "premature"
     },
     {
       "set": "ENCORE",
