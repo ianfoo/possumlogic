@@ -216,9 +216,27 @@
       "gap_high": 12.400275246171839,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 2",
+      "song": "Run Like an Antelope",
+      "slug": "run-like-an-antelope",
+      "gap": 1,
+      "jamchart": false,
+      "prev_date": "2026-07-31",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "plays": null,
+      "recent_plays": 0,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": null
     }
   ],
-  "count_since": "2026-09-05T04:46:03+00:00",
+  "count_since": "2026-09-05T04:51:15+00:00",
   "encored": false,
   "provisional": true
 }
