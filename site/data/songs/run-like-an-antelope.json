@@ -37,7 +37,7 @@
   {"date": "1985-11-23", "venue": "Goddard College", "city": "Plainfield", "state": "VT", "gap": 5, "set": "2", "out": "->", "prev": "Whipping Post", "next": "Dave's Energy Guide", "nb": 1},
   {"date": "1986-02-03", "venue": "Hunt's", "city": "Burlington", "state": "VT", "gap": 2, "set": "1", "note": "Jeff Holdsworth on slide guitar.", "prev": "Prep School Hippie", "xnext": "Exiled Shadows", "nb": 1},
   {"date": "1987-04-29", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": 33, "set": "3", "prev": "Makisupa Policeman", "in": "->", "next": "Boogie On Reggae Woman", "nb": 1},
-  {"date": "1987-05-20", "venue": "The Ranch", "city": "South Burlington", "state": "VT", "gap": 5, "set": "1", "jamchart": true, "jam": "Good dissonance and great shredding by Trey in a spirited early version.", "prev": "Wilson", "in": ">", "next": "Golgi Apparatus", "nb": 1},
+  {"date": "1987-05-20", "venue": "The Ranch", "city": "South Burlington", "state": "VT", "gap": 4, "set": "1", "jamchart": true, "jam": "Good dissonance and great shredding by Trey in a spirited early version.", "prev": "Wilson", "in": ">", "next": "Golgi Apparatus", "nb": 1},
   {"date": "1987-09-21", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": 11, "set": "3", "jamchart": true, "jam": "Great tension and energy building early in the jam, then there's a funky, rhythmic, 3+ minute section before \"Marco.\"", "prev": "The Ballad of Curtis Loew", "next": "Makisupa Policeman", "nb": 1},
   {"date": "1988-02-03", "venue": "Gallagher's", "city": "Waitsfield", "state": "VT", "gap": 18, "set": "2", "prev": "Fee", "next": "AC/DC Bag", "nb": 1},
   {"date": "1988-02-08", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": 2, "set": "2", "note": "\"Moses Heaps\" and \"Moses Brown\" references.", "prev": "The Lizards", "xnext": "The Sloth", "nb": 1},
@@ -525,6 +525,6 @@
   {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 6, "set": "2", "next": "Fuego", "xprev": "Character Zero", "nb": 1},
   {"date": "2026-07-18", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 7, "set": "e", "prev": "If I Could", "last": 1, "nb": 1},
   {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 2, "set": "e", "prev": "Big Black Furry Creature from Mars", "last": 1, "nb": 1},
-  {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 4, "set": "2", "nb": 1, "prev": "Golden Age", "in": "->", "xnext": "A Life Beyond The Dream"}
+  {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 4, "set": "2", "prev": "Golden Age", "in": "->", "xnext": "A Life Beyond The Dream", "nb": 1}
  ]
 }
