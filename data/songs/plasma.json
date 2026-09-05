@@ -67,6 +67,6 @@
   {"date": "2025-12-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 20, "set": "1", "out": ">", "prev": "Carini", "in": "->", "next": "Carini", "nb": 1},
   {"date": "2026-05-01", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 13, "set": "2", "jamchart": true, "jam": "> from a \u201cSeven Below\u201d you\u2019ll want to check out. Clearly comfortable in the venue on the penultimate night of their run, the band drops \u201cPlasma\u201d in the two-hole of a four song suite lasting around an hour. The band toys with effects as the jam flows along effortlessly before > into a massive \u201cC&P\u201d.", "note": "Unfinished.", "out": ">", "prev": "Seven Below", "in": ">", "next": "Crosseyed and Painless", "nb": 1},
   {"date": "2026-07-10", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 3, "set": "1", "note": "Unfinished.", "out": "->", "prev": "Blaze On", "in": "->", "next": "Blaze On", "nb": 1},
-  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 15, "set": "1", "prev": "Prince Caspian", "in": "->", "next": "Tube"}
+  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 15, "set": "1", "prev": "Prince Caspian", "in": "->", "next": "Tube", "nb": 1}
  ]
 }

@@ -218,6 +218,6 @@
   {"date": "2026-07-08", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 3, "set": "2", "out": "->", "prev": "Kill Devil Falls", "next": "Twist", "nb": 1},
   {"date": "2026-07-21", "venue": "Empower Federal Credit Union Amphitheater at Lakeview", "city": "Syracuse", "state": "NY", "gap": 8, "set": "2", "out": ">", "prev": "Blaze On", "in": ">", "next": "More", "nb": 1},
   {"date": "2026-07-27", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 3, "set": "2", "note": "Trey on mini drum kit.", "out": ">", "prev": "The Curtain With", "in": ">", "next": "Drowned", "nb": 1},
-  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 3, "set": "1", "out": "->", "prev": "Oblivion", "next": "Plasma"}
+  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 3, "set": "1", "out": "->", "prev": "Oblivion", "next": "Plasma", "nb": 1}
  ]
 }
