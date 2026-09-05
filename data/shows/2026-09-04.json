@@ -6,7 +6,7 @@
   "state": "CO",
   "artist": "Phish",
   "tour": "2026 Summer Tour",
-  "notes": "<p>Plasma contained a Prince Caspian quote.</p>",
+  "notes": "<p>Plasma contained a Prince Caspian quote. Disease was unfinished.</p>",
   "permalink": "https://phish.net/setlists/phish-september-04-2026-dicks-sporting-goods-park-commerce-city-co-usa.html",
   "songs": [
     {
@@ -179,9 +179,27 @@
       "gap_high": 7.455040857743233,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Life Saving Gun",
+      "slug": "life-saving-gun",
+      "gap": 9,
+      "jamchart": false,
+      "prev_date": "2026-07-18",
+      "prev_venue": "Merriweather Post Pavilion",
+      "prev_place": "Columbia, MD",
+      "plays": null,
+      "recent_plays": 0,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": null
     }
   ],
-  "count_since": "2026-09-05T04:14:46+00:00",
+  "count_since": "2026-09-05T04:25:28+00:00",
   "encored": false,
   "provisional": true
 }
