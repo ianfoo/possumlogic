@@ -234,9 +234,28 @@
       "gap_high": null,
       "gap_away": null,
       "verdict": null
+    },
+    {
+      "set": "SET 2",
+      "song": "Character Zero",
+      "slug": "character-zero",
+      "gap": 0,
+      "jamchart": false,
+      "prev_date": "2026-08-01",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 268,
+      "recent_plays": 74,
+      "gap_median": 5.0,
+      "gap_mean": 5.108108108108108,
+      "gap_low": 2.4958601376310914,
+      "gap_high": 7.95735942261506,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
-  "count_since": "2026-09-05T04:51:15+00:00",
+  "count_since": "2026-09-05T05:01:33+00:00",
   "encored": false,
   "provisional": true
 }
