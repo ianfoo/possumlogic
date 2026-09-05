@@ -197,9 +197,28 @@
       "gap_high": null,
       "gap_away": null,
       "verdict": null
+    },
+    {
+      "set": "SET 2",
+      "song": "Lonely Trip",
+      "slug": "lonely-trip",
+      "gap": 20,
+      "jamchart": false,
+      "prev_date": "2026-04-30",
+      "prev_venue": "Sphere",
+      "prev_place": "Las Vegas, NV",
+      "out": "",
+      "plays": 28,
+      "recent_plays": 26,
+      "gap_median": 8.0,
+      "gap_mean": 8.384615384615385,
+      "gap_low": 4.498812281909621,
+      "gap_high": 12.400275246171839,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-09-05T04:25:28+00:00",
+  "count_since": "2026-09-05T04:46:03+00:00",
   "encored": false,
   "provisional": true
 }
