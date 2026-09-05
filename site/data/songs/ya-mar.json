@@ -269,6 +269,6 @@
   {"date": "2025-09-19", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 5, "set": "1", "prev": "Army of One", "in": ">", "next": "The Wedge", "nb": 1},
   {"date": "2026-01-29", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 8, "set": "1", "prev": "Stash", "next": "McGrupp and the Watchful Hosemasters", "nb": 1},
   {"date": "2026-04-24", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 7, "set": "1", "prev": "Roggae", "next": "The Dogs", "nb": 1},
-  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 22, "set": "1", "prev": "Tube", "next": "Wolfman's Brother", "nb": 1}
+  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 22, "set": "1", "nb": 1, "prev": "Tube", "next": "Wolfman's Brother"}
  ]
 }

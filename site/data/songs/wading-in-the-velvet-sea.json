@@ -142,6 +142,7 @@
   {"date": "2025-04-23", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 13, "set": "e", "next": "First Tube", "xprev": "You Enjoy Myself", "nb": 1},
   {"date": "2025-07-26", "venue": "Broadview Stage at SPAC", "city": "Saratoga Springs", "state": "NY", "gap": 25, "set": "1", "out": ">", "prev": "Mike's Song", "in": ">", "next": "Weekapaug Groove", "nb": 1},
   {"date": "2026-05-02", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 25, "set": "e", "next": "Fluffhead", "xprev": "Character Zero", "nb": 1},
-  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 17, "set": "e", "next": "Character Zero", "xprev": "Possum", "nb": 1}
+  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 17, "set": "e", "next": "Character Zero", "xprev": "Possum", "nb": 1},
+  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 0, "set": "e", "xprev": "Character Zero", "next": "Harry Hood", "nb": 1}
  ]
 }
