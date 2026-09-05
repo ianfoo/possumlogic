@@ -19,7 +19,14 @@
       "prev_venue": "Fenway Park",
       "prev_place": "Boston, MA",
       "out": "",
-      "verdict": null
+      "plays": 91,
+      "recent_plays": 74,
+      "gap_median": 4.0,
+      "gap_mean": 4.148648648648648,
+      "gap_low": 1.4619741285518462,
+      "gap_high": 7.006174867414572,
+      "gap_away": null,
+      "verdict": "premature"
     },
     {
       "set": "SET 1",
@@ -31,7 +38,14 @@
       "prev_venue": "Merriweather Post Pavilion",
       "prev_place": "Columbia, MD",
       "out": "",
-      "verdict": null
+      "plays": 29,
+      "recent_plays": 27,
+      "gap_median": 4,
+      "gap_mean": 4.444444444444445,
+      "gap_low": 2.6242537934583217,
+      "gap_high": 6.369871249669417,
+      "gap_away": null,
+      "verdict": "overdue"
     },
     {
       "set": "SET 1",
@@ -42,8 +56,15 @@
       "prev_date": "2026-07-27",
       "prev_venue": "Madison Square Garden",
       "prev_place": "New York, NY",
-      "out": "",
-      "verdict": null
+      "out": "->",
+      "plays": 189,
+      "recent_plays": 47,
+      "gap_median": 6,
+      "gap_mean": 7.127659574468085,
+      "gap_low": 2.8972028481326397,
+      "gap_high": 11.506905288011293,
+      "gap_away": null,
+      "verdict": "expected"
     },
     {
       "set": "SET 1",
@@ -55,7 +76,14 @@
       "prev_venue": "Ruoff Music Center",
       "prev_place": "Noblesville, IN",
       "out": "",
-      "verdict": null
+      "plays": 39,
+      "recent_plays": 35,
+      "gap_median": 7,
+      "gap_mean": 11.028571428571428,
+      "gap_low": 2.6516009826843008,
+      "gap_high": 19.0673815053598,
+      "gap_away": null,
+      "verdict": "expected"
     },
     {
       "set": "SET 1",
@@ -67,7 +95,14 @@
       "prev_venue": "Madison Square Garden",
       "prev_place": "New York, NY",
       "out": "",
-      "verdict": null
+      "plays": 206,
+      "recent_plays": 70,
+      "gap_median": 5.0,
+      "gap_mean": 4.4,
+      "gap_low": 1.563356338993962,
+      "gap_high": 7.555279135965186,
+      "gap_away": null,
+      "verdict": "expected"
     },
     {
       "set": "SET 1",
@@ -79,7 +114,14 @@
       "prev_venue": "Sphere",
       "prev_place": "Las Vegas, NV",
       "out": "",
-      "verdict": null
+      "plays": 239,
+      "recent_plays": 27,
+      "gap_median": 12,
+      "gap_mean": 13.555555555555555,
+      "gap_low": 5.045145032888931,
+      "gap_high": 22.763759399001795,
+      "gap_away": null,
+      "verdict": "expected"
     },
     {
       "set": "SET 1",
@@ -91,7 +133,14 @@
       "prev_venue": "Madison Square Garden",
       "prev_place": "New York, NY",
       "out": "",
-      "verdict": null
+      "plays": 254,
+      "recent_plays": 71,
+      "gap_median": 4,
+      "gap_mean": 4.295774647887324,
+      "gap_low": 1.7459627049460544,
+      "gap_high": 7.08254154188147,
+      "gap_away": null,
+      "verdict": "expected"
     },
     {
       "set": "SET 2",
@@ -102,8 +151,15 @@
       "prev_date": "2026-07-12",
       "prev_venue": "Ruoff Music Center",
       "prev_place": "Noblesville, IN",
-      "out": "",
-      "verdict": null
+      "out": ">",
+      "plays": 159,
+      "recent_plays": 76,
+      "gap_median": 4.0,
+      "gap_mean": 4.815789473684211,
+      "gap_low": 2.620473944118439,
+      "gap_high": 7.083216345652918,
+      "gap_away": null,
+      "verdict": "overdue"
     },
     {
       "set": "SET 2",
@@ -115,7 +171,14 @@
       "prev_venue": "Madison Square Garden",
       "prev_place": "New York, NY",
       "out": "",
-      "verdict": null
+      "plays": 328,
+      "recent_plays": 68,
+      "gap_median": 4.0,
+      "gap_mean": 4.529411764705882,
+      "gap_low": 1.843335439239,
+      "gap_high": 7.455040857743233,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
   "count_since": "2026-09-05T04:14:46+00:00",
