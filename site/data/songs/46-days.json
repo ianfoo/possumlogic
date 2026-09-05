@@ -189,6 +189,6 @@
   {"date": "2025-09-19", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 5, "set": "1", "prev": "Fluffhead", "next": "My Friend, My Friend", "nb": 1},
   {"date": "2026-04-23", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 13, "set": "1", "next": "Guyute", "first": 1, "nb": 1},
   {"date": "2026-07-12", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 9, "set": "1", "next": "Evolve", "first": 1, "nb": 1},
-  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 13, "set": "2", "out": ">", "xprev": "Wolfman's Brother", "next": "Down with Disease"}
+  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 13, "set": "2", "out": ">", "xprev": "Wolfman's Brother", "next": "Down with Disease", "nb": 1}
  ]
 }

@@ -58,6 +58,6 @@
   {"date": "2026-04-18", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 4, "set": "2", "next": "Simple", "xprev": "Bathtub Gin", "nb": 1},
   {"date": "2026-07-10", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 8, "set": "2", "out": ">", "next": "Down with Disease", "xprev": "Bouncing Around the Room", "nb": 1},
   {"date": "2026-07-19", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 6, "set": "1", "out": ">", "prev": "NICU", "in": ">", "next": "Possum", "nb": 1},
-  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 8, "set": "1", "prev": "No Men In No Man's Land", "next": "Prince Caspian"}
+  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 8, "set": "1", "prev": "No Men In No Man's Land", "next": "Prince Caspian", "nb": 1}
  ]
 }

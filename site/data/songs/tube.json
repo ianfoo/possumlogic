@@ -235,6 +235,6 @@
   {"date": "2026-04-23", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 4, "set": "e", "prev": "Fee", "next": "More", "nb": 1},
   {"date": "2026-07-10", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 7, "set": "1", "prev": "Roggae", "next": "Wolfman's Brother", "nb": 1},
   {"date": "2026-07-24", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 9, "set": "1", "times": 2, "out": "->", "prev": "Divided Sky", "next": "Big Ball Jam", "nb": 1},
-  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 5, "set": "1", "prev": "Plasma", "next": "Ya Mar"}
+  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 5, "set": "1", "prev": "Plasma", "next": "Ya Mar", "nb": 1}
  ]
 }

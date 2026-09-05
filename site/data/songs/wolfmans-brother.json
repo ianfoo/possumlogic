@@ -284,6 +284,6 @@
   {"date": "2026-04-16", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 1, "set": "1", "prev": "Evolve", "next": "Foam", "nb": 1},
   {"date": "2026-07-10", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 10, "set": "1", "prev": "Tube", "next": "Limb By Limb", "nb": 1},
   {"date": "2026-07-25", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 10, "set": "1", "note": "Ended mid-song due to FOH outage.", "prev": "Punch You in the Eye", "in": ">", "xnext": "Highway to Hell", "nb": 1},
-  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 4, "set": "1", "prev": "Ya Mar", "xnext": "46 Days"}
+  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 4, "set": "1", "prev": "Ya Mar", "xnext": "46 Days", "nb": 1}
  ]
 }
