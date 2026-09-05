@@ -271,9 +271,28 @@
       "gap_high": null,
       "gap_away": null,
       "verdict": null
+    },
+    {
+      "set": "ENCORE",
+      "song": "Harry Hood",
+      "slug": "harry-hood",
+      "gap": 1,
+      "jamchart": false,
+      "prev_date": "2026-07-31",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 444,
+      "recent_plays": 82,
+      "gap_median": 3.0,
+      "gap_mean": 3.6219512195121952,
+      "gap_low": 1.2945433233502897,
+      "gap_high": 6.219785501235845,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
-  "count_since": "2026-09-05T05:11:54+00:00",
+  "count_since": "2026-09-05T05:17:05+00:00",
   "encored": true,
   "provisional": true
 }
