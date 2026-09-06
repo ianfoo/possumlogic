@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-05",
+  "venue": "Dick's Sporting Goods Park, Commerce City, CO",
+  "venue_name": "Dick's Sporting Goods Park",
+  "city": "Commerce City",
+  "state": "CO",
+  "artist": "Phish",
+  "tour": "2026 Summer Tour",
+  "notes": "<p>The soundcheck's Funky Bitch Jam included <i>Batman </i>theme singing from Mike and Trey on mini drum kit.</p>",
+  "permalink": "https://phish.net/setlists/phish-september-05-2026-dicks-sporting-goods-park-commerce-city-co-usa.html",
+  "songs": [
+    {
+      "set": "SET 1",
+      "song": "Possum",
+      "slug": "possum",
+      "gap": 1,
+      "jamchart": false,
+      "prev_date": "2026-08-01",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 583,
+      "recent_plays": 72,
+      "gap_median": 4.0,
+      "gap_mean": 4.305555555555555,
+      "gap_low": 1.6360004045351948,
+      "gap_high": 7.295319614975972,
+      "gap_away": null,
+      "verdict": "premature"
+    }
+  ],
+  "count_since": "2026-09-06T02:03:04+00:00",
+  "encored": false,
+  "provisional": true
+}
