@@ -216,9 +216,27 @@
       "gap_high": 6.457898102224861,
       "gap_away": null,
       "verdict": "premature"
+    },
+    {
+      "set": "ENCORE",
+      "song": "When the Circus Comes",
+      "slug": "when-the-circus-comes",
+      "gap": 56,
+      "jamchart": false,
+      "prev_date": "2025-07-11",
+      "prev_venue": "North Charleston Coliseum",
+      "prev_place": "North Charleston, SC",
+      "plays": null,
+      "recent_plays": 0,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": null
     }
   ],
-  "count_since": "2026-09-06T05:08:41+00:00",
-  "encored": false,
+  "count_since": "2026-09-06T05:19:01+00:00",
+  "encored": true,
   "provisional": true
 }
