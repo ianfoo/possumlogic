@@ -234,9 +234,28 @@
       "gap_high": null,
       "gap_away": null,
       "verdict": null
+    },
+    {
+      "set": "ENCORE",
+      "song": "Carini",
+      "slug": "carini",
+      "gap": 2,
+      "jamchart": false,
+      "prev_date": "2026-07-31",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 161,
+      "recent_plays": 75,
+      "gap_median": 4,
+      "gap_mean": 4.08,
+      "gap_low": 1.8759222386947059,
+      "gap_high": 6.467773280771697,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-09-06T05:19:01+00:00",
+  "count_since": "2026-09-06T05:24:13+00:00",
   "encored": true,
   "provisional": true
 }
