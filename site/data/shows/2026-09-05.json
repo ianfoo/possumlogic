@@ -122,9 +122,28 @@
       "gap_high": 7.325489877796844,
       "gap_away": null,
       "verdict": "premature"
+    },
+    {
+      "set": "SET 1",
+      "song": "Most Events Aren't Planned",
+      "slug": "most-events-arent-planned",
+      "gap": 15,
+      "jamchart": false,
+      "prev_date": "2026-07-11",
+      "prev_venue": "Ruoff Music Center",
+      "prev_place": "Noblesville, IN",
+      "out": "",
+      "plays": 25,
+      "recent_plays": 23,
+      "gap_median": 12,
+      "gap_mean": 13.217391304347826,
+      "gap_low": 4.007808655046376,
+      "gap_high": 23.714310748246845,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-09-06T03:10:12+00:00",
+  "count_since": "2026-09-06T03:25:40+00:00",
   "encored": false,
   "provisional": true
 }
