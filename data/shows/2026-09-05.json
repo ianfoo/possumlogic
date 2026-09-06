@@ -84,9 +84,28 @@
       "gap_high": 7.659020047882429,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 1",
+      "song": "Back on the Train",
+      "slug": "back-on-the-train",
+      "gap": 2,
+      "jamchart": false,
+      "prev_date": "2026-07-31",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 172,
+      "recent_plays": 63,
+      "gap_median": 5,
+      "gap_mean": 6.031746031746032,
+      "gap_low": 2.5153946246466963,
+      "gap_high": 9.809166213255708,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
-  "count_since": "2026-09-06T02:54:40+00:00",
+  "count_since": "2026-09-06T02:59:52+00:00",
   "encored": false,
   "provisional": true
 }
