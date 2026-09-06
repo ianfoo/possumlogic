@@ -561,6 +561,6 @@
   {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 3, "set": "1", "note": "Unfinished.", "out": ">", "next": "Ghost", "first": 1, "nb": 1},
   {"date": "2026-07-24", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 11, "set": "2", "out": ">", "prev": "Also Sprach Zarathustra", "in": ">", "next": "Sparks", "nb": 1},
   {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 4, "set": "1", "note": "Unfinished.", "out": ">", "prev": "Tweezer", "in": ">", "next": "Stash", "nb": 1},
-  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1, "set": "2", "prev": "Tweezer", "in": ">", "xnext": "When the Circus Comes", "nb": 1}
+  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1, "set": "2", "nb": 1, "prev": "Tweezer", "in": ">", "xnext": "When the Circus Comes"}
  ]
 }

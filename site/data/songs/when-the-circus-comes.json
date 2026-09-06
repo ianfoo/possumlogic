@@ -105,6 +105,7 @@
   {"date": "2023-07-19", "venue": "Live Oak Bank Pavilion at Riverfront Park", "city": "Wilmington", "state": "NC", "gap": 13, "set": "1", "prev": "Back on the Train", "next": "It's Ice", "nb": 1},
   {"date": "2024-02-23", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 33, "set": "e", "next": "Character Zero", "xprev": "Harry Hood", "nb": 1},
   {"date": "2024-07-20", "venue": "Xfinity Center", "city": "Mansfield", "state": "MA", "gap": 7, "set": "e", "next": "David Bowie", "xprev": "Chalk Dust Torture", "nb": 1},
-  {"date": "2025-07-11", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 53, "set": "e", "next": "First Tube", "xprev": "Suzy Greenberg", "nb": 1}
+  {"date": "2025-07-11", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 53, "set": "e", "next": "First Tube", "xprev": "Suzy Greenberg", "nb": 1},
+  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 56, "set": "e", "xprev": "Chalk Dust Torture", "next": "Carini", "nb": 1}
  ]
 }

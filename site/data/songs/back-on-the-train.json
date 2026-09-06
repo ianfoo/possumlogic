@@ -205,6 +205,6 @@
   {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 0, "set": "1", "out": ">", "prev": "Ghost", "next": "Free", "nb": 1},
   {"date": "2026-07-19", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 8, "set": "1", "prev": "Undermind", "in": ">", "next": "Ass Handed", "nb": 1},
   {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 6, "set": "1", "prev": "Everything's Right", "in": "->", "next": "Free", "nb": 1},
-  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "1", "prev": "The Moma Dance", "in": ">", "next": "Free", "nb": 1}
+  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "1", "nb": 1, "prev": "The Moma Dance", "in": ">", "next": "Free"}
  ]
 }

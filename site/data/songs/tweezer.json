@@ -447,6 +447,7 @@
   {"date": "2026-04-18", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 6, "set": "2", "prev": "Simple", "next": "Waste", "nb": 1},
   {"date": "2026-07-11", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 9, "set": "2", "times": 2, "out": "->", "prev": "Everything's Right", "in": "->", "next": "Golden Age", "nb": 1},
   {"date": "2026-07-25", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 9, "set": "2", "times": 6, "out": "->", "prev": "Down with Disease", "in": "->", "next": "Down with Disease", "nb": 1},
-  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 3, "set": "1", "times": 3, "out": "->", "prev": "My Friend, My Friend", "in": "->", "next": "Sigma Oasis", "nb": 1}
+  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 3, "set": "1", "times": 3, "out": "->", "prev": "My Friend, My Friend", "in": "->", "next": "Sigma Oasis", "nb": 1},
+  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1, "set": "2", "out": ">", "prev": "A Wave of Hope", "in": "->", "next": "Chalk Dust Torture", "nb": 1}
  ]
 }
