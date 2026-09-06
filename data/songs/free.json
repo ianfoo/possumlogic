@@ -273,6 +273,6 @@
   {"date": "2026-07-18", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 7, "set": "2", "prev": "Boogie On Reggae Woman", "in": ">", "xnext": "Monsters", "nb": 1},
   {"date": "2026-07-27", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 5, "set": "2", "prev": "Johnny B. Goode", "xnext": "Strange Design", "nb": 1},
   {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 1, "set": "1", "prev": "Back on the Train", "next": "Kill Devil Falls", "nb": 1},
-  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "1", "prev": "Back on the Train"}
+  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "1", "prev": "Back on the Train", "next": "Most Events Aren't Planned"}
  ]
 }
