@@ -246,6 +246,6 @@
   {"date": "2026-04-25", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 8, "set": "1", "prev": "Timber (Jerry the Mule)", "next": "The Final Hurrah", "nb": 1},
   {"date": "2026-07-08", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 4, "set": "1", "out": ">", "prev": "Sigma Oasis", "next": "Runaway Jim", "nb": 1},
   {"date": "2026-07-19", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 7, "set": "1", "out": ">", "prev": "Ass Handed", "next": "Fast Enough for You", "nb": 1},
-  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 9, "set": "1", "prev": "Sigma Oasis", "next": "Back on the Train"}
+  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 9, "set": "1", "prev": "Sigma Oasis", "next": "Back on the Train", "nb": 1}
  ]
 }

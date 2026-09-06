@@ -190,6 +190,6 @@
   {"date": "2026-07-11", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 10, "set": "2", "prev": "No Quarter", "in": ">", "xnext": "A Life Beyond The Dream", "nb": 1},
   {"date": "2026-07-19", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 5, "set": "2", "next": "No Men In No Man's Land", "xprev": "Possum", "nb": 1},
   {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 6, "set": "1", "next": "Everything's Right", "first": 1, "nb": 1},
-  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "e", "prev": "When the Circus Comes"}
+  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "e", "prev": "When the Circus Comes", "last": 1, "nb": 1}
  ]
 }
