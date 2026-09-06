@@ -615,6 +615,6 @@
   {"date": "2026-07-19", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 7, "set": "1", "prev": "Oblivion", "in": ">", "xnext": "Carini", "nb": 1},
   {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1, "set": "1", "out": ">", "prev": "Reba", "in": ">", "next": "David Bowie", "nb": 1},
   {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 5, "set": "2", "prev": "Ghost", "in": ">", "xnext": "Wading in the Velvet Sea", "nb": 1},
-  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1, "set": "1", "first": 1, "next": "Sand"}
+  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1, "set": "1", "first": 1, "next": "Sand", "nb": 1}
  ]
 }
