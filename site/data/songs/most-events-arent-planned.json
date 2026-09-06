@@ -51,6 +51,6 @@
   {"date": "2026-01-30", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 6, "set": "1", "prev": "Bathtub Gin", "xnext": "Carini", "nb": 1},
   {"date": "2026-04-17", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 2, "set": "2", "prev": "Beneath a Sea of Stars Part 1", "in": ">", "xnext": "Brief Time", "nb": 1},
   {"date": "2026-07-11", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 10, "set": "1", "prev": "Dirt", "xnext": "Everything's Right", "nb": 1},
-  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 15, "set": "1", "prev": "Free"}
+  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 15, "set": "1", "prev": "Free", "xnext": "What's Going Through Your Mind"}
  ]
 }

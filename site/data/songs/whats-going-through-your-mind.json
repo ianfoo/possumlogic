@@ -42,6 +42,7 @@
   {"date": "2026-04-24", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 7, "set": "2", "jamchart": true, "jam": "The jam vehicle of the mid-2020s drives forward in a thick groove space right out of the gates. At 10:20 Trey moves into a rawk space before sliding into a Page/Trey duel that brings back memories of Fall 2021 Phish. Trey's chordal bursts at 16:15 push the jam into a new direction before building to a heroic peak. This then fades off into a sprawling guitar-led psych jam before resolving into rhythmic WOOs. Hinting at a return to the song's chorus, Trey instead pushes the band into a swirl of noise that resolves in Piper.", "out": "->", "prev": "Pebbles and Marbles", "next": "Piper", "nb": 1},
   {"date": "2026-07-10", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 6, "set": "e", "next": "Rocky Top", "xprev": "Loving Cup", "nb": 1},
   {"date": "2026-07-18", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 5, "set": "1", "next": "Contact", "first": 1, "nb": 1},
-  {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 7, "set": "2", "nb": 1, "xprev": "Harry Hood", "next": "Fuego"}
+  {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 7, "set": "2", "note": "Trey on mini drum kit.", "out": ">", "next": "Fuego", "xprev": "Harry Hood", "nb": 1},
+  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "2", "xprev": "Most Events Aren't Planned"}
  ]
 }
