@@ -714,12 +714,12 @@
  "2026-07-31": "6bf9fdaf4a9ac5d1",
  "2026-08-01": "67f5cfec79ad5120",
  "2026-09-04": "1b308ff4c34888ab",
- "due": "4b449783301aabef",
+ "due": "ca5dc76eaad00d32",
  "faq": "e55c69a7d26efd5f",
  "index": "d615c59fee940576",
  "method": "643afc3cb5fea0a4",
  "not-a-show": "08ca87d904d22d23",
- "out-of-rotation": "8badd97e911c857e",
+ "out-of-rotation": "45e9c1c3d80add3d",
  "song-1999": "880d6667ba5ee6ba",
  "song-20-20-vision": "875374f80237b9ab",
  "song-46-days": "ebd758328213f25f",
@@ -1312,5 +1312,5 @@
  "song-ziggy-stardust": "5e0c4d1c946d1fcb",
  "songs": "89059492f712b8d3",
  "venues": "fe597df74d021aab",
- "years": "fb853028e89373d9"
+ "years": "88452f697c66683f"
 }
