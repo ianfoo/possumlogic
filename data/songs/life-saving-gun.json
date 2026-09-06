@@ -48,6 +48,6 @@
   {"date": "2026-04-24", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 6, "set": "2", "prev": "Monsters", "next": "What's the Use?", "nb": 1},
   {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 4, "set": "2", "note": "Unfinished.", "out": ">", "prev": "Fuego", "in": ">", "next": "Sand", "nb": 1},
   {"date": "2026-07-18", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 7, "set": "2", "out": ">", "next": "Gotta Jibboo", "xprev": "Runaway Jim", "nb": 1},
-  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 9, "set": "2", "note": "Trey on mini drum kit.", "prev": "Down with Disease", "in": ">", "next": "Lonely Trip", "nb": 1}
+  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 9, "set": "2", "note": "Trey on mini drum kit.", "nb": 1, "prev": "Down with Disease", "in": ">", "next": "Lonely Trip"}
  ]
 }

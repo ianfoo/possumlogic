@@ -227,7 +227,7 @@
       "prev_date": "2026-07-31",
       "prev_venue": "Fenway Park",
       "prev_place": "Boston, MA",
-      "out": "",
+      "out": ">",
       "plays": 496,
       "recent_plays": 60,
       "gap_median": 6.0,
@@ -295,6 +295,7 @@
       "verdict": "premature"
     }
   ],
+  "foul_score": 58,
   "count_since": "2026-09-05T05:17:05+00:00",
   "encored": true,
   "provisional": false
