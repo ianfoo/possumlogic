@@ -52,7 +52,7 @@
   {"date": "1995-11-10", "venue": "The Fox Theatre", "city": "Atlanta", "state": "GA", "gap": 2, "set": "2", "next": "Scent of a Mule", "xprev": "Cavern", "nb": 1},
   {"date": "1995-11-14", "venue": "University of Central Florida Arena", "city": "Orlando", "state": "FL", "gap": 3, "set": "1", "prev": "Esther", "in": ">", "next": "Julius", "nb": 1},
   {"date": "1995-11-18", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 3, "set": "2", "prev": "Sparkle", "in": ">", "next": "I'm So Tired", "nb": 1},
-  {"date": "1995-11-22", "venue": "USAir Arena", "city": "Landover", "state": "MD", "gap": 3, "set": "2", "jamchart": true, "jam": "The second extended, highly improvisational \"Free.\" This one is a monster with several movements well beyond \"Free\" proper and \"No Quarter\" teases and a \"BATR\" tease. -> to \"Llama.\" Must-hear.", "out": "->", "prev": "Rift", "next": "Llama", "nb": 1},
+  {"date": "1995-11-22", "venue": "USAir Arena", "city": "Landover", "state": "MD", "gap": 3, "set": "2", "jamchart": true, "jam": "The second extended, highly improvisational \"Free.\" An absolute tour-de-force, few Phish jams are as raw and intense as the Landover Free: almost uncomfortably so. Arising from rancor between Trey and Fish following a botched introduction to \u201cRift,\u201d this multi-sectioned jam explores emotions of anger, contempt, release, and ultimately reconciliation over its 30+ minute voyage -- with Trey making three excursions to his mini-kit to spar with Fish (most notoriously when the rest of the band is ready to play \u201cBouncing\u201d and Trey says no). Absurdly must-hear. Also includes \"No Quarter\" teases and a \"BATR\" tease. -> to \"Llama.\"", "out": "->", "prev": "Rift", "next": "Llama", "nb": 1},
   {"date": "1995-11-28", "venue": "Knoxville Civic Coliseum", "city": "Knoxville", "state": "TN", "gap": 3, "set": "2", "prev": "Uncle Pen", "next": "Hold Your Head Up", "nb": 1},
   {"date": "1995-11-30", "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "gap": 2, "set": "2", "prev": "Scent of a Mule", "next": "Strange Design", "nb": 1},
   {"date": "1995-12-02", "venue": "New Haven Veterans Memorial Coliseum", "city": "New Haven", "state": "CT", "gap": 2, "set": "1", "prev": "My Sweet One", "next": "Taste That Surrounds", "nb": 1},
@@ -272,6 +272,7 @@
   {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 7, "set": "1", "prev": "Back on the Train", "in": ">", "next": "Mike's Song", "nb": 1},
   {"date": "2026-07-18", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 7, "set": "2", "prev": "Boogie On Reggae Woman", "in": ">", "xnext": "Monsters", "nb": 1},
   {"date": "2026-07-27", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 5, "set": "2", "prev": "Johnny B. Goode", "xnext": "Strange Design", "nb": 1},
-  {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 1, "set": "1", "nb": 1, "prev": "Back on the Train", "next": "Kill Devil Falls"}
+  {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 1, "set": "1", "prev": "Back on the Train", "next": "Kill Devil Falls", "nb": 1},
+  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "1", "prev": "Back on the Train"}
  ]
 }
