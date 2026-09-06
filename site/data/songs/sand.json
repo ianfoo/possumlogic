@@ -197,6 +197,6 @@
   {"date": "2026-07-14", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 4, "set": "2", "out": "->", "prev": "Split Open and Melt", "in": ">", "next": "It's Ice", "nb": 1},
   {"date": "2026-07-21", "venue": "Empower Federal Credit Union Amphitheater at Lakeview", "city": "Syracuse", "state": "NY", "gap": 4, "set": "2", "out": ">", "next": "Everything's Right", "xprev": "Ghost", "nb": 1},
   {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 6, "set": "1", "prev": "Tweezer", "in": ">", "xnext": "Mike's Song", "nb": 1},
-  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1, "set": "1", "prev": "Possum"}
+  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1, "set": "1", "prev": "Possum", "next": "Sigma Oasis"}
  ]
 }

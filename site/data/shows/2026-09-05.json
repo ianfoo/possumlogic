@@ -46,9 +46,28 @@
       "gap_high": 7.08105515848859,
       "gap_away": null,
       "verdict": "premature"
+    },
+    {
+      "set": "SET 1",
+      "song": "Sigma Oasis",
+      "slug": "sigma-oasis",
+      "gap": 1,
+      "jamchart": false,
+      "prev_date": "2026-08-01",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 52,
+      "recent_plays": 50,
+      "gap_median": 5.0,
+      "gap_mean": 5.1,
+      "gap_low": 2.7144411850112395,
+      "gap_high": 7.62925364696302,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
-  "count_since": "2026-09-06T02:13:25+00:00",
+  "count_since": "2026-09-06T02:34:01+00:00",
   "encored": false,
   "provisional": true
 }
