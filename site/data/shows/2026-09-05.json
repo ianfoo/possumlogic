@@ -197,9 +197,28 @@
       "gap_high": null,
       "gap_away": null,
       "verdict": null
+    },
+    {
+      "set": "SET 2",
+      "song": "Chalk Dust Torture",
+      "slug": "chalk-dust-torture",
+      "gap": 1,
+      "jamchart": false,
+      "prev_date": "2026-08-01",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 529,
+      "recent_plays": 81,
+      "gap_median": 4,
+      "gap_mean": 4.62962962962963,
+      "gap_low": 2.836885670961174,
+      "gap_high": 6.457898102224861,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
-  "count_since": "2026-09-06T04:42:57+00:00",
+  "count_since": "2026-09-06T05:08:41+00:00",
   "encored": false,
   "provisional": true
 }

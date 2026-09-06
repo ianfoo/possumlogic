@@ -306,7 +306,7 @@
   {"date": "1997-07-30", "venue": "Ventura County Fairgrounds", "city": "Ventura", "state": "CA", "gap": 3, "set": "1", "jamchart": true, "jam": "Brother to versions from 6/20/95, 7/30/03 and 7/16/13. Incredible improvisation packed into this 10 minute version.", "prev": "Wolfman's Brother", "in": ">", "next": "Water in the Sky", "nb": 1},
   {"date": "1997-08-08", "venue": "New World Music Theatre", "city": "Tinley Park", "state": "IL", "gap": 5, "set": "2", "jamchart": true, "jam": "Raging version that keeps rising from one peak to the next.", "prev": "Prince Caspian", "in": ">", "xnext": "Hoochie Coochie Man", "nb": 1},
   {"date": "1997-08-14", "venue": "Darien Lake Performing Arts Center", "city": "Darien Center", "state": "NY", "gap": 5, "set": "2", "next": "Love Me", "xprev": "Run Like an Antelope", "nb": 1},
-  {"date": "1997-08-16", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": 1, "set": "1", "jamchart": true, "jam": "Great example of why '97 is such a pivotal year in Phistory. Here they stretch and expand the music everywhere possible without ever really getting beyond \"CDT\" proper.", "prev": "Harpua", "in": ">", "next": "Theme from the Bottom", "nb": 1},
+  {"date": "1997-08-16", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": 0, "set": "1", "jamchart": true, "jam": "Great example of why '97 is such a pivotal year in Phistory. Here they stretch and expand the music everywhere possible without ever really getting beyond \"CDT\" proper.", "prev": "Harpua", "in": ">", "next": "Theme from the Bottom", "nb": 1},
   {"date": "1997-11-13", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 2, "set": "1", "next": "Black-Eyed Katy", "first": 1, "nb": 1},
   {"date": "1997-11-21", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 5, "set": "1", "prev": "Lawn Boy", "in": ">", "next": "Prince Caspian", "nb": 1},
   {"date": "1997-12-02", "venue": "CoreStates Spectrum", "city": "Philadelphia", "state": "PA", "gap": 7, "set": "1", "prev": "Makisupa Policeman", "next": "Ghost", "nb": 1},
@@ -560,6 +560,7 @@
   {"date": "2026-04-25", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 8, "set": "2", "jamchart": true, "jam": "A dark, spooky, and contemplative affair that maintains forward momentum thanks to Fish\u2019s pushing before shifting efficiently to an upbeat melodic climb with familiar motifs and a crushing climax that decays into an ambient sample laden froth.", "note": "Unfinished.", "prev": "Blaze On", "next": "Mercury", "nb": 1},
   {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 3, "set": "1", "note": "Unfinished.", "out": ">", "next": "Ghost", "first": 1, "nb": 1},
   {"date": "2026-07-24", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 11, "set": "2", "out": ">", "prev": "Also Sprach Zarathustra", "in": ">", "next": "Sparks", "nb": 1},
-  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 4, "set": "1", "nb": 1, "prev": "Tweezer", "in": ">", "next": "Stash"}
+  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 4, "set": "1", "note": "Unfinished.", "out": ">", "prev": "Tweezer", "in": ">", "next": "Stash", "nb": 1},
+  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1, "set": "2", "prev": "Tweezer", "in": ">"}
  ]
 }
