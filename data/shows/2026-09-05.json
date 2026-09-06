@@ -179,9 +179,27 @@
       "gap_high": 8.226273763085578,
       "gap_away": null,
       "verdict": "premature"
+    },
+    {
+      "set": "SET 2",
+      "song": "Tweezer",
+      "slug": "tweezer",
+      "gap": 1,
+      "jamchart": false,
+      "prev_date": "2026-08-01",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "plays": null,
+      "recent_plays": 0,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": null
     }
   ],
-  "count_since": "2026-09-06T04:27:27+00:00",
+  "count_since": "2026-09-06T04:42:57+00:00",
   "encored": false,
   "provisional": true
 }
