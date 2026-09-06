@@ -65,9 +65,28 @@
       "gap_high": 7.62925364696302,
       "gap_away": null,
       "verdict": "premature"
+    },
+    {
+      "set": "SET 1",
+      "song": "The Moma Dance",
+      "slug": "the-moma-dance",
+      "gap": 9,
+      "jamchart": false,
+      "prev_date": "2026-07-19",
+      "prev_venue": "Merriweather Post Pavilion",
+      "prev_place": "Columbia, MD",
+      "out": "",
+      "plays": 216,
+      "recent_plays": 72,
+      "gap_median": 5.0,
+      "gap_mean": 5.111111111111111,
+      "gap_low": 2.6984198824901107,
+      "gap_high": 7.659020047882429,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-09-06T02:34:01+00:00",
+  "count_since": "2026-09-06T02:54:40+00:00",
   "encored": false,
   "provisional": true
 }
