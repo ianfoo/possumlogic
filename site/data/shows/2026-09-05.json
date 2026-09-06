@@ -27,9 +27,28 @@
       "gap_high": 7.295319614975972,
       "gap_away": null,
       "verdict": "premature"
+    },
+    {
+      "set": "SET 1",
+      "song": "Sand",
+      "slug": "sand",
+      "gap": 1,
+      "jamchart": false,
+      "prev_date": "2026-08-01",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 167,
+      "recent_plays": 82,
+      "gap_median": 4.0,
+      "gap_mean": 4.585365853658536,
+      "gap_low": 2.1946549209378117,
+      "gap_high": 7.08105515848859,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
-  "count_since": "2026-09-06T02:03:04+00:00",
+  "count_since": "2026-09-06T02:13:25+00:00",
   "encored": false,
   "provisional": true
 }
