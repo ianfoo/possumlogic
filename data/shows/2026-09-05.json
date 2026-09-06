@@ -141,9 +141,28 @@
       "gap_high": 23.714310748246845,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "What's Going Through Your Mind",
+      "slug": "whats-going-through-your-mind",
+      "gap": 2,
+      "jamchart": false,
+      "prev_date": "2026-07-31",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 21,
+      "recent_plays": 19,
+      "gap_median": 5,
+      "gap_mean": 4.842105263157895,
+      "gap_low": 2.7834346771879312,
+      "gap_high": 7.074057242120219,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
-  "count_since": "2026-09-06T03:25:40+00:00",
+  "count_since": "2026-09-06T04:01:41+00:00",
   "encored": false,
   "provisional": true
 }
