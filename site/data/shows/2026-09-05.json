@@ -160,9 +160,28 @@
       "gap_high": 7.074057242120219,
       "gap_away": null,
       "verdict": "premature"
+    },
+    {
+      "set": "SET 2",
+      "song": "A Wave of Hope",
+      "slug": "a-wave-of-hope",
+      "gap": 2,
+      "jamchart": false,
+      "prev_date": "2026-07-31",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 44,
+      "recent_plays": 42,
+      "gap_median": 5.0,
+      "gap_mean": 5.642857142857143,
+      "gap_low": 3.0268320750898114,
+      "gap_high": 8.226273763085578,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
-  "count_since": "2026-09-06T04:01:41+00:00",
+  "count_since": "2026-09-06T04:27:27+00:00",
   "encored": false,
   "provisional": true
 }
