@@ -129,6 +129,6 @@
   {"date": "2026-04-25", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 6, "set": "2", "prev": "Halley's Comet", "in": ">", "next": "Chalk Dust Torture", "nb": 1},
   {"date": "2026-07-10", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 5, "set": "1", "times": 2, "out": "->", "next": "Plasma", "first": 1, "nb": 1},
   {"date": "2026-07-21", "venue": "Empower Federal Credit Union Amphitheater at Lakeview", "city": "Syracuse", "state": "NY", "gap": 7, "set": "2", "out": ">", "prev": "Also Sprach Zarathustra", "in": ">", "next": "Prince Caspian", "nb": 1},
-  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 9, "set": "1", "prev": "Roggae"}
+  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 9, "set": "1", "prev": "Roggae", "next": "Backwards Down the Number Line"}
  ]
 }

@@ -84,9 +84,28 @@
       "gap_high": 5.676777434799432,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 1",
+      "song": "Backwards Down the Number Line",
+      "slug": "backwards-down-the-number-line",
+      "gap": 4,
+      "jamchart": false,
+      "prev_date": "2026-07-29",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 152,
+      "recent_plays": 53,
+      "gap_median": 6,
+      "gap_mean": 6.188679245283019,
+      "gap_low": 2.8908592567085876,
+      "gap_high": 9.675048096874205,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-09-07T03:02:14+00:00",
+  "count_since": "2026-09-07T03:17:35+00:00",
   "encored": false,
   "provisional": true
 }
