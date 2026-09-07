@@ -11,6 +11,6 @@
   {"date": "1987-02-13", "venue": "Johnson State College", "city": "Johnson", "state": "VT", "gap": 11, "set": "2", "out": "->"},
   {"date": "1987-04-29", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": 7, "set": "2", "out": "->"},
   {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 2051, "set": "2", "note": "Trey on mini drum kit.", "prev": "Fuego", "in": ">", "next": "A Wave of Hope", "nb": 1},
-  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 3, "set": "2", "prev": "Fuego", "in": ">"}
+  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 3, "set": "2", "prev": "Fuego", "in": ">", "next": "Light"}
  ]
 }
