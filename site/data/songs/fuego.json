@@ -132,6 +132,7 @@
   {"date": "2026-04-23", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 7, "set": "2", "times": 2, "jamchart": true, "jam": "Opening with snarling leads from Trey, this shifts at 9:40 into a more open terrain before Fishman takes command of the jam's direction. Wall of sound Mike and Page moves into a late-nite ambient space highlighted by Trey and Page trading delicate riffs around 13min. Moving deeper into the ether, the jam fades into sirens before a fake song interrupts a stunning Fuego.", "out": "->", "prev": "The Curtain With", "next": "Dark Puddle", "nb": 1},
   {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 5, "set": "2", "out": ">", "prev": "Run Like an Antelope", "next": "Life Saving Gun", "nb": 1},
   {"date": "2026-07-17", "venue": "Coastal Credit Union Music Park at Walnut Creek", "city": "Raleigh", "state": "NC", "gap": 6, "set": "2", "note": "Lyrics changed to \"inside Oswego.\"", "out": ">", "prev": "Harry Hood", "next": "The Lizards", "nb": 1},
-  {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 8, "set": "2", "nb": 1, "prev": "What's Going Through Your Mind", "in": ">", "next": "Melt the Guns"}
+  {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 8, "set": "2", "out": ">", "prev": "What's Going Through Your Mind", "in": ">", "next": "Melt the Guns", "nb": 1},
+  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 3, "set": "2", "prev": "My Friend, My Friend", "in": ">"}
  ]
 }

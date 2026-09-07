@@ -177,9 +177,28 @@
       "gap_high": 11.988549918020183,
       "gap_away": null,
       "verdict": "premature"
+    },
+    {
+      "set": "SET 2",
+      "song": "Fuego",
+      "slug": "fuego",
+      "gap": 3,
+      "jamchart": false,
+      "prev_date": "2026-07-31",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 103,
+      "recent_plays": 63,
+      "gap_median": 6,
+      "gap_mean": 5.968253968253968,
+      "gap_low": 2.9062726975764317,
+      "gap_high": 9.128900456181016,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-09-07T04:18:59+00:00",
+  "count_since": "2026-09-07T04:29:14+00:00",
   "encored": false,
   "provisional": true
 }
