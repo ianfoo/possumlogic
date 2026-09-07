@@ -46,9 +46,28 @@
       "gap_high": 12.241537153085682,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "Roggae",
+      "slug": "roggae",
+      "gap": 17,
+      "jamchart": false,
+      "prev_date": "2026-07-10",
+      "prev_venue": "Ruoff Music Center",
+      "prev_place": "Noblesville, IN",
+      "out": "",
+      "plays": 119,
+      "recent_plays": 39,
+      "gap_median": 8,
+      "gap_mean": 8.564102564102564,
+      "gap_low": 2.8946600907166595,
+      "gap_high": 14.809443883754845,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-09-07T02:31:30+00:00",
+  "count_since": "2026-09-07T02:46:52+00:00",
   "encored": false,
   "provisional": true
 }

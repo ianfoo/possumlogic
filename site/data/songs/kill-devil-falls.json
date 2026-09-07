@@ -157,6 +157,6 @@
   {"date": "2026-05-02", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 12, "set": "2", "jamchart": true, "jam": "Thematic jamming that bounces along at an even pace with little deviation and only slight modulation but stays focused without wasting time searching and delivers a steady stream of memorable moments that accumulate rather than peak.", "prev": "Frankenstein", "next": "Ruby Waves", "nb": 1},
   {"date": "2026-07-08", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 1, "set": "2", "next": "Prince Caspian", "xprev": "Cavern", "nb": 1},
   {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 14, "set": "1", "prev": "Free", "next": "Harry Hood", "nb": 1},
-  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 3, "set": "1", "prev": "Ghost"}
+  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 3, "set": "1", "prev": "Ghost", "next": "Roggae"}
  ]
 }
