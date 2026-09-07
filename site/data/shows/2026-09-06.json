@@ -253,9 +253,28 @@
       "gap_high": 6.019295480948826,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "ENCORE",
+      "song": "Waste",
+      "slug": "waste",
+      "gap": 4,
+      "jamchart": false,
+      "prev_date": "2026-07-29",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 112,
+      "recent_plays": 35,
+      "gap_median": 7,
+      "gap_mean": 10.114285714285714,
+      "gap_low": 2.917651385198355,
+      "gap_high": 17.334716160724668,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-09-07T05:15:18+00:00",
-  "encored": false,
+  "count_since": "2026-09-07T05:25:33+00:00",
+  "encored": true,
   "provisional": true
 }
