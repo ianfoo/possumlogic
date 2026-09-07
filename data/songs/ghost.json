@@ -268,6 +268,6 @@
   {"date": "2026-07-15", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 5, "set": "2", "prev": "Scents and Subtle Sounds", "in": ">", "xnext": "Rock and Roll", "nb": 1},
   {"date": "2026-07-21", "venue": "Empower Federal Credit Union Amphitheater at Lakeview", "city": "Syracuse", "state": "NY", "gap": 3, "set": "1", "prev": "Sigma Oasis", "in": "->", "xnext": "Sand", "nb": 1},
   {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 6, "set": "2", "out": ">", "prev": "Weekapaug Groove", "next": "Possum", "nb": 1},
-  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "1", "first": 1}
+  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "1", "first": 1, "next": "Kill Devil Falls"}
  ]
 }
