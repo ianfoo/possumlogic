@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-06",
+  "venue": "Dick's Sporting Goods Park, Commerce City, CO",
+  "venue_name": "Dick's Sporting Goods Park",
+  "city": "Commerce City",
+  "state": "CO",
+  "artist": "Phish",
+  "tour": "2026 Summer Tour",
+  "notes": "<p>During the soundcheck, Mike teased Bird Song in My Soul and quoted Horn in the My Soul Jam.</p>",
+  "permalink": "https://phish.net/setlists/phish-september-06-2026-dicks-sporting-goods-park-commerce-city-co-usa.html",
+  "songs": [
+    {
+      "set": "SET 1",
+      "song": "Ghost",
+      "slug": "ghost",
+      "gap": 2,
+      "jamchart": false,
+      "prev_date": "2026-08-01",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 237,
+      "recent_plays": 86,
+      "gap_median": 4.0,
+      "gap_mean": 4.372093023255814,
+      "gap_low": 2.4723346294040685,
+      "gap_high": 6.343244265152115,
+      "gap_away": null,
+      "verdict": "premature"
+    }
+  ],
+  "count_since": "2026-09-07T02:11:02+00:00",
+  "encored": false,
+  "provisional": true
+}
