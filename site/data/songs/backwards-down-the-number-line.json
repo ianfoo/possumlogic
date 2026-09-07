@@ -181,6 +181,6 @@
   {"date": "2026-07-10", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 7, "set": "2", "out": ">", "prev": "You Enjoy Myself", "in": ">", "next": "Loving Cup", "nb": 1},
   {"date": "2026-07-19", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 6, "set": "2", "prev": "Ruby Waves", "in": ">", "xnext": "I Am the Walrus", "nb": 1},
   {"date": "2026-07-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 5, "set": "e", "prev": "A Day in the Life", "last": 1, "nb": 1},
-  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 4, "set": "1", "prev": "Blaze On", "in": ">"}
+  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 4, "set": "1", "prev": "Blaze On", "in": ">", "next": "Axilla (Part II)"}
  ]
 }
