@@ -356,6 +356,7 @@
   {"date": "2026-04-18", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 6, "set": "e", "prev": "I Am the Walrus", "last": 1, "nb": 1},
   {"date": "2026-07-11", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 9, "set": "e", "prev": "A Life Beyond The Dream", "last": 1, "nb": 1},
   {"date": "2026-07-25", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 9, "set": "e", "prev": "Purple Rain", "last": 1, "nb": 1},
-  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 3, "set": "e", "nb": 1, "prev": "Character Zero", "in": ">", "last": 1}
+  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 3, "set": "e", "prev": "Character Zero", "in": ">", "last": 1, "nb": 1},
+  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "e", "prev": "First Tube", "in": ">"}
  ]
 }

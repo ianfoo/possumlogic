@@ -291,9 +291,28 @@
       "gap_high": 8.256828491434531,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "ENCORE",
+      "song": "Tweezer Reprise",
+      "slug": "tweezer-reprise",
+      "gap": 2,
+      "jamchart": false,
+      "prev_date": "2026-08-01",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 333,
+      "recent_plays": 67,
+      "gap_median": 4,
+      "gap_mean": 4.686567164179104,
+      "gap_low": 1.9844748451787124,
+      "gap_high": 7.60910902813486,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-09-07T05:30:43+00:00",
+  "count_since": "2026-09-07T05:40:59+00:00",
   "encored": true,
   "provisional": true
 }

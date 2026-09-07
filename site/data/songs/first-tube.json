@@ -177,6 +177,6 @@
   {"date": "2026-04-25", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 6, "set": "e", "prev": "Bug", "in": ">", "last": 1, "nb": 1},
   {"date": "2026-07-08", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 4, "set": "e", "prev": "Waste", "last": 1, "nb": 1},
   {"date": "2026-07-19", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 7, "set": "e", "prev": "I Am the Walrus", "in": ">", "last": 1, "nb": 1},
-  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 10, "set": "e", "prev": "Waste"}
+  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 10, "set": "e", "prev": "Waste", "next": "Tweezer Reprise"}
  ]
 }
