@@ -95,6 +95,7 @@
   {"date": "2025-12-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 6, "set": "1", "out": ">", "prev": "Back on the Train", "next": "Divided Sky", "nb": 1},
   {"date": "2026-04-25", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 10, "set": "1", "jamchart": true, "jam": "After warning some hot dogs to get out of his face, Trey is primed and ready to take Axilla deep again. The band is comfortable hanging in the murk of the song and doesn\u2019t rush towards any of their \u201ccomfort jamming zones.\u201d The jam feels gooey as it oozes along. Those who don\u2019t need their jams to peak should seek this out. > into \u201cCities\u201d.", "note": "Alternate lyrics referencing Sphere visuals during the song.", "out": ">", "prev": "The Final Hurrah", "next": "Cities", "nb": 1},
   {"date": "2026-07-18", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 11, "set": "1", "out": "->", "prev": "You Enjoy Myself", "in": ">", "next": "McGrupp and the Watchful Hosemasters", "nb": 1},
-  {"date": "2026-07-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 6, "set": "1", "note": "Lyrics restarted.", "out": ">", "prev": "McGrupp and the Watchful Hosemasters", "in": ">", "next": "Esther", "nb": 1}
+  {"date": "2026-07-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 6, "set": "1", "note": "Lyrics restarted.", "out": ">", "prev": "McGrupp and the Watchful Hosemasters", "in": ">", "next": "Esther", "nb": 1},
+  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 4, "set": "1", "out": ">", "prev": "Backwards Down the Number Line", "in": ">", "next": "Taste", "nb": 1}
  ]
 }
