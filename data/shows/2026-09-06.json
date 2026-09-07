@@ -65,9 +65,28 @@
       "gap_high": 14.809443883754845,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 1",
+      "song": "Blaze On",
+      "slug": "blaze-on",
+      "gap": 9,
+      "jamchart": false,
+      "prev_date": "2026-07-21",
+      "prev_venue": "Empower Federal Credit Union Amphitheater at Lakeview",
+      "prev_place": "Syracuse, NY",
+      "out": "",
+      "plays": 100,
+      "recent_plays": 81,
+      "gap_median": 4,
+      "gap_mean": 3.6049382716049383,
+      "gap_low": 1.650386021853524,
+      "gap_high": 5.676777434799432,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-09-07T02:46:52+00:00",
+  "count_since": "2026-09-07T03:02:14+00:00",
   "encored": false,
   "provisional": true
 }

@@ -150,6 +150,6 @@
   {"date": "2026-01-28", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 3, "set": "1", "prev": "Back on the Train", "next": "Sand", "nb": 1},
   {"date": "2026-04-24", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 7, "set": "1", "prev": "Set Your Soul Free", "next": "Ya Mar", "nb": 1},
   {"date": "2026-07-10", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 6, "set": "1", "prev": "Blaze On", "next": "Tube", "nb": 1},
-  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 17, "set": "1", "prev": "Kill Devil Falls"}
+  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 17, "set": "1", "prev": "Kill Devil Falls", "next": "Blaze On"}
  ]
 }
