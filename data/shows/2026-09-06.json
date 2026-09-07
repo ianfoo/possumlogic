@@ -196,9 +196,28 @@
       "gap_high": 9.128900456181016,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Melt the Guns",
+      "slug": "melt-the-guns",
+      "gap": 3,
+      "jamchart": false,
+      "prev_date": "2026-07-31",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 6,
+      "recent_plays": 1,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": null
     }
   ],
-  "count_since": "2026-09-07T04:29:14+00:00",
+  "count_since": "2026-09-07T04:49:42+00:00",
   "encored": false,
   "provisional": true
 }
