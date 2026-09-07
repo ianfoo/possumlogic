@@ -272,9 +272,28 @@
       "gap_high": 17.334716160724668,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "ENCORE",
+      "song": "First Tube",
+      "slug": "first-tube",
+      "gap": 10,
+      "jamchart": false,
+      "prev_date": "2026-07-19",
+      "prev_venue": "Merriweather Post Pavilion",
+      "prev_place": "Columbia, MD",
+      "out": "",
+      "plays": 148,
+      "recent_plays": 61,
+      "gap_median": 4,
+      "gap_mean": 5.081967213114754,
+      "gap_low": 2.0590533334643806,
+      "gap_high": 8.256828491434531,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-09-07T05:25:33+00:00",
+  "count_since": "2026-09-07T05:30:43+00:00",
   "encored": true,
   "provisional": true
 }
