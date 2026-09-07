@@ -105,6 +105,7 @@
   {"date": "2026-04-16", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 1, "set": "2", "next": "Down with Disease", "xprev": "Split Open and Melt", "nb": 1},
   {"date": "2026-07-11", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 11, "set": "2", "out": "->", "next": "Tweezer", "xprev": "Most Events Aren't Planned", "nb": 1},
   {"date": "2026-07-21", "venue": "Empower Federal Credit Union Amphitheater at Lakeview", "city": "Syracuse", "state": "NY", "gap": 6, "set": "2", "out": ">", "prev": "Sand", "in": ">", "next": "What's the Use?", "nb": 1},
-  {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 5, "set": "1", "nb": 1, "prev": "Carini", "next": "Back on the Train"}
+  {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 5, "set": "1", "out": "->", "prev": "Carini", "next": "Back on the Train", "nb": 1},
+  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 3, "set": "2", "prev": "Light", "in": ">"}
  ]
 }

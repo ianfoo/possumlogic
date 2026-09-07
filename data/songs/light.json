@@ -168,6 +168,6 @@
   {"date": "2026-07-12", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 11, "set": "2", "out": ">", "prev": "Pillow Jets", "in": ">", "next": "Cream", "nb": 1},
   {"date": "2026-07-21", "venue": "Empower Federal Credit Union Amphitheater at Lakeview", "city": "Syracuse", "state": "NY", "gap": 5, "set": "2", "out": ">", "prev": "What's the Use?", "in": ">", "next": "Also Sprach Zarathustra", "nb": 1},
   {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 6, "set": "2", "out": ">", "prev": "No Men In No Man's Land", "in": ">", "next": "Weekapaug Groove", "nb": 1},
-  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "2", "prev": "Melt the Guns"}
+  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "2", "prev": "Melt the Guns", "next": "Everything's Right"}
  ]
 }
