@@ -139,9 +139,28 @@
       "gap_high": null,
       "gap_away": null,
       "verdict": null
+    },
+    {
+      "set": "SET 1",
+      "song": "Split Open and Melt",
+      "slug": "split-open-and-melt",
+      "gap": 8,
+      "jamchart": false,
+      "prev_date": "2026-07-22",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 356,
+      "recent_plays": 45,
+      "gap_median": 8,
+      "gap_mean": 8.244444444444444,
+      "gap_low": 4.278095573051385,
+      "gap_high": 12.491505549620621,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-09-07T03:27:54+00:00",
+  "count_since": "2026-09-07T03:38:10+00:00",
   "encored": false,
   "provisional": true
 }
