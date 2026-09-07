@@ -158,9 +158,28 @@
       "gap_high": 12.491505549620621,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "My Friend, My Friend",
+      "slug": "my-friend-my-friend",
+      "gap": 2,
+      "jamchart": false,
+      "prev_date": "2026-08-01",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 189,
+      "recent_plays": 46,
+      "gap_median": 7.0,
+      "gap_mean": 7.5,
+      "gap_low": 3.1702484089491128,
+      "gap_high": 11.988549918020183,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
-  "count_since": "2026-09-07T03:38:10+00:00",
+  "count_since": "2026-09-07T04:18:59+00:00",
   "encored": false,
   "provisional": true
 }

@@ -385,6 +385,6 @@
   {"date": "2026-04-16", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 6, "set": "1", "prev": "Steam", "xnext": "Everything's Right", "nb": 1},
   {"date": "2026-07-14", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 13, "set": "2", "note": "Unfinished.", "out": ">", "next": "Sand", "xprev": "Horn", "nb": 1},
   {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 5, "set": "2", "prev": "My Friend, My Friend", "in": "->", "next": "The Lizards", "nb": 1},
-  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 8, "set": "1", "prev": "Taste"}
+  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 8, "set": "1", "prev": "Taste", "xnext": "My Friend, My Friend"}
  ]
 }
