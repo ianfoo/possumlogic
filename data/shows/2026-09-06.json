@@ -103,9 +103,27 @@
       "gap_high": 9.675048096874205,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "Axilla (Part II)",
+      "slug": "axilla-part-ii",
+      "gap": 4,
+      "jamchart": false,
+      "prev_date": "2026-07-29",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "plays": null,
+      "recent_plays": 0,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": null
     }
   ],
-  "count_since": "2026-09-07T03:17:35+00:00",
+  "count_since": "2026-09-07T03:22:45+00:00",
   "encored": false,
   "provisional": true
 }
