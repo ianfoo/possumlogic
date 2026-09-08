@@ -113,7 +113,7 @@
       "prev_date": "2026-07-29",
       "prev_venue": "Madison Square Garden",
       "prev_place": "New York, NY",
-      "out": "",
+      "out": ">",
       "plays": 67,
       "recent_plays": 28,
       "gap_median": 7.0,
@@ -314,6 +314,7 @@
       "verdict": "expected"
     }
   ],
+  "foul_score": 64,
   "count_since": "2026-09-07T05:40:59+00:00",
   "encored": true,
   "provisional": false
