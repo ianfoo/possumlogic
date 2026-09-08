@@ -186,6 +186,6 @@
   {"date": "2026-05-02", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 15, "set": "1", "prev": "Silent in the Morning", "next": "Julius", "nb": 1},
   {"date": "2026-07-15", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 6, "set": "1", "prev": "Vultures", "next": "The Wedge", "nb": 1},
   {"date": "2026-07-27", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "1", "prev": "Funky Bitch", "xnext": "The Curtain With", "nb": 1},
-  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 5, "set": "1", "prev": "Axilla (Part II)", "in": ">", "next": "Split Open and Melt", "nb": 1}
+  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 5, "set": "1", "nb": 1, "prev": "Axilla (Part II)", "in": ">", "next": "Split Open and Melt"}
  ]
 }
