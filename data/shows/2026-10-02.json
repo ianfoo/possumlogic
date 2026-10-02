@@ -20,9 +20,21 @@
       "prev_place": "Commerce City, CO",
       "out": "",
       "verdict": null
+    },
+    {
+      "set": "SET 1",
+      "song": "A Wave of Hope",
+      "slug": "a-wave-of-hope",
+      "gap": 2,
+      "jamchart": false,
+      "prev_date": "2026-09-05",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "verdict": null
     }
   ],
-  "count_since": "2026-10-02T23:49:02+00:00",
+  "count_since": "2026-10-02T23:59:19+00:00",
   "encored": false,
   "provisional": true
 }
