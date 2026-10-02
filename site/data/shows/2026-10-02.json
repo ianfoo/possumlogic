@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-02",
+  "venue": "Jim Whelan Boardwalk Hall, Atlantic City, NJ",
+  "venue_name": "Jim Whelan Boardwalk Hall",
+  "city": "Atlantic City",
+  "state": "NJ",
+  "artist": "Phish",
+  "tour": "2026 Fall Tour",
+  "notes": "",
+  "permalink": "https://phish.net/setlists/phish-october-02-2026-jim-whelan-boardwalk-hall-atlantic-city-nj-usa.html",
+  "songs": [
+    {
+      "set": "SET 1",
+      "song": "Fuego",
+      "slug": "fuego",
+      "gap": 1,
+      "jamchart": false,
+      "prev_date": "2026-09-06",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "verdict": null
+    }
+  ],
+  "count_since": "2026-10-02T23:49:02+00:00",
+  "encored": false,
+  "provisional": true
+}
