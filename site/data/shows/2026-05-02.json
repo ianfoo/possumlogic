@@ -356,7 +356,7 @@
       "song": "Fluffhead",
       "slug": "fluffhead",
       "jamchart": false,
-      "gap": 14,
+      "gap": 15,
       "out": "",
       "plays": 291,
       "recent_plays": 43,
@@ -365,7 +365,7 @@
       "gap_low": 4.363938386550136,
       "gap_high": 14.723699180118084,
       "gap_away": null,
-      "verdict": "expected",
+      "verdict": "overdue",
       "prev_date": "2025-12-29",
       "prev_venue": "Madison Square Garden",
       "prev_place": "New York, NY"

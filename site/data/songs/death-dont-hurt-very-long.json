@@ -19,6 +19,6 @@
   {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 25, "set": "3", "out": ">", "prev": "Soul Planet", "in": "->", "next": "Twist", "nb": 1},
   {"date": "2022-08-10", "venue": "Budweiser Stage", "city": "Toronto", "state": "Ontario", "gap": 36, "set": "2", "out": ">", "prev": "Down with Disease", "in": "->", "next": "Twenty Years Later", "nb": 1},
   {"date": "2024-08-07", "venue": "Van Andel Arena", "city": "Grand Rapids", "state": "MI", "gap": 83, "set": "2", "jamchart": true, "jam": "> \"Wolfman's Brother,\" and played quite slowly atop a \"Mound\"-like beat, the space affords Trey and guest Billy Strings plenty of room to shred.", "note": "Billy Strings on guitar. Performed in a slow, bluesy style.", "prev": "Wolfman's Brother", "in": ">", "next": "Evolve", "nb": 1},
-  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 100, "set": "2", "prev": "Mercury", "in": ">"}
+  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 100, "set": "2", "prev": "Mercury", "in": ">", "next": "Fluffhead"}
  ]
 }
