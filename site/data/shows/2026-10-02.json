@@ -179,9 +179,28 @@
       "gap_high": 8.190027699941924,
       "gap_away": null,
       "verdict": "premature"
+    },
+    {
+      "set": "SET 2",
+      "song": "Mercury",
+      "slug": "mercury",
+      "gap": 0,
+      "jamchart": false,
+      "prev_date": "2026-07-17",
+      "prev_venue": "Coastal Credit Union Music Park at Walnut Creek",
+      "prev_place": "Raleigh, NC",
+      "out": "",
+      "plays": 48,
+      "recent_plays": 43,
+      "gap_median": 6,
+      "gap_mean": 8.627906976744185,
+      "gap_low": 3.478019565631226,
+      "gap_high": 14.074650327211476,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
-  "count_since": "2026-10-03T02:12:34+00:00",
+  "count_since": "2026-10-03T02:33:04+00:00",
   "encored": false,
   "provisional": true
 }
