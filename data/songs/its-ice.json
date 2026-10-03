@@ -285,6 +285,6 @@
   {"date": "2026-04-24", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 9, "set": "1", "prev": "Billy Breathes", "next": "Walls of the Cave", "nb": 1},
   {"date": "2026-07-14", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 10, "set": "2", "prev": "Sand", "in": "->", "next": "About to Run", "nb": 1},
   {"date": "2026-07-27", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 9, "set": "2", "note": "Trey on mini drum kit.", "prev": "Billy Breathes", "in": ">", "next": "Johnny B. Goode", "nb": 1},
-  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 7, "set": "1", "prev": "Pillow Jets", "in": "->"}
+  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 7, "set": "1", "prev": "Pillow Jets", "in": "->", "next": "Ghost"}
  ]
 }
