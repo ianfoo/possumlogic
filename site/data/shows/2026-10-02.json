@@ -103,9 +103,28 @@
       "gap_high": 27.998949594060964,
       "gap_away": null,
       "verdict": "premature"
+    },
+    {
+      "set": "SET 1",
+      "song": "Ghost",
+      "slug": "ghost",
+      "gap": 1,
+      "jamchart": false,
+      "prev_date": "2026-09-06",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 238,
+      "recent_plays": 87,
+      "gap_median": 4,
+      "gap_mean": 4.413793103448276,
+      "gap_low": 2.489299338584158,
+      "gap_high": 6.410110519027579,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
-  "count_since": "2026-10-03T00:40:24+00:00",
+  "count_since": "2026-10-03T00:50:41+00:00",
   "encored": false,
   "provisional": true
 }
