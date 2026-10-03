@@ -299,7 +299,7 @@
       "song": "Harry Hood",
       "slug": "harry-hood",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 435,
       "recent_plays": 82,
@@ -308,7 +308,7 @@
       "gap_low": 1.8006586227161416,
       "gap_high": 5.635072206309735,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2025-07-27",
       "prev_venue": "Broadview Stage at SPAC",
       "prev_place": "Saratoga Springs, NY"

@@ -318,7 +318,7 @@
       "song": "Harry Hood",
       "slug": "harry-hood",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 439,
       "recent_plays": 84,
@@ -327,7 +327,7 @@
       "gap_low": 1.8599880408388367,
       "gap_high": 5.656400772028531,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2026-01-31",
       "prev_venue": "Moon Palace",
       "prev_place": "Cancun, Quintana Roo"

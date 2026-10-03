@@ -338,7 +338,7 @@
       "song": "Harry Hood",
       "slug": "harry-hood",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "->",
       "plays": 328,
       "recent_plays": 66,
@@ -347,7 +347,7 @@
       "gap_low": 1.2967941320304934,
       "gap_high": 3.912228730360175,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2013-08-05",
       "prev_venue": "Hollywood Bowl",
       "prev_place": "Hollywood, CA"

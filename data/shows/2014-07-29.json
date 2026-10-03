@@ -71,7 +71,7 @@
       "song": "555",
       "slug": "555",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": ">",
       "plays": 12,
       "recent_plays": 11,
@@ -80,7 +80,7 @@
       "gap_low": 0.857528305572796,
       "gap_high": 2.5089601969028767,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "expected",
       "prev_date": "2014-07-27",
       "prev_venue": "Merriweather Post Pavilion",
       "prev_place": "Columbia, MD"

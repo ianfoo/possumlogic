@@ -280,7 +280,7 @@
       "song": "Theme from the Bottom",
       "slug": "theme-from-the-bottom",
       "jamchart": true,
-      "gap": null,
+      "gap": 1,
       "out": "->",
       "plays": 136,
       "recent_plays": 40,
@@ -289,7 +289,7 @@
       "gap_low": 2.058710704233161,
       "gap_high": 8.76832227422369,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2014-11-02",
       "prev_venue": "MGM Grand Garden Arena",
       "prev_place": "Las Vegas, NV"

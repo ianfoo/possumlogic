@@ -166,7 +166,7 @@
       "song": "Cavern",
       "slug": "cavern",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 373,
       "recent_plays": 25,
@@ -175,7 +175,7 @@
       "gap_low": 2.4137613672183154,
       "gap_high": 9.345168747633757,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2009-08-16",
       "prev_venue": "Saratoga Performing Arts Center",
       "prev_place": "Saratoga Springs, NY"

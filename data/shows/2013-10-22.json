@@ -261,7 +261,7 @@
       "song": "Golden Age",
       "slug": "golden-age",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": ">",
       "plays": 26,
       "recent_plays": 25,
@@ -274,7 +274,7 @@
         26,
         24
       ],
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2013-10-20",
       "prev_venue": "Hampton Coliseum",
       "prev_place": "Hampton, VA"

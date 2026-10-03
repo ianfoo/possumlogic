@@ -52,7 +52,7 @@
       "song": "Wolfman's Brother",
       "slug": "wolfmans-brother",
       "jamchart": true,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 232,
       "recent_plays": 77,
@@ -61,7 +61,7 @@
       "gap_low": 1.8258060835761318,
       "gap_high": 6.0909005261420806,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2024-02-24",
       "prev_venue": "Moon Palace",
       "prev_place": "Cancun, Quintana Roo"

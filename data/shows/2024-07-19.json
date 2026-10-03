@@ -52,7 +52,7 @@
       "song": "Hey Stranger",
       "slug": "hey-stranger",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 6,
       "recent_plays": 5,

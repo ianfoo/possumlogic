@@ -165,7 +165,7 @@
       "set": "SET 2",
       "song": "Tweezer",
       "slug": "tweezer",
-      "gap": null,
+      "gap": 2,
       "jamchart": false,
       "prev_date": "2026-09-05",
       "prev_venue": "Dick's Sporting Goods Park",
@@ -178,13 +178,13 @@
       "gap_low": 3.3063139984264955,
       "gap_high": 8.190027699941924,
       "gap_away": null,
-      "verdict": null
+      "verdict": "premature"
     },
     {
       "set": "SET 2",
       "song": "Mercury",
       "slug": "mercury",
-      "gap": null,
+      "gap": 14,
       "jamchart": false,
       "prev_date": "2026-07-17",
       "prev_venue": "Coastal Credit Union Music Park at Walnut Creek",
@@ -197,7 +197,7 @@
       "gap_low": 3.478019565631226,
       "gap_high": 14.074650327211476,
       "gap_away": null,
-      "verdict": null
+      "verdict": "expected"
     },
     {
       "set": "SET 2",
@@ -260,12 +260,12 @@
       "set": "ENCORE",
       "song": "Letter to Jimmy Page",
       "slug": "letter-to-jimmy-page",
-      "gap": null,
+      "gap": 158,
       "jamchart": false,
       "prev_date": "2023-07-12",
       "prev_venue": "Orion Amphitheater",
       "prev_place": "Huntsville, AL",
-      "out": "",
+      "out": ">",
       "plays": 98,
       "recent_plays": 6,
       "gap_median": null,
@@ -273,7 +273,7 @@
       "gap_low": null,
       "gap_high": null,
       "gap_away": null,
-      "verdict": null
+      "verdict": "bustout"
     },
     {
       "set": "ENCORE",

@@ -189,7 +189,7 @@
       "song": "Possum",
       "slug": "possum",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": ">",
       "plays": 549,
       "recent_plays": 74,
@@ -198,7 +198,7 @@
       "gap_low": 1.8106219034562536,
       "gap_high": 6.188839156101227,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2022-08-14",
       "prev_venue": "Alpine Valley Music Theatre",
       "prev_place": "East Troy, WI"

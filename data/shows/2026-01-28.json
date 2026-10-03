@@ -228,7 +228,7 @@
       "song": "No Men In No Man's Land",
       "slug": "no-men-in-no-mans-land",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 86,
       "recent_plays": 75,
@@ -237,7 +237,7 @@
       "gap_low": 1.8206831733133253,
       "gap_high": 6.501736363321399,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2025-12-31",
       "prev_venue": "Madison Square Garden",
       "prev_place": "New York, NY"

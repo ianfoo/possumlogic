@@ -242,7 +242,7 @@
       "song": "Tube",
       "slug": "tube",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": ">",
       "plays": 170,
       "recent_plays": 71,
@@ -251,7 +251,7 @@
       "gap_low": 1.8490213469962309,
       "gap_high": 6.471458504422861,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2021-12-31",
       "prev_venue": "Rock Lititz",
       "prev_place": "Lititz, PA"

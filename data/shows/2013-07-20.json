@@ -14,7 +14,7 @@
       "song": "Prince Caspian",
       "slug": "prince-caspian",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": ">",
       "plays": 125,
       "recent_plays": 35,
@@ -23,7 +23,7 @@
       "gap_low": 2.6150928726400284,
       "gap_high": 8.040504110034346,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2013-07-19",
       "prev_venue": "FirstMerit Bank Pavilion at Northerly Island",
       "prev_place": "Chicago, IL"
