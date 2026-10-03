@@ -6,9 +6,9 @@
 
  ],
  "performances": [
-  {"date": "1999-06-24", "venue": "The Barn", "city": "Outer Burlington", "state": "VT", "gap": 0, "set": "2", "nb": 1, "prev": "Back on the Train", "next": "Dirt"},
-  {"date": "2000-09-08", "venue": "Pepsi Arena", "city": "Albany", "state": "NY", "gap": 0, "set": "2", "note": "Phish debut.", "nb": 1, "prev": "Birds of a Feather", "next": "David Bowie"},
+  {"date": "1999-06-24", "venue": "The Barn", "city": "Outer Burlington", "state": "VT", "gap": null, "set": "2", "nb": 1, "prev": "Back on the Train", "next": "Dirt"},
+  {"date": "2000-09-08", "venue": "Pepsi Arena", "city": "Albany", "state": "NY", "gap": null, "set": "2", "note": "Phish debut.", "nb": 1, "prev": "Birds of a Feather", "next": "David Bowie"},
   {"date": "2000-09-15", "venue": "Hersheypark Stadium", "city": "Hershey", "state": "PA", "gap": 5, "set": "1", "nb": 1, "prev": "Birds of a Feather", "next": "Run Like an Antelope"},
-  {"date": "2020-02-19", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 0, "set": "1", "nb": 1, "prev": "Jam", "last": 1}
+  {"date": "2020-02-19", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": null, "set": "1", "nb": 1, "prev": "Jam", "last": 1}
  ]
 }

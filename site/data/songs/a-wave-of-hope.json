@@ -30,7 +30,7 @@
   {"date": "2024-08-15", "score": 49, "venue": "The Woodlands", "city": "Dover", "state": "DE", "link": "https://fouldomain.com/tracks/38878"}
  ],
  "performances": [
-  {"date": "2021-08-07", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 0, "set": "1", "note": "Phish debut.", "prev": "Roggae", "next": "Stash", "nb": 1},
+  {"date": "2021-08-07", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Roggae", "next": "Stash", "nb": 1},
   {"date": "2021-10-24", "venue": "The Forum", "city": "Inglewood", "state": "CA", "gap": 22, "set": "1", "out": ">", "next": "You Enjoy Myself", "first": 1, "nb": 1},
   {"date": "2022-04-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 13, "set": "3", "prev": "Free", "next": "Waves", "nb": 1},
   {"date": "2022-05-28", "venue": "The Wharf Amphitheater", "city": "Orange Beach", "state": "AL", "gap": 3, "set": "2", "out": ">", "next": "Mr. Completely", "xprev": "Free", "nb": 1},

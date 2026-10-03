@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2016-10-18", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": 0, "set": "2", "jamchart": true, "jam": "The only Phish version of \"Playing in the Band\" marks the peak of Bob Weir's Nashville sit-in. Upbeat and melodic, this jam serves as a nice reprisal of Trey's GD50 work.", "note": "Phish debut; Bob Weir on guitar and vocals.", "nb": 1, "prev": "West L.A. Fadeaway", "in": ">", "xnext": "Quinn the Eskimo (The Mighty Quinn)"}
+  {"date": "2016-10-18", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": null, "set": "2", "jamchart": true, "jam": "The only Phish version of \"Playing in the Band\" marks the peak of Bob Weir's Nashville sit-in. Upbeat and melodic, this jam serves as a nice reprisal of Trey's GD50 work.", "note": "Phish debut; Bob Weir on guitar and vocals.", "nb": 1, "prev": "West L.A. Fadeaway", "in": ">", "xnext": "Quinn the Eskimo (The Mighty Quinn)"}
  ]
 }

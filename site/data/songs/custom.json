@@ -6,14 +6,14 @@
 
  ],
  "performances": [
-  {"date": "1989-06-14", "venue": "Private Party, Stowe High School Graduation, Lake Champlain", "city": "Burlington", "state": "VT", "gap": 0, "set": "1", "times": 2, "note": "Me and Bobby McGee", "nb": 1, "first": 1, "next": "Hotel California"},
-  {"date": "1990-09-30", "venue": "Unknown Venue", "city": "Unknown", "state": "", "gap": 0, "set": "1", "note": "We've Only Just Begun", "nb": 1, "prev": "Family Picture", "last": 1},
-  {"date": "1991-09-01", "venue": "Anastasio's House", "city": "Unknown", "state": "NJ", "gap": 0, "set": "1", "times": 9, "note": "Magilla", "nb": 1, "first": 1, "next": "I Didn't Know"},
-  {"date": "1994-11-19", "venue": "Parking Lot, Indiana University Auditorium", "city": "Bloomington", "state": "IN", "gap": 0, "set": "1", "note": "Mountain Dew", "nb": 1, "prev": "Dooley", "next": "John Hardy"},
-  {"date": "1997-02-26", "venue": "SWF3 Studios", "city": "Baden-Baden", "state": "Baden-W\u00fcrttemberg", "gap": 0, "set": "1", "note": "Goodbye Jam", "nb": 1, "prev": "Walfredo", "last": 1},
-  {"date": "1998-08-14", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": 0, "set": "1", "times": 3, "note": "Down Home Dirty Blues", "nb": 1, "prev": "Dog Log", "next": "I Gave My Love a Cherry"},
-  {"date": "1999-07-29", "venue": "Naeba Ski Resort", "city": "Niigata", "state": "Niigata", "gap": 0, "set": "1", "note": "What's The Use?", "nb": 1, "first": 1, "last": 1},
-  {"date": "2009-06-11", "venue": "Bonnaroo Music & Arts Festival", "city": "Manchester", "state": "TN", "gap": 0, "set": "1", "times": 6, "note": "Dog Log", "nb": 1, "first": 1, "next": "Ginseng Sullivan"},
-  {"date": "2009-10-29", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": 0, "set": "2", "times": 2, "note": "Devil With a Blue Dress On Jam", "nb": 1, "prev": "Undermind", "in": "->", "next": "Starship Trooper Jam"}
+  {"date": "1989-06-14", "venue": "Private Party, Stowe High School Graduation, Lake Champlain", "city": "Burlington", "state": "VT", "gap": null, "set": "1", "times": 2, "note": "Me and Bobby McGee", "nb": 1, "first": 1, "next": "Hotel California"},
+  {"date": "1990-09-30", "venue": "Unknown Venue", "city": "Unknown", "state": "", "gap": null, "set": "1", "note": "We've Only Just Begun", "nb": 1, "prev": "Family Picture", "last": 1},
+  {"date": "1991-09-01", "venue": "Anastasio's House", "city": "Unknown", "state": "NJ", "gap": null, "set": "1", "times": 9, "note": "Magilla", "nb": 1, "first": 1, "next": "I Didn't Know"},
+  {"date": "1994-11-19", "venue": "Parking Lot, Indiana University Auditorium", "city": "Bloomington", "state": "IN", "gap": null, "set": "1", "note": "Mountain Dew", "nb": 1, "prev": "Dooley", "next": "John Hardy"},
+  {"date": "1997-02-26", "venue": "SWF3 Studios", "city": "Baden-Baden", "state": "Baden-W\u00fcrttemberg", "gap": null, "set": "1", "note": "Goodbye Jam", "nb": 1, "prev": "Walfredo", "last": 1},
+  {"date": "1998-08-14", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": null, "set": "1", "times": 3, "note": "Down Home Dirty Blues", "nb": 1, "prev": "Dog Log", "next": "I Gave My Love a Cherry"},
+  {"date": "1999-07-29", "venue": "Naeba Ski Resort", "city": "Niigata", "state": "Niigata", "gap": null, "set": "1", "note": "What's The Use?", "nb": 1, "first": 1, "last": 1},
+  {"date": "2009-06-11", "venue": "Bonnaroo Music & Arts Festival", "city": "Manchester", "state": "TN", "gap": null, "set": "1", "times": 6, "note": "Dog Log", "nb": 1, "first": 1, "next": "Ginseng Sullivan"},
+  {"date": "2009-10-29", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": null, "set": "2", "times": 2, "note": "Devil With a Blue Dress On Jam", "nb": 1, "prev": "Undermind", "in": "->", "next": "Starship Trooper Jam"}
  ]
 }

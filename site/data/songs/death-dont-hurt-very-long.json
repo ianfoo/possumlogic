@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2018-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 0, "set": "2", "note": "Debut.", "prev": "Play by Play", "next": "Cool Amber and Mercury", "nb": 1},
+  {"date": "2018-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "prev": "Play by Play", "next": "Cool Amber and Mercury", "nb": 1},
   {"date": "2018-12-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 5, "set": "2", "jamchart": true, "jam": "Version is sandwiched between heaping slices of \"Tweezer.\"", "out": "->", "prev": "Tweezer", "in": ">", "next": "Tweezer", "nb": 1},
   {"date": "2019-02-21", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 3, "set": "2", "prev": "I Always Wanted It This Way", "in": ">", "next": "Also Sprach Zarathustra", "nb": 1},
   {"date": "2019-06-16", "venue": "Bonnaroo Music & Arts Festival", "city": "Manchester", "state": "TN", "gap": 6, "set": "1", "prev": "Blaze On", "next": "Reba", "nb": 1},

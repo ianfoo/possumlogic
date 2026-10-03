@@ -29,7 +29,7 @@
   {"date": "2023-08-25", "score": 72, "venue": "Broadview Stage at SPAC", "city": "Saratoga Springs", "state": "NY", "link": "https://fouldomain.com/tracks/38022"}
  ],
  "performances": [
-  {"date": "1998-06-29", "venue": "The Grey Hall", "city": "Copenhagen", "state": "Capital Region", "gap": 0, "set": "1", "prev": "Roggae", "last": 1, "nb": 1},
+  {"date": "1998-06-29", "venue": "The Grey Hall", "city": "Copenhagen", "state": "Capital Region", "gap": null, "set": "1", "prev": "Roggae", "last": 1, "nb": 1},
   {"date": "1998-06-30", "venue": "The Grey Hall", "city": "Copenhagen", "state": "Capital Region", "gap": 1181, "set": "2", "jamchart": true, "jam": "Debut. Includes dance (well, \"dance\") instructions and a somewhat extended Type I groove.", "note": "Debut.", "next": "Birds of a Feather", "xprev": "David Bowie", "nb": 1},
   {"date": "1998-07-01", "venue": "The Grey Hall", "city": "Copenhagen", "state": "Capital Region", "gap": 1, "set": "1", "prev": "My Mind's Got a Mind of its Own", "next": "Down with Disease", "nb": 1},
   {"date": "1998-07-05", "venue": "Lucerna Theatre", "city": "Prague", "state": "Prague", "gap": 3, "set": "2", "out": ">", "prev": "Bathtub Gin", "in": ">", "next": "McGrupp and the Watchful Hosemasters", "nb": 1},
@@ -55,7 +55,7 @@
   {"date": "1998-11-24", "venue": "New Haven Veterans Memorial Coliseum", "city": "New Haven", "state": "CT", "gap": 4, "set": "1", "out": ">", "prev": "Down with Disease", "next": "Ginseng Sullivan", "nb": 1},
   {"date": "1998-11-28", "venue": "Worcester Centrum Centre", "city": "Worcester", "state": "MA", "gap": 3, "set": "1", "prev": "Foam", "next": "Split Open and Melt", "nb": 1},
   {"date": "1998-12-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 4, "set": "1", "prev": "Sparkle", "in": ">", "next": "The Old Home Place", "nb": 1},
-  {"date": "1999-06-24", "venue": "The Barn", "city": "Outer Burlington", "state": "VT", "gap": 0, "set": "1", "prev": "Farmhouse", "next": "Hey You", "nb": 1},
+  {"date": "1999-06-24", "venue": "The Barn", "city": "Outer Burlington", "state": "VT", "gap": null, "set": "1", "prev": "Farmhouse", "next": "Hey You", "nb": 1},
   {"date": "1999-07-03", "venue": "Lakewood Amphitheatre", "city": "Atlanta", "state": "GA", "gap": 4, "set": "2", "prev": "Piper", "next": "Mountains in the Mist", "nb": 1},
   {"date": "1999-07-12", "venue": "Tweeter Center", "city": "Mansfield", "state": "MA", "gap": 6, "set": "2", "out": ">", "prev": "Twist", "in": ">", "next": "Makisupa Policeman", "nb": 1},
   {"date": "1999-07-18", "venue": "Oswego County Airport", "city": "Volney", "state": "NY", "gap": 5, "set": "1", "out": ">", "prev": "Beauty of My Dreams", "next": "Reba", "nb": 1},

@@ -82,7 +82,7 @@
   {"date": "2023-10-07", "venue": "Bridgestone Arena", "city": "Nashville", "state": "TN", "gap": 1, "set": "2", "out": "->", "prev": "Sand", "in": ">", "next": "Cities", "nb": 1},
   {"date": "2023-10-14", "venue": "United Center", "city": "Chicago", "state": "IL", "gap": 4, "set": "2", "out": ">", "prev": "What's the Use?", "in": ">", "next": "No Quarter", "nb": 1},
   {"date": "2023-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 4, "set": "1", "next": "Tube", "first": 1, "nb": 1},
-  {"date": "2024-02-21", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 0, "set": "1", "prev": "If I Could", "next": "Halfway to the Moon", "nb": 1},
+  {"date": "2024-02-21", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": null, "set": "1", "prev": "If I Could", "next": "Halfway to the Moon", "nb": 1},
   {"date": "2024-04-18", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 3, "set": "1", "next": "Back on the Train", "first": 1, "nb": 1},
   {"date": "2024-07-23", "venue": "Mohegan Sun Arena", "city": "Uncasville", "state": "CT", "gap": 6, "set": "2", "prev": "Mercy", "xnext": "Julius", "nb": 1},
   {"date": "2024-07-30", "venue": "Chaifetz Arena, Saint Louis University", "city": "St. Louis", "state": "MO", "gap": 4, "set": "1", "prev": "Timber (Jerry the Mule)", "xnext": "I Never Needed You Like This Before", "nb": 1},

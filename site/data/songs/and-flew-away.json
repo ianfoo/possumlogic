@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2023-07-14", "venue": "Ameris Bank Amphitheatre", "city": "Alpharetta", "state": "GA", "gap": 0, "set": "2", "note": "Phish debut.", "nb": 1, "prev": "Ruby Waves", "next": "My Friend, My Friend"}
+  {"date": "2023-07-14", "venue": "Ameris Bank Amphitheatre", "city": "Alpharetta", "state": "GA", "gap": null, "set": "2", "note": "Phish debut.", "nb": 1, "prev": "Ruby Waves", "next": "My Friend, My Friend"}
  ]
 }

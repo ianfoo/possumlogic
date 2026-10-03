@@ -29,7 +29,7 @@
   {"date": "1999-09-28", "score": 86, "venue": "Oak Mountain Amphitheatre", "city": "Pelham", "state": "AL", "link": "https://fouldomain.com/tracks/23604"}
  ],
  "performances": [
-  {"date": "1990-03-28", "venue": "Beta Theta Pi Frat House Party, Denison University", "city": "Granville", "state": "OH", "gap": 0, "set": "1", "jamchart": true, "jam": "First version. Long drum intro.", "note": "First known performance.", "prev": "Walk Away", "next": "Uncle Pen", "nb": 1},
+  {"date": "1990-03-28", "venue": "Beta Theta Pi Frat House Party, Denison University", "city": "Granville", "state": "OH", "gap": null, "set": "1", "jamchart": true, "jam": "First version. Long drum intro.", "note": "First known performance.", "prev": "Walk Away", "next": "Uncle Pen", "nb": 1},
   {"date": "1990-04-05", "venue": "J.J. McCabe's", "city": "Boulder", "state": "CO", "gap": 5, "set": "2", "prev": "Donna Lee", "next": "Fee", "nb": 1},
   {"date": "1990-04-07", "venue": "El Dorado Caf\u00e9", "city": "Crested Butte", "state": "CO", "gap": 2, "set": "1", "prev": "Possum", "next": "Mike's Song", "nb": 1},
   {"date": "1990-04-09", "venue": "Fly Me to the Moon Saloon", "city": "Telluride", "state": "CO", "gap": 2, "set": "2", "prev": "Love You", "next": "Whipping Post", "nb": 1},
@@ -52,7 +52,7 @@
   {"date": "1990-06-08", "venue": "23 East Cabaret", "city": "Ardmore", "state": "PA", "gap": 1, "set": "2", "prev": "Bathtub Gin", "in": ">", "next": "I Didn't Know", "nb": 1},
   {"date": "1990-06-09", "venue": "The Wetlands Preserve", "city": "New York", "state": "NY", "gap": 1, "set": "1", "prev": "Bouncing Around the Room", "in": ">", "next": "Uncle Pen", "nb": 1},
   {"date": "1990-06-16", "venue": "Townshend Family Park", "city": "Townshend", "state": "VT", "gap": 1, "set": "2", "prev": "Esther", "in": ">", "next": "My Sweet One", "nb": 1},
-  {"date": "1990-06-17", "venue": "Wendell Recording Studio", "city": "Wendell", "state": "MA", "gap": 0, "set": "1", "prev": "The Man Who Stepped Into Yesterday", "next": "Possum", "nb": 1},
+  {"date": "1990-06-17", "venue": "Wendell Recording Studio", "city": "Wendell", "state": "MA", "gap": null, "set": "1", "prev": "The Man Who Stepped Into Yesterday", "next": "Possum", "nb": 1},
   {"date": "1990-09-14", "venue": "The Living Room", "city": "Providence", "state": "RI", "gap": 4, "set": "2", "jamchart": true, "jam": "Multiple Charlie Chan signals as well as Popeye, Random Laugh and Oom Pa Pa signals. (aka \"secret language\").", "note": "Three Charlie Chan signals as well as Popeye, Random Laugh and Oom Pa Pa signals.", "prev": "Buried Alive", "in": ">", "next": "Magilla", "nb": 1},
   {"date": "1990-09-16", "venue": "Wesleyan University", "city": "Middletown", "state": "CT", "gap": 2, "set": "1", "note": "Charlie Chan and Popeye signals.", "prev": "Tube", "next": "Paul and Silas", "nb": 1},
   {"date": "1990-09-20", "venue": "Somerville Theatre", "city": "Somerville", "state": "MA", "gap": 3, "set": "2", "times": 2, "note": "Charlie Chan and  I Let a Song Go Out of My Heart signals.", "out": "->", "prev": "Lawn Boy", "in": ">", "next": "Buried Alive", "nb": 1},
@@ -449,6 +449,6 @@
   {"date": "2026-07-25", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 10, "set": "2", "times": 6, "out": "->", "prev": "Down with Disease", "in": "->", "next": "Down with Disease", "nb": 1},
   {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 4, "set": "1", "times": 3, "out": "->", "prev": "My Friend, My Friend", "in": "->", "next": "Sigma Oasis", "nb": 1},
   {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "2", "out": ">", "prev": "A Wave of Hope", "in": "->", "next": "Chalk Dust Torture", "nb": 1},
-  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 0, "set": "2", "prev": "Down with Disease", "in": ">", "next": "Mercury"}
+  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "prev": "Down with Disease", "in": ">", "next": "Mercury"}
  ]
 }

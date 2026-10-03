@@ -80,7 +80,7 @@
   {"date": "1990-04-20", "venue": "Ramskeller, Colorado State University", "city": "Fort Collins", "state": "CO", "gap": 4, "set": "1", "out": ">", "nb": 1, "prev": "Alumni Blues", "in": ">", "next": "Alumni Blues"},
   {"date": "1990-05-15", "venue": "Hamilton College", "city": "Clinton", "state": "NY", "gap": 18, "set": "1", "out": ">", "nb": 1, "prev": "Alumni Blues", "in": ">", "next": "Alumni Blues"},
   {"date": "1990-05-19", "venue": "The Upper, St. Paul's School", "city": "Concord", "state": "NH", "gap": 1, "set": "1", "out": ">", "nb": 1, "prev": "Alumni Blues", "in": ">", "next": "Alumni Blues"},
-  {"date": "1990-06-17", "venue": "Wendell Recording Studio", "city": "Wendell", "state": "MA", "gap": 0, "set": "1", "out": ">", "nb": 1, "prev": "Alumni Blues", "in": ">", "next": "Alumni Blues"},
+  {"date": "1990-06-17", "venue": "Wendell Recording Studio", "city": "Wendell", "state": "MA", "gap": null, "set": "1", "out": ">", "nb": 1, "prev": "Alumni Blues", "in": ">", "next": "Alumni Blues"},
   {"date": "1990-10-05", "venue": "Skidmore Gymnasium, Skidmore College", "city": "Saratoga Springs", "state": "NY", "gap": 34, "set": "2", "out": ">", "nb": 1, "prev": "Alumni Blues", "in": ">", "next": "Alumni Blues"},
   {"date": "1990-12-07", "venue": "Robert Crown Center, Hampshire College", "city": "Amherst", "state": "MA", "gap": 35, "set": "e", "out": ">", "nb": 1, "prev": "Alumni Blues", "in": ">", "next": "Alumni Blues"},
   {"date": "1991-02-01", "venue": "Alumnae Hall, Brown University", "city": "Providence", "state": "RI", "gap": 5, "set": "2", "out": ">", "nb": 1, "prev": "Alumni Blues", "in": ">", "next": "Alumni Blues"},

@@ -6,12 +6,12 @@
 
  ],
  "performances": [
-  {"date": "2009-10-29", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": 0, "set": "1", "nb": 1, "prev": "Water in the Sky", "next": "Let Me Lie"},
+  {"date": "2009-10-29", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": null, "set": "1", "nb": 1, "prev": "Water in the Sky", "next": "Let Me Lie"},
   {"date": "2009-11-01", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": 1460, "set": "1", "note": "Acoustic; Phish debut.", "nb": 1, "prev": "Army of One", "next": "My Sweet One"},
   {"date": "2009-11-25", "venue": "Wachovia Center", "city": "Philadelphia", "state": "PA", "gap": 6, "set": "1", "nb": 1, "prev": "Divided Sky", "next": "Ocelot"},
   {"date": "2010-06-20", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 19, "set": "1", "nb": 1, "prev": "Roggae", "next": "Lawn Boy"},
   {"date": "2010-08-07", "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ", "city": "Berkeley", "state": "CA", "gap": 13, "set": "1", "nb": 1, "prev": "Reba", "next": "Army of One"},
-  {"date": "2011-06-30", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": 0, "set": "1", "note": "Ending repeated in order to teach Fish, who had apparently forgot the song's conclusion.", "nb": 1, "prev": "Undermind", "next": "My Soul"},
+  {"date": "2011-06-30", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": null, "set": "1", "note": "Ending repeated in order to teach Fish, who had apparently forgot the song's conclusion.", "nb": 1, "prev": "Undermind", "next": "My Soul"},
   {"date": "2016-06-28", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": 224, "set": "1", "nb": 1, "prev": "Birds of a Feather", "next": "Things People Do"},
   {"date": "2016-07-16", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 10, "set": "1", "out": ">", "nb": 1, "prev": "555", "next": "It's Ice"}
  ]

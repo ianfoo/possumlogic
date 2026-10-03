@@ -30,7 +30,7 @@
   {"date": "2003-07-13", "score": 59, "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "link": "https://fouldomain.com/tracks/25407"}
  ],
  "performances": [
-  {"date": "2003-07-06", "venue": "Cricket Pavilion", "city": "Phoenix", "state": "AZ", "gap": 0, "set": "1", "nb": 1, "first": 1, "next": "I Am Hydrogen"},
+  {"date": "2003-07-06", "venue": "Cricket Pavilion", "city": "Phoenix", "state": "AZ", "gap": null, "set": "1", "nb": 1, "first": 1, "next": "I Am Hydrogen"},
   {"date": "2003-07-07", "venue": "Cricket Pavilion", "city": "Phoenix", "state": "AZ", "gap": 1378, "set": "2", "jamchart": true, "jam": "Debut includes intro section. Pretty intense playing in the standard jam section that follows \"colors in the void.\"", "note": "Debut.", "nb": 1, "prev": "Wolfman's Brother", "in": "->", "next": "The Man Who Stepped Into Yesterday"},
   {"date": "2003-07-09", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 2, "set": "2", "jamchart": true, "jam": "Beautifully played straightforward version, with great Page and delicate trilling by Trey in the jam.", "nb": 1, "prev": "Twist", "in": "->", "next": "Mike's Song"},
   {"date": "2003-07-13", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 3, "set": "1", "nb": 1, "prev": "Runaway Jim", "next": "Axilla"},

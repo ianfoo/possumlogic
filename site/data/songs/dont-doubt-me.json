@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 0, "set": "2", "note": "Debut.", "nb": 1, "prev": "The Inner Reaches of Outer", "next": "The Unwinding"},
+  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "nb": 1, "prev": "The Inner Reaches of Outer", "next": "The Unwinding"},
   {"date": "2022-07-27", "venue": "Northwell Health at Jones Beach Theater", "city": "Wantagh", "state": "NY", "gap": 27, "set": "2", "out": "->", "nb": 1, "prev": "Down with Disease", "in": ">", "next": "Golden Age"},
   {"date": "2022-09-01", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 13, "set": "2", "jamchart": true, "jam": "In its second outing since the Halloween debut, this \"Sci-Fi Soldiers\" track shakes off its liquid handcuffs and stretches into a Trey led melodic journey that manages to provide a lot of ear candy in just under 13 minutes.", "out": ">", "nb": 1, "prev": "Ruby Waves", "in": ">", "next": "A Wave of Hope"},
   {"date": "2023-04-18", "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ", "city": "Berkeley", "state": "CA", "gap": 15, "set": "2", "jamchart": true, "jam": "The first set-opening \"Don't Doubt Me\" kicks off a heavily jammed set. This jam traverses an effects-laden soundscape before giving way to a light, ethereal jam to end things before > \"Kill Devil Falls\".", "out": ">", "nb": 1, "xprev": "Possum", "next": "Kill Devil Falls"},

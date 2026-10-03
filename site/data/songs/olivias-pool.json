@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": 0, "set": "1", "nb": 1, "prev": "Wading in the Velvet Sea", "next": "I Don't Care"},
+  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "Wading in the Velvet Sea", "next": "I Don't Care"},
   {"date": "1997-06-13", "venue": "The S.F.X. Centre", "city": "Dublin", "state": "County Dublin", "gap": 1117, "set": "2", "note": "Debut.", "out": ">", "nb": 1, "prev": "Ghost", "in": "->", "next": "Character Zero"},
   {"date": "1997-06-16", "venue": "Royal Albert Hall", "city": "London", "state": "England", "gap": 2, "set": "1", "nb": 1, "prev": "Wolfman's Brother", "xnext": "Limb By Limb"},
   {"date": "1997-06-25", "venue": "L\u2019Aeronef", "city": "Lille", "state": "Hauts-de-France", "gap": 6, "set": "1", "nb": 1, "first": 1, "next": "Dogs Stole Things"},

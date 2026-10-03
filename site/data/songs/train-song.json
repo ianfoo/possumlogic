@@ -22,7 +22,7 @@
   {"date": "1996-12-04", "venue": "Sports Arena", "city": "San Diego", "state": "CA", "gap": 2, "set": "1", "nb": 1, "prev": "Sample in a Jar", "next": "Guyute"},
   {"date": "1996-12-29", "venue": "CoreStates Spectrum", "city": "Philadelphia", "state": "PA", "gap": 3, "set": "1", "nb": 1, "prev": "Guelah Papyrus", "next": "Rift"},
   {"date": "1997-02-18", "venue": "Bataclan", "city": "Paris", "state": "\u00cele-de-France", "gap": 7, "set": "2", "nb": 1, "prev": "Reba", "next": "Harry Hood"},
-  {"date": "1997-02-26", "venue": "SWF3 Studios", "city": "Baden-Baden", "state": "Baden-W\u00fcrttemberg", "gap": 0, "set": "1", "nb": 1, "prev": "Waste", "next": "Walfredo"},
+  {"date": "1997-02-26", "venue": "SWF3 Studios", "city": "Baden-Baden", "state": "Baden-W\u00fcrttemberg", "gap": null, "set": "1", "nb": 1, "prev": "Waste", "next": "Walfredo"},
   {"date": "1997-07-03", "venue": "Serenadenhof", "city": "N\u00fcremberg", "state": "Bavaria", "gap": 24, "set": "1", "nb": 1, "prev": "Taste", "next": "Theme from the Bottom"},
   {"date": "1997-08-14", "venue": "Darien Lake Performing Arts Center", "city": "Darien Center", "state": "NY", "gap": 21, "set": "1", "out": ">", "nb": 1, "prev": "Tela", "in": ">", "next": "Billy Breathes"},
   {"date": "1997-08-16", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": 1, "set": "1", "out": ">", "nb": 1, "prev": "You Enjoy Myself", "in": ">", "next": "Character Zero"},

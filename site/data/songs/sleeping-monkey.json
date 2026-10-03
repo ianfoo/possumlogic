@@ -30,7 +30,7 @@
   {"date": "2016-07-01", "score": 54, "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "link": "https://fouldomain.com/tracks/32828"}
  ],
  "performances": [
-  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": 0, "set": "1", "nb": 1, "prev": "Rift", "next": "Mound"},
+  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "Rift", "next": "Mound"},
   {"date": "1992-03-06", "venue": "The Music Hall", "city": "Portsmouth", "state": "NH", "gap": 589, "set": "e", "note": "Debut.", "nb": 1, "xprev": "Possum", "last": 1},
   {"date": "1992-03-11", "venue": "The Colonial Theatre", "city": "Keene", "state": "NH", "gap": 2, "set": "e", "nb": 1, "prev": "Carolina", "last": 1},
   {"date": "1992-03-14", "venue": "Roseland Ballroom", "city": "New York", "state": "NY", "gap": 3, "set": "e", "note": "John Popper on harmonica.", "nb": 1, "xprev": "Possum", "next": "Good Times Bad Times"},

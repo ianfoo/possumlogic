@@ -147,7 +147,7 @@
   {"date": "1991-05-10", "venue": "Page Commons Room, Student Center, Colby College", "city": "Waterville", "state": "ME", "gap": 1, "set": "2", "nb": 1, "prev": "Poor Heart", "next": "McGrupp and the Watchful Hosemasters"},
   {"date": "1991-05-11", "venue": "The Front", "city": "Burlington", "state": "VT", "gap": 1, "set": "1", "nb": 1, "prev": "My Sweet One", "next": "Tweezer"},
   {"date": "1991-05-12", "venue": "The Front", "city": "Burlington", "state": "VT", "gap": 1, "set": "1", "nb": 1, "prev": "Fee", "in": ">", "next": "Runaway Jim"},
-  {"date": "1991-05-16", "venue": "The Sting", "city": "New Britain", "state": "CT", "gap": 0, "set": "1", "nb": 1, "prev": "Golgi Apparatus", "next": "Cavern"},
+  {"date": "1991-05-16", "venue": "The Sting", "city": "New Britain", "state": "CT", "gap": null, "set": "1", "nb": 1, "prev": "Golgi Apparatus", "next": "Cavern"},
   {"date": "1991-05-18", "venue": "The Marquee", "city": "New York", "state": "NY", "gap": 2, "set": "1", "nb": 1, "prev": "Paul and Silas", "next": "Divided Sky"},
   {"date": "1991-05-19", "venue": "Salisbury School", "city": "Salisbury", "state": "CT", "gap": 1, "set": "2", "nb": 1, "prev": "Fee", "in": ">", "next": "Reba"},
   {"date": "1991-07-13", "venue": "Berkshire Performing Arts Center", "city": "Lenox", "state": "MA", "gap": 3, "set": "1", "nb": 1, "prev": "Runaway Jim", "next": "Llama"},

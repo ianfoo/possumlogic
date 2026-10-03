@@ -30,7 +30,7 @@
   {"date": "1995-11-14", "score": 54, "venue": "University of Central Florida Arena", "city": "Orlando", "state": "FL", "link": "https://fouldomain.com/tracks/18424"}
  ],
  "performances": [
-  {"date": "1995-05-14", "venue": "Fish's House", "city": "Burlington", "state": "VT", "gap": 0, "set": "1", "nb": 1, "prev": "Free", "next": "Glide II"},
+  {"date": "1995-05-14", "venue": "Fish's House", "city": "Burlington", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "Free", "next": "Glide II"},
   {"date": "1995-05-16", "venue": "Lowell Memorial Auditorium", "city": "Lowell", "state": "MA", "gap": 947, "set": "1", "note": "Debut.", "nb": 1, "prev": "Spock's Brain", "next": "Reba"},
   {"date": "1995-06-07", "venue": "Boise State University Pavilion", "city": "Boise", "state": "ID", "gap": 1, "set": "1", "nb": 1, "prev": "Taste", "next": "Stash"},
   {"date": "1995-06-09", "venue": "Red Rocks Amphitheatre", "city": "Morrison", "state": "CO", "gap": 2, "set": "1", "out": ">", "nb": 1, "prev": "Divided Sky", "next": "The Oh Kee Pa Ceremony"},

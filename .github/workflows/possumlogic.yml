@@ -29,6 +29,15 @@ on:
       days:
         description: "How many days back to look for shows"
         default: "21"
+      # phish.net revises its gaps from time to time -- it shifted most of them
+      # by one in September 2026 -- and a history is only re-fetched when its
+      # song is played again, so the archive drifts into a mix of the old
+      # figures and the new. This re-reads every song (one call each, about
+      # 590) and re-derives every report from the result. Rare and by hand.
+      reseed:
+        description: "Re-fetch every song's history and remeasure every report"
+        type: boolean
+        default: false
   # A template or style change should republish the whole site.
   push:
     branches: [main]
@@ -157,6 +166,9 @@ jobs:
           PL_DOMAIN: ${{ vars.PL_DOMAIN }}
           SCHEDULE: ${{ github.event.schedule }}
         run: |
+          if [ "${{ github.event.inputs.reseed }}" = "true" ]; then
+            python possumlogic.py --site site --seed-songs --force --remeasure
+          fi
           # The daily run does the expensive, thorough things. A run that fired
           # because a show is on stage wants tonight only, as fast as possible.
           if [ "$SCHEDULE" = "0 15 * * *" ] || [ -z "$SCHEDULE" ]; then

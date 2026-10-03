@@ -141,6 +141,19 @@ which includes the performances phish.net deliberately does not count; every
 one of the 95 had an uncounted row before it, and 50 of them were the
 measurement being wrong rather than the data.
 
+**But a 0 is not a gap, and phish.net revises.** That check only asked whether
+a gap was too *large*. phish.net also files 0 (debuts since its September 2026
+revision, same-night repeats, and songs entered during a show it has not
+measured yet), and a 0 is a fine number to every comparison: on 2026-10-02 the
+show page printed Mercury at "Gap 0 · premature", fourteen shows after it was
+last played. `_gap` returns None below 1 and `song_history` applies it on read.
+The same month phish.net shifted most gaps up by one, and a history is only
+re-fetched when its song is played again, so the archive holds old figures for
+most songs and new ones for the rest. Dispatch `possumlogic.yml` with `reseed`
+to re-read them all. **And "N in 10 yr" counts plays, not gaps**: it was the
+length of the gap list, which leaves the debut out, so every second performance
+read "0 in 10 yr".
+
 **A `hidden` attribute loses to any author `display`.** The browser hides
 `[hidden]` with a *user-agent* rule, and a user-agent rule loses to an author
 declaration outright — specificity does not enter into it. `.totop` declared

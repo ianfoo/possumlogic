@@ -66,7 +66,7 @@
   {"date": "1990-11-06", "venue": "The Cabooze", "city": "Minneapolis", "state": "MN", "gap": 1, "set": "2", "nb": 1, "prev": "Possum", "xnext": "Contact"},
   {"date": "1990-11-26", "venue": "The Haunt", "city": "Ithaca", "state": "NY", "gap": 8, "set": "e", "nb": 1, "prev": "Contact", "last": 1},
   {"date": "1990-12-08", "venue": "The Chance", "city": "Poughkeepsie", "state": "NY", "gap": 6, "set": "e2", "nb": 1, "prev": "Contact", "in": ">", "last": 1},
-  {"date": "1990-12-28", "venue": "The Marquee", "city": "New York", "state": "NY", "gap": 0, "set": "e", "nb": 1, "prev": "Bouncing Around the Room", "last": 1},
+  {"date": "1990-12-28", "venue": "The Marquee", "city": "New York", "state": "NY", "gap": null, "set": "e", "nb": 1, "prev": "Bouncing Around the Room", "last": 1},
   {"date": "1991-03-31", "venue": "Berkeley Square", "city": "Berkeley", "state": "CA", "gap": 36, "set": "e", "nb": 1, "prev": "Reba", "last": 1},
   {"date": "1991-04-04", "venue": "WOW Hall", "city": "Eugene", "state": "OR", "gap": 3, "set": "e", "nb": 1, "prev": "Magilla", "in": ">", "xnext": "Contact"},
   {"date": "1991-04-13", "venue": "Biddy Mulligan\u2019s", "city": "Chicago", "state": "IL", "gap": 5, "set": "e", "nb": 1, "prev": "Lawn Boy", "last": 1},

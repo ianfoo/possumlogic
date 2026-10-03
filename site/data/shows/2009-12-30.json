@@ -94,7 +94,7 @@
       "gap": 3,
       "out": "",
       "plays": 13,
-      "recent_plays": 11,
+      "recent_plays": 12,
       "gap_median": 4,
       "gap_mean": 3.727272727272727,
       "gap_low": 2.6298631268427495,
@@ -254,7 +254,8 @@
       "gap_high": 12.444791905379256,
       "gap_away": [
         2,
-        28
+        28,
+        16
       ],
       "verdict": "overdue",
       "prev_date": "2009-06-07",

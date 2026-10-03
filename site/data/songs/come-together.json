@@ -7,7 +7,7 @@
  ],
  "performances": [
   {"date": "1995-12-08", "venue": "CSU Convocation Center", "city": "Cleveland", "state": "OH", "gap": 1020, "set": "e", "note": "Phish debut.", "out": ">", "nb": 1, "xprev": "Run Like an Antelope", "next": "A Day in the Life"},
-  {"date": "1999-06-24", "venue": "The Barn", "city": "Outer Burlington", "state": "VT", "gap": 0, "set": "1", "nb": 1, "prev": "Meatstick", "in": ">", "xnext": "Back on the Train"},
+  {"date": "1999-06-24", "venue": "The Barn", "city": "Outer Burlington", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "Meatstick", "in": ">", "xnext": "Back on the Train"},
   {"date": "2011-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 539, "set": "2", "note": "Incomplete.", "out": "->", "nb": 1, "prev": "Rock and Roll", "in": "->", "next": "Twist"}
  ]
 }

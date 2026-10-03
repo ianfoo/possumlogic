@@ -29,7 +29,7 @@
   {"date": "1996-07-21", "score": 36, "venue": "The Forum", "city": "N\u00fcremberg", "state": "", "link": "https://fouldomain.com/tracks/19170"}
  ],
  "performances": [
-  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": 0, "set": "1", "nb": 1, "prev": "My Friend, My Friend", "next": "Rift"},
+  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "My Friend, My Friend", "next": "Rift"},
   {"date": "1992-03-07", "venue": "The Music Hall", "city": "Portsmouth", "state": "NH", "gap": 590, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Brother", "next": "Foam"},
   {"date": "1992-03-11", "venue": "The Colonial Theatre", "city": "Keene", "state": "NH", "gap": 1, "set": "2", "nb": 1, "prev": "Bathtub Gin", "next": "Brother"},
   {"date": "1992-03-13", "venue": "Campus Club", "city": "Providence", "state": "RI", "gap": 2, "set": "2", "nb": 1, "prev": "The Lizards", "next": "The Sloth"},

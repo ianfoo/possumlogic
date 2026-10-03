@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 0, "set": "2", "note": "Debut.", "out": ">", "nb": 1, "prev": "Thanksgiving", "next": "The 9th Cube"},
+  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "out": ">", "nb": 1, "prev": "Thanksgiving", "next": "The 9th Cube"},
   {"date": "2022-02-27", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 5, "set": "1", "out": ">", "nb": 1, "prev": "My Friend, My Friend", "in": ">", "next": "Split Open and Melt"},
   {"date": "2022-08-12", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 32, "set": "1", "out": ">", "nb": 1, "prev": "Fuego", "next": "Twist"},
   {"date": "2023-07-22", "venue": "The Pavilion at Star Lake", "city": "Burgettstown", "state": "PA", "gap": 30, "set": "1", "out": ">", "nb": 1, "prev": "Llama", "next": "Sample in a Jar"}

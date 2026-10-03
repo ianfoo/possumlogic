@@ -657,12 +657,11 @@ def build(showdate, apikey, artist="Phish", rows_out=None, **kw):
         if slug in seen:
             continue          # song repeated later in the same show
         seen.add(slug)
-        gap = r.get("gap")
         songs.append({
             "set": SET_LABEL.get(str(r.get("set")), "SET %s" % r.get("set")),
             "song": r.get("song") or "",
             "slug": slug,
-            "gap": int(gap) if str(gap).lstrip("-").isdigit() else None,
+            "gap": _gap(r),
             "jamchart": str(r.get("isjamchart")) == "1",
             "prev_date": None,
             "prev_venue": None,
@@ -823,6 +822,10 @@ def _finish_song(s, hist, date, counting=None):
         g = _gap(hist[idx])
         if g is not None:
             s["gap"] = g
+    # remeasure pops the gap before calling, and a history that has none to
+    # give -- see _gap -- would otherwise leave the key missing, where every
+    # caller reads it by subscript.
+    s.setdefault("gap", None)
     # What the song went into. phish.net files the mark on the earlier of the
     # two songs it joins, which is what makes it belong on this row: with a
     # band that segues as much as this one, "Tweezer ->" and "Tweezer" are
@@ -853,7 +856,8 @@ def _finish_song(s, hist, date, counting=None):
         and (s.get("slug") or "") not in NOT_A_SONG
     if judgeable:
         s.update(_classify(s["gap"], hist[1:idx if idx else 0], date,
-                           plays=None if idx is None else idx + 1))
+                           plays=None if idx is None else idx + 1,
+                           played=hist[:idx] if idx else []))
     else:
         for k in ("verdict", "gap_median", "gap_mean", "gap_low", "gap_high",
                   "gap_away", "plays", "recent_plays"):
@@ -2995,7 +2999,7 @@ def recent_cutoff(counting, fallback=None):
     return _years_before(latest, RECENT_YEARS) if latest else ""
 
 
-def _classify(gap, prior, on_date, plays=None):
+def _classify(gap, prior, on_date, plays=None, played=None):
     """Where this gap sits against how the song has behaved lately.
 
     `prior` is the song's performances before this one, each a row with a
@@ -3012,12 +3016,20 @@ def _classify(gap, prior, on_date, plays=None):
     there is no current norm to be early or late against. If it has also been
     gone a long time, that is a bustout, which is the more useful thing to say
     about it anyway.
+
+    `played` is every performance before this one, the debut included, and is
+    only counted. `prior` cannot stand in for it: it starts after the debut,
+    because a debut has no gap, so counting it as plays printed "0 in 10 yr"
+    under the second performance of every song -- Cream's, on 2026-07-12,
+    seventeen shows after a debut well inside the window -- and one short
+    under every song whose debut was in it.
     """
     cutoff = _years_before(on_date, RECENT_YEARS)
-    recent = [int(h["gap"]) for h in prior
-              if h.get("showdate", "") >= cutoff
-              and str(h.get("gap")).lstrip("-").isdigit()]
-    stats = {"plays": plays, "recent_plays": len(recent), "gap_median": None,
+    recent = [_gap(h) for h in prior if h.get("showdate", "") >= cutoff]
+    recent = [g for g in recent if g is not None]
+    n_played = (len(recent) if played is None else
+                sum(1 for h in played if h.get("showdate", "") >= cutoff))
+    stats = {"plays": plays, "recent_plays": n_played, "gap_median": None,
              "gap_mean": None, "gap_low": None, "gap_high": None,
              "gap_away": None, "verdict": None}
     if len(recent) >= MIN_HISTORY:
@@ -3030,9 +3042,12 @@ def _classify(gap, prior, on_date, plays=None):
         # say, like gap_low and gap_mean beside it: the renderers read these by
         # subscript because the report shape has always guaranteed them, which
         # is the reason prev_date is assigned unconditionally further down.
+        # The third figure is how many gaps that is out of, which is not
+        # recent_plays: that counts performances, and a debut is one without
+        # a gap.
         away = layoff_break(recent)
         if away:
-            stats["gap_away"] = [len(away), away[0]]
+            stats["gap_away"] = [len(away), away[0], len(recent)]
         if gap is not None:
             stats["verdict"] = (
                 "premature" if gap < stats["gap_low"] else
@@ -3253,9 +3268,10 @@ def render_html(report, bar_scale="linear", index_href=None,
             # the second. Esther is the case that prompted it, and her range
             # tops out at 55 against three absences of 68, 76 and 112.
             if s.get("gap_away") and s.get("recent_plays"):
+                away = s["gap_away"]
                 tip += (", but %d of its last %d gaps ran %s or longer"
-                        % (s["gap_away"][0], s["recent_plays"],
-                           _stat(s["gap_away"][1])))
+                        % (away[0], away[2] if len(away) > 2
+                           else s["recent_plays"], _stat(away[1])))
         elif g is not None and s.get("recent_plays") is not None:
             # No band, so no bar -- and an empty column is the most confusing
             # thing on the row unless it says why it is empty. This is not a
@@ -9747,8 +9763,23 @@ def archived(site_dir, date):
 # report. Trimmed, the archive's 165 songs come to 3.4 MB; untrimmed they would
 # not be worth the disk.
 def _gap(row):
+    """phish.net's gap for this row, or None where it has none to give.
+
+    Below 1 is None. A gap counts the shows since the last performance, *this
+    one included*, so the smallest a real one can be is 1 -- played the show
+    before. phish.net files 0 in three places, and none of them is a gap: a
+    debut (since it revised its gaps in September 2026 -- before that, a
+    debut carried the band's whole show count, 1,684 for Mercury), a repeat
+    later in the same night, and a song entered during a show that it has not
+    measured yet. That last one printed "Gap 0 ... premature" against Mercury
+    on 2026-10-02, fourteen shows after it was last played, because a 0 is
+    a perfectly good number to every comparison downstream. None says "not
+    known" and every renderer already prints it as a dash.
+    """
     gap = row.get("gap")
-    return int(gap) if str(gap).lstrip("-").isdigit() else None
+    if not str(gap).lstrip("-").isdigit():
+        return None
+    return int(gap) if int(gap) >= 1 else None
 
 
 def by_show(rows):
@@ -10040,10 +10071,17 @@ def song_history(site_dir, slug):
         return None
     with open(path, encoding="utf-8") as fh:
         try:
-            return json.load(fh)
+            doc = json.load(fh)
         except ValueError:
             log("warning: skipping unreadable %s", path)
             return None
+    # Every reader takes a gap off a performance by subscript, so this is the
+    # one place to stop a 0 reaching them -- see _gap. Histories saved before
+    # that rule still hold 1,043 of them.
+    for p in doc.get("performances") or []:
+        if "gap" in p:
+            p["gap"] = _gap(p)
+    return doc
 
 
 # --------------------------------------------------------------- schedule ---

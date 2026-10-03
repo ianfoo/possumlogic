@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": 0, "set": "1", "out": ">", "nb": 1, "prev": "Mound", "next": "Cold as Ice"},
+  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": null, "set": "1", "out": ">", "nb": 1, "prev": "Mound", "next": "Cold as Ice"},
   {"date": "1992-03-07", "venue": "The Music Hall", "city": "Portsmouth", "state": "NH", "gap": 594, "set": "2", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Cold as Ice", "in": ">", "next": "Cold as Ice"},
   {"date": "1992-03-12", "venue": "The Flynn Theatre", "city": "Burlington", "state": "VT", "gap": 2, "set": "2", "out": ">", "nb": 1, "prev": "Cold as Ice", "in": ">", "next": "Cold as Ice"},
   {"date": "1992-03-14", "venue": "Roseland Ballroom", "city": "New York", "state": "NY", "gap": 2, "set": "2", "out": ">", "nb": 1, "prev": "Cold as Ice", "in": ">", "next": "Cold as Ice"},
