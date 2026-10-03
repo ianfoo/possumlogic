@@ -18,18 +18,18 @@
  ],
  "performances": [
   {"date": "2018-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "prev": "Play by Play", "next": "Cool Amber and Mercury", "nb": 1},
-  {"date": "2018-12-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 5, "set": "2", "jamchart": true, "jam": "Version is sandwiched between heaping slices of \"Tweezer.\"", "out": "->", "prev": "Tweezer", "in": ">", "next": "Tweezer", "nb": 1},
-  {"date": "2019-02-21", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 3, "set": "2", "prev": "I Always Wanted It This Way", "in": ">", "next": "Also Sprach Zarathustra", "nb": 1},
-  {"date": "2019-06-16", "venue": "Bonnaroo Music & Arts Festival", "city": "Manchester", "state": "TN", "gap": 6, "set": "1", "prev": "Blaze On", "next": "Reba", "nb": 1},
-  {"date": "2019-06-22", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 4, "set": "2", "out": ">", "prev": "Billy Breathes", "next": "Backwards Down the Number Line", "nb": 1},
-  {"date": "2019-06-29", "venue": "BB&T Pavilion", "city": "Camden", "state": "NJ", "gap": 5, "set": "2", "out": ">", "prev": "Ruby Waves", "in": ">", "next": "Rift", "nb": 1},
-  {"date": "2019-07-06", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 5, "set": "1", "out": ">", "prev": "Backwards Down the Number Line", "in": ">", "next": "46 Days", "nb": 1},
-  {"date": "2019-07-14", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 5, "set": "2", "prev": "Steep", "in": ">", "next": "Icculus", "nb": 1},
-  {"date": "2019-12-06", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 9, "set": "e", "out": ">", "prev": "Bittersweet Motel", "in": ">", "next": "Loving Cup", "nb": 1},
-  {"date": "2021-08-10", "venue": "Hersheypark Stadium", "city": "Hershey", "state": "PA", "gap": 20, "set": "1", "out": ">", "prev": "Llama", "next": "Run Like an Antelope", "nb": 1},
-  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 25, "set": "3", "out": ">", "prev": "Soul Planet", "in": "->", "next": "Twist", "nb": 1},
-  {"date": "2022-08-10", "venue": "Budweiser Stage", "city": "Toronto", "state": "Ontario", "gap": 36, "set": "2", "out": ">", "prev": "Down with Disease", "in": "->", "next": "Twenty Years Later", "nb": 1},
-  {"date": "2024-08-07", "venue": "Van Andel Arena", "city": "Grand Rapids", "state": "MI", "gap": 83, "set": "2", "jamchart": true, "jam": "> \"Wolfman's Brother,\" and played quite slowly atop a \"Mound\"-like beat, the space affords Trey and guest Billy Strings plenty of room to shred.", "note": "Billy Strings on guitar. Performed in a slow, bluesy style.", "prev": "Wolfman's Brother", "in": ">", "next": "Evolve", "nb": 1},
-  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "out": ">", "nb": 1, "prev": "Mercury", "in": ">", "next": "Fluffhead"}
+  {"date": "2018-12-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 4, "set": "2", "jamchart": true, "jam": "Version is sandwiched between heaping slices of \"Tweezer.\"", "out": "->", "prev": "Tweezer", "in": ">", "next": "Tweezer", "nb": 1},
+  {"date": "2019-02-21", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 2, "set": "2", "prev": "I Always Wanted It This Way", "in": ">", "next": "Also Sprach Zarathustra", "nb": 1},
+  {"date": "2019-06-16", "venue": "Bonnaroo Music & Arts Festival", "city": "Manchester", "state": "TN", "gap": 5, "set": "1", "prev": "Blaze On", "next": "Reba", "nb": 1},
+  {"date": "2019-06-22", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 3, "set": "2", "out": ">", "prev": "Billy Breathes", "next": "Backwards Down the Number Line", "nb": 1},
+  {"date": "2019-06-29", "venue": "BB&T Pavilion", "city": "Camden", "state": "NJ", "gap": 4, "set": "2", "out": ">", "prev": "Ruby Waves", "in": ">", "next": "Rift", "nb": 1},
+  {"date": "2019-07-06", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 4, "set": "1", "out": ">", "prev": "Backwards Down the Number Line", "in": ">", "next": "46 Days", "nb": 1},
+  {"date": "2019-07-14", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 4, "set": "2", "prev": "Steep", "in": ">", "next": "Icculus", "nb": 1},
+  {"date": "2019-12-06", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 8, "set": "e", "out": ">", "prev": "Bittersweet Motel", "in": ">", "next": "Loving Cup", "nb": 1},
+  {"date": "2021-08-10", "venue": "Hersheypark Stadium", "city": "Hershey", "state": "PA", "gap": 19, "set": "1", "out": ">", "prev": "Llama", "next": "Run Like an Antelope", "nb": 1},
+  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 24, "set": "3", "out": ">", "prev": "Soul Planet", "in": "->", "next": "Twist", "nb": 1},
+  {"date": "2022-08-10", "venue": "Budweiser Stage", "city": "Toronto", "state": "Ontario", "gap": 35, "set": "2", "out": ">", "prev": "Down with Disease", "in": "->", "next": "Twenty Years Later", "nb": 1},
+  {"date": "2024-08-07", "venue": "Van Andel Arena", "city": "Grand Rapids", "state": "MI", "gap": 82, "set": "2", "jamchart": true, "jam": "> \"Wolfman's Brother,\" and played quite slowly atop a \"Mound\"-like beat, the space affords Trey and guest Billy Strings plenty of room to shred.", "note": "Billy Strings on guitar. Performed in a slow, bluesy style.", "prev": "Wolfman's Brother", "in": ">", "next": "Evolve", "nb": 1},
+  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 99, "set": "2", "out": ">", "nb": 1, "prev": "Mercury", "in": ">", "next": "Fluffhead"}
  ]
 }
