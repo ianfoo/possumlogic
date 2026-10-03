@@ -1122,9 +1122,8 @@ footer a::before{content:"";position:absolute;left:50%;top:50%;
     box.querySelector('.num').textContent=n.toLocaleString();
     /* The same two thresholds the report pages apply, in the same order: the
        upper edge of the song's usual range where it has enough history to have
-       one, and the bustout line where it does not. Ours against ours -- this
-       is not a claim about phish.net's gap, which is not reproducible from a
-       show calendar. */
+       one, and the bustout line where it does not. Both are counted off the
+       same calendar as this figure, so they compare like with like. */
     var high=parseFloat(box.getAttribute('data-high')),
         bust=parseFloat(box.getAttribute('data-bustout')),
         mult=parseFloat(box.getAttribute('data-mult'))||2,
