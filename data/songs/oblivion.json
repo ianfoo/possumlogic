@@ -59,6 +59,6 @@
   {"date": "2026-07-10", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 9, "set": "2", "out": ">", "next": "Down with Disease", "xprev": "Bouncing Around the Room", "nb": 1},
   {"date": "2026-07-19", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 7, "set": "1", "out": ">", "prev": "NICU", "in": ">", "next": "Possum", "nb": 1},
   {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 9, "set": "1", "prev": "No Men In No Man's Land", "next": "Prince Caspian", "nb": 1},
-  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 3, "set": "2", "xprev": "Ghost"}
+  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 3, "set": "2", "xprev": "Ghost", "next": "Down with Disease"}
  ]
 }
