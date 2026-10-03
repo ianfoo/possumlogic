@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2021-10-26", "venue": "Santa Barbara Bowl", "city": "Santa Barbara", "state": "CA", "gap": 1894, "set": "1", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Sample in a Jar", "in": ">", "next": "Halley's Comet"}
+  {"date": "2021-10-26", "venue": "Santa Barbara Bowl", "city": "Santa Barbara", "state": "CA", "gap": null, "set": "1", "note": "Phish debut.", "out": ">", "prev": "Sample in a Jar", "in": ">", "next": "Halley's Comet", "nb": 1}
  ]
 }

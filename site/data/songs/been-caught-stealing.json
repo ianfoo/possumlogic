@@ -3,14 +3,19 @@
  "slug": "been-caught-stealing",
  "artist": "Phish",
  "best": [
-
+  {"date": "1998-11-19", "score": 60, "venue": "Lawrence Joel Veterans Memorial Coliseum", "city": "Winston-Salem", "state": "NC", "link": "https://fouldomain.com/tracks/22686"},
+  {"date": "1998-08-01", "score": 55, "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "link": "https://fouldomain.com/tracks/22111"},
+  {"date": "1998-11-08", "score": 55, "venue": "UIC Pavilion, University of Illinois", "city": "Chicago", "state": "IL", "link": "https://fouldomain.com/tracks/22559"},
+  {"date": "2011-06-18", "score": 50, "venue": "Time Warner Cable Music Pavilion at Walnut Creek ", "city": "Raleigh", "state": "NC", "link": "https://fouldomain.com/tracks/28766"},
+  {"date": "1998-11-25", "score": 48, "venue": "Pepsi Arena", "city": "Albany", "state": "NY", "link": "https://fouldomain.com/tracks/22765"},
+  {"date": "1998-12-28", "score": 33, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/22861"}
  ],
  "performances": [
-  {"date": "1998-08-01", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 1205, "set": "e", "note": "Phish debut.", "out": ">", "nb": 1, "xprev": "Frankenstein", "next": "Tweezer Reprise"},
-  {"date": "1998-11-08", "venue": "UIC Pavilion, University of Illinois", "city": "Chicago", "state": "IL", "gap": 23, "set": "e", "nb": 1, "xprev": "Run Like an Antelope", "last": 1},
-  {"date": "1998-11-19", "venue": "Lawrence Joel Veterans Memorial Coliseum", "city": "Winston-Salem", "state": "NC", "gap": 7, "set": "2", "nb": 1, "prev": "Frankenstein", "xnext": "You Enjoy Myself"},
-  {"date": "1998-11-25", "venue": "Pepsi Arena", "city": "Albany", "state": "NY", "gap": 4, "set": "2", "out": ">", "nb": 1, "prev": "You Enjoy Myself", "next": "Llama"},
-  {"date": "1998-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 4, "set": "e", "nb": 1, "xprev": "David Bowie", "last": 1},
-  {"date": "2011-06-18", "venue": "Time Warner Cable Music Pavilion at Walnut Creek ", "city": "Raleigh", "state": "NC", "gap": 300, "set": "2", "nb": 1, "prev": "Esther", "next": "Piper"}
+  {"date": "1998-08-01", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": null, "set": "e", "note": "Phish debut.", "out": ">", "next": "Tweezer Reprise", "xprev": "Frankenstein", "nb": 1},
+  {"date": "1998-11-08", "venue": "UIC Pavilion, University of Illinois", "city": "Chicago", "state": "IL", "gap": 23, "set": "e", "xprev": "Run Like an Antelope", "last": 1, "nb": 1},
+  {"date": "1998-11-19", "venue": "Lawrence Joel Veterans Memorial Coliseum", "city": "Winston-Salem", "state": "NC", "gap": 7, "set": "2", "prev": "Frankenstein", "xnext": "You Enjoy Myself", "nb": 1},
+  {"date": "1998-11-25", "venue": "Pepsi Arena", "city": "Albany", "state": "NY", "gap": 4, "set": "2", "out": ">", "prev": "You Enjoy Myself", "next": "Llama", "nb": 1},
+  {"date": "1998-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 4, "set": "e", "xprev": "David Bowie", "last": 1, "nb": 1},
+  {"date": "2011-06-18", "venue": "Time Warner Cable Music Pavilion at Walnut Creek ", "city": "Raleigh", "state": "NC", "gap": 300, "set": "2", "prev": "Esther", "next": "Piper", "nb": 1}
  ]
 }

@@ -10,10 +10,10 @@
   {"date": "2023-10-11", "score": 37, "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "link": "https://fouldomain.com/tracks/38223"}
  ],
  "performances": [
-  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1902, "set": "2", "note": "Debut.", "nb": 1, "prev": "Get More Down", "next": "Thanksgiving"},
-  {"date": "2022-04-23", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 9, "set": "1", "jamchart": true, "jam": "\"Simple's\" incredible exploration gets a slight tweak and lands on the \"Egg in a Hole Jam\" and then -> back to \"Simple\".", "out": "->", "nb": 1, "prev": "Simple", "in": "->", "next": "Simple"},
-  {"date": "2022-06-01", "venue": "Credit One Stadium", "city": "Charleston", "state": "SC", "gap": 5, "set": "2", "out": ">", "nb": 1, "prev": "Prince Caspian", "in": "->", "next": "Piper"},
-  {"date": "2023-10-11", "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "gap": 74, "set": "e", "out": ">", "nb": 1, "xprev": "I Am the Walrus", "next": "Possum"},
-  {"date": "2025-06-22", "venue": "SNHU Arena", "city": "Manchester", "state": "NH", "gap": 62, "set": "1", "nb": 1, "prev": "My Friend, My Friend", "in": "->", "next": "Fluffhead"}
+  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "prev": "Get More Down", "next": "Thanksgiving", "nb": 1},
+  {"date": "2022-04-23", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 9, "set": "1", "jamchart": true, "jam": "\"Simple's\" incredible exploration gets a slight tweak and lands on the \"Egg in a Hole Jam\" and then -> back to \"Simple\".", "out": "->", "prev": "Simple", "in": "->", "next": "Simple", "nb": 1},
+  {"date": "2022-06-01", "venue": "Credit One Stadium", "city": "Charleston", "state": "SC", "gap": 5, "set": "2", "out": ">", "prev": "Prince Caspian", "in": "->", "next": "Piper", "nb": 1},
+  {"date": "2023-10-11", "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "gap": 75, "set": "e", "out": ">", "next": "Possum", "xprev": "I Am the Walrus", "nb": 1},
+  {"date": "2025-06-22", "venue": "SNHU Arena", "city": "Manchester", "state": "NH", "gap": 63, "set": "1", "prev": "My Friend, My Friend", "in": "->", "next": "Fluffhead", "nb": 1}
  ]
 }

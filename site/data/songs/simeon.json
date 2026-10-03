@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2026-01-30", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": null, "set": "e", "note": "Phish debut.", "nb": 1, "xprev": "First Tube", "next": "A Life Beyond The Dream"}
+  {"date": "2026-01-30", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": null, "set": "e", "note": "Phish debut.", "next": "A Life Beyond The Dream", "xprev": "First Tube", "nb": 1}
  ]
 }

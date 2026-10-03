@@ -8,9 +8,9 @@
   {"date": "2013-10-23", "score": 34, "venue": "Glens Falls Civic Center", "city": "Glens Falls", "state": "NY", "link": "https://fouldomain.com/tracks/30806"}
  ],
  "performances": [
-  {"date": "1994-10-31", "venue": "Glens Falls Civic Center", "city": "Glens Falls", "state": "NY", "gap": 919, "set": "2", "note": "Phish debut.", "out": ">", "nb": 1, "xprev": "Golgi Apparatus", "next": "Dear Prudence"},
-  {"date": "1994-12-06", "venue": "UCSB Events Center, University of California-Santa Barbara", "city": "Goleta", "state": "CA", "gap": 23, "set": "e", "nb": 1, "xprev": "Run Like an Antelope", "last": 1},
-  {"date": "2013-10-23", "venue": "Glens Falls Civic Center", "city": "Glens Falls", "state": "NY", "gap": 689, "set": "1", "nb": 1, "first": 1, "next": "Stealing Time From the Faulty Plan"},
-  {"date": "2026-07-25", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 485, "set": "1", "nb": 1, "first": 1, "next": "Simple"}
+  {"date": "1994-10-31", "venue": "Glens Falls Civic Center", "city": "Glens Falls", "state": "NY", "gap": null, "set": "2", "note": "Phish debut.", "out": ">", "next": "Dear Prudence", "xprev": "Golgi Apparatus", "nb": 1},
+  {"date": "1994-12-06", "venue": "UCSB Events Center, University of California-Santa Barbara", "city": "Goleta", "state": "CA", "gap": 23, "set": "e", "xprev": "Run Like an Antelope", "last": 1, "nb": 1},
+  {"date": "2013-10-23", "venue": "Glens Falls Civic Center", "city": "Glens Falls", "state": "NY", "gap": 689, "set": "1", "next": "Stealing Time From the Faulty Plan", "first": 1, "nb": 1},
+  {"date": "2026-07-25", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 486, "set": "1", "next": "Simple", "first": 1, "nb": 1}
  ]
 }

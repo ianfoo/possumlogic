@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "1994-10-15", "venue": "Oak Mountain Amphitheatre", "city": "Pelham", "state": "AL", "gap": 907, "set": "e", "note": "Phish debut; with Dave Matthews Band.", "nb": 1, "prev": "Drums", "last": 1},
-  {"date": "2022-02-24", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 1001, "set": "e", "note": "With Dave Matthews on guitar and vocals.", "nb": 1, "prev": "So Damn Lucky", "next": "Tweezer Reprise"}
+  {"date": "1994-10-15", "venue": "Oak Mountain Amphitheatre", "city": "Pelham", "state": "AL", "gap": null, "set": "e", "note": "Phish debut; with Dave Matthews Band.", "prev": "Drums", "last": 1, "nb": 1},
+  {"date": "2022-02-24", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 1001, "set": "e", "note": "With Dave Matthews on guitar and vocals.", "prev": "So Damn Lucky", "next": "Tweezer Reprise", "nb": 1}
  ]
 }

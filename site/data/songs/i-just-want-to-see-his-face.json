@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2009-10-31", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": 1451, "set": "2", "note": "Phish debut; Sharon Jones and Saundra Williams on backup vocals.", "out": ">", "nb": 1, "prev": "Ventilator Blues", "in": "->", "next": "Let It Loose"}
+  {"date": "2009-10-31", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": null, "set": "2", "note": "Phish debut; Sharon Jones and Saundra Williams on backup vocals.", "out": ">", "prev": "Ventilator Blues", "in": "->", "next": "Let It Loose", "nb": 1}
  ]
 }

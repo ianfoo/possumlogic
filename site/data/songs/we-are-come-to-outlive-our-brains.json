@@ -3,18 +3,27 @@
  "slug": "we-are-come-to-outlive-our-brains",
  "artist": "Phish",
  "best": [
-
+  {"date": "2018-12-28", "score": 65, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/34795"},
+  {"date": "2018-10-31", "score": 59, "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/34721"},
+  {"date": "2019-12-06", "score": 54, "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "link": "https://fouldomain.com/tracks/35619"},
+  {"date": "2019-09-01", "score": 51, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/35473"},
+  {"date": "2019-06-12", "score": 41, "venue": "Chaifetz Arena, Saint Louis University", "city": "St. Louis", "state": "MO", "link": "https://fouldomain.com/tracks/34967"},
+  {"date": "2023-08-31", "score": 41, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/38063"},
+  {"date": "2019-07-03", "score": 37, "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "link": "https://fouldomain.com/tracks/35260"},
+  {"date": "2019-02-21", "score": 36, "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya, Quintana Roo", "state": "", "link": "https://fouldomain.com/tracks/34891"},
+  {"date": "2021-08-06", "score": 33, "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "link": "https://fouldomain.com/tracks/35987"},
+  {"date": "2019-06-28", "score": 29, "venue": "BB&T Pavilion", "city": "Camden", "state": "NJ", "link": "https://fouldomain.com/tracks/35174"}
  ],
  "performances": [
-  {"date": "2018-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1819, "set": "2", "note": "Debut.", "nb": 1, "prev": "Everything is Hollow", "next": "Say It To Me S.A.N.T.O.S."},
-  {"date": "2018-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 4, "set": "1", "nb": 1, "first": 1, "next": "Martian Monster"},
-  {"date": "2019-02-21", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 4, "set": "1", "nb": 1, "prev": "Everything's Right", "next": "Rise/Come Together"},
-  {"date": "2019-06-12", "venue": "Chaifetz Arena, Saint Louis University", "city": "St. Louis", "state": "MO", "gap": 4, "set": "1", "nb": 1, "prev": "Roggae", "next": "Funky Bitch"},
-  {"date": "2019-06-28", "venue": "BB&T Pavilion", "city": "Camden", "state": "NJ", "gap": 10, "set": "2", "nb": 1, "prev": "No Men In No Man's Land", "in": ">", "next": "About to Run"},
-  {"date": "2019-07-03", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 4, "set": "2", "out": "->", "nb": 1, "prev": "Plasma", "in": "->", "next": "Plasma"},
-  {"date": "2019-09-01", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 10, "set": "1", "out": ">", "nb": 1, "prev": "Birds of a Feather", "next": "Taste"},
-  {"date": "2019-12-06", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 6, "set": "1", "out": ">", "nb": 1, "prev": "Destiny Unbound", "in": ">", "next": "My Friend, My Friend"},
-  {"date": "2021-08-06", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 17, "set": "1", "nb": 1, "prev": "Lawn Boy", "next": "Tube"},
-  {"date": "2023-08-31", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 109, "set": "1", "nb": 1, "prev": "Prince Caspian", "next": "Mercury"}
+  {"date": "2018-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "prev": "Everything is Hollow", "next": "Say It To Me S.A.N.T.O.S.", "nb": 1},
+  {"date": "2018-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 4, "set": "1", "next": "Martian Monster", "first": 1, "nb": 1},
+  {"date": "2019-02-21", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 4, "set": "1", "prev": "Everything's Right", "next": "Rise/Come Together", "nb": 1},
+  {"date": "2019-06-12", "venue": "Chaifetz Arena, Saint Louis University", "city": "St. Louis", "state": "MO", "gap": 4, "set": "1", "prev": "Roggae", "next": "Funky Bitch", "nb": 1},
+  {"date": "2019-06-28", "venue": "BB&T Pavilion", "city": "Camden", "state": "NJ", "gap": 10, "set": "2", "prev": "No Men In No Man's Land", "in": ">", "next": "About to Run", "nb": 1},
+  {"date": "2019-07-03", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 4, "set": "2", "out": "->", "prev": "Plasma", "in": "->", "next": "Plasma", "nb": 1},
+  {"date": "2019-09-01", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 10, "set": "1", "out": ">", "prev": "Birds of a Feather", "next": "Taste", "nb": 1},
+  {"date": "2019-12-06", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 6, "set": "1", "out": ">", "prev": "Destiny Unbound", "in": ">", "next": "My Friend, My Friend", "nb": 1},
+  {"date": "2021-08-06", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 17, "set": "1", "prev": "Lawn Boy", "next": "Tube", "nb": 1},
+  {"date": "2023-08-31", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 109, "set": "1", "prev": "Prince Caspian", "next": "Mercury", "nb": 1}
  ]
 }

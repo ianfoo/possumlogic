@@ -30,7 +30,7 @@
  ],
  "performances": [
   {"date": "1998-06-29", "venue": "The Grey Hall", "city": "Copenhagen", "state": "Capital Region", "gap": null, "set": "1", "prev": "Roggae", "last": 1, "nb": 1},
-  {"date": "1998-06-30", "venue": "The Grey Hall", "city": "Copenhagen", "state": "Capital Region", "gap": 1181, "set": "2", "jamchart": true, "jam": "Debut. Includes dance (well, \"dance\") instructions and a somewhat extended Type I groove.", "note": "Debut.", "next": "Birds of a Feather", "xprev": "David Bowie", "nb": 1},
+  {"date": "1998-06-30", "venue": "The Grey Hall", "city": "Copenhagen", "state": "Capital Region", "gap": null, "set": "2", "jamchart": true, "jam": "Debut. Includes dance (well, \"dance\") instructions and a somewhat extended Type I groove.", "note": "Debut.", "next": "Birds of a Feather", "xprev": "David Bowie", "nb": 1},
   {"date": "1998-07-01", "venue": "The Grey Hall", "city": "Copenhagen", "state": "Capital Region", "gap": 1, "set": "1", "prev": "My Mind's Got a Mind of its Own", "next": "Down with Disease", "nb": 1},
   {"date": "1998-07-05", "venue": "Lucerna Theatre", "city": "Prague", "state": "Prague", "gap": 3, "set": "2", "out": ">", "prev": "Bathtub Gin", "in": ">", "next": "McGrupp and the Watchful Hosemasters", "nb": 1},
   {"date": "1998-07-08", "venue": "Zeleste", "city": "Barcelona", "state": "Catalonia", "gap": 2, "set": "1", "jamchart": true, "jam": "Strong playing in the early section, as is the case for many '98 renditions of \"Moma\". The jam segment is extended and has some nice, ascending melodic playing in the last few minutes. Outstanding version for this period.", "next": "Bathtub Gin", "first": 1, "nb": 1},
@@ -243,9 +243,9 @@
   {"date": "2025-09-12", "venue": "Highland Festival Grounds at Kentucky Expo Center", "city": "Louisville", "state": "KY", "gap": 5, "set": "1", "prev": "46 Days", "next": "Free", "nb": 1},
   {"date": "2025-12-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 10, "set": "1", "note": "Unfinished.", "out": ">", "prev": "Chalk Dust Torture", "in": ">", "next": "Chalk Dust Torture", "nb": 1},
   {"date": "2026-01-28", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 2, "set": "1", "out": ">", "prev": "Hey Stranger", "next": "Back on the Train", "nb": 1},
-  {"date": "2026-04-25", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 8, "set": "1", "prev": "Timber (Jerry the Mule)", "next": "The Final Hurrah", "nb": 1},
-  {"date": "2026-07-08", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 4, "set": "1", "out": ">", "prev": "Sigma Oasis", "next": "Runaway Jim", "nb": 1},
-  {"date": "2026-07-19", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 7, "set": "1", "out": ">", "prev": "Ass Handed", "next": "Fast Enough for You", "nb": 1},
-  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 9, "set": "1", "nb": 1, "prev": "Sigma Oasis", "next": "Back on the Train"}
+  {"date": "2026-04-25", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 9, "set": "1", "prev": "Timber (Jerry the Mule)", "next": "The Final Hurrah", "nb": 1},
+  {"date": "2026-07-08", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 5, "set": "1", "out": ">", "prev": "Sigma Oasis", "next": "Runaway Jim", "nb": 1},
+  {"date": "2026-07-19", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 8, "set": "1", "out": ">", "prev": "Ass Handed", "next": "Fast Enough for You", "nb": 1},
+  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 10, "set": "1", "out": ">", "prev": "Sigma Oasis", "next": "Back on the Train", "nb": 1}
  ]
 }

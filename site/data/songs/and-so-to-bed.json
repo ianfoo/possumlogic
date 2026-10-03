@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2021-10-15", "venue": "Golden 1 Center", "city": "Sacramento", "state": "CA", "gap": 1886, "set": "2", "note": "Debut.", "out": ">", "nb": 1, "prev": "Ghost", "in": ">", "next": "Sigma Oasis"}
+  {"date": "2021-10-15", "venue": "Golden 1 Center", "city": "Sacramento", "state": "CA", "gap": null, "set": "2", "note": "Debut.", "out": ">", "prev": "Ghost", "in": ">", "next": "Sigma Oasis", "nb": 1}
  ]
 }

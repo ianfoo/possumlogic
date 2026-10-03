@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2011-08-08", "venue": "Hollywood Bowl", "city": "Hollywood", "state": "CA", "gap": 1542, "set": "2", "note": "Phish debut; Fish on drumkit in front of the band.", "out": "->", "nb": 1, "prev": "Weekapaug Groove", "next": "Hold Your Head Up"}
+  {"date": "2011-08-08", "venue": "Hollywood Bowl", "city": "Hollywood", "state": "CA", "gap": null, "set": "2", "note": "Phish debut; Fish on drumkit in front of the band.", "out": "->", "prev": "Weekapaug Groove", "next": "Hold Your Head Up", "nb": 1}
  ]
 }

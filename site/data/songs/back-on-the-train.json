@@ -31,7 +31,7 @@
  ],
  "performances": [
   {"date": "1999-06-24", "venue": "The Barn", "city": "Outer Burlington", "state": "VT", "gap": null, "set": "2", "next": "Windora Bug", "xprev": "Come Together", "nb": 1},
-  {"date": "1999-06-30", "venue": "Sandstone Amphitheatre", "city": "Bonner Springs", "state": "KS", "gap": 1244, "set": "1", "jamchart": true, "jam": "Debut.  Instrumental bridge (jam) between 2nd and 3rd verses, and an instrumental outro after 3rd verse.", "note": "Phish debut.", "prev": "Horn", "next": "Maze", "nb": 1},
+  {"date": "1999-06-30", "venue": "Sandstone Amphitheatre", "city": "Bonner Springs", "state": "KS", "gap": null, "set": "1", "jamchart": true, "jam": "Debut.  Instrumental bridge (jam) between 2nd and 3rd verses, and an instrumental outro after 3rd verse.", "note": "Phish debut.", "prev": "Horn", "next": "Maze", "nb": 1},
   {"date": "1999-07-01", "venue": "First American Music Center", "city": "Antioch", "state": "TN", "gap": 1, "set": "1", "jamchart": true, "jam": "Jerry Douglas on Dobro, Ronnie McCoury on mandolin, and Tim O'Brien on fiddle on this bluegrass version. Great short version!", "note": "Jerry Douglas on dobro, Ronnie McCoury on mandolin, and Tim O'Brien on fiddle.", "prev": "Water in the Sky", "next": "Poor Heart", "nb": 1},
   {"date": "1999-07-07", "venue": "Blockbuster Pavilion", "city": "Charlotte", "state": "NC", "gap": 3, "set": "1", "next": "What's the Use?", "first": 1, "nb": 1},
   {"date": "1999-07-09", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 2, "set": "1", "prev": "Farmhouse", "next": "Divided Sky", "nb": 1},
@@ -201,10 +201,10 @@
   {"date": "2025-09-13", "venue": "Coca-Cola Amphitheater", "city": "Birmingham", "state": "AL", "gap": 5, "set": "1", "next": "Cities", "first": 1, "nb": 1},
   {"date": "2025-12-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 9, "set": "1", "prev": "Chalk Dust Torture", "next": "Axilla (Part II)", "nb": 1},
   {"date": "2026-01-28", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 2, "set": "1", "prev": "The Moma Dance", "in": ">", "next": "Roggae", "nb": 1},
-  {"date": "2026-05-02", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 11, "set": "1", "prev": "Ocelot", "next": "Ether Edge", "nb": 1},
-  {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": null, "set": "1", "out": ">", "prev": "Ghost", "next": "Free", "nb": 1},
-  {"date": "2026-07-19", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 8, "set": "1", "prev": "Undermind", "in": ">", "next": "Ass Handed", "nb": 1},
-  {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 6, "set": "1", "prev": "Everything's Right", "in": "->", "next": "Free", "nb": 1},
-  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "1", "nb": 1, "prev": "The Moma Dance", "in": ">", "next": "Free"}
+  {"date": "2026-05-02", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 12, "set": "1", "prev": "Ocelot", "next": "Ether Edge", "nb": 1},
+  {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 1, "set": "1", "out": ">", "prev": "Ghost", "next": "Free", "nb": 1},
+  {"date": "2026-07-19", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 9, "set": "1", "prev": "Undermind", "in": ">", "next": "Ass Handed", "nb": 1},
+  {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 7, "set": "1", "prev": "Everything's Right", "in": "->", "next": "Free", "nb": 1},
+  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 3, "set": "1", "prev": "The Moma Dance", "in": ">", "next": "Free", "nb": 1}
  ]
 }

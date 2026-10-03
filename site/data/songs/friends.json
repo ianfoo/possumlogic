@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2016-06-29", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": null, "set": "2", "note": "Debut.", "nb": 1, "prev": "Crosseyed and Painless", "in": "->", "next": "Down with Disease"},
-  {"date": "2016-07-10", "venue": "Lakeview Amphitheater", "city": "Syracuse", "state": "NY", "gap": 7, "set": "1", "nb": 1, "prev": "Ha Ha Ha", "next": "Tube"}
+  {"date": "2016-06-29", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": null, "set": "2", "note": "Debut.", "prev": "Crosseyed and Painless", "in": "->", "next": "Down with Disease", "nb": 1},
+  {"date": "2016-07-10", "venue": "Lakeview Amphitheater", "city": "Syracuse", "state": "NY", "gap": 7, "set": "1", "prev": "Ha Ha Ha", "next": "Tube", "nb": 1}
  ]
 }

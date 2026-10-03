@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "1994-06-22", "venue": "Veterans Memorial Auditorium", "city": "Columbus", "state": "OH", "gap": 876, "set": "2", "jamchart": true, "jam": "-&gt; in from &quot;Simple.&quot; Lyrics to &quot;Simple&quot; are sung to the melody of the Allman Brothers Band's &quot;Midnight Rider.&quot; -&gt; to &quot;Catapult.&quot;", "out": "->", "nb": 1, "prev": "Simple", "in": "->", "next": "Catapult"},
-  {"date": "2024-08-14", "venue": "The Woodlands", "city": "Dover", "state": "DE", "gap": 1147, "set": "1", "out": ">", "nb": 1, "prev": "Day Tripper", "in": "->", "next": "Starship Trooper"}
+  {"date": "1994-06-22", "venue": "Veterans Memorial Auditorium", "city": "Columbus", "state": "OH", "gap": null, "set": "2", "jamchart": true, "jam": "-&gt; in from &quot;Simple.&quot; Lyrics to &quot;Simple&quot; are sung to the melody of the Allman Brothers Band's &quot;Midnight Rider.&quot; -&gt; to &quot;Catapult.&quot;", "out": "->", "prev": "Simple", "in": "->", "next": "Catapult", "nb": 1},
+  {"date": "2024-08-14", "venue": "The Woodlands", "city": "Dover", "state": "DE", "gap": 1147, "set": "1", "out": ">", "prev": "Day Tripper", "in": "->", "next": "Starship Trooper", "nb": 1}
  ]
 }

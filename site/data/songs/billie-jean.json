@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2010-06-25", "venue": "Susquehanna Bank Center", "city": "Camden", "state": "NJ", "gap": 1480, "set": "2", "jamchart": true, "jam": "-&gt; in from &quot;2001.&quot; This debut version is sandwiched inside a strong 3.0 version of &quot;2001&quot; and includes a &quot;Thriller&quot; tease. -&gt; back to &quot;2001.&quot;", "note": "Phish debut.", "out": "->", "nb": 1, "prev": "Also Sprach Zarathustra", "in": "->", "next": "Also Sprach Zarathustra"}
+  {"date": "2010-06-25", "venue": "Susquehanna Bank Center", "city": "Camden", "state": "NJ", "gap": null, "set": "2", "jamchart": true, "jam": "-&gt; in from &quot;2001.&quot; This debut version is sandwiched inside a strong 3.0 version of &quot;2001&quot; and includes a &quot;Thriller&quot; tease. -&gt; back to &quot;2001.&quot;", "note": "Phish debut.", "out": "->", "prev": "Also Sprach Zarathustra", "in": "->", "next": "Also Sprach Zarathustra", "nb": 1}
  ]
 }

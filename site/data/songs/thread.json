@@ -14,13 +14,13 @@
   {"date": "2017-07-25", "score": 35, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/33823"}
  ],
  "performances": [
-  {"date": "2017-07-16", "venue": "Huntington Bank Pavilion at Northerly Island", "city": "Chicago", "state": "IL", "gap": 1761, "set": "2", "note": "Debut.", "nb": 1, "prev": "Piper", "in": ">", "next": "Bathtub Gin"},
-  {"date": "2017-07-25", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 6, "set": "2", "out": ">", "nb": 1, "prev": "Fuego", "in": ">", "next": "Crosseyed and Painless"},
-  {"date": "2018-08-10", "venue": "Coastal Credit Union Music Park at Walnut Creek", "city": "Raleigh", "state": "NC", "gap": 32, "set": "2", "out": ">", "nb": 1, "prev": "NICU", "in": ">", "next": "Runaway Jim"},
-  {"date": "2019-07-06", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 44, "set": "1", "nb": 1, "prev": "Set Your Soul Free", "in": ">", "next": "Wolfman's Brother"},
-  {"date": "2021-08-01", "venue": "Ameris Bank Amphitheatre", "city": "Alpharetta", "state": "GA", "gap": 28, "set": "1", "nb": 1, "prev": "Sparkle", "next": "Meat"},
-  {"date": "2021-09-01", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 15, "set": "1", "nb": 1, "prev": "Brian and Robert", "next": "The Wedge"},
-  {"date": "2024-07-21", "venue": "Xfinity Center", "city": "Mansfield", "state": "MA", "gap": 123, "set": "1", "nb": 1, "prev": "The Connection", "next": "Joy"},
-  {"date": "2025-07-13", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 55, "set": "1", "jamchart": true, "jam": "\"Thread\" finally delivers on its initial improvisational promise with a knotty \n,urgent exploration. Using its odd meter as a launch point, the jam holds\ntight to the bar line, with Trey, Mike and Page's effects-laced play\ncreating a dense landscape that grows tenser and slightly dissonant as \nit moves along. The howling refrain of \"You're Alone!\" emerges from the \nmorass of sound to close it out.", "nb": 1, "prev": "Wolfman's Brother", "next": "Stash"}
+  {"date": "2017-07-16", "venue": "Huntington Bank Pavilion at Northerly Island", "city": "Chicago", "state": "IL", "gap": null, "set": "2", "note": "Debut.", "prev": "Piper", "in": ">", "next": "Bathtub Gin", "nb": 1},
+  {"date": "2017-07-25", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 6, "set": "2", "out": ">", "prev": "Fuego", "in": ">", "next": "Crosseyed and Painless", "nb": 1},
+  {"date": "2018-08-10", "venue": "Coastal Credit Union Music Park at Walnut Creek", "city": "Raleigh", "state": "NC", "gap": 32, "set": "2", "out": ">", "prev": "NICU", "in": ">", "next": "Runaway Jim", "nb": 1},
+  {"date": "2019-07-06", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 44, "set": "1", "prev": "Set Your Soul Free", "in": ">", "next": "Wolfman's Brother", "nb": 1},
+  {"date": "2021-08-01", "venue": "Ameris Bank Amphitheatre", "city": "Alpharetta", "state": "GA", "gap": 28, "set": "1", "prev": "Sparkle", "next": "Meat", "nb": 1},
+  {"date": "2021-09-01", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 15, "set": "1", "prev": "Brian and Robert", "next": "The Wedge", "nb": 1},
+  {"date": "2024-07-21", "venue": "Xfinity Center", "city": "Mansfield", "state": "MA", "gap": 123, "set": "1", "prev": "The Connection", "next": "Joy", "nb": 1},
+  {"date": "2025-07-13", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 55, "set": "1", "jamchart": true, "jam": "\"Thread\" finally delivers on its initial improvisational promise with a knotty \n,urgent exploration. Using its odd meter as a launch point, the jam holds\ntight to the bar line, with Trey, Mike and Page's effects-laced play\ncreating a dense landscape that grows tenser and slightly dissonant as \nit moves along. The howling refrain of \"You're Alone!\" emerges from the \nmorass of sound to close it out.", "prev": "Wolfman's Brother", "next": "Stash", "nb": 1}
  ]
 }

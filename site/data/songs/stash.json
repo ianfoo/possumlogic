@@ -29,7 +29,7 @@
   {"date": "2025-06-21", "score": 82, "venue": "SNHU Arena", "city": "Manchester", "state": "NH", "link": "https://fouldomain.com/tracks/39391"}
  ],
  "performances": [
-  {"date": "1990-09-13", "venue": "The Wetlands Preserve", "city": "New York", "state": "NY", "gap": 406, "set": "2", "jamchart": true, "jam": "Debut is straightforward but well-received by the audience.", "note": "Debut.", "prev": "Magilla", "next": "Goin' Down Slow", "nb": 1},
+  {"date": "1990-09-13", "venue": "The Wetlands Preserve", "city": "New York", "state": "NY", "gap": null, "set": "2", "jamchart": true, "jam": "Debut is straightforward but well-received by the audience.", "note": "Debut.", "prev": "Magilla", "next": "Goin' Down Slow", "nb": 1},
   {"date": "1990-09-14", "venue": "The Living Room", "city": "Providence", "state": "RI", "gap": 1, "set": "1", "prev": "Paul and Silas", "next": "Dinner and a Movie", "nb": 1},
   {"date": "1990-09-15", "venue": "The Colonial Theatre", "city": "Keene", "state": "NH", "gap": 1, "set": "1", "prev": "Golgi Apparatus", "next": "Magilla", "nb": 1},
   {"date": "1990-09-20", "venue": "Somerville Theatre", "city": "Somerville", "state": "MA", "gap": 4, "set": "2", "prev": "Funky Bitch", "next": "Uncle Pen", "nb": 1},
@@ -37,7 +37,7 @@
   {"date": "1990-09-22", "venue": "Student Union Ballroom, University of Massachusetts", "city": "Amherst", "state": "MA", "gap": 1, "set": "2", "prev": "Bouncing Around the Room", "next": "The Lizards", "nb": 1},
   {"date": "1990-09-28", "venue": "The Chance", "city": "Poughkeepsie", "state": "NY", "gap": 2, "set": "1", "prev": "Suzy Greenberg", "next": "My Sweet One", "nb": 1},
   {"date": "1990-09-29", "venue": "23 East Cabaret", "city": "Ardmore", "state": "PA", "gap": 1, "set": "2", "prev": "Uncle Pen", "next": "Mike's Song", "nb": 1},
-  {"date": "1990-10-01", "venue": "The Haunt", "city": "Ithaca", "state": "NY", "gap": 2, "set": "2", "prev": "The Asse Festival", "next": "Runaway Jim", "nb": 1},
+  {"date": "1990-10-01", "venue": "The Haunt", "city": "Ithaca", "state": "NY", "gap": null, "set": "2", "prev": "The Asse Festival", "next": "Runaway Jim", "nb": 1},
   {"date": "1990-10-03", "venue": "Thunderbird's", "city": "Portland", "state": "ME", "gap": 1, "set": "1", "prev": "Uncle Pen", "next": "Divided Sky", "nb": 1},
   {"date": "1990-10-05", "venue": "Skidmore Gymnasium, Skidmore College", "city": "Saratoga Springs", "state": "NY", "gap": 2, "set": "1", "prev": "Suzy Greenberg", "next": "The Asse Festival", "nb": 1},
   {"date": "1990-10-07", "venue": "Club Bene", "city": "Sayreville", "state": "NJ", "gap": 2, "set": "1", "prev": "Uncle Pen", "next": "The Landlady", "nb": 1},
@@ -186,8 +186,8 @@
   {"date": "1993-03-25", "venue": "Santa Cruz Civic Auditorium", "city": "Santa Cruz", "state": "CA", "gap": 2, "set": "1", "jamchart": true, "jam": "The jam leaves the standard behind, comes back, leaves again on a different tangent, and finally returns to wrap up.", "prev": "Bouncing Around the Room", "next": "Glide", "nb": 1},
   {"date": "1993-03-27", "venue": "Warfield Theatre", "city": "San Francisco", "state": "CA", "gap": 2, "set": "1", "prev": "Rift", "next": "Reba", "nb": 1},
   {"date": "1993-03-30", "venue": "Hilton Ballroom", "city": "Eugene", "state": "OR", "gap": 2, "set": "1", "jamchart": true, "jam": "Spectacularly improvisational and MUST-HEAR . Takes \"Stash\" WELL beyond anything performed up to this date. Starts exploring right off the bat with an un-\"Stash\"-like groove, a brief \"CYHMK\" jam, and a power finish.", "prev": "Esther", "next": "Glide", "nb": 1},
-  {"date": "1993-04-01", "venue": "Roseland Theater", "city": "Portland", "state": "OR", "gap": 3, "set": "1", "jamchart": true, "jam": "Moves beyond \"Stash\" at about 7:00 for a good 2 minutes of exploration before returning.", "prev": "Rift", "next": "The Squirming Coil", "nb": 1},
-  {"date": "1993-04-03", "venue": "86th Street Music Hall", "city": "Vancouver", "state": "British Columbia", "gap": 2, "set": "2", "jamchart": true, "jam": "Fantastic improvisation in a very cool and very different jam than most. Mike and Fish are awesome keeping pace with Trey, who excels. Dissonant and blistering ending.", "prev": "Suzy Greenberg", "in": ">", "next": "Mound", "nb": 1},
+  {"date": "1993-04-01", "venue": "Roseland Theater", "city": "Portland", "state": "OR", "gap": 2, "set": "1", "jamchart": true, "jam": "Moves beyond \"Stash\" at about 7:00 for a good 2 minutes of exploration before returning.", "prev": "Rift", "next": "The Squirming Coil", "nb": 1},
+  {"date": "1993-04-03", "venue": "86th Street Music Hall", "city": "Vancouver", "state": "British Columbia", "gap": 3, "set": "2", "jamchart": true, "jam": "Fantastic improvisation in a very cool and very different jam than most. Mike and Fish are awesome keeping pace with Trey, who excels. Dissonant and blistering ending.", "prev": "Suzy Greenberg", "in": ">", "next": "Mound", "nb": 1},
   {"date": "1993-04-05", "venue": "HUB Ballroom", "city": "Seattle", "state": "WA", "gap": 1, "set": "1", "jamchart": true, "jam": "Excellent, very exploratory version that includes some \"DEG\"-like jamming. Well beyond \"Stash\" proper.", "prev": "Paul and Silas", "next": "Colonel Forbin's Ascent", "nb": 1},
   {"date": "1993-04-09", "venue": "State Theatre", "city": "Minneapolis", "state": "MN", "gap": 1, "set": "1", "jamchart": true, "jam": "Several minutes of growly, percussive, dissonant, and atypical jamming.", "prev": "Guelah Papyrus", "next": "The Horse", "nb": 1},
   {"date": "1993-04-12", "venue": "Iowa Memorial Union Main Lounge, University of Iowa", "city": "Iowa City", "state": "IA", "gap": 2, "set": "1", "jamchart": true, "jam": "Brain-splitting tension and dissonance on display here. The ending release is welcome relief!", "prev": "Poor Heart", "in": ">", "next": "The Horse", "nb": 1},
@@ -489,9 +489,9 @@
   {"date": "2025-09-14", "venue": "Coca-Cola Amphitheater", "city": "Birmingham", "state": "AL", "gap": 7, "set": "1", "prev": "Weekapaug Groove", "next": "Cavern", "nb": 1},
   {"date": "2025-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 9, "set": "1", "prev": "Bouncing Around the Room", "next": "Waste", "nb": 1},
   {"date": "2026-01-29", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 2, "set": "1", "prev": "Brian and Robert", "next": "Ya Mar", "nb": 1},
-  {"date": "2026-04-23", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 5, "set": "1", "prev": "Brian and Robert", "next": "Moonage Daydream", "nb": 1},
-  {"date": "2026-07-12", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 9, "set": "1", "prev": "Mountains in the Mist", "xnext": "Simple", "nb": 1},
-  {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 6, "set": "1", "prev": "Axilla", "next": "Cold as Ice", "nb": 1},
-  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 5, "set": "1", "nb": 1, "prev": "Chalk Dust Torture", "in": ">", "next": "Tweezer"}
+  {"date": "2026-04-23", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 6, "set": "1", "prev": "Brian and Robert", "next": "Moonage Daydream", "nb": 1},
+  {"date": "2026-07-12", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 10, "set": "1", "prev": "Mountains in the Mist", "xnext": "Simple", "nb": 1},
+  {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "1", "prev": "Axilla", "next": "Cold as Ice", "nb": 1},
+  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 6, "set": "1", "note": "Unfinished.", "out": "->", "prev": "Chalk Dust Torture", "in": ">", "next": "Tweezer", "nb": 1}
  ]
 }

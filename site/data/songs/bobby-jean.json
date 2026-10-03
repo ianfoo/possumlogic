@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2009-06-14", "venue": "Bonnaroo Music & Arts Festival", "city": "Manchester", "state": "TN", "gap": 1432, "set": "1", "note": "Phish debut; Bruce Springsteen on guitar and vocals.", "out": ">", "nb": 1, "prev": "Mustang Sally", "next": "Glory Days"}
+  {"date": "2009-06-14", "venue": "Bonnaroo Music & Arts Festival", "city": "Manchester", "state": "TN", "gap": null, "set": "1", "note": "Phish debut; Bruce Springsteen on guitar and vocals.", "out": ">", "prev": "Mustang Sally", "next": "Glory Days", "nb": 1}
  ]
 }

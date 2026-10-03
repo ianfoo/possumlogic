@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2010-03-15", "venue": "The Waldorf Astoria", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Phish Debut.", "nb": 1, "prev": "Watcher of the Skies", "last": 1}
+  {"date": "2010-03-15", "venue": "The Waldorf Astoria", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Phish Debut.", "prev": "Watcher of the Skies", "last": 1, "nb": 1}
  ]
 }

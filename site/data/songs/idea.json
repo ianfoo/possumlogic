@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2010-06-15", "venue": "nTelos Pavilion", "city": "Portsmouth", "state": "VA", "gap": 1473, "set": "2", "note": "Debut.", "out": ">", "nb": 1, "prev": "46 Days", "in": ">", "next": "Also Sprach Zarathustra"}
+  {"date": "2010-06-15", "venue": "nTelos Pavilion", "city": "Portsmouth", "state": "VA", "gap": null, "set": "2", "note": "Debut.", "out": ">", "prev": "46 Days", "in": ">", "next": "Also Sprach Zarathustra", "nb": 1}
  ]
 }

@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2010-06-26", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 1481, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Tube", "next": "Stash"}
+  {"date": "2010-06-26", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Tube", "next": "Stash", "nb": 1}
  ]
 }

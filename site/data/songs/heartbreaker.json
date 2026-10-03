@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2010-10-30", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 1512, "set": "2", "note": "Phish debut; Incomplete.", "out": "->", "nb": 1, "prev": "Tweezer", "in": "->", "next": "Tweezer"},
-  {"date": "2013-07-16", "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "gap": 89, "set": "2", "jamchart": true, "jam": "-&gt; in from &quot;Rock And Roll.&quot; Nice funky take on this Led Zeppelin tune follows a funky &quot;Rock And Roll&quot; jam. -&gt; to &quot;Makisupa.&quot;", "note": "Incomplete.", "out": "->", "nb": 1, "prev": "Rock and Roll", "in": "->", "next": "Makisupa Policeman"}
+  {"date": "2010-10-30", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "note": "Phish debut; Incomplete.", "out": "->", "prev": "Tweezer", "in": "->", "next": "Tweezer", "nb": 1},
+  {"date": "2013-07-16", "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "gap": 90, "set": "2", "jamchart": true, "jam": "-&gt; in from &quot;Rock And Roll.&quot; Nice funky take on this Led Zeppelin tune follows a funky &quot;Rock And Roll&quot; jam. -&gt; to &quot;Makisupa.&quot;", "note": "Incomplete.", "out": "->", "prev": "Rock and Roll", "in": "->", "next": "Makisupa Policeman", "nb": 1}
  ]
 }

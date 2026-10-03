@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "1998-10-31", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 1223, "set": "2", "note": "Phish debut.", "nb": 1, "prev": "New Age", "next": "Lonesome Cowboy Bill"},
-  {"date": "2012-07-04", "venue": "Nikon at Jones Beach Theater", "city": "Wantagh", "state": "NY", "gap": 358, "set": "1", "nb": 1, "prev": "Alumni Blues", "next": "The Man Who Stepped Into Yesterday"}
+  {"date": "1998-10-31", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Phish debut.", "prev": "New Age", "next": "Lonesome Cowboy Bill", "nb": 1},
+  {"date": "2012-07-04", "venue": "Nikon at Jones Beach Theater", "city": "Wantagh", "state": "NY", "gap": 358, "set": "1", "prev": "Alumni Blues", "next": "The Man Who Stepped Into Yesterday", "nb": 1}
  ]
 }

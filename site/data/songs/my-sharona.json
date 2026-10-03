@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2024-08-14", "venue": "The Woodlands", "city": "Dover", "state": "DE", "gap": null, "set": "1", "out": ">", "nb": 1, "prev": "Mystery Achievement", "in": "->", "next": "Slow Ride"}
+  {"date": "2024-08-14", "venue": "The Woodlands", "city": "Dover", "state": "DE", "gap": null, "set": "1", "out": ">", "prev": "Mystery Achievement", "in": "->", "next": "Slow Ride", "nb": 1}
  ]
 }

@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2010-06-12", "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "gap": 1471, "set": "1", "note": "Phish debut.", "nb": 1, "first": 1, "next": "Ocelot"}
+  {"date": "2010-06-12", "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "gap": null, "set": "1", "note": "Phish debut.", "next": "Ocelot", "first": 1, "nb": 1}
  ]
 }

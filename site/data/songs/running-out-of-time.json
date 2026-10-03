@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2016-10-19", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": 1739, "set": "1", "note": "Debut.", "nb": 1, "prev": "Halfway to the Moon", "next": "Tube"},
-  {"date": "2016-10-24", "venue": "Verizon Theatre at Grand Prairie", "city": "Grand Prairie", "state": "TX", "gap": 3, "set": "1", "out": ">", "nb": 1, "prev": "Saw It Again", "next": "David Bowie"}
+  {"date": "2016-10-19", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": null, "set": "1", "note": "Debut.", "prev": "Halfway to the Moon", "next": "Tube", "nb": 1},
+  {"date": "2016-10-24", "venue": "Verizon Theatre at Grand Prairie", "city": "Grand Prairie", "state": "TX", "gap": 3, "set": "1", "out": ">", "prev": "Saw It Again", "next": "David Bowie", "nb": 1}
  ]
 }

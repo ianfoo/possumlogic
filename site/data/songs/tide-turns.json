@@ -3,15 +3,21 @@
  "slug": "tide-turns",
  "artist": "Phish",
  "best": [
-
+  {"date": "2018-07-28", "score": 58, "venue": "The Forum", "city": "Inglewood", "state": "CA", "link": "https://fouldomain.com/tracks/34289"},
+  {"date": "2016-10-18", "score": 52, "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "link": "https://fouldomain.com/tracks/33310"},
+  {"date": "2016-12-31", "score": 48, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/33604"},
+  {"date": "2016-10-25", "score": 43, "venue": "Verizon Theatre at Grand Prairie", "city": "Grand Prairie", "state": "TX", "link": "https://fouldomain.com/tracks/33423"},
+  {"date": "2016-06-29", "score": 41, "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "link": "https://fouldomain.com/tracks/32803"},
+  {"date": "2016-07-15", "score": 36, "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "link": "https://fouldomain.com/tracks/32978"},
+  {"date": "2016-07-06", "score": 33, "venue": "Cross Insurance Arena", "city": "Portland", "state": "ME", "link": "https://fouldomain.com/tracks/32893"}
  ],
  "performances": [
-  {"date": "2016-06-29", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": null, "set": "2", "note": "Debut.", "nb": 1, "prev": "The Line", "next": "Backwards Down the Number Line"},
-  {"date": "2016-07-06", "venue": "Cross Insurance Arena", "city": "Portland", "state": "ME", "gap": 4, "set": "2", "out": ">", "nb": 1, "prev": "Mike's Song", "in": ">", "next": "Devotion to a Dream"},
-  {"date": "2016-07-15", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 4, "set": "1", "nb": 1, "prev": "The Line", "next": "Rift"},
-  {"date": "2016-10-18", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": 14, "set": "1", "nb": 1, "prev": "Sand", "next": "46 Days"},
-  {"date": "2016-10-25", "venue": "Verizon Theatre at Grand Prairie", "city": "Grand Prairie", "state": "TX", "gap": 5, "set": "2", "out": ">", "nb": 1, "prev": "The Line", "next": "Taste"},
-  {"date": "2016-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 8, "set": "3", "note": "James Casey on saxophone, Natalie Cressman on trombone, Jennifer Hartswick on trumpet, and Andres Forero on percussion.", "nb": 1, "prev": "Breath and Burning", "next": "555"},
-  {"date": "2018-07-28", "venue": "The Forum", "city": "Inglewood", "state": "CA", "gap": 37, "set": "1", "nb": 1, "prev": "Your Pet Cat", "next": "No Men In No Man's Land"}
+  {"date": "2016-06-29", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": null, "set": "2", "note": "Debut.", "prev": "The Line", "next": "Backwards Down the Number Line", "nb": 1},
+  {"date": "2016-07-06", "venue": "Cross Insurance Arena", "city": "Portland", "state": "ME", "gap": 4, "set": "2", "out": ">", "prev": "Mike's Song", "in": ">", "next": "Devotion to a Dream", "nb": 1},
+  {"date": "2016-07-15", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 4, "set": "1", "prev": "The Line", "next": "Rift", "nb": 1},
+  {"date": "2016-10-18", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": 15, "set": "1", "prev": "Sand", "next": "46 Days", "nb": 1},
+  {"date": "2016-10-25", "venue": "Verizon Theatre at Grand Prairie", "city": "Grand Prairie", "state": "TX", "gap": 5, "set": "2", "out": ">", "prev": "The Line", "next": "Taste", "nb": 1},
+  {"date": "2016-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 8, "set": "3", "note": "James Casey on saxophone, Natalie Cressman on trombone, Jennifer Hartswick on trumpet, and Andres Forero on percussion.", "prev": "Breath and Burning", "next": "555", "nb": 1},
+  {"date": "2018-07-28", "venue": "The Forum", "city": "Inglewood", "state": "CA", "gap": 37, "set": "1", "prev": "Your Pet Cat", "next": "No Men In No Man's Land", "nb": 1}
  ]
 }

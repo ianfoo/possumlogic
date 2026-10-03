@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2017-07-23", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1762, "set": "1", "note": "Phish debut. Trey on drums.", "nb": 1, "first": 1, "next": "Axilla"}
+  {"date": "2017-07-23", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Phish debut. Trey on drums.", "next": "Axilla", "first": 1, "nb": 1}
  ]
 }

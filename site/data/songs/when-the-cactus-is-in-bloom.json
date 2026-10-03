@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2009-06-09", "venue": "Asheville Civic Center", "city": "Asheville", "state": "NC", "gap": 1429, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Divided Sky", "next": "Bold As Love"}
+  {"date": "2009-06-09", "venue": "Asheville Civic Center", "city": "Asheville", "state": "NC", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Divided Sky", "next": "Bold As Love", "nb": 1}
  ]
 }

@@ -8,10 +8,10 @@
   {"date": "2023-10-08", "score": 30, "venue": "Bridgestone Arena", "city": "Nashville", "state": "TN", "link": "https://fouldomain.com/tracks/38171"}
  ],
  "performances": [
-  {"date": "2019-09-01", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1851, "set": "2", "note": "Phish debut.", "nb": 1, "xprev": "Bathtub Gin", "next": "Fuego"},
-  {"date": "2023-10-08", "venue": "Bridgestone Arena", "city": "Nashville", "state": "TN", "gap": 138, "set": "1", "nb": 1, "prev": "Free", "next": "Undermind"},
-  {"date": "2025-01-31", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 53, "set": "2", "jamchart": true, "jam": "In just the third outing of this sparsely-played GOTF tune, the band significantly extends the groove and ups the intensity down the homestretch for a strong Type I jam.", "nb": 1, "prev": "Oblivion", "next": "Prince Caspian"},
-  {"date": "2025-07-11", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 19, "set": "2", "jamchart": true, "jam": "Sets a new standard for \"Sightless Escape\" with a lengthy exploration of the song's groove before eventually turning bright and sunny buoyed by synths and then -> \"CDT\".", "out": "->", "nb": 1, "prev": "The Well", "next": "Chalk Dust Torture"},
-  {"date": "2026-07-15", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 43, "set": "2", "nb": 1, "xprev": "Drift While You're Sleeping", "next": "A Song I Heard the Ocean Sing"}
+  {"date": "2019-09-01", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": null, "set": "2", "note": "Phish debut.", "next": "Fuego", "xprev": "Bathtub Gin", "nb": 1},
+  {"date": "2023-10-08", "venue": "Bridgestone Arena", "city": "Nashville", "state": "TN", "gap": 138, "set": "1", "prev": "Free", "next": "Undermind", "nb": 1},
+  {"date": "2025-01-31", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 53, "set": "2", "jamchart": true, "jam": "In just the third outing of this sparsely-played GOTF tune, the band significantly extends the groove and ups the intensity down the homestretch for a strong Type I jam.", "prev": "Oblivion", "next": "Prince Caspian", "nb": 1},
+  {"date": "2025-07-11", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 20, "set": "2", "jamchart": true, "jam": "Sets a new standard for \"Sightless Escape\" with a lengthy exploration of the song's groove before eventually turning bright and sunny buoyed by synths and then -> \"CDT\".", "out": "->", "prev": "The Well", "next": "Chalk Dust Torture", "nb": 1},
+  {"date": "2026-07-15", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 44, "set": "2", "next": "A Song I Heard the Ocean Sing", "xprev": "Drift While You're Sleeping", "nb": 1}
  ]
 }

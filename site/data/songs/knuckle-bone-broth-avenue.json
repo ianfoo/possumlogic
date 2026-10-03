@@ -3,11 +3,14 @@
  "slug": "knuckle-bone-broth-avenue",
  "artist": "Phish",
  "best": [
-
+  {"date": "2022-05-28", "score": 57, "venue": "The Wharf Amphitheater", "city": "Orange Beach", "state": "AL", "link": "https://fouldomain.com/tracks/36740"},
+  {"date": "2022-06-01", "score": 50, "venue": "Credit One Stadium", "city": "Charleston", "state": "SC", "link": "https://fouldomain.com/tracks/36799"},
+  {"date": "2021-10-31", "score": 49, "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/36529"},
+  {"date": "2024-08-04", "score": 31, "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "link": "https://fouldomain.com/tracks/38748"}
  ],
  "performances": [
-  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1902, "set": "2", "note": "Debut.", "nb": 1, "xprev": "David Bowie", "next": "Get More Down"},
-  {"date": "2022-06-01", "venue": "Credit One Stadium", "city": "Charleston", "state": "SC", "gap": 14, "set": "1", "nb": 1, "prev": "Foam", "next": "Dirt"},
-  {"date": "2024-08-04", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 102, "set": "1", "nb": 1, "prev": "The Final Hurrah", "next": "Stealing Time From the Faulty Plan"}
+  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "next": "Get More Down", "xprev": "David Bowie", "nb": 1},
+  {"date": "2022-06-01", "venue": "Credit One Stadium", "city": "Charleston", "state": "SC", "gap": 14, "set": "1", "prev": "Foam", "next": "Dirt", "nb": 1},
+  {"date": "2024-08-04", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 103, "set": "1", "prev": "The Final Hurrah", "next": "Stealing Time From the Faulty Plan", "nb": 1}
  ]
 }

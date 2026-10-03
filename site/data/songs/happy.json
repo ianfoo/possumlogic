@@ -3,9 +3,26 @@
  "slug": "happy",
  "artist": "Phish",
  "best": [
-
+  {"date": "1999-07-25", "score": 82, "venue": "Deer Creek Music Center", "city": "Noblesville", "state": "IN", "link": "https://fouldomain.com/tracks/23243"},
+  {"date": "1987-09-21", "score": 66, "venue": "Nectar's", "city": "Burlington", "state": "VT", "link": "https://fouldomain.com/tracks/1985"},
+  {"date": "1987-03-06", "score": 55, "venue": "Goddard College", "city": "Plainfield", "state": "VT", "link": "https://fouldomain.com/tracks/1743"},
+  {"date": "2015-12-31", "score": 55, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/32565"},
+  {"date": "2023-07-23", "score": 53, "venue": "St. Joseph's Health Amphitheater at Lakeview", "city": "Syracuse", "state": "NY", "link": "https://fouldomain.com/tracks/37825"},
+  {"date": "2015-08-21", "score": 52, "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "link": "https://fouldomain.com/tracks/32394"},
+  {"date": "1990-02-10", "score": 50, "venue": "23 East Cabaret", "city": "Ardmore", "state": "PA", "link": "https://fouldomain.com/tracks/4576"},
+  {"date": "1991-09-30", "score": 50, "venue": "The Dugout Lounge, Ohio University", "city": "Athens", "state": "OH", "link": "https://fouldomain.com/tracks/8606"},
+  {"date": "1988-03-22", "score": 49, "venue": "Nectar's", "city": "Burlington", "state": "VT", "link": "https://fouldomain.com/tracks/2292"},
+  {"date": "1990-09-29", "score": 49, "venue": "23 East Cabaret", "city": "Ardmore", "state": "PA", "link": "https://fouldomain.com/tracks/5886"},
+  {"date": "2009-03-08", "score": 49, "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "link": "https://fouldomain.com/tracks/26258"},
+  {"date": "2016-06-25", "score": 49, "venue": "Wrigley Field", "city": "Chicago", "state": "IL", "link": "https://fouldomain.com/tracks/32729"},
+  {"date": "2013-07-26", "score": 48, "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "link": "https://fouldomain.com/tracks/30463"},
+  {"date": "1988-02-07", "score": 46, "venue": "Nectar's", "city": "Burlington", "state": "VT", "link": "https://fouldomain.com/tracks/2136"},
+  {"date": "1988-05-22", "score": 36, "venue": "Nectar's", "city": "Burlington", "state": "VT", "link": "https://fouldomain.com/tracks/2378"},
+  {"date": "1991-07-26", "score": 35, "venue": "The Georgia Theatre", "city": "Athens", "state": "GA", "link": "https://fouldomain.com/tracks/8411"},
+  {"date": "2023-07-18", "score": 35, "venue": "Live Oak Bank Pavilion at Riverfront Park", "city": "Wilmington", "state": "NC", "link": "https://fouldomain.com/tracks/37748"},
+  {"date": "1988-07-12", "score": 32, "venue": "Sam's Tavern", "city": "Burlington", "state": "VT", "link": "https://fouldomain.com/tracks/2552"}
  ],
  "performances": [
-  {"date": "2009-10-31", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": 1451, "set": "2", "note": "Phish debut; Sharon Jones and Saundra Williams on backup vocals, Dave Guy on trumpet, David Smith on trombone, and Tony Jarvis on saxophone.", "nb": 1, "prev": "Loving Cup", "next": "Turd on the Run"}
+  {"date": "2009-10-31", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": null, "set": "2", "note": "Phish debut; Sharon Jones and Saundra Williams on backup vocals, Dave Guy on trumpet, David Smith on trombone, and Tony Jarvis on saxophone.", "prev": "Loving Cup", "next": "Turd on the Run", "nb": 1}
  ]
 }

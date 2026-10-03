@@ -3,14 +3,18 @@
  "slug": "melt-the-guns",
  "artist": "Phish",
  "best": [
-
+  {"date": "2026-09-06", "score": 71, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/387244"},
+  {"date": "1986-10-31", "score": 63, "venue": "Sculpture Room, Goddard College", "city": "Plainfield", "state": "VT", "link": "https://fouldomain.com/tracks/1645"},
+  {"date": "1987-04-29", "score": 56, "venue": "Nectar's", "city": "Burlington", "state": "VT", "link": "https://fouldomain.com/tracks/1787"},
+  {"date": "1987-02-13", "score": 54, "venue": "Johnson State College", "city": "Johnson", "state": "VT", "link": "https://fouldomain.com/tracks/1715"},
+  {"date": "2026-07-31", "score": 54, "venue": "Fenway Park", "city": "Boston", "state": "MA", "link": "https://fouldomain.com/tracks/223061"}
  ],
  "performances": [
-  {"date": "1985-09-27", "venue": "Slade Hall, University of Vermont", "city": "Burlington", "state": "VT", "gap": 25, "set": "2", "note": "First known version; with a macaroni and cheese vocal jam. Audience shook boxes of macaroni and cheese.", "out": ">"},
+  {"date": "1985-09-27", "venue": "Slade Hall, University of Vermont", "city": "Burlington", "state": "VT", "gap": null, "set": "2", "note": "First known version; with a macaroni and cheese vocal jam. Audience shook boxes of macaroni and cheese.", "out": ">"},
   {"date": "1986-10-31", "venue": "Sculpture Room, Goddard College", "city": "Plainfield", "state": "VT", "gap": 24, "set": "1", "out": "->"},
-  {"date": "1987-02-13", "venue": "Johnson State College", "city": "Johnson", "state": "VT", "gap": 11, "set": "2", "out": "->"},
+  {"date": "1987-02-13", "venue": "Johnson State College", "city": "Johnson", "state": "VT", "gap": 10, "set": "2", "out": "->"},
   {"date": "1987-04-29", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": 7, "set": "2", "out": "->"},
-  {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 2051, "set": "2", "note": "Trey on mini drum kit.", "prev": "Fuego", "in": ">", "next": "A Wave of Hope", "nb": 1},
-  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 3, "set": "2", "nb": 1, "prev": "Fuego", "in": ">", "next": "Light"}
+  {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 2052, "set": "2", "note": "Trey on mini drum kit.", "prev": "Fuego", "in": ">", "next": "A Wave of Hope", "nb": 1},
+  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 4, "set": "2", "out": ">", "prev": "Fuego", "in": ">", "next": "Light", "nb": 1}
  ]
 }

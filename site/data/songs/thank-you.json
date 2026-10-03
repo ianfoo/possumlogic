@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2010-10-30", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 1512, "set": "2", "note": "Phish debut; Incomplete.", "out": "->", "nb": 1, "prev": "Ramble On", "in": "->", "next": "Tweezer"}
+  {"date": "2010-10-30", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "note": "Phish debut; Incomplete.", "out": "->", "prev": "Ramble On", "in": "->", "next": "Tweezer", "nb": 1}
  ]
 }

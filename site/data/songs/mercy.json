@@ -28,12 +28,12 @@
   {"date": "2011-06-04", "score": 33, "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "link": "https://fouldomain.com/tracks/28544"}
  ],
  "performances": [
-  {"date": "2023-07-18", "venue": "Live Oak Bank Pavilion at Riverfront Park", "city": "Wilmington", "state": "NC", "gap": 1967, "set": "2", "note": "Phish debut.", "nb": 1, "prev": "Light", "in": ">", "next": "Twenty Years Later"},
-  {"date": "2023-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 28, "set": "e", "nb": 1, "xprev": "Blaze On", "next": "The Squirming Coil"},
-  {"date": "2024-02-24", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 7, "set": "1", "nb": 1, "prev": "Wolfman's Brother", "next": "Rift"},
-  {"date": "2024-04-19", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 2, "set": "1", "nb": 1, "prev": "Axilla (Part II)", "next": "Bathtub Gin"},
-  {"date": "2024-07-23", "venue": "Mohegan Sun Arena", "city": "Uncasville", "state": "CT", "gap": 6, "set": "2", "nb": 1, "prev": "Piper", "in": ">", "next": "Everything's Right"},
-  {"date": "2025-02-01", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 33, "set": "2", "nb": 1, "prev": "Tweezer", "in": "->", "next": "Also Sprach Zarathustra"},
-  {"date": "2025-07-16", "venue": "TD Pavilion at the Mann", "city": "Philadelphia", "state": "PA", "gap": 23, "set": "2", "out": ">", "nb": 1, "prev": "A Wave of Hope", "in": "->", "next": "Simple"}
+  {"date": "2023-07-18", "venue": "Live Oak Bank Pavilion at Riverfront Park", "city": "Wilmington", "state": "NC", "gap": null, "set": "2", "note": "Phish debut.", "prev": "Light", "in": ">", "next": "Twenty Years Later", "nb": 1},
+  {"date": "2023-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 28, "set": "e", "next": "The Squirming Coil", "xprev": "Blaze On", "nb": 1},
+  {"date": "2024-02-24", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 7, "set": "1", "prev": "Wolfman's Brother", "next": "Rift", "nb": 1},
+  {"date": "2024-04-19", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 2, "set": "1", "prev": "Axilla (Part II)", "next": "Bathtub Gin", "nb": 1},
+  {"date": "2024-07-23", "venue": "Mohegan Sun Arena", "city": "Uncasville", "state": "CT", "gap": 6, "set": "2", "prev": "Piper", "in": ">", "next": "Everything's Right", "nb": 1},
+  {"date": "2025-02-01", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 33, "set": "2", "prev": "Tweezer", "in": "->", "next": "Also Sprach Zarathustra", "nb": 1},
+  {"date": "2025-07-16", "venue": "TD Pavilion at the Mann", "city": "Philadelphia", "state": "PA", "gap": 23, "set": "2", "out": ">", "prev": "A Wave of Hope", "in": "->", "next": "Simple", "nb": 1}
  ]
 }

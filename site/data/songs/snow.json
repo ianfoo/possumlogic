@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2013-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 1628, "set": "2", "note": "Debut; Acoustic.", "nb": 1, "prev": "Wombat", "next": "Devotion to a Dream"}
+  {"date": "2013-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "note": "Debut; Acoustic.", "prev": "Wombat", "next": "Devotion to a Dream", "nb": 1}
  ]
 }

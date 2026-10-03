@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2010-10-30", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 1512, "set": "2", "note": "Phish debut; Incomplete.", "nb": 1, "prev": "Tweezer", "in": "->", "next": "Halley's Comet"},
-  {"date": "2024-08-14", "venue": "The Woodlands", "city": "Dover", "state": "DE", "gap": 508, "set": "1", "note": "Ending only.", "nb": 1, "prev": "Starship Trooper", "in": ">", "last": 1}
+  {"date": "2010-10-30", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "note": "Phish debut; Incomplete.", "prev": "Tweezer", "in": "->", "next": "Halley's Comet", "nb": 1},
+  {"date": "2024-08-14", "venue": "The Woodlands", "city": "Dover", "state": "DE", "gap": 508, "set": "1", "note": "Ending only.", "prev": "Starship Trooper", "in": ">", "last": 1, "nb": 1}
  ]
 }

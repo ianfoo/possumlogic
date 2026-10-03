@@ -13,13 +13,13 @@
   {"date": "2016-10-31", "score": 39, "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/33520"}
  ],
  "performances": [
-  {"date": "2016-06-24", "venue": "Wrigley Field", "city": "Chicago", "state": "IL", "gap": 1716, "set": "e", "note": "Phish debut.", "nb": 1, "xprev": "Loving Cup", "next": "Run Like an Antelope"},
-  {"date": "2016-07-08", "venue": "Xfinity Center", "city": "Mansfield", "state": "MA", "gap": 9, "set": "1", "nb": 1, "prev": "Cities", "xnext": "Ghost"},
-  {"date": "2016-07-19", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 6, "set": "1", "nb": 1, "prev": "A Song I Heard the Ocean Sing", "xnext": "Down with Disease"},
-  {"date": "2016-08-26", "venue": "Oak Ridge Farm", "city": "Arrington", "state": "VA", "gap": 4, "set": "1", "nb": 1, "prev": "Simple", "xnext": "Punch You in the Eye"},
-  {"date": "2016-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 17, "set": "e", "nb": 1, "xprev": "Slave to the Traffic Light", "last": 1},
-  {"date": "2017-07-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 18, "set": "e", "nb": 1, "prev": "Fee", "last": 1},
-  {"date": "2022-07-19", "venue": "TD Pavilion at the Mann", "city": "Philadelphia", "state": "PA", "gap": 154, "set": "1", "nb": 1, "first": 1, "next": "Martian Monster"},
-  {"date": "2026-04-16", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 168, "set": "e", "nb": 1, "xprev": "Also Sprach Zarathustra", "next": "Harry Hood"}
+  {"date": "2016-06-24", "venue": "Wrigley Field", "city": "Chicago", "state": "IL", "gap": null, "set": "e", "note": "Phish debut.", "next": "Run Like an Antelope", "xprev": "Loving Cup", "nb": 1},
+  {"date": "2016-07-08", "venue": "Xfinity Center", "city": "Mansfield", "state": "MA", "gap": 9, "set": "1", "prev": "Cities", "xnext": "Ghost", "nb": 1},
+  {"date": "2016-07-19", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 6, "set": "1", "prev": "A Song I Heard the Ocean Sing", "xnext": "Down with Disease", "nb": 1},
+  {"date": "2016-08-26", "venue": "Oak Ridge Farm", "city": "Arrington", "state": "VA", "gap": 4, "set": "1", "prev": "Simple", "xnext": "Punch You in the Eye", "nb": 1},
+  {"date": "2016-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 17, "set": "e", "xprev": "Slave to the Traffic Light", "last": 1, "nb": 1},
+  {"date": "2017-07-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 18, "set": "e", "prev": "Fee", "last": 1, "nb": 1},
+  {"date": "2022-07-19", "venue": "TD Pavilion at the Mann", "city": "Philadelphia", "state": "PA", "gap": 154, "set": "1", "next": "Martian Monster", "first": 1, "nb": 1},
+  {"date": "2026-04-16", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 168, "set": "e", "next": "Harry Hood", "xprev": "Also Sprach Zarathustra", "nb": 1}
  ]
 }

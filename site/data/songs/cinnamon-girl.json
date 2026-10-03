@@ -3,13 +3,16 @@
  "slug": "cinnamon-girl",
  "artist": "Phish",
  "best": [
-
+  {"date": "2023-10-08", "score": 59, "venue": "Bridgestone Arena", "city": "Nashville", "state": "TN", "link": "https://fouldomain.com/tracks/38181"},
+  {"date": "1997-03-18", "score": 46, "venue": "The Flynn Theatre", "city": "Burlington", "state": "VT", "link": "https://fouldomain.com/tracks/301"},
+  {"date": "2017-07-29", "score": 45, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/33887"},
+  {"date": "1997-07-31", "score": 28, "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "link": "https://fouldomain.com/tracks/775"}
  ],
  "performances": [
-  {"date": "1989-03-01", "venue": "Gallagher's", "city": "Waitsfield", "state": "VT", "gap": 212, "set": "e", "note": "First known Phish performance; Trey on drums and Fish on trombone.", "out": ">", "nb": 1, "prev": "Green Onions", "next": "Hold Your Head Up"},
-  {"date": "1997-03-18", "venue": "The Flynn Theatre", "city": "Burlington", "state": "VT", "gap": 904, "set": "1", "nb": 1, "first": 1, "next": "NICU"},
-  {"date": "1997-07-31", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 27, "set": "e", "nb": 1, "xprev": "Weekapaug Groove", "last": 1},
-  {"date": "2017-07-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 631, "set": "e", "nb": 1, "xprev": "Harry Hood", "last": 1},
-  {"date": "2023-10-08", "venue": "Bridgestone Arena", "city": "Nashville", "state": "TN", "gap": 219, "set": "2", "out": ">", "nb": 1, "prev": "A Wave of Hope", "next": "Golden Age"}
+  {"date": "1989-03-01", "venue": "Gallagher's", "city": "Waitsfield", "state": "VT", "gap": null, "set": "e", "note": "First known Phish performance; Trey on drums and Fish on trombone.", "out": ">", "prev": "Green Onions", "next": "Hold Your Head Up", "nb": 1},
+  {"date": "1997-03-18", "venue": "The Flynn Theatre", "city": "Burlington", "state": "VT", "gap": 904, "set": "1", "next": "NICU", "first": 1, "nb": 1},
+  {"date": "1997-07-31", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 27, "set": "e", "xprev": "Weekapaug Groove", "last": 1, "nb": 1},
+  {"date": "2017-07-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 631, "set": "e", "xprev": "Harry Hood", "last": 1, "nb": 1},
+  {"date": "2023-10-08", "venue": "Bridgestone Arena", "city": "Nashville", "state": "TN", "gap": 219, "set": "2", "out": ">", "prev": "A Wave of Hope", "next": "Golden Age", "nb": 1}
  ]
 }

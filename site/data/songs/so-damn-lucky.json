@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2022-02-24", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 1900, "set": "e", "note": "Phish debut; with Dave Matthews on guitar and vocals.", "nb": 1, "xprev": "Sand", "next": "The Maker"}
+  {"date": "2022-02-24", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": null, "set": "e", "note": "Phish debut; with Dave Matthews on guitar and vocals.", "next": "The Maker", "xprev": "Sand", "nb": 1}
  ]
 }

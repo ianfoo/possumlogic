@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2010-06-22", "venue": "Comcast Center", "city": "Mansfield", "state": "MA", "gap": 1478, "set": "1", "note": "Phish debut.", "nb": 1, "first": 1, "next": "Camel Walk"}
+  {"date": "2010-06-22", "venue": "Comcast Center", "city": "Mansfield", "state": "MA", "gap": null, "set": "1", "note": "Phish debut.", "next": "Camel Walk", "first": 1, "nb": 1}
  ]
 }

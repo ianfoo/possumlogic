@@ -3,11 +3,13 @@
  "slug": "instant-karma",
  "artist": "Phish",
  "best": [
-
+  {"date": "2011-08-10", "score": 41, "venue": "Lake Tahoe Outdoor Arena at Harveys", "city": "Stateline", "state": "NV", "link": "https://fouldomain.com/tracks/29002"},
+  {"date": "2011-06-07", "score": 39, "venue": "Comcast Center", "city": "Mansfield", "state": "MA", "link": "https://fouldomain.com/tracks/28572"},
+  {"date": "2010-06-12", "score": 33, "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "link": "https://fouldomain.com/tracks/27358"}
  ],
  "performances": [
-  {"date": "2010-06-12", "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "gap": 1471, "set": "2", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Twenty Years Later", "next": "The Oh Kee Pa Ceremony"},
-  {"date": "2011-06-07", "venue": "Comcast Center", "city": "Mansfield", "state": "MA", "gap": 56, "set": "1", "nb": 1, "prev": "Cities", "next": "David Bowie"},
-  {"date": "2011-08-10", "venue": "Lake Tahoe Outdoor Arena at Harveys", "city": "Stateline", "state": "NV", "gap": 17, "set": "1", "out": ">", "nb": 1, "prev": "Funky Bitch", "next": "Run Like an Antelope"}
+  {"date": "2010-06-12", "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "gap": null, "set": "2", "note": "Phish debut.", "out": ">", "prev": "Twenty Years Later", "next": "The Oh Kee Pa Ceremony", "nb": 1},
+  {"date": "2011-06-07", "venue": "Comcast Center", "city": "Mansfield", "state": "MA", "gap": 56, "set": "1", "prev": "Cities", "next": "David Bowie", "nb": 1},
+  {"date": "2011-08-10", "venue": "Lake Tahoe Outdoor Arena at Harveys", "city": "Stateline", "state": "NV", "gap": 17, "set": "1", "out": ">", "prev": "Funky Bitch", "next": "Run Like an Antelope", "nb": 1}
  ]
 }

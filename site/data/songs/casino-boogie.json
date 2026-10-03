@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2009-10-31", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": 1451, "set": "2", "note": "Phish debut.", "nb": 1, "prev": "Shake Your Hips", "next": "Tumbling Dice"}
+  {"date": "2009-10-31", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": null, "set": "2", "note": "Phish debut.", "prev": "Shake Your Hips", "next": "Tumbling Dice", "nb": 1}
  ]
 }

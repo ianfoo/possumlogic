@@ -3,15 +3,21 @@
  "slug": "thunderhead",
  "artist": "Phish",
  "best": [
-
+  {"date": "2003-02-25", "score": 57, "venue": "First Union Spectrum", "city": "Philadelphia", "state": "PA", "link": "https://fouldomain.com/tracks/25266"},
+  {"date": "2003-07-23", "score": 55, "venue": "Verizon Wireless Music Center", "city": "Noblesville", "state": "IN", "link": "https://fouldomain.com/tracks/25546"},
+  {"date": "2003-01-02", "score": 54, "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "link": "https://fouldomain.com/tracks/25088"},
+  {"date": "2003-07-29", "score": 53, "venue": "Post-Gazette Pavilion at Star Lake", "city": "Burgettstown", "state": "PA", "link": "https://fouldomain.com/tracks/25611"},
+  {"date": "2003-12-01", "score": 50, "venue": "Pepsi Arena", "city": "Albany", "state": "NY", "link": "https://fouldomain.com/tracks/25738"},
+  {"date": "2022-09-03", "score": 40, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/37338"},
+  {"date": "2003-02-18", "score": 37, "venue": "Pepsi Center", "city": "Denver", "state": "CO", "link": "https://fouldomain.com/tracks/25186"}
  ],
  "performances": [
-  {"date": "2003-01-02", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 1366, "set": "2", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Limb By Limb", "next": "Run Like an Antelope"},
-  {"date": "2003-02-18", "venue": "Pepsi Center", "city": "Denver", "state": "CO", "gap": 6, "set": "2", "nb": 1, "prev": "Limb By Limb", "next": "Divided Sky"},
-  {"date": "2003-02-25", "venue": "First Union Spectrum", "city": "Philadelphia", "state": "PA", "gap": 5, "set": "2", "out": ">", "nb": 1, "prev": "Runaway Jim", "in": ">", "next": "Sparkle"},
-  {"date": "2003-07-23", "venue": "Verizon Wireless Music Center", "city": "Noblesville", "state": "IN", "gap": 16, "set": "2", "out": ">", "nb": 1, "prev": "Run Like an Antelope", "next": "Slave to the Traffic Light"},
-  {"date": "2003-07-29", "venue": "Post-Gazette Pavilion at Star Lake", "city": "Burgettstown", "state": "PA", "gap": 4, "set": "2", "nb": 1, "prev": "Crosseyed and Painless", "in": "->", "next": "Brother"},
-  {"date": "2003-12-01", "venue": "Pepsi Arena", "city": "Albany", "state": "NY", "gap": 7, "set": "1", "out": ">", "nb": 1, "prev": "Guyute", "next": "Sparkle"},
-  {"date": "2022-09-03", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 543, "set": "2", "out": ">", "nb": 1, "prev": "Sigma Oasis", "in": ">", "next": "The Moma Dance"}
+  {"date": "2003-01-02", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": null, "set": "2", "note": "Phish debut.", "out": ">", "prev": "Limb By Limb", "next": "Run Like an Antelope", "nb": 1},
+  {"date": "2003-02-18", "venue": "Pepsi Center", "city": "Denver", "state": "CO", "gap": 6, "set": "2", "prev": "Limb By Limb", "next": "Divided Sky", "nb": 1},
+  {"date": "2003-02-25", "venue": "First Union Spectrum", "city": "Philadelphia", "state": "PA", "gap": 5, "set": "2", "out": ">", "prev": "Runaway Jim", "in": ">", "next": "Sparkle", "nb": 1},
+  {"date": "2003-07-23", "venue": "Verizon Wireless Music Center", "city": "Noblesville", "state": "IN", "gap": 16, "set": "2", "out": ">", "prev": "Run Like an Antelope", "next": "Slave to the Traffic Light", "nb": 1},
+  {"date": "2003-07-29", "venue": "Post-Gazette Pavilion at Star Lake", "city": "Burgettstown", "state": "PA", "gap": 4, "set": "2", "prev": "Crosseyed and Painless", "in": "->", "next": "Brother", "nb": 1},
+  {"date": "2003-12-01", "venue": "Pepsi Arena", "city": "Albany", "state": "NY", "gap": 7, "set": "1", "out": ">", "prev": "Guyute", "next": "Sparkle", "nb": 1},
+  {"date": "2022-09-03", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 544, "set": "2", "out": ">", "prev": "Sigma Oasis", "in": ">", "next": "The Moma Dance", "nb": 1}
  ]
 }

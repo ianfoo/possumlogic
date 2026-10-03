@@ -30,7 +30,7 @@
   {"date": "1999-07-23", "score": 73, "venue": "Polaris Amphitheater", "city": "Columbus", "state": "OH", "link": "https://fouldomain.com/tracks/23210"}
  ],
  "performances": [
-  {"date": "1987-02-21", "venue": "Slade Hall, University of Vermont", "city": "Burlington", "state": "VT", "gap": 59, "set": "2", "jamchart": true, "jam": "Debut.", "note": "First known Phish performance.", "prev": "Boogie On Reggae Woman", "next": "Corinna", "nb": 1},
+  {"date": "1987-02-21", "venue": "Slade Hall, University of Vermont", "city": "Burlington", "state": "VT", "gap": null, "set": "2", "jamchart": true, "jam": "Debut.", "note": "First known Phish performance.", "prev": "Boogie On Reggae Woman", "next": "Corinna", "nb": 1},
   {"date": "1987-05-11", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": 8, "set": "1", "prev": "Makisupa Policeman", "xnext": "Divided Sky", "nb": 1},
   {"date": "1987-08-09", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": 4, "set": "3", "prev": "You Enjoy Myself", "next": "Divided Sky", "nb": 1},
   {"date": "1987-08-29", "venue": "The Ranch", "city": "South Burlington", "state": "VT", "gap": 4, "set": "1", "prev": "Mustang Sally", "next": "The Man Who Stepped Into Yesterday", "nb": 1},
@@ -110,8 +110,8 @@
   {"date": "1993-02-19", "venue": "Roxy Theatre", "city": "Atlanta", "state": "GA", "gap": 5, "set": "2", "prev": "You Enjoy Myself", "in": ">", "next": "Big Ball Jam", "nb": 1},
   {"date": "1993-02-27", "venue": "Florida Theatre", "city": "Gainesville", "state": "FL", "gap": 7, "set": "2", "prev": "Big Ball Jam", "next": "Mike's Song", "nb": 1},
   {"date": "1993-03-21", "venue": "Ventura Theatre", "city": "Ventura", "state": "CA", "gap": 14, "set": "2", "prev": "Tweezer", "in": ">", "next": "Llama", "nb": 1},
-  {"date": "1993-04-01", "venue": "Roseland Theater", "city": "Portland", "state": "OR", "gap": 10, "set": "2", "prev": "Fee", "in": ">", "next": "Tweezer", "nb": 1},
-  {"date": "1993-04-18", "venue": "Michigan Theater", "city": "Ann Arbor", "state": "MI", "gap": 11, "set": "2", "prev": "Mike's Song", "in": "->", "next": "Walk Away", "nb": 1},
+  {"date": "1993-04-01", "venue": "Roseland Theater", "city": "Portland", "state": "OR", "gap": 9, "set": "2", "prev": "Fee", "in": ">", "next": "Tweezer", "nb": 1},
+  {"date": "1993-04-18", "venue": "Michigan Theater", "city": "Ann Arbor", "state": "MI", "gap": 12, "set": "2", "prev": "Mike's Song", "in": "->", "next": "Walk Away", "nb": 1},
   {"date": "1993-04-29", "venue": "Le Spectrum", "city": "Montr\u00e9al", "state": "Quebec", "gap": 8, "set": "2", "note": "Funny stage banter as Trey tried to bring \"Leo\" in too early.", "prev": "It's Ice", "in": ">", "next": "Mound", "nb": 1},
   {"date": "1993-05-05", "venue": "Palace Theatre", "city": "Albany", "state": "NY", "gap": 5, "set": "2", "prev": "Big Ball Jam", "in": ">", "next": "You Enjoy Myself", "nb": 1},
   {"date": "1993-05-30", "venue": "Laguna Seca Raceway", "city": "Monterey", "state": "CA", "gap": 5, "set": "1", "prev": "Run Like an Antelope", "next": "I Didn't Know", "nb": 1},
@@ -214,7 +214,7 @@
   {"date": "2003-07-15", "venue": "USANA Amphitheatre", "city": "West Valley City", "state": "UT", "gap": 9, "set": "1", "prev": "AC/DC Bag", "in": ">", "next": "Theme from the Bottom", "nb": 1},
   {"date": "2003-07-19", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 3, "set": "1", "note": "Lyrical change to reference Mike's Segway.", "prev": "NICU", "in": ">", "next": "Rocky Top", "nb": 1},
   {"date": "2003-07-27", "venue": "ALLTEL Pavilion", "city": "Raleigh", "state": "NC", "gap": 6, "set": "1", "prev": "Runaway Jim", "in": ">", "next": "Down with Disease", "nb": 1},
-  {"date": "2003-08-02", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": 3, "set": "1", "jamchart": true, "jam": "Second song of the IT festival is a surprise jamming vehicle. Departs \"Ya Mar\" proper altogether at about 6:00 and launches into a fabulous, improvisational journey with several movements. Not quite brooding, it's no upbeat calypso party either. Great segue -> into \"Runaway Jim.\" Only exploratory post-Hiatus version (so far).", "note": "Unfinished.", "out": "->", "prev": "AC/DC Bag", "next": "Runaway Jim", "nb": 1},
+  {"date": "2003-08-02", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": 4, "set": "1", "jamchart": true, "jam": "Second song of the IT festival is a surprise jamming vehicle. Departs \"Ya Mar\" proper altogether at about 6:00 and launches into a fabulous, improvisational journey with several movements. Not quite brooding, it's no upbeat calypso party either. Great segue -> into \"Runaway Jim.\" Only exploratory post-Hiatus version (so far).", "note": "Unfinished.", "out": "->", "prev": "AC/DC Bag", "next": "Runaway Jim", "nb": 1},
   {"date": "2003-12-02", "venue": "FleetCenter", "city": "Boston", "state": "MA", "gap": 5, "set": "1", "prev": "Birds of a Feather", "next": "Horn", "nb": 1},
   {"date": "2004-06-23", "venue": "Verizon Wireless Music Center", "city": "Noblesville", "state": "IN", "gap": 13, "set": "1", "prev": "Bathtub Gin", "next": "Pebbles and Marbles", "nb": 1},
   {"date": "2004-08-14", "venue": "Newport State Airport", "city": "Coventry", "state": "VT", "gap": 8, "set": "2", "prev": "Halley's Comet", "in": "->", "next": "David Bowie", "nb": 1},
@@ -269,6 +269,6 @@
   {"date": "2025-09-19", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 5, "set": "1", "prev": "Army of One", "in": ">", "next": "The Wedge", "nb": 1},
   {"date": "2026-01-29", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 8, "set": "1", "prev": "Stash", "next": "McGrupp and the Watchful Hosemasters", "nb": 1},
   {"date": "2026-04-24", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 7, "set": "1", "prev": "Roggae", "next": "The Dogs", "nb": 1},
-  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 22, "set": "1", "nb": 1, "prev": "Tube", "next": "Wolfman's Brother"}
+  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 23, "set": "1", "prev": "Tube", "next": "Wolfman's Brother", "nb": 1}
  ]
 }

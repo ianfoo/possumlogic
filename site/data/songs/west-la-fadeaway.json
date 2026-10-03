@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2000-10-06", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 1363, "set": "e", "note": "Phish debut; Bob Weir on guitar and vocals.", "nb": 1, "prev": "Chalk Dust Torture", "in": ">", "last": 1},
-  {"date": "2016-10-18", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": 383, "set": "2", "note": "Bob Weir on guitar and vocals.", "out": ">", "nb": 1, "prev": "Miss You", "next": "Playing in the Band"}
+  {"date": "2000-10-06", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": null, "set": "e", "note": "Phish debut; Bob Weir on guitar and vocals.", "prev": "Chalk Dust Torture", "in": ">", "last": 1, "nb": 1},
+  {"date": "2016-10-18", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": 383, "set": "2", "note": "Bob Weir on guitar and vocals.", "out": ">", "prev": "Miss You", "next": "Playing in the Band", "nb": 1}
  ]
 }

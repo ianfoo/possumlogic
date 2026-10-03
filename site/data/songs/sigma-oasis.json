@@ -30,7 +30,7 @@
   {"date": "2023-08-26", "score": 46, "venue": "Broadview Stage at SPAC", "city": "Saratoga Springs", "state": "NY", "link": "https://fouldomain.com/tracks/38046"}
  ],
  "performances": [
-  {"date": "2019-12-08", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 1860, "set": "1", "note": "Phish debut.", "next": "Buried Alive", "first": 1, "nb": 1},
+  {"date": "2019-12-08", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": null, "set": "1", "note": "Phish debut.", "next": "Buried Alive", "first": 1, "nb": 1},
   {"date": "2020-02-21", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 6, "set": "2", "out": ">", "next": "Also Sprach Zarathustra", "xprev": "Possum", "nb": 1},
   {"date": "2021-07-30", "venue": "Oak Mountain Amphitheatre", "city": "Pelham", "state": "AL", "gap": 4, "set": "1", "prev": "The Moma Dance", "in": ">", "next": "Back on the Train", "nb": 1},
   {"date": "2021-08-08", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 7, "set": "1", "next": "The Curtain", "first": 1, "nb": 1},
@@ -79,9 +79,9 @@
   {"date": "2025-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "1", "out": ">", "prev": "Punch You in the Eye", "in": ">", "next": "Taste", "nb": 1},
   {"date": "2026-01-28", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 4, "set": "1", "prev": "Breath and Burning", "next": "Fling Your Head", "nb": 1},
   {"date": "2026-04-18", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 6, "set": "1", "jamchart": true, "jam": "Here the jam almost stalls before it begins, but instead churns in a murky space, finding some direction behind Page\u2019s lovely Rhodes work which acts as prelude to both Mike and Trey asserting themselves. Fish\u2019s rhythmic diversity pushes the improv further and everyone contributes to an intensifying stew that spreads out as a broadening plateau before leading to the eventual return.", "prev": "Fly Famous Mockingbird", "next": "Walk Away", "nb": 1},
-  {"date": "2026-07-08", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 7, "set": "1", "next": "The Moma Dance", "first": 1, "nb": 1},
-  {"date": "2026-07-21", "venue": "Empower Federal Credit Union Amphitheater at Lakeview", "city": "Syracuse", "state": "NY", "gap": 8, "set": "1", "out": "->", "prev": "Mull", "next": "Ghost", "nb": 1},
-  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 6, "set": "1", "note": "Trey on mini drum kit.", "out": ">", "prev": "Tweezer", "in": "->", "next": "Tweezer", "nb": 1},
-  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1, "set": "1", "nb": 1, "prev": "Sand", "next": "The Moma Dance"}
+  {"date": "2026-07-08", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 8, "set": "1", "next": "The Moma Dance", "first": 1, "nb": 1},
+  {"date": "2026-07-21", "venue": "Empower Federal Credit Union Amphitheater at Lakeview", "city": "Syracuse", "state": "NY", "gap": 9, "set": "1", "out": "->", "prev": "Mull", "next": "Ghost", "nb": 1},
+  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 7, "set": "1", "note": "Trey on mini drum kit.", "out": ">", "prev": "Tweezer", "in": "->", "next": "Tweezer", "nb": 1},
+  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "1", "note": "Trey on mini drum kit.", "prev": "Sand", "next": "The Moma Dance", "nb": 1}
  ]
 }

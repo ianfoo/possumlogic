@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2016-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1747, "set": "2", "note": "Phish debut.", "nb": 1, "prev": "Hang On to Yourself", "next": "Suffragette City"}
+  {"date": "2016-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Phish debut.", "prev": "Hang On to Yourself", "next": "Suffragette City", "nb": 1}
  ]
 }

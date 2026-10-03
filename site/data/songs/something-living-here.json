@@ -3,10 +3,12 @@
  "slug": "something-living-here",
  "artist": "Phish",
  "best": [
-
+  {"date": "2021-10-31", "score": 51, "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/36538"},
+  {"date": "2022-07-27", "score": 37, "venue": "Northwell Health at Jones Beach Theater", "city": "Wantagh", "state": "NY", "link": "https://fouldomain.com/tracks/37063"},
+  {"date": "2022-07-16", "score": 35, "venue": "Maine Savings Amphitheater", "city": "Bangor", "state": "ME", "link": "https://fouldomain.com/tracks/36916"}
  ],
  "performances": [
-  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "nb": 1, "prev": "The Unwinding", "next": "The Howling"},
-  {"date": "2022-07-27", "venue": "Northwell Health at Jones Beach Theater", "city": "Wantagh", "state": "NY", "gap": 27, "set": "1", "out": ">", "nb": 1, "prev": "All of These Dreams", "next": "Axilla (Part II)"}
+  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "prev": "The Unwinding", "next": "The Howling", "nb": 1},
+  {"date": "2022-07-27", "venue": "Northwell Health at Jones Beach Theater", "city": "Wantagh", "state": "NY", "gap": 27, "set": "1", "out": ">", "prev": "All of These Dreams", "next": "Axilla (Part II)", "nb": 1}
  ]
 }

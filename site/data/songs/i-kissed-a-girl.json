@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2009-08-16", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 1449, "set": "2", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Harpua", "in": "->", "next": "Hold Your Head Up"}
+  {"date": "2009-08-16", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": null, "set": "2", "note": "Phish debut.", "out": ">", "prev": "Harpua", "in": "->", "next": "Hold Your Head Up", "nb": 1}
  ]
 }

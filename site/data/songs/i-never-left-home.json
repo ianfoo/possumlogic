@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2021-10-19", "venue": "Matthew Knight Arena", "city": "Eugene", "state": "OR", "gap": 1889, "set": "2", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Leaves", "in": ">", "next": "Sparkle"}
+  {"date": "2021-10-19", "venue": "Matthew Knight Arena", "city": "Eugene", "state": "OR", "gap": null, "set": "2", "note": "Phish debut.", "out": ">", "prev": "Leaves", "in": ">", "next": "Sparkle", "nb": 1}
  ]
 }

@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "1994-10-31", "venue": "Glens Falls Civic Center", "city": "Glens Falls", "state": "NY", "gap": 919, "set": "2", "note": "Phish debut.", "nb": 1, "prev": "While My Guitar Gently Weeps", "next": "Martha My Dear"},
-  {"date": "2012-07-03", "venue": "Nikon at Jones Beach Theater", "city": "Wantagh", "state": "NY", "gap": 661, "set": "1", "nb": 1, "prev": "Tube", "next": "Mike's Song"}
+  {"date": "1994-10-31", "venue": "Glens Falls Civic Center", "city": "Glens Falls", "state": "NY", "gap": null, "set": "2", "note": "Phish debut.", "prev": "While My Guitar Gently Weeps", "next": "Martha My Dear", "nb": 1},
+  {"date": "2012-07-03", "venue": "Nikon at Jones Beach Theater", "city": "Wantagh", "state": "NY", "gap": 661, "set": "1", "prev": "Tube", "next": "Mike's Song", "nb": 1}
  ]
 }

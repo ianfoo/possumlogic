@@ -3,15 +3,21 @@
  "slug": "shafty",
  "artist": "Phish",
  "best": [
-
+  {"date": "1998-04-05", "score": 81, "venue": "Providence Civic Center", "city": "Providence", "state": "RI", "link": "https://fouldomain.com/tracks/21726"},
+  {"date": "2020-02-21", "score": 78, "venue": "Moon Palace", "city": "Cancun, Quintana Roo", "state": "", "link": "https://fouldomain.com/tracks/35797"},
+  {"date": "1998-08-08", "score": 70, "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "link": "https://fouldomain.com/tracks/22191"},
+  {"date": "2000-07-07", "score": 58, "venue": "Star Lake Amphitheatre", "city": "Burgettstown", "state": "PA", "link": "https://fouldomain.com/tracks/24552"},
+  {"date": "2012-06-10", "score": 49, "venue": "Bonnaroo Music & Arts Festival", "city": "Manchester", "state": "TN", "link": "https://fouldomain.com/tracks/29368"},
+  {"date": "1998-07-02", "score": 47, "venue": "The Grey Hall", "city": "Copenhagen", "state": "", "link": "https://fouldomain.com/tracks/21786"},
+  {"date": "2003-12-30", "score": 32, "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "link": "https://fouldomain.com/tracks/25809"}
  ],
  "performances": [
-  {"date": "1998-04-05", "venue": "Providence Civic Center", "city": "Providence", "state": "RI", "gap": 1183, "set": "2", "jamchart": true, "jam": "-&gt; in from &quot;Maze.&quot; The band skips Trey's solo in &quot;Maze&quot; and debuts &quot;Shafty&quot; instead. -&gt; to &quot;Possum.&quot;", "note": "Debut.", "out": "->", "nb": 1, "prev": "Maze", "in": "->", "next": "Possum"},
-  {"date": "1998-07-02", "venue": "The Grey Hall", "city": "Copenhagen", "state": "Capital Region", "gap": 3, "set": "1", "nb": 1, "prev": "Fikus", "next": "Fluffhead"},
-  {"date": "2000-07-07", "venue": "Star Lake Amphitheatre", "city": "Burgettstown", "state": "PA", "gap": 150, "set": "1", "jamchart": true, "jam": "-&gt; in from &quot;Maze.&quot; The first serving of a &quot;Shafty&quot; sandwich (4/5/98) was open-faced. This one has &quot;Maze&quot; on both sides. -&gt; back to &quot;Maze.&quot;", "out": "->", "nb": 1, "prev": "Maze", "in": "->", "next": "Maze"},
-  {"date": "2003-12-30", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": 72, "set": "1", "out": "->", "nb": 1, "prev": "Sand", "in": "->", "next": "NICU"},
-  {"date": "2012-06-10", "venue": "Bonnaroo Music & Arts Festival", "city": "Manchester", "state": "TN", "gap": 159, "set": "2", "out": ">", "nb": 1, "prev": "Carini", "in": "->", "next": "Rock and Roll"},
-  {"date": "2020-02-21", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 302, "set": "1", "times": 4, "jamchart": true, "jam": "Trey works \"Shafty\" into the height of \"Gin's\" jam for a quick run-through before -> back to \"Gin\".", "note": "Performed over Plasma.", "out": "->", "nb": 1, "prev": "Turtle in the Clouds", "next": "Plasma"},
-  {"date": "2022-07-30", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 66, "set": "1", "jamchart": true, "jam": "As \"Shafty\" so often does, this version introduces itself with a ->, in this case from the first ever Type II \"Halfway to the Moon\", and adds to that jam's funky bent.", "nb": 1, "prev": "Halfway to the Moon", "in": "->", "next": "Strawberry Letter 23"}
+  {"date": "1998-04-05", "venue": "Providence Civic Center", "city": "Providence", "state": "RI", "gap": null, "set": "2", "jamchart": true, "jam": "-&gt; in from &quot;Maze.&quot; The band skips Trey's solo in &quot;Maze&quot; and debuts &quot;Shafty&quot; instead. -&gt; to &quot;Possum.&quot;", "note": "Debut.", "out": "->", "prev": "Maze", "in": "->", "next": "Possum", "nb": 1},
+  {"date": "1998-07-02", "venue": "The Grey Hall", "city": "Copenhagen", "state": "Capital Region", "gap": 3, "set": "1", "prev": "Fikus", "next": "Fluffhead", "nb": 1},
+  {"date": "2000-07-07", "venue": "Star Lake Amphitheatre", "city": "Burgettstown", "state": "PA", "gap": 150, "set": "1", "jamchart": true, "jam": "-&gt; in from &quot;Maze.&quot; The first serving of a &quot;Shafty&quot; sandwich (4/5/98) was open-faced. This one has &quot;Maze&quot; on both sides. -&gt; back to &quot;Maze.&quot;", "out": "->", "prev": "Maze", "in": "->", "next": "Maze", "nb": 1},
+  {"date": "2003-12-30", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": 72, "set": "1", "out": "->", "prev": "Sand", "in": "->", "next": "NICU", "nb": 1},
+  {"date": "2012-06-10", "venue": "Bonnaroo Music & Arts Festival", "city": "Manchester", "state": "TN", "gap": 159, "set": "2", "out": ">", "prev": "Carini", "in": "->", "next": "Rock and Roll", "nb": 1},
+  {"date": "2020-02-21", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 302, "set": "1", "times": 4, "jamchart": true, "jam": "Trey works \"Shafty\" into the height of \"Gin's\" jam for a quick run-through before -> back to \"Gin\".", "note": "Performed over Plasma.", "out": "->", "prev": "Turtle in the Clouds", "next": "Plasma", "nb": 1},
+  {"date": "2022-07-30", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 66, "set": "1", "jamchart": true, "jam": "As \"Shafty\" so often does, this version introduces itself with a ->, in this case from the first ever Type II \"Halfway to the Moon\", and adds to that jam's funky bent.", "prev": "Halfway to the Moon", "in": "->", "next": "Strawberry Letter 23", "nb": 1}
  ]
 }

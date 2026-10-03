@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2019-06-23", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 1830, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Shade", "next": "The Wedge"}
+  {"date": "2019-06-23", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Shade", "next": "The Wedge", "nb": 1}
  ]
 }

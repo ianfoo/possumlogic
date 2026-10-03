@@ -3,15 +3,21 @@
  "slug": "after-midnight",
  "artist": "Phish",
  "best": [
-
+  {"date": "1999-12-31", "score": 85, "venue": "Big Cypress Seminole Indian Reservation", "city": "Big Cypress", "state": "FL", "link": "https://fouldomain.com/tracks/24087"},
+  {"date": "2011-05-31", "score": 72, "venue": "PNC Bank Arts Center", "city": "Holmdel", "state": "NJ", "link": "https://fouldomain.com/tracks/28484"},
+  {"date": "2015-09-06", "score": 38, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/32533"},
+  {"date": "2013-07-27", "score": 37, "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "link": "https://fouldomain.com/tracks/30493"},
+  {"date": "2010-12-31", "score": 32, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/28385"},
+  {"date": "2010-10-26", "score": 29, "venue": "Verizon Wireless Arena", "city": "Manchester", "state": "NH", "link": "https://fouldomain.com/tracks/28186"},
+  {"date": "2019-12-08", "score": 29, "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "link": "https://fouldomain.com/tracks/35675"}
  ],
  "performances": [
-  {"date": "1999-12-31", "venue": "Big Cypress Seminole Indian Reservation", "city": "Big Cypress", "state": "FL", "gap": 1310, "set": "1", "times": 2, "jamchart": true, "jam": "-> in from \"Drowned.\" A patient, sparse, and well-textured groove-based jam.", "note": "Phish debut.", "nb": 1, "prev": "Guyute", "xnext": "Meatstick"},
-  {"date": "2010-10-26", "venue": "Verizon Wireless Arena", "city": "Manchester", "state": "NH", "gap": 208, "set": "1", "nb": 1, "first": 1, "next": "The Sloth"},
-  {"date": "2010-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "3", "nb": 1, "prev": "Auld Lang Syne", "next": "Backwards Down the Number Line"},
-  {"date": "2011-05-31", "venue": "PNC Bank Arts Center", "city": "Holmdel", "state": "NJ", "gap": 5, "set": "2", "jamchart": true, "jam": "The jam tracks &quot;After Midnight&quot; fairly closely for a stretch, then around 9:00 it breaks into a nice upbeat groove which swiftly settles down.", "out": ">", "nb": 1, "xprev": "Character Zero", "next": "Possum"},
-  {"date": "2013-07-27", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 87, "set": "1", "nb": 1, "prev": "Ocelot", "xnext": "Down with Disease"},
-  {"date": "2015-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 93, "set": "e", "note": "Contained Harpua narration.", "out": ">", "nb": 1, "prev": "Harpua", "in": ">", "next": "NO2"},
-  {"date": "2019-12-08", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 153, "set": "2", "nb": 1, "xprev": "Walls of the Cave", "next": "Stealing Time From the Faulty Plan"}
+  {"date": "1999-12-31", "venue": "Big Cypress Seminole Indian Reservation", "city": "Big Cypress", "state": "FL", "gap": null, "set": "1", "times": 2, "jamchart": true, "jam": "-> in from \"Drowned.\" A patient, sparse, and well-textured groove-based jam.", "note": "Phish debut.", "prev": "Guyute", "xnext": "Meatstick", "nb": 1},
+  {"date": "2010-10-26", "venue": "Verizon Wireless Arena", "city": "Manchester", "state": "NH", "gap": 208, "set": "1", "next": "The Sloth", "first": 1, "nb": 1},
+  {"date": "2010-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "3", "prev": "Auld Lang Syne", "next": "Backwards Down the Number Line", "nb": 1},
+  {"date": "2011-05-31", "venue": "PNC Bank Arts Center", "city": "Holmdel", "state": "NJ", "gap": 5, "set": "2", "jamchart": true, "jam": "The jam tracks &quot;After Midnight&quot; fairly closely for a stretch, then around 9:00 it breaks into a nice upbeat groove which swiftly settles down.", "out": ">", "next": "Possum", "xprev": "Character Zero", "nb": 1},
+  {"date": "2013-07-27", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 87, "set": "1", "prev": "Ocelot", "xnext": "Down with Disease", "nb": 1},
+  {"date": "2015-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 93, "set": "e", "note": "Contained Harpua narration.", "out": ">", "prev": "Harpua", "in": ">", "next": "NO2", "nb": 1},
+  {"date": "2019-12-08", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 153, "set": "2", "next": "Stealing Time From the Faulty Plan", "xprev": "Walls of the Cave", "nb": 1}
  ]
 }

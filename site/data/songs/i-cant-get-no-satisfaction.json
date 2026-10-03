@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2022-02-25", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 1901, "set": "1", "note": "Phish debut; incomplete.", "out": ">", "nb": 1, "prev": "Say It To Me S.A.N.T.O.S.", "in": "->", "next": "Also Sprach Zarathustra"}
+  {"date": "2022-02-25", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": null, "set": "1", "note": "Phish debut; incomplete.", "out": ">", "prev": "Say It To Me S.A.N.T.O.S.", "in": "->", "next": "Also Sprach Zarathustra", "nb": 1}
  ]
 }

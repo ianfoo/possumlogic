@@ -3,11 +3,13 @@
  "slug": "my-problem-right-there",
  "artist": "Phish",
  "best": [
-
+  {"date": "2010-10-10", "score": 61, "venue": "1stBank Center", "city": "Broomfield", "state": "CO", "link": "https://fouldomain.com/tracks/27975"},
+  {"date": "2010-10-15", "score": 52, "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "link": "https://fouldomain.com/tracks/28040"},
+  {"date": "2010-10-22", "score": 43, "venue": "Dunkin' Donuts Center", "city": "Providence", "state": "RI", "link": "https://fouldomain.com/tracks/28130"}
  ],
  "performances": [
-  {"date": "2010-10-10", "venue": "1stBank Center", "city": "Broomfield", "state": "CO", "gap": 1500, "set": "2", "note": "Debut.", "out": ">", "nb": 1, "prev": "Makisupa Policeman", "next": "Makisupa Policeman"},
-  {"date": "2010-10-15", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 3, "set": "2", "nb": 1, "prev": "My Friend, My Friend", "in": ">", "next": "Tube"},
-  {"date": "2010-10-22", "venue": "Dunkin' Donuts Center", "city": "Providence", "state": "RI", "gap": 4, "set": "2", "nb": 1, "prev": "Carini", "in": "->", "next": "Mike's Song"}
+  {"date": "2010-10-10", "venue": "1stBank Center", "city": "Broomfield", "state": "CO", "gap": null, "set": "2", "note": "Debut.", "out": ">", "prev": "Makisupa Policeman", "next": "Makisupa Policeman", "nb": 1},
+  {"date": "2010-10-15", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 3, "set": "2", "prev": "My Friend, My Friend", "in": ">", "next": "Tube", "nb": 1},
+  {"date": "2010-10-22", "venue": "Dunkin' Donuts Center", "city": "Providence", "state": "RI", "gap": 4, "set": "2", "prev": "Carini", "in": "->", "next": "Mike's Song", "nb": 1}
  ]
 }

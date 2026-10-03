@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2017-07-14", "venue": "Huntington Bank Pavilion at Northerly Island", "city": "Chicago", "state": "IL", "gap": 1755, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Wolfman's Brother", "next": "Everything's Right"},
-  {"date": "2017-07-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 12, "set": "2", "nb": 1, "prev": "Golgi Apparatus", "xnext": "The Wind Cries Mary"}
+  {"date": "2017-07-14", "venue": "Huntington Bank Pavilion at Northerly Island", "city": "Chicago", "state": "IL", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Wolfman's Brother", "next": "Everything's Right", "nb": 1},
+  {"date": "2017-07-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 12, "set": "2", "prev": "Golgi Apparatus", "xnext": "The Wind Cries Mary", "nb": 1}
  ]
 }

@@ -3,11 +3,13 @@
  "slug": "babylon-baby",
  "artist": "Phish",
  "best": [
-
+  {"date": "2013-08-02", "score": 41, "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "link": "https://fouldomain.com/tracks/30560"},
+  {"date": "2012-06-19", "score": 37, "venue": "nTelos Pavilion", "city": "Portsmouth", "state": "VA", "link": "https://fouldomain.com/tracks/29457"},
+  {"date": "2011-08-15", "score": 29, "venue": "UIC Pavilion, University of Illinois", "city": "Chicago", "state": "IL", "link": "https://fouldomain.com/tracks/29049"}
  ],
  "performances": [
-  {"date": "2011-08-15", "venue": "UIC Pavilion, University of Illinois", "city": "Chicago", "state": "IL", "gap": 1546, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Anything But Me", "next": "Reba"},
-  {"date": "2012-06-19", "venue": "nTelos Pavilion", "city": "Portsmouth", "state": "VA", "gap": 16, "set": "1", "nb": 1, "prev": "Horn", "next": "Bathtub Gin"},
-  {"date": "2013-08-02", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 49, "set": "1", "nb": 1, "prev": "When the Circus Comes", "next": "Reba"}
+  {"date": "2011-08-15", "venue": "UIC Pavilion, University of Illinois", "city": "Chicago", "state": "IL", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Anything But Me", "next": "Reba", "nb": 1},
+  {"date": "2012-06-19", "venue": "nTelos Pavilion", "city": "Portsmouth", "state": "VA", "gap": 17, "set": "1", "prev": "Horn", "next": "Bathtub Gin", "nb": 1},
+  {"date": "2013-08-02", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 49, "set": "1", "prev": "When the Circus Comes", "next": "Reba", "nb": 1}
  ]
 }

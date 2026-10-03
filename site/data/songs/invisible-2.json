@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2009-10-29", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": null, "set": "1", "nb": 1, "prev": "Let Me Lie", "next": "Back on the Train"},
-  {"date": "2009-11-01", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": 1452, "set": "1", "note": "Acoustic; Phish debut.", "nb": 1, "prev": "Brian and Robert", "next": "Strange Design"}
+  {"date": "2009-10-29", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": null, "set": "1", "prev": "Let Me Lie", "next": "Back on the Train", "nb": 1},
+  {"date": "2009-11-01", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": null, "set": "1", "note": "Acoustic; Phish debut.", "prev": "Brian and Robert", "next": "Strange Design", "nb": 1}
  ]
 }

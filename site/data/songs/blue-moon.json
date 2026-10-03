@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2009-12-31", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": 1469, "set": "e", "note": "Phish debut.", "nb": 1, "xprev": "You Enjoy Myself", "next": "Loving Cup"}
+  {"date": "2009-12-31", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": null, "set": "e", "note": "Phish debut.", "next": "Loving Cup", "xprev": "You Enjoy Myself", "nb": 1}
  ]
 }

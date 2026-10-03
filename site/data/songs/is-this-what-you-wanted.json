@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2014-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1671, "set": "e", "note": "Phish debut.", "nb": 1, "xprev": "Tweezer Reprise", "next": "Frankenstein"}
+  {"date": "2014-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "e", "note": "Phish debut.", "next": "Frankenstein", "xprev": "Tweezer Reprise", "nb": 1}
  ]
 }

@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2017-07-21", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1760, "set": "2", "note": "Phish debut.", "nb": 1, "prev": "Suzy Greenberg", "xnext": "The Mango Song"}
+  {"date": "2017-07-21", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "2", "note": "Phish debut.", "prev": "Suzy Greenberg", "xnext": "The Mango Song", "nb": 1}
  ]
 }

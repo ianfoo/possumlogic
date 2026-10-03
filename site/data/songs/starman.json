@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2016-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1747, "set": "2", "note": "Phish debut; With Sylvia D'Avanzo, Alisa Horn, Todd Low, Antoine Silverman, Alissa Smith, and Hiroko Taguchi on strings and Jennifer Hartswick, Celisse Henderson, and Jo Lampert on backing vocals; Trey on acoustic.", "nb": 1, "prev": "Moonage Daydream", "next": "It Ain't Easy"},
-  {"date": "2017-08-06", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 25, "set": "2", "nb": 1, "prev": "Rise/Come Together", "in": ">", "next": "You Enjoy Myself"}
+  {"date": "2016-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Phish debut; With Sylvia D'Avanzo, Alisa Horn, Todd Low, Antoine Silverman, Alissa Smith, and Hiroko Taguchi on strings and Jennifer Hartswick, Celisse Henderson, and Jo Lampert on backing vocals; Trey on acoustic.", "prev": "Moonage Daydream", "next": "It Ain't Easy", "nb": 1},
+  {"date": "2017-08-06", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 25, "set": "2", "prev": "Rise/Come Together", "in": ">", "next": "You Enjoy Myself", "nb": 1}
  ]
 }

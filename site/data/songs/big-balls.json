@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2011-07-03", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": 1539, "set": "2", "note": "Phish debut", "out": ">", "nb": 1, "xprev": "David Bowie", "next": "Down with Disease"}
+  {"date": "2011-07-03", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": null, "set": "2", "note": "Phish debut", "out": ">", "next": "Down with Disease", "xprev": "David Bowie", "nb": 1}
  ]
 }

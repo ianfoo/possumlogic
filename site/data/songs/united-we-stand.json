@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2015-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1702, "set": "e", "note": "Phish debut.", "nb": 1, "prev": "Once in a Lifetime", "in": ">", "last": 1}
+  {"date": "2015-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": null, "set": "e", "note": "Phish debut.", "prev": "Once in a Lifetime", "in": ">", "last": 1, "nb": 1}
  ]
 }

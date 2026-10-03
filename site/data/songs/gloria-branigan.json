@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2019-06-12", "venue": "Chaifetz Arena, Saint Louis University", "city": "St. Louis", "state": "MO", "gap": 1823, "set": "2", "note": "Phish debut.", "nb": 1, "xprev": "Run Like an Antelope", "next": "Loving Cup"}
+  {"date": "2019-06-12", "venue": "Chaifetz Arena, Saint Louis University", "city": "St. Louis", "state": "MO", "gap": null, "set": "2", "note": "Phish debut.", "next": "Loving Cup", "xprev": "Run Like an Antelope", "nb": 1}
  ]
 }

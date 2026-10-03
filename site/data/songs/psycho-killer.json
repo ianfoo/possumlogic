@@ -3,12 +3,15 @@
  "slug": "psycho-killer",
  "artist": "Phish",
  "best": [
-
+  {"date": "1993-03-30", "score": 79, "venue": "Hilton Ballroom", "city": "Eugene", "state": "OR", "link": "https://fouldomain.com/tracks/13121"},
+  {"date": "2012-07-06", "score": 76, "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "link": "https://fouldomain.com/tracks/29722"},
+  {"date": "1997-12-07", "score": 56, "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "link": "https://fouldomain.com/tracks/1248"},
+  {"date": "2009-08-14", "score": 38, "venue": "The Comcast Theatre", "city": "Hartford", "state": "CT", "link": "https://fouldomain.com/tracks/26782"}
  ],
  "performances": [
-  {"date": "1993-03-30", "venue": "Hilton Ballroom", "city": "Eugene", "state": "OR", "gap": 756, "set": "2", "jamchart": true, "jam": "-&gt; in from &quot;Weekapaug.&quot; Debut of this Talking Heads classic is sandwiched in a strong &quot;Weekapaug.&quot; -&gt; back to &quot;Weekapaug.&quot;", "note": "Phish debut; unfinished.", "out": "->", "nb": 1, "prev": "Weekapaug Groove", "in": "->", "next": "Weekapaug Groove"},
-  {"date": "1997-12-07", "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "gap": 415, "set": "1", "note": "Unfinished.", "out": "->", "nb": 1, "prev": "AC/DC Bag", "in": "->", "next": "Jesus Just Left Chicago"},
-  {"date": "2009-08-14", "venue": "The Comcast Theatre", "city": "Hartford", "state": "CT", "gap": 284, "set": "2", "out": "->", "nb": 1, "prev": "Ghost", "in": "->", "next": "Catapult"},
-  {"date": "2012-07-06", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 127, "set": "1", "jamchart": true, "jam": "A rousing performance sandwiched inside \"Tube's\" jam.", "out": "->", "nb": 1, "prev": "Tube", "in": "->", "next": "Tube"}
+  {"date": "1993-03-30", "venue": "Hilton Ballroom", "city": "Eugene", "state": "OR", "gap": null, "set": "2", "jamchart": true, "jam": "-&gt; in from &quot;Weekapaug.&quot; Debut of this Talking Heads classic is sandwiched in a strong &quot;Weekapaug.&quot; -&gt; back to &quot;Weekapaug.&quot;", "note": "Phish debut; unfinished.", "out": "->", "prev": "Weekapaug Groove", "in": "->", "next": "Weekapaug Groove", "nb": 1},
+  {"date": "1997-12-07", "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "gap": 415, "set": "1", "note": "Unfinished.", "out": "->", "prev": "AC/DC Bag", "in": "->", "next": "Jesus Just Left Chicago", "nb": 1},
+  {"date": "2009-08-14", "venue": "The Comcast Theatre", "city": "Hartford", "state": "CT", "gap": 284, "set": "2", "out": "->", "prev": "Ghost", "in": "->", "next": "Catapult", "nb": 1},
+  {"date": "2012-07-06", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 127, "set": "1", "jamchart": true, "jam": "A rousing performance sandwiched inside \"Tube's\" jam.", "out": "->", "prev": "Tube", "in": "->", "next": "Tube", "nb": 1}
  ]
 }

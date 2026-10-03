@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2014-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1679, "set": "2", "note": "Debut.", "nb": 1, "prev": "Your Pet Cat", "next": "The Unsafe Bridge"},
-  {"date": "2020-02-20", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 189, "set": "1", "jamchart": true, "jam": "\"Shipwreck\" emerges in the middle of a strong \"Free\" and serves as a refreshing contrast to the usual jam format.", "out": "->", "nb": 1, "prev": "Free", "in": ">", "next": "Free"}
+  {"date": "2014-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "prev": "Your Pet Cat", "next": "The Unsafe Bridge", "nb": 1},
+  {"date": "2020-02-20", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 189, "set": "1", "jamchart": true, "jam": "\"Shipwreck\" emerges in the middle of a strong \"Free\" and serves as a refreshing contrast to the usual jam format.", "out": "->", "prev": "Free", "in": ">", "next": "Free", "nb": 1}
  ]
 }

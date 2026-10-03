@@ -3,11 +3,13 @@
  "slug": "spooky",
  "artist": "Phish",
  "best": [
-
+  {"date": "1993-03-14", "score": 81, "venue": "Paul Wright Gym, Western State College", "city": "Gunnison", "state": "CO", "link": "https://fouldomain.com/tracks/12803"},
+  {"date": "1993-04-14", "score": 57, "venue": "American Theater", "city": "St. Louis", "state": "MO", "link": "https://fouldomain.com/tracks/13367"},
+  {"date": "2010-10-31", "score": 31, "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "link": "https://fouldomain.com/tracks/28263"}
  ],
  "performances": [
-  {"date": "1993-03-14", "venue": "Paul Wright Gym, Western State College", "city": "Gunnison", "state": "CO", "gap": 744, "set": "2", "jamchart": true, "jam": "-&gt; in from &quot;YEM.&quot; A &quot;Spooky&quot; jam is sandwiched in this &quot;YEM&quot; along with many other teases. -&gt; back to &quot;YEM.&quot;", "out": "->", "nb": 1, "prev": "You Enjoy Myself", "in": "->", "next": "You Enjoy Myself"},
-  {"date": "1993-04-14", "venue": "American Theater", "city": "St. Louis", "state": "MO", "gap": 23, "set": "2", "jamchart": true, "jam": "-&gt; in from &quot;YEM.&quot; A &quot;Spooky&quot; jam is sandwiched in this &quot;YEM&quot; jam. -&gt; back to &quot;YEM.&quot;", "note": "Included a verse sung by Page.", "out": "->", "nb": 1, "prev": "You Enjoy Myself", "in": "->", "next": "You Enjoy Myself"},
-  {"date": "2010-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 754, "set": "1", "out": ">", "nb": 1, "prev": "Ghost", "in": "->", "next": "Divided Sky"}
+  {"date": "1993-03-14", "venue": "Paul Wright Gym, Western State College", "city": "Gunnison", "state": "CO", "gap": null, "set": "2", "jamchart": true, "jam": "-&gt; in from &quot;YEM.&quot; A &quot;Spooky&quot; jam is sandwiched in this &quot;YEM&quot; along with many other teases. -&gt; back to &quot;YEM.&quot;", "out": "->", "prev": "You Enjoy Myself", "in": "->", "next": "You Enjoy Myself", "nb": 1},
+  {"date": "1993-04-14", "venue": "American Theater", "city": "St. Louis", "state": "MO", "gap": 23, "set": "2", "jamchart": true, "jam": "-&gt; in from &quot;YEM.&quot; A &quot;Spooky&quot; jam is sandwiched in this &quot;YEM&quot; jam. -&gt; back to &quot;YEM.&quot;", "note": "Included a verse sung by Page.", "out": "->", "prev": "You Enjoy Myself", "in": "->", "next": "You Enjoy Myself", "nb": 1},
+  {"date": "2010-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 754, "set": "1", "out": ">", "prev": "Ghost", "in": "->", "next": "Divided Sky", "nb": 1}
  ]
 }

@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2017-08-01", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1768, "set": "1", "note": "Phish debut; performed solo by Page.", "nb": 1, "prev": "Guelah Papyrus", "next": "Guelah Papyrus"}
+  {"date": "2017-08-01", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Phish debut; performed solo by Page.", "prev": "Guelah Papyrus", "next": "Guelah Papyrus", "nb": 1}
  ]
 }

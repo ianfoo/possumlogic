@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2018-07-25", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 1786, "set": "1", "note": "Debut.", "nb": 1, "prev": "Silent in the Morning", "next": "Driver"},
-  {"date": "2018-09-02", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 14, "set": "1", "nb": 1, "prev": "Ocelot", "next": "My Friend, My Friend"}
+  {"date": "2018-07-25", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": null, "set": "1", "note": "Debut.", "prev": "Silent in the Morning", "next": "Driver", "nb": 1},
+  {"date": "2018-09-02", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 14, "set": "1", "prev": "Ocelot", "next": "My Friend, My Friend", "nb": 1}
  ]
 }

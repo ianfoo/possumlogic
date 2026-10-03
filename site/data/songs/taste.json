@@ -31,7 +31,7 @@
  ],
  "performances": [
   {"date": "1995-05-14", "venue": "Fish's House", "city": "Burlington", "state": "VT", "gap": null, "set": "1", "prev": "Ha Ha Ha", "next": "Free", "nb": 1},
-  {"date": "1995-06-07", "venue": "Boise State University Pavilion", "city": "Boise", "state": "ID", "gap": 949, "set": "1", "jamchart": true, "jam": "Debut. Jam section features the same spiraling Trey and Page musicianship, but the lyrics, vocalist, and ending would remain a work in progress for another year. \"The Fog That Surrounds\" and \"Taste That Surrounds\" are both very similar (related) songs performed in 1995 as the band tinkered with the format for \"Taste.\" See the song history for \"Taste\" on this site for more information.", "note": "Debut.", "prev": "Weigh", "next": "Strange Design", "nb": 1},
+  {"date": "1995-06-07", "venue": "Boise State University Pavilion", "city": "Boise", "state": "ID", "gap": null, "set": "1", "jamchart": true, "jam": "Debut. Jam section features the same spiraling Trey and Page musicianship, but the lyrics, vocalist, and ending would remain a work in progress for another year. \"The Fog That Surrounds\" and \"Taste That Surrounds\" are both very similar (related) songs performed in 1995 as the band tinkered with the format for \"Taste.\" See the song history for \"Taste\" on this site for more information.", "note": "Debut.", "prev": "Weigh", "next": "Strange Design", "nb": 1},
   {"date": "1995-06-09", "venue": "Red Rocks Amphitheatre", "city": "Morrison", "state": "CO", "gap": 2, "set": "1", "prev": "Theme from the Bottom", "next": "Sparkle", "nb": 1},
   {"date": "1995-06-13", "venue": "Riverport Amphitheater", "city": "Maryland Heights", "state": "MO", "gap": 2, "set": "1", "prev": "Strange Design", "in": ">", "next": "Reba", "nb": 1},
   {"date": "1995-06-15", "venue": "Lakewood Amphitheatre", "city": "Atlanta", "state": "GA", "gap": 2, "set": "1", "prev": "The Old Home Place", "next": "The Wedge", "nb": 1},
@@ -110,8 +110,8 @@
   {"date": "1999-07-03", "venue": "Lakewood Amphitheatre", "city": "Atlanta", "state": "GA", "gap": 6, "set": "1", "jamchart": true, "jam": "Enchanting. Page's solo features some unusual stylings and cool chord progressions. Trey's solo is a fairly simple, yet stunningly melodic, and includes a \"Dueling Banjos\" tease and playing vaguely reminiscent to \"Faht\". Different from the higher octane '97s, but definitely must-hear.", "prev": "Cavern", "next": "When the Circus Comes", "nb": 1},
   {"date": "1999-07-17", "venue": "Oswego County Airport", "city": "Volney", "state": "NY", "gap": 10, "set": "1", "jamchart": true, "jam": "-> in from \"Have Mercy.\" Similar to, but more stretched out than 7/3/99. Yet it doesn't have quite the melodic bliss.", "out": ">", "prev": "Have Mercy", "in": "->", "next": "Character Zero", "nb": 1},
   {"date": "1999-07-21", "venue": "Star Lake Amphitheatre", "city": "Burgettstown", "state": "PA", "gap": 3, "set": "1", "jamchart": true, "jam": "Extended, unhurried and skillful soloing by Trey. Only very gradually does the band notch up the intensity.", "prev": "When the Circus Comes", "next": "Bittersweet Motel", "nb": 1},
-  {"date": "1999-07-30", "venue": "Naeba Ski Resort", "city": "Niigata", "state": "Niigata", "gap": 6, "set": "1", "prev": "Wolfman's Brother", "next": "Punch You in the Eye", "nb": 1},
-  {"date": "1999-09-14", "venue": "Boise State University Pavilion", "city": "Boise", "state": "ID", "gap": 7, "set": "1", "prev": "Nellie Kane", "next": "Rocky Top", "nb": 1},
+  {"date": "1999-07-30", "venue": "Naeba Ski Resort", "city": "Niigata", "state": "Niigata", "gap": 5, "set": "1", "prev": "Wolfman's Brother", "next": "Punch You in the Eye", "nb": 1},
+  {"date": "1999-09-14", "venue": "Boise State University Pavilion", "city": "Boise", "state": "ID", "gap": 8, "set": "1", "prev": "Nellie Kane", "next": "Rocky Top", "nb": 1},
   {"date": "1999-09-22", "venue": "Pan American Center", "city": "Las Cruces", "state": "NM", "gap": 6, "set": "2", "jamchart": true, "jam": "Delicately but very deftly performed. Great teaming by Trey and Page in this graceful version.", "prev": "Ghost", "in": ">", "next": "Brian and Robert", "nb": 1},
   {"date": "1999-09-29", "venue": "Pyramid Arena", "city": "Memphis", "state": "TN", "gap": 5, "set": "1", "prev": "Driver", "next": "Dirt", "nb": 1},
   {"date": "1999-12-05", "venue": "BlueCross Arena", "city": "Rochester", "state": "NY", "gap": 12, "set": "1", "jamchart": true, "jam": "The closest thing to a \"jammed out\" version of \"Taste\" (before 2017), as the band stretches Trey's solo out into a very extended and mellow groove, before returning to more familiar ground.", "prev": "Back on the Train", "next": "Bug", "nb": 1},
@@ -183,9 +183,9 @@
   {"date": "2025-07-20", "venue": "United Center", "city": "Chicago", "state": "IL", "gap": 7, "set": "1", "prev": "Leaves", "next": "Izabella", "nb": 1},
   {"date": "2025-09-17", "venue": "Ameris Bank Amphitheatre", "city": "Alpharetta", "state": "GA", "gap": 10, "set": "1", "prev": "Wilson", "in": ">", "xnext": "Carini", "nb": 1},
   {"date": "2025-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 4, "set": "1", "prev": "Sigma Oasis", "in": ">", "next": "Sleep", "nb": 1},
-  {"date": "2026-05-02", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 15, "set": "1", "prev": "Silent in the Morning", "next": "Julius", "nb": 1},
-  {"date": "2026-07-15", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 6, "set": "1", "prev": "Vultures", "next": "The Wedge", "nb": 1},
-  {"date": "2026-07-27", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "1", "prev": "Funky Bitch", "xnext": "The Curtain With", "nb": 1},
-  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 5, "set": "1", "nb": 1, "prev": "Axilla (Part II)", "in": ">", "next": "Split Open and Melt"}
+  {"date": "2026-05-02", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 16, "set": "1", "prev": "Silent in the Morning", "next": "Julius", "nb": 1},
+  {"date": "2026-07-15", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 7, "set": "1", "prev": "Vultures", "next": "The Wedge", "nb": 1},
+  {"date": "2026-07-27", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 8, "set": "1", "prev": "Funky Bitch", "xnext": "The Curtain With", "nb": 1},
+  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 6, "set": "1", "prev": "Axilla (Part II)", "in": ">", "next": "Split Open and Melt", "nb": 1}
  ]
 }

@@ -16,16 +16,16 @@
   {"date": "2023-08-01", "score": 32, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/37950"}
  ],
  "performances": [
-  {"date": "2010-06-29", "venue": "CMAC Performing Arts Center", "city": "Canandaigua", "state": "NY", "gap": 1488, "set": "2", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Simple", "in": ">", "next": "Weekapaug Groove"},
-  {"date": "2016-06-25", "venue": "Wrigley Field", "city": "Chicago", "state": "IL", "gap": 229, "set": "e", "nb": 1, "xprev": "Tweezer Reprise", "last": 1},
-  {"date": "2016-07-08", "venue": "Xfinity Center", "city": "Mansfield", "state": "MA", "gap": 8, "set": "e", "nb": 1, "xprev": "Slave to the Traffic Light", "last": 1},
-  {"date": "2017-07-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 46, "set": "1", "nb": 1, "prev": "Horn", "xnext": "Blaze On"},
-  {"date": "2021-10-30", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 131, "set": "1", "nb": 1, "prev": "Llama", "xnext": "Dogs Stole Things"},
-  {"date": "2023-08-01", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 76, "set": "1", "nb": 1, "prev": "Wolfman's Brother", "xnext": "Sample in a Jar"},
-  {"date": "2023-10-11", "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "gap": 14, "set": "2", "nb": 1, "prev": "Backwards Down the Number Line", "xnext": "Egg in a Hole"},
-  {"date": "2025-07-12", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 72, "set": "2", "jamchart": true, "jam": "This psychedelic set closing version gets a gratuitous extra helping of yellow matter custard and that special weirdness that makes Phish covering The Beatles in 2025 such a mind warping and revelatory experience in the last year of the first quarter of the 21st century.", "nb": 1, "prev": "Harry Hood", "xnext": "Carolina"},
-  {"date": "2025-07-22", "venue": "Forest Hills Stadium", "city": "Forest Hills", "state": "NY", "gap": 7, "set": "1", "nb": 1, "prev": "Monsters", "xnext": "Carini"},
-  {"date": "2026-04-18", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 23, "set": "e", "nb": 1, "xprev": "Run Like an Antelope", "next": "Tweezer Reprise"},
-  {"date": "2026-07-19", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 15, "set": "e", "out": ">", "nb": 1, "xprev": "Backwards Down the Number Line", "next": "First Tube"}
+  {"date": "2010-06-29", "venue": "CMAC Performing Arts Center", "city": "Canandaigua", "state": "NY", "gap": null, "set": "2", "note": "Phish debut.", "out": ">", "prev": "Simple", "in": ">", "next": "Weekapaug Groove", "nb": 1},
+  {"date": "2016-06-25", "venue": "Wrigley Field", "city": "Chicago", "state": "IL", "gap": 229, "set": "e", "xprev": "Tweezer Reprise", "last": 1, "nb": 1},
+  {"date": "2016-07-08", "venue": "Xfinity Center", "city": "Mansfield", "state": "MA", "gap": 8, "set": "e", "xprev": "Slave to the Traffic Light", "last": 1, "nb": 1},
+  {"date": "2017-07-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 46, "set": "1", "prev": "Horn", "xnext": "Blaze On", "nb": 1},
+  {"date": "2021-10-30", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 131, "set": "1", "prev": "Llama", "xnext": "Dogs Stole Things", "nb": 1},
+  {"date": "2023-08-01", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 76, "set": "1", "prev": "Wolfman's Brother", "xnext": "Sample in a Jar", "nb": 1},
+  {"date": "2023-10-11", "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "gap": 14, "set": "2", "prev": "Backwards Down the Number Line", "xnext": "Egg in a Hole", "nb": 1},
+  {"date": "2025-07-12", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 72, "set": "2", "jamchart": true, "jam": "This psychedelic set closing version gets a gratuitous extra helping of yellow matter custard and that special weirdness that makes Phish covering The Beatles in 2025 such a mind warping and revelatory experience in the last year of the first quarter of the 21st century.", "prev": "Harry Hood", "xnext": "Carolina", "nb": 1},
+  {"date": "2025-07-22", "venue": "Forest Hills Stadium", "city": "Forest Hills", "state": "NY", "gap": 7, "set": "1", "prev": "Monsters", "xnext": "Carini", "nb": 1},
+  {"date": "2026-04-18", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 23, "set": "e", "next": "Tweezer Reprise", "xprev": "Run Like an Antelope", "nb": 1},
+  {"date": "2026-07-19", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 16, "set": "e", "out": ">", "next": "First Tube", "xprev": "Backwards Down the Number Line", "nb": 1}
  ]
 }

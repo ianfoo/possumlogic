@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2013-08-31", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1625, "set": "e", "note": "Phish debut.", "out": ">", "nb": 1, "xprev": "Backwards Down the Number Line", "next": "Tweezer Reprise"},
-  {"date": "2017-08-06", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 155, "set": "e", "out": ">", "nb": 1, "xprev": "Loving Cup", "next": "Lawn Boy"}
+  {"date": "2013-08-31", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": null, "set": "e", "note": "Phish debut.", "out": ">", "next": "Tweezer Reprise", "xprev": "Backwards Down the Number Line", "nb": 1},
+  {"date": "2017-08-06", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 155, "set": "e", "out": ">", "next": "Lawn Boy", "xprev": "Loving Cup", "nb": 1}
  ]
 }

@@ -31,7 +31,7 @@
  ],
  "performances": [
   {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": null, "set": "1", "times": 2, "prev": "Piper", "next": "Olivia's Pool", "nb": 1},
-  {"date": "1997-06-13", "venue": "The S.F.X. Centre", "city": "Dublin", "state": "County Dublin", "gap": 1114, "set": "1", "note": "Debut.", "out": ">", "prev": "Wolfman's Brother", "in": ">", "next": "Taste", "nb": 1},
+  {"date": "1997-06-13", "venue": "The S.F.X. Centre", "city": "Dublin", "state": "County Dublin", "gap": null, "set": "1", "note": "Debut.", "out": ">", "prev": "Wolfman's Brother", "in": ">", "next": "Taste", "nb": 1},
   {"date": "1997-06-16", "venue": "Royal Albert Hall", "city": "London", "state": "England", "gap": 2, "set": "2", "prev": "Reba", "next": "Dirt", "nb": 1},
   {"date": "1997-06-19", "venue": "Arena Wien", "city": "Vienna", "state": "Vienna", "gap": 1, "set": "2", "prev": "Saw It Again", "in": ">", "next": "Piper", "nb": 1},
   {"date": "1997-06-24", "venue": "La Laiterie", "city": "Strasbourg", "state": "Grand Est", "gap": 4, "set": "2", "prev": "Piper", "next": "Ghost", "nb": 1},
@@ -141,8 +141,8 @@
   {"date": "2024-10-27", "venue": "MVP Arena", "city": "Albany", "state": "NY", "gap": 12, "set": "2", "jamchart": true, "jam": "Showing up as the penultimate song in Set 2, this \"Wading\" is not at all perfunctory. Beautiful and emotive play shines through, hearkening back to the nascent days of the song.", "prev": "Mercury", "next": "Most Events Aren't Planned", "nb": 1},
   {"date": "2025-04-23", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 13, "set": "e", "next": "First Tube", "xprev": "You Enjoy Myself", "nb": 1},
   {"date": "2025-07-26", "venue": "Broadview Stage at SPAC", "city": "Saratoga Springs", "state": "NY", "gap": 25, "set": "1", "out": ">", "prev": "Mike's Song", "in": ">", "next": "Weekapaug Groove", "nb": 1},
-  {"date": "2026-05-02", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 25, "set": "e", "next": "Fluffhead", "xprev": "Character Zero", "nb": 1},
-  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 17, "set": "e", "next": "Character Zero", "xprev": "Possum", "nb": 1},
-  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": null, "set": "e", "nb": 1, "xprev": "Character Zero", "next": "Harry Hood"}
+  {"date": "2026-05-02", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 26, "set": "e", "next": "Fluffhead", "xprev": "Character Zero", "nb": 1},
+  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 18, "set": "e", "next": "Character Zero", "xprev": "Possum", "nb": 1},
+  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1, "set": "e", "next": "Harry Hood", "xprev": "Character Zero", "nb": 1}
  ]
 }

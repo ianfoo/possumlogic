@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2010-07-04", "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "gap": 1487, "set": "2", "jamchart": true, "jam": "&gt; in from &quot;Harpua.&quot; This song rocks and kicks ass! &gt; back to &quot;Harpua.&quot;", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Harpua", "in": ">", "next": "Harpua"}
+  {"date": "2010-07-04", "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "gap": null, "set": "2", "jamchart": true, "jam": "&gt; in from &quot;Harpua.&quot; This song rocks and kicks ass! &gt; back to &quot;Harpua.&quot;", "note": "Phish debut.", "out": ">", "prev": "Harpua", "in": ">", "next": "Harpua", "nb": 1}
  ]
 }

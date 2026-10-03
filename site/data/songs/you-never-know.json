@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2013-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 1628, "set": "2", "note": "Debut.", "nb": 1, "prev": "Amidst the Peals of Laughter", "xnext": "Ghost"}
+  {"date": "2013-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "note": "Debut.", "prev": "Amidst the Peals of Laughter", "xnext": "Ghost", "nb": 1}
  ]
 }

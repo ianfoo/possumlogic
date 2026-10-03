@@ -3,9 +3,25 @@
  "slug": "intro-chilling-thrilling",
  "artist": "Phish",
  "best": [
-
+  {"date": "1994-10-31", "score": 62, "venue": "Glens Falls Civic Center", "city": "Glens Falls", "state": "NY", "link": "https://fouldomain.com/tracks/16725"},
+  {"date": "2021-10-31", "score": 62, "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/36528"},
+  {"date": "1992-07-09", "score": 60, "venue": "Cumberland County Civic Center", "city": "Portland", "state": "ME", "link": "https://fouldomain.com/tracks/11081"},
+  {"date": "1994-04-13", "score": 59, "venue": "Beacon Theatre", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/14860"},
+  {"date": "2022-12-31", "score": 57, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/37429"},
+  {"date": "1990-02-25", "score": 55, "venue": "8x10 Club", "city": "Baltimore", "state": "MD", "link": "https://fouldomain.com/tracks/4697"},
+  {"date": "2024-04-19", "score": 55, "venue": "Sphere", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/38469"},
+  {"date": "1996-08-13", "score": 53, "venue": "Deer Creek Music Center", "city": "Noblesville", "state": "IN", "link": "https://fouldomain.com/tracks/19385"},
+  {"date": "2014-10-31", "score": 52, "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/31871"},
+  {"date": "1994-12-31", "score": 50, "venue": "Boston Garden", "city": "Boston", "state": "MA", "link": "https://fouldomain.com/tracks/17367"},
+  {"date": "2024-04-18", "score": 43, "venue": "Sphere", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/38450"},
+  {"date": "2024-04-20", "score": 43, "venue": "Sphere", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/38486"},
+  {"date": "1998-11-03", "score": 40, "venue": "KBCO Studio C", "city": "Boulder", "state": "CO", "link": "https://fouldomain.com/tracks/22483"},
+  {"date": "2024-04-21", "score": 40, "venue": "Sphere", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/38504"},
+  {"date": "2000-05-19", "score": 39, "venue": "Key Club", "city": "Los Angeles", "state": "CA", "link": "https://fouldomain.com/tracks/24139"},
+  {"date": "1993-04-01", "score": 38, "venue": "Gov. Tom McCall Waterfront Park", "city": "Portland", "state": "OR", "link": "https://fouldomain.com/tracks/13152"},
+  {"date": "1990-11-03", "score": 37, "venue": "Boulder Theater", "city": "Boulder", "state": "CO", "link": "https://fouldomain.com/tracks/6346"}
  ],
  "performances": [
-  {"date": "2014-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1671, "set": "2", "note": "Debut.", "nb": 1, "xprev": "Wolfman's Brother", "next": "The Haunted House"}
+  {"date": "2014-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "next": "The Haunted House", "xprev": "Wolfman's Brother", "nb": 1}
  ]
 }

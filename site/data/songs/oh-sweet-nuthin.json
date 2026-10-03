@@ -3,14 +3,19 @@
  "slug": "oh-sweet-nuthin",
  "artist": "Phish",
  "best": [
-
+  {"date": "2009-08-05", "score": 58, "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "link": "https://fouldomain.com/tracks/26676"},
+  {"date": "1998-10-31", "score": 57, "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/22453"},
+  {"date": "2013-08-30", "score": 52, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/30668"},
+  {"date": "2010-08-15", "score": 46, "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "link": "https://fouldomain.com/tracks/27896"},
+  {"date": "2009-08-15", "score": 45, "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "link": "https://fouldomain.com/tracks/26805"},
+  {"date": "2009-11-25", "score": 44, "venue": "Wachovia Center", "city": "Philadelphia", "state": "PA", "link": "https://fouldomain.com/tracks/27063"}
  ],
  "performances": [
-  {"date": "1998-10-31", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 1223, "set": "2", "note": "Phish debut.", "nb": 1, "prev": "Train Round the Bend", "xnext": "Wolfman's Brother"},
-  {"date": "2009-08-05", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 227, "set": "2", "nb": 1, "prev": "Limb By Limb", "next": "Cities"},
-  {"date": "2009-08-15", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 6, "set": "2", "out": ">", "nb": 1, "prev": "46 Days", "next": "Harry Hood"},
-  {"date": "2009-11-25", "venue": "Wachovia Center", "city": "Philadelphia", "state": "PA", "gap": 10, "set": "e", "nb": 1, "xprev": "Tweezer Reprise", "last": 1},
-  {"date": "2010-08-15", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 38, "set": "e", "out": ">", "nb": 1, "xprev": "Character Zero", "next": "Cavern"},
-  {"date": "2013-08-30", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 120, "set": "e", "out": ">", "nb": 1, "xprev": "Slave to the Traffic Light", "next": "Meatstick"}
+  {"date": "1998-10-31", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Phish debut.", "prev": "Train Round the Bend", "xnext": "Wolfman's Brother", "nb": 1},
+  {"date": "2009-08-05", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 227, "set": "2", "prev": "Limb By Limb", "next": "Cities", "nb": 1},
+  {"date": "2009-08-15", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 6, "set": "2", "out": ">", "prev": "46 Days", "next": "Harry Hood", "nb": 1},
+  {"date": "2009-11-25", "venue": "Wachovia Center", "city": "Philadelphia", "state": "PA", "gap": 10, "set": "e", "xprev": "Tweezer Reprise", "last": 1, "nb": 1},
+  {"date": "2010-08-15", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 38, "set": "e", "out": ">", "next": "Cavern", "xprev": "Character Zero", "nb": 1},
+  {"date": "2013-08-30", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 120, "set": "e", "out": ">", "next": "Meatstick", "xprev": "Slave to the Traffic Light", "nb": 1}
  ]
 }

@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2014-10-27", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 1668, "set": "e", "note": "Phish debut; instrumental.", "nb": 1, "xprev": "Slave to the Traffic Light", "next": "Winterqueen"}
+  {"date": "2014-10-27", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": null, "set": "e", "note": "Phish debut; instrumental.", "next": "Winterqueen", "xprev": "Slave to the Traffic Light", "nb": 1}
  ]
 }

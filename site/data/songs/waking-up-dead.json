@@ -3,16 +3,23 @@
  "slug": "waking-up-dead",
  "artist": "Phish",
  "best": [
-
+  {"date": "2017-12-28", "score": 49, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/34069"},
+  {"date": "2016-10-25", "score": 46, "venue": "Verizon Theatre at Grand Prairie", "city": "Grand Prairie", "state": "TX", "link": "https://fouldomain.com/tracks/33412"},
+  {"date": "2017-01-14", "score": 44, "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya, Quintana Roo", "state": "", "link": "https://fouldomain.com/tracks/33634"},
+  {"date": "2017-07-30", "score": 44, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/33890"},
+  {"date": "2016-10-19", "score": 39, "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "link": "https://fouldomain.com/tracks/33331"},
+  {"date": "2018-07-25", "score": 38, "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "link": "https://fouldomain.com/tracks/34253"},
+  {"date": "2016-06-29", "score": 37, "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "link": "https://fouldomain.com/tracks/32789"},
+  {"date": "2016-10-15", "score": 33, "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "link": "https://fouldomain.com/tracks/33266"}
  ],
  "performances": [
-  {"date": "2016-06-29", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": null, "set": "1", "note": "Debut.", "nb": 1, "prev": "Blaze On", "next": "Llama"},
-  {"date": "2016-10-15", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 21, "set": "1", "out": ">", "nb": 1, "prev": "Devotion to a Dream", "next": "Timber (Jerry the Mule)"},
-  {"date": "2016-10-19", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": 3, "set": "1", "nb": 1, "prev": "My Sweet One", "next": "Halfway to the Moon"},
-  {"date": "2016-10-25", "venue": "Verizon Theatre at Grand Prairie", "city": "Grand Prairie", "state": "TX", "gap": 4, "set": "1", "nb": 1, "prev": "Foam", "next": "Divided Sky"},
-  {"date": "2017-01-14", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 10, "set": "1", "nb": 1, "prev": "The Line", "next": "Tube"},
-  {"date": "2017-07-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 14, "set": "1", "nb": 1, "prev": "Runaway Jim", "next": "Esther"},
-  {"date": "2017-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 9, "set": "1", "out": ">", "nb": 1, "prev": "Your Pet Cat", "in": ">", "next": "Theme from the Bottom"},
-  {"date": "2018-07-25", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 10, "set": "1", "nb": 1, "prev": "Ocelot", "in": ">", "next": "Backwards Down the Number Line"}
+  {"date": "2016-06-29", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": null, "set": "1", "note": "Debut.", "prev": "Blaze On", "next": "Llama", "nb": 1},
+  {"date": "2016-10-15", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 21, "set": "1", "out": ">", "prev": "Devotion to a Dream", "next": "Timber (Jerry the Mule)", "nb": 1},
+  {"date": "2016-10-19", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": 3, "set": "1", "prev": "My Sweet One", "next": "Halfway to the Moon", "nb": 1},
+  {"date": "2016-10-25", "venue": "Verizon Theatre at Grand Prairie", "city": "Grand Prairie", "state": "TX", "gap": 4, "set": "1", "prev": "Foam", "next": "Divided Sky", "nb": 1},
+  {"date": "2017-01-14", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 10, "set": "1", "prev": "The Line", "next": "Tube", "nb": 1},
+  {"date": "2017-07-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 14, "set": "1", "prev": "Runaway Jim", "next": "Esther", "nb": 1},
+  {"date": "2017-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 9, "set": "1", "out": ">", "prev": "Your Pet Cat", "in": ">", "next": "Theme from the Bottom", "nb": 1},
+  {"date": "2018-07-25", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 10, "set": "1", "prev": "Ocelot", "in": ">", "next": "Backwards Down the Number Line", "nb": 1}
  ]
 }

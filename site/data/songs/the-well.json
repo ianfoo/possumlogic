@@ -16,16 +16,16 @@
   {"date": "2025-07-11", "score": 28, "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "link": "https://fouldomain.com/tracks/39564"}
  ],
  "performances": [
-  {"date": "2023-07-16", "venue": "Ameris Bank Amphitheatre", "city": "Alpharetta", "state": "GA", "gap": 1967, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Limb By Limb", "in": ">", "next": "Mountains in the Mist"},
-  {"date": "2023-07-25", "venue": "TD Pavilion at the Mann", "city": "Philadelphia", "state": "PA", "gap": 6, "set": "2", "jamchart": true, "jam": "Taking the set 2 anchor spot in only its second Phish outing, Trey's new Tom penned piece is a study in contrasts. Bluebirds and shimmering piano work give way to manic screams and a multipart jam that samples the water at multiple depths.  Dipping first into jagged play and thick snarl, then lifting into plucky staccato melodies that lead to a vocal reprise and false ending before dropping the bucket for another load of muck and an absolutely disgusting peak. Fish wants more.", "nb": 1, "prev": "Down with Disease", "in": ">", "next": "No Men In No Man's Land"},
-  {"date": "2023-08-02", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 6, "set": "2", "out": ">", "nb": 1, "prev": "Piper", "in": ">", "next": "The Howling"},
-  {"date": "2023-10-08", "venue": "Bridgestone Arena", "city": "Nashville", "state": "TN", "gap": 11, "set": "2", "nb": 1, "prev": "Golden Age", "in": "->", "next": "You Enjoy Myself"},
-  {"date": "2023-12-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 8, "set": "2", "out": "->", "nb": 1, "xprev": "Life Saving Gun", "next": "Tweezer"},
-  {"date": "2024-07-26", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 15, "set": "1", "nb": 1, "prev": "The Moma Dance", "next": "My Friend, My Friend"},
-  {"date": "2025-04-23", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 36, "set": "1", "out": ">", "nb": 1, "prev": "Reba", "next": "David Bowie"},
-  {"date": "2025-06-27", "venue": "Moody Center", "city": "Austin", "state": "TX", "gap": 8, "set": "1", "nb": 1, "prev": "Divided Sky", "next": "Daniel Saw the Stone"},
-  {"date": "2025-07-11", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 6, "set": "2", "nb": 1, "prev": "Twist", "next": "Sightless Escape"},
-  {"date": "2025-07-25", "venue": "Broadview Stage at SPAC", "city": "Saratoga Springs", "state": "NY", "gap": 10, "set": "1", "nb": 1, "prev": "Devotion to a Dream", "next": "Birds of a Feather"},
-  {"date": "2026-04-25", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 23, "set": "1", "nb": 1, "prev": "Horn", "next": "My Soul"}
+  {"date": "2023-07-16", "venue": "Ameris Bank Amphitheatre", "city": "Alpharetta", "state": "GA", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Limb By Limb", "in": ">", "next": "Mountains in the Mist", "nb": 1},
+  {"date": "2023-07-25", "venue": "TD Pavilion at the Mann", "city": "Philadelphia", "state": "PA", "gap": 6, "set": "2", "jamchart": true, "jam": "Taking the set 2 anchor spot in only its second Phish outing, Trey's new Tom penned piece is a study in contrasts. Bluebirds and shimmering piano work give way to manic screams and a multipart jam that samples the water at multiple depths.  Dipping first into jagged play and thick snarl, then lifting into plucky staccato melodies that lead to a vocal reprise and false ending before dropping the bucket for another load of muck and an absolutely disgusting peak. Fish wants more.", "prev": "Down with Disease", "in": ">", "next": "No Men In No Man's Land", "nb": 1},
+  {"date": "2023-08-02", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 6, "set": "2", "out": ">", "prev": "Piper", "in": ">", "next": "The Howling", "nb": 1},
+  {"date": "2023-10-08", "venue": "Bridgestone Arena", "city": "Nashville", "state": "TN", "gap": 11, "set": "2", "prev": "Golden Age", "in": "->", "next": "You Enjoy Myself", "nb": 1},
+  {"date": "2023-12-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 8, "set": "2", "out": "->", "next": "Tweezer", "xprev": "Life Saving Gun", "nb": 1},
+  {"date": "2024-07-26", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 15, "set": "1", "prev": "The Moma Dance", "next": "My Friend, My Friend", "nb": 1},
+  {"date": "2025-04-23", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 36, "set": "1", "out": ">", "prev": "Reba", "next": "David Bowie", "nb": 1},
+  {"date": "2025-06-27", "venue": "Moody Center", "city": "Austin", "state": "TX", "gap": 8, "set": "1", "prev": "Divided Sky", "next": "Daniel Saw the Stone", "nb": 1},
+  {"date": "2025-07-11", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 6, "set": "2", "prev": "Twist", "next": "Sightless Escape", "nb": 1},
+  {"date": "2025-07-25", "venue": "Broadview Stage at SPAC", "city": "Saratoga Springs", "state": "NY", "gap": 10, "set": "1", "prev": "Devotion to a Dream", "next": "Birds of a Feather", "nb": 1},
+  {"date": "2026-04-25", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 24, "set": "1", "prev": "Horn", "next": "My Soul", "nb": 1}
  ]
 }

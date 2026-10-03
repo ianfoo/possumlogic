@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2010-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "note": "Phish debut; Giovanni Hidalgo on percussion, Aaron Johnson on trombone, Stuart Bogie on saxophone, Ian Hendrickson-Smith on saxophone, Michael Leonhart on trumpet, and Eric Biondo on trumpet.", "nb": 1, "prev": "Tripe Face Boogie", "next": "Willin'"},
-  {"date": "2011-06-04", "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "gap": 12, "set": "1", "nb": 1, "prev": "Ocelot", "next": "Back on the Train"}
+  {"date": "2010-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "note": "Phish debut; Giovanni Hidalgo on percussion, Aaron Johnson on trombone, Stuart Bogie on saxophone, Ian Hendrickson-Smith on saxophone, Michael Leonhart on trumpet, and Eric Biondo on trumpet.", "prev": "Tripe Face Boogie", "next": "Willin'", "nb": 1},
+  {"date": "2011-06-04", "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "gap": 12, "set": "1", "prev": "Ocelot", "next": "Back on the Train", "nb": 1}
  ]
 }

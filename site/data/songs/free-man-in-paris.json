@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2010-06-25", "venue": "Susquehanna Bank Center", "city": "Camden", "state": "NJ", "gap": 1480, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Army of One", "next": "Summer of '89"}
+  {"date": "2010-06-25", "venue": "Susquehanna Bank Center", "city": "Camden", "state": "NJ", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Army of One", "next": "Summer of '89", "nb": 1}
  ]
 }

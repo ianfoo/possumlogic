@@ -3,12 +3,15 @@
  "slug": "jennifer-dances",
  "artist": "Phish",
  "best": [
-
+  {"date": "2014-07-27", "score": 68, "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "link": "https://fouldomain.com/tracks/31467"},
+  {"date": "1999-12-07", "score": 39, "venue": "Cumberland County Civic Center", "city": "Portland", "state": "ME", "link": "https://fouldomain.com/tracks/23849"},
+  {"date": "1999-12-17", "score": 38, "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "link": "https://fouldomain.com/tracks/23982"},
+  {"date": "1999-12-05", "score": 33, "venue": "BlueCross Arena", "city": "Rochester", "state": "NY", "link": "https://fouldomain.com/tracks/23833"}
  ],
  "performances": [
-  {"date": "1999-12-05", "venue": "BlueCross Arena", "city": "Rochester", "state": "NY", "gap": 1298, "set": "2", "note": "Debut.", "nb": 1, "prev": "Brian and Robert", "next": "Maze"},
-  {"date": "1999-12-07", "venue": "Cumberland County Civic Center", "city": "Portland", "state": "ME", "gap": 1, "set": "2", "nb": 1, "prev": "Wolfman's Brother", "next": "Heavy Things"},
-  {"date": "1999-12-17", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 8, "set": "2", "nb": 1, "prev": "Bug", "next": "Split Open and Melt"},
-  {"date": "2014-07-27", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 354, "set": "2", "out": "->", "nb": 1, "prev": "Hold Your Head Up", "in": "->", "next": "Hold Your Head Up"}
+  {"date": "1999-12-05", "venue": "BlueCross Arena", "city": "Rochester", "state": "NY", "gap": null, "set": "2", "note": "Debut.", "prev": "Brian and Robert", "next": "Maze", "nb": 1},
+  {"date": "1999-12-07", "venue": "Cumberland County Civic Center", "city": "Portland", "state": "ME", "gap": 1, "set": "2", "prev": "Wolfman's Brother", "next": "Heavy Things", "nb": 1},
+  {"date": "1999-12-17", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 8, "set": "2", "prev": "Bug", "next": "Split Open and Melt", "nb": 1},
+  {"date": "2014-07-27", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 354, "set": "2", "out": "->", "prev": "Hold Your Head Up", "in": "->", "next": "Hold Your Head Up", "nb": 1}
  ]
 }

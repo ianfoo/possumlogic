@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2015-08-05", "venue": "Starlight Theatre", "city": "Kansas City", "state": "MO", "gap": 1688, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Divided Sky", "next": "Blaze On"}
+  {"date": "2015-08-05", "venue": "Starlight Theatre", "city": "Kansas City", "state": "MO", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Divided Sky", "next": "Blaze On", "nb": 1}
  ]
 }

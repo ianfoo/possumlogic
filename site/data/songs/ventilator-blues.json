@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2009-10-31", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": 1451, "set": "2", "note": "Phish debut; Sharon Jones and Saundra Williams on backup vocals, Dave Guy on trumpet, David Smith on trombone, and Tony Jarvis on saxophone.", "out": "->", "nb": 1, "prev": "Turd on the Run", "next": "I Just Want To See His Face"}
+  {"date": "2009-10-31", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": null, "set": "2", "note": "Phish debut; Sharon Jones and Saundra Williams on backup vocals, Dave Guy on trumpet, David Smith on trombone, and Tony Jarvis on saxophone.", "out": "->", "prev": "Turd on the Run", "next": "I Just Want To See His Face", "nb": 1}
  ]
 }

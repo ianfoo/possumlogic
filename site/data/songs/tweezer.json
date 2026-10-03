@@ -449,6 +449,6 @@
   {"date": "2026-07-25", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 10, "set": "2", "times": 6, "out": "->", "prev": "Down with Disease", "in": "->", "next": "Down with Disease", "nb": 1},
   {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 4, "set": "1", "times": 3, "out": "->", "prev": "My Friend, My Friend", "in": "->", "next": "Sigma Oasis", "nb": 1},
   {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "2", "out": ">", "prev": "A Wave of Hope", "in": "->", "next": "Chalk Dust Torture", "nb": 1},
-  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "prev": "Down with Disease", "in": ">", "next": "Mercury", "nb": 1}
+  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "note": "Trey on mini drum kit.", "out": ">", "nb": 1, "prev": "Down with Disease", "in": ">", "next": "Mercury"}
  ]
 }

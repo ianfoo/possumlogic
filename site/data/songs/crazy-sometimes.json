@@ -3,17 +3,25 @@
  "slug": "crazy-sometimes",
  "artist": "Phish",
  "best": [
-
+  {"date": "2018-10-31", "score": 60, "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/34711"},
+  {"date": "2019-09-01", "score": 54, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/35478"},
+  {"date": "2019-06-19", "score": 45, "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "link": "https://fouldomain.com/tracks/35047"},
+  {"date": "2017-09-02", "score": 43, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/34027"},
+  {"date": "2019-07-03", "score": 43, "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "link": "https://fouldomain.com/tracks/35252"},
+  {"date": "2017-08-06", "score": 42, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/33987"},
+  {"date": "2023-10-11", "score": 41, "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "link": "https://fouldomain.com/tracks/38215"},
+  {"date": "2017-07-18", "score": 40, "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "link": "https://fouldomain.com/tracks/33732"},
+  {"date": "2019-12-08", "score": 35, "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "link": "https://fouldomain.com/tracks/35667"}
  ],
  "performances": [
-  {"date": "2017-07-18", "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "gap": 1766, "set": "1", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Horn", "next": "46 Days"},
-  {"date": "2017-08-06", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 14, "set": "1", "out": ">", "nb": 1, "prev": "Camel Walk", "next": "Saw It Again"},
-  {"date": "2017-09-02", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "1", "out": ">", "nb": 1, "prev": "Sand", "next": "Limb By Limb"},
-  {"date": "2018-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 37, "set": "1", "out": ">", "nb": 1, "prev": "Ghost", "in": ">", "next": "Free"},
-  {"date": "2019-06-19", "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "gap": 16, "set": "2", "nb": 1, "prev": "Birds of a Feather", "in": ">", "next": "Miss You"},
-  {"date": "2019-07-03", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 10, "set": "1", "out": ">", "nb": 1, "prev": "Poor Heart", "in": ">", "next": "The Horse"},
-  {"date": "2019-09-01", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 10, "set": "1", "out": ">", "nb": 1, "prev": "Sparkle", "next": "Bathtub Gin"},
-  {"date": "2019-12-08", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 8, "set": "1", "out": ">", "nb": 1, "prev": "Brian and Robert", "next": "Frost"},
-  {"date": "2023-10-11", "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "gap": 131, "set": "1", "nb": 1, "prev": "My Friend, My Friend", "in": ">", "next": "Walls of the Cave"}
+  {"date": "2017-07-18", "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "gap": null, "set": "1", "note": "Phish debut.", "out": ">", "prev": "Horn", "next": "46 Days", "nb": 1},
+  {"date": "2017-08-06", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 14, "set": "1", "out": ">", "prev": "Camel Walk", "next": "Saw It Again", "nb": 1},
+  {"date": "2017-09-02", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "1", "out": ">", "prev": "Sand", "next": "Limb By Limb", "nb": 1},
+  {"date": "2018-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 37, "set": "1", "out": ">", "prev": "Ghost", "in": ">", "next": "Free", "nb": 1},
+  {"date": "2019-06-19", "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "gap": 16, "set": "2", "prev": "Birds of a Feather", "in": ">", "next": "Miss You", "nb": 1},
+  {"date": "2019-07-03", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 10, "set": "1", "out": ">", "prev": "Poor Heart", "in": ">", "next": "The Horse", "nb": 1},
+  {"date": "2019-09-01", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 10, "set": "1", "out": ">", "prev": "Sparkle", "next": "Bathtub Gin", "nb": 1},
+  {"date": "2019-12-08", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 8, "set": "1", "out": ">", "prev": "Brian and Robert", "next": "Frost", "nb": 1},
+  {"date": "2023-10-11", "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "gap": 132, "set": "1", "prev": "My Friend, My Friend", "in": ">", "next": "Walls of the Cave", "nb": 1}
  ]
 }

@@ -3,16 +3,23 @@
  "slug": "crimes-of-the-mind",
  "artist": "Phish",
  "best": [
-
+  {"date": "1991-08-03", "score": 47, "venue": "Larrabee Farm, a.k.a. Amy's Farm", "city": "Auburn", "state": "ME", "link": "https://fouldomain.com/tracks/8471"},
+  {"date": "2016-10-28", "score": 45, "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/33442"},
+  {"date": "1994-07-10", "score": 44, "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "link": "https://fouldomain.com/tracks/16212"},
+  {"date": "1993-08-09", "score": 40, "venue": "Concert Hall", "city": "Toronto, Ontario", "state": "", "link": "https://fouldomain.com/tracks/14324"},
+  {"date": "2003-11-28", "score": 39, "venue": "Nassau Veterans Memorial Coliseum", "city": "Uniondale", "state": "NY", "link": "https://fouldomain.com/tracks/25717"},
+  {"date": "1993-08-28", "score": 38, "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ", "city": "Berkeley", "state": "CA", "link": "https://fouldomain.com/tracks/14609"},
+  {"date": "2009-11-29", "score": 38, "venue": "Cumberland County Civic Center", "city": "Portland", "state": "ME", "link": "https://fouldomain.com/tracks/27124"},
+  {"date": "1991-11-08", "score": 34, "venue": "Ivory Tusk", "city": "Tuscaloosa", "state": "AL", "link": "https://fouldomain.com/tracks/9184"}
  ],
  "performances": [
-  {"date": "1991-08-03", "venue": "Larrabee Farm, a.k.a. Amy\u2019s Farm", "city": "Auburn", "state": "ME", "gap": 542, "set": "e", "note": "Phish debut; The Dude of Life on vocals.", "nb": 1, "prev": "Bitchin' Again", "xnext": "Harry Hood"},
-  {"date": "1991-11-08", "venue": "Ivory Tusk", "city": "Tuscaloosa", "state": "AL", "gap": 31, "set": "2", "note": "The Dude of Life on vocals.", "nb": 1, "prev": "Family Picture", "xnext": "Fee"},
-  {"date": "1993-08-09", "venue": "Concert Hall", "city": "Toronto", "state": "Ontario", "gap": 235, "set": "2", "note": "The Dude of Life on vocals.", "nb": 1, "prev": "Contact", "in": ">", "xnext": "Rocky Top"},
-  {"date": "1993-08-28", "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ", "city": "Berkeley", "state": "CA", "gap": 13, "set": "1", "note": "The Dude of Life on vocals.", "nb": 1, "prev": "The Squirming Coil", "xnext": "Also Sprach Zarathustra"},
-  {"date": "1994-07-10", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 74, "set": "2", "note": "The Dude of Life on vocals.", "nb": 1, "prev": "The Squirming Coil", "xnext": "Golgi Apparatus"},
-  {"date": "2003-11-28", "venue": "Nassau Veterans Memorial Coliseum", "city": "Uniondale", "state": "NY", "gap": 507, "set": "e", "note": "The Dude of Life on vocals.", "nb": 1, "xprev": "Weekapaug Groove", "last": 1},
-  {"date": "2009-11-29", "venue": "Cumberland County Civic Center", "city": "Portland", "state": "ME", "gap": 67, "set": "2", "out": ">", "nb": 1, "prev": "Light", "in": ">", "next": "Pebbles and Marbles"},
-  {"date": "2016-10-28", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 283, "set": "2", "nb": 1, "xprev": "Walls of the Cave", "next": "Golden Age"}
+  {"date": "1991-08-03", "venue": "Larrabee Farm, a.k.a. Amy\u2019s Farm", "city": "Auburn", "state": "ME", "gap": null, "set": "e", "note": "Phish debut; The Dude of Life on vocals.", "prev": "Bitchin' Again", "xnext": "Harry Hood", "nb": 1},
+  {"date": "1991-11-08", "venue": "Ivory Tusk", "city": "Tuscaloosa", "state": "AL", "gap": 31, "set": "2", "note": "The Dude of Life on vocals.", "prev": "Family Picture", "xnext": "Fee", "nb": 1},
+  {"date": "1993-08-09", "venue": "Concert Hall", "city": "Toronto", "state": "Ontario", "gap": 235, "set": "2", "note": "The Dude of Life on vocals.", "prev": "Contact", "in": ">", "xnext": "Rocky Top", "nb": 1},
+  {"date": "1993-08-28", "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ", "city": "Berkeley", "state": "CA", "gap": 13, "set": "1", "note": "The Dude of Life on vocals.", "prev": "The Squirming Coil", "xnext": "Also Sprach Zarathustra", "nb": 1},
+  {"date": "1994-07-10", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 74, "set": "2", "note": "The Dude of Life on vocals.", "prev": "The Squirming Coil", "xnext": "Golgi Apparatus", "nb": 1},
+  {"date": "2003-11-28", "venue": "Nassau Veterans Memorial Coliseum", "city": "Uniondale", "state": "NY", "gap": 507, "set": "e", "note": "The Dude of Life on vocals.", "xprev": "Weekapaug Groove", "last": 1, "nb": 1},
+  {"date": "2009-11-29", "venue": "Cumberland County Civic Center", "city": "Portland", "state": "ME", "gap": 67, "set": "2", "out": ">", "prev": "Light", "in": ">", "next": "Pebbles and Marbles", "nb": 1},
+  {"date": "2016-10-28", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 283, "set": "2", "next": "Golden Age", "xprev": "Walls of the Cave", "nb": 1}
  ]
 }

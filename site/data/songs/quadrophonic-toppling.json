@@ -6,8 +6,8 @@
 
  ],
  "performances": [
-  {"date": "1999-12-31", "venue": "Big Cypress Seminole Indian Reservation", "city": "Big Cypress", "state": "FL", "gap": 1306, "set": "2", "jamchart": true, "jam": "Debut begins with the deployment of Mike's Siket Disc vocal sample in the midst of the meditative, ambient jam which emerged from \"Sand\". Guitar and keyboard delay loops are eventually joined by a fuller arrangement but the volume never rises above a reverent hush.", "note": "Debut.", "nb": 1, "prev": "Sand", "in": "->", "next": "Slave to the Traffic Light"},
-  {"date": "2022-05-27", "venue": "The Wharf Amphitheater", "city": "Orange Beach", "state": "AL", "gap": 606, "set": "2", "jamchart": true, "jam": "Emerges -> out \"Soul Planet's\" jam for only its second full-throated performance alongside a bevy of Fish's samples and -> back to \"Soul Planet\".", "out": "->", "nb": 1, "prev": "Soul Planet", "in": "->", "next": "Soul Planet"},
-  {"date": "2025-12-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 172, "set": "1", "nb": 1, "prev": "Carini", "next": "The Curtain With"}
+  {"date": "1999-12-31", "venue": "Big Cypress Seminole Indian Reservation", "city": "Big Cypress", "state": "FL", "gap": null, "set": "2", "jamchart": true, "jam": "Debut begins with the deployment of Mike's Siket Disc vocal sample in the midst of the meditative, ambient jam which emerged from \"Sand\". Guitar and keyboard delay loops are eventually joined by a fuller arrangement but the volume never rises above a reverent hush.", "note": "Debut.", "prev": "Sand", "in": "->", "next": "Slave to the Traffic Light", "nb": 1},
+  {"date": "2022-05-27", "venue": "The Wharf Amphitheater", "city": "Orange Beach", "state": "AL", "gap": 606, "set": "2", "jamchart": true, "jam": "Emerges -> out \"Soul Planet's\" jam for only its second full-throated performance alongside a bevy of Fish's samples and -> back to \"Soul Planet\".", "out": "->", "prev": "Soul Planet", "in": "->", "next": "Soul Planet", "nb": 1},
+  {"date": "2025-12-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 172, "set": "1", "prev": "Carini", "next": "The Curtain With", "nb": 1}
  ]
 }

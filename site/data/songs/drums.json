@@ -3,19 +3,27 @@
  "slug": "drums",
  "artist": "Phish",
  "best": [
-
+  {"date": "1991-05-17", "score": 60, "venue": "Campus Club", "city": "Providence", "state": "RI", "link": "https://fouldomain.com/tracks/8046"},
+  {"date": "1991-05-02", "score": 58, "venue": "The Chance", "city": "Poughkeepsie", "state": "NY", "link": "https://fouldomain.com/tracks/7876"},
+  {"date": "2004-08-11", "score": 56, "venue": "Tweeter Center", "city": "Mansfield", "state": "MA", "link": "https://fouldomain.com/tracks/26103"},
+  {"date": "1994-04-21", "score": 55, "venue": "Lawrence Joel Veterans Memorial Coliseum", "city": "Winston-Salem", "state": "NC", "link": "https://fouldomain.com/tracks/15029"},
+  {"date": "1984-12-01", "score": 52, "venue": "Nectar's", "city": "Burlington", "state": "VT", "link": "https://fouldomain.com/tracks/1447"},
+  {"date": "2009-08-02", "score": 51, "venue": "Red Rocks Amphitheatre", "city": "Morrison", "state": "CO", "link": "https://fouldomain.com/tracks/26655"},
+  {"date": "1984-11-03", "score": 47, "venue": "Slade Hall, University of Vermont", "city": "Burlington", "state": "VT", "link": "https://fouldomain.com/tracks/1432"},
+  {"date": "1994-10-15", "score": 45, "venue": "Oak Mountain Amphitheatre", "city": "Pelham", "state": "AL", "link": "https://fouldomain.com/tracks/16477"},
+  {"date": "1985-11-14", "score": 36, "venue": "Memorial Auditorium Basement", "city": "Burlington", "state": "VT", "link": "https://fouldomain.com/tracks/1548"}
  ],
  "performances": [
-  {"date": "1984-11-03", "venue": "Slade Hall, University of Vermont", "city": "Burlington", "state": "VT", "gap": 4, "set": "1", "note": "Marc Daubert on percussion.", "nb": 1, "prev": "Whipping Post", "in": "->", "last": 1},
-  {"date": "1984-12-01", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": 1, "set": "1", "note": "Marc Daubert.", "out": "->", "nb": 1, "prev": "Cities", "in": "->", "next": "Skippy the Wondermouse"},
-  {"date": "1985-11-14", "venue": "Memorial Auditorium Basement", "city": "Burlington", "state": "VT", "gap": 25, "set": "1", "note": "Possible guest appearance by Marc Daubert, at least one member of The Joneses, and possibly others.", "out": ">", "nb": 1, "prev": "Makisupa Policeman", "in": "->", "next": "Alumni Blues"},
-  {"date": "1990-10-18", "venue": "The Georgia Theatre", "city": "Athens", "state": "GA", "gap": 401, "set": "1", "out": ">", "nb": 1, "prev": "I Didn't Know", "in": ">", "next": "The Asse Festival"},
-  {"date": "1991-05-02", "venue": "The Chance", "city": "Poughkeepsie", "state": "NY", "gap": 82, "set": "1", "out": "->", "nb": 1, "prev": "Rocky Top", "next": "Foam"},
-  {"date": "1991-05-17", "venue": "Campus Club", "city": "Providence", "state": "RI", "gap": 8, "set": "1", "note": "Carl Gerhard on trumpet.", "out": "->", "nb": 1, "prev": "Chalk Dust Torture", "next": "Mr. P.C."},
-  {"date": "1994-04-21", "venue": "Lawrence Joel Veterans Memorial Coliseum", "city": "Winston-Salem", "state": "NC", "gap": 314, "set": "e", "note": "Carter Beauford on drums.", "out": "->", "nb": 1, "xprev": "Amazing Grace", "next": "Jam"},
-  {"date": "1994-10-15", "venue": "Oak Mountain Amphitheatre", "city": "Pelham", "state": "AL", "gap": 67, "set": "e", "note": "Carter Beauford on drums.", "nb": 1, "xprev": "Suzy Greenberg", "next": "The Maker"},
-  {"date": "1997-07-25", "venue": "Starplex Amphitheatre", "city": "Dallas", "state": "TX", "gap": 231, "set": "2", "note": "Bob Gullotti on a second drum set and Page on keys.", "out": "->", "nb": 1, "prev": "Ya Mar", "in": "->", "next": "Ghost"},
-  {"date": "2004-08-11", "venue": "Tweeter Center", "city": "Mansfield", "state": "MA", "gap": 283, "set": "2", "note": "Trey and Fish.", "out": "->", "nb": 1, "prev": "Hold Your Head Up", "next": "Timber (Jerry the Mule)"},
-  {"date": "2009-08-02", "venue": "Red Rocks Amphitheatre", "city": "Morrison", "state": "CO", "gap": 25, "set": "2", "note": "Bill Kreutzmann on drums.", "out": "->", "nb": 1, "prev": "Undermind", "in": "->", "next": "Seven Below"}
+  {"date": "1984-11-03", "venue": "Slade Hall, University of Vermont", "city": "Burlington", "state": "VT", "gap": null, "set": "1", "note": "Marc Daubert on percussion.", "prev": "Whipping Post", "in": "->", "last": 1, "nb": 1},
+  {"date": "1984-12-01", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": 1, "set": "1", "note": "Marc Daubert.", "out": "->", "prev": "Cities", "in": "->", "next": "Skippy the Wondermouse", "nb": 1},
+  {"date": "1985-11-14", "venue": "Memorial Auditorium Basement", "city": "Burlington", "state": "VT", "gap": 24, "set": "1", "note": "Possible guest appearance by Marc Daubert, at least one member of The Joneses, and possibly others.", "out": ">", "prev": "Makisupa Policeman", "in": "->", "next": "Alumni Blues", "nb": 1},
+  {"date": "1990-10-18", "venue": "The Georgia Theatre", "city": "Athens", "state": "GA", "gap": 403, "set": "1", "out": ">", "prev": "I Didn't Know", "in": ">", "next": "The Asse Festival", "nb": 1},
+  {"date": "1991-05-02", "venue": "The Chance", "city": "Poughkeepsie", "state": "NY", "gap": 82, "set": "1", "out": "->", "prev": "Rocky Top", "next": "Foam", "nb": 1},
+  {"date": "1991-05-17", "venue": "Campus Club", "city": "Providence", "state": "RI", "gap": 8, "set": "1", "note": "Carl Gerhard on trumpet.", "out": "->", "prev": "Chalk Dust Torture", "next": "Mr. P.C.", "nb": 1},
+  {"date": "1994-04-21", "venue": "Lawrence Joel Veterans Memorial Coliseum", "city": "Winston-Salem", "state": "NC", "gap": 315, "set": "e", "note": "Carter Beauford on drums.", "out": "->", "next": "Jam", "xprev": "Amazing Grace", "nb": 1},
+  {"date": "1994-10-15", "venue": "Oak Mountain Amphitheatre", "city": "Pelham", "state": "AL", "gap": 67, "set": "e", "note": "Carter Beauford on drums.", "next": "The Maker", "xprev": "Suzy Greenberg", "nb": 1},
+  {"date": "1997-07-25", "venue": "Starplex Amphitheatre", "city": "Dallas", "state": "TX", "gap": 232, "set": "2", "note": "Bob Gullotti on a second drum set and Page on keys.", "out": "->", "prev": "Ya Mar", "in": "->", "next": "Ghost", "nb": 1},
+  {"date": "2004-08-11", "venue": "Tweeter Center", "city": "Mansfield", "state": "MA", "gap": 285, "set": "2", "note": "Trey and Fish.", "out": "->", "prev": "Hold Your Head Up", "next": "Timber (Jerry the Mule)", "nb": 1},
+  {"date": "2009-08-02", "venue": "Red Rocks Amphitheatre", "city": "Morrison", "state": "CO", "gap": 25, "set": "2", "note": "Bill Kreutzmann on drums.", "out": "->", "prev": "Undermind", "in": "->", "next": "Seven Below", "nb": 1}
  ]
 }

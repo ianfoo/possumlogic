@@ -3,16 +3,23 @@
  "slug": "time-loves-a-hero",
  "artist": "Phish",
  "best": [
-
+  {"date": "1988-11-03", "score": 54, "venue": "Molly's Cafe", "city": "Boston", "state": "MA", "link": "https://fouldomain.com/tracks/2924"},
+  {"date": "1998-08-11", "score": 49, "venue": "Star Lake Amphitheatre", "city": "Burgettstown", "state": "PA", "link": "https://fouldomain.com/tracks/22231"},
+  {"date": "2010-10-31", "score": 48, "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "link": "https://fouldomain.com/tracks/28274"},
+  {"date": "2002-12-31", "score": 47, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/25069"},
+  {"date": "2010-07-01", "score": 47, "venue": "Time Warner Cable Music Pavilion at Walnut Creek ", "city": "Raleigh", "state": "NC", "link": "https://fouldomain.com/tracks/27621"},
+  {"date": "1988-10-29", "score": 43, "venue": "Sculpture Room, Goddard College", "city": "Plainfield", "state": "VT", "link": "https://fouldomain.com/tracks/2887"},
+  {"date": "1988-11-05", "score": 40, "venue": "Sigma Phi Fraternity, Hamilton College", "city": "Clinton", "state": "NY", "link": "https://fouldomain.com/tracks/2944"},
+  {"date": "2011-07-03", "score": 37, "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "link": "https://fouldomain.com/tracks/28883"}
  ],
  "performances": [
-  {"date": "1988-10-29", "venue": "Sculpture Room, Goddard College", "city": "Plainfield", "state": "VT", "gap": 183, "set": "1", "note": "First known Phish performance.", "nb": 1, "prev": "The Lizards", "next": "Golgi Apparatus"},
-  {"date": "1988-11-03", "venue": "Molly's Cafe", "city": "Boston", "state": "MA", "gap": 1, "set": "2", "nb": 1, "xprev": "Good Times Bad Times", "next": "Walk Away"},
-  {"date": "1988-11-05", "venue": "Sigma Phi Fraternity, Hamilton College", "city": "Clinton", "state": "NY", "gap": 2, "set": "1", "nb": 1, "prev": "Slave to the Traffic Light", "next": "Fire"},
-  {"date": "1998-08-11", "venue": "Star Lake Amphitheatre", "city": "Burgettstown", "state": "PA", "gap": 1026, "set": "1", "nb": 1, "prev": "Wolfman's Brother", "in": "->", "next": "Bittersweet Motel"},
-  {"date": "2002-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 153, "set": "3", "nb": 1, "prev": "Runaway Jim", "in": "->", "next": "Taste"},
-  {"date": "2010-07-01", "venue": "Time Warner Cable Music Pavilion at Walnut Creek ", "city": "Raleigh", "state": "NC", "gap": 127, "set": "1", "nb": 1, "prev": "Kill Devil Falls", "next": "Alaska"},
-  {"date": "2010-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 29, "set": "2", "note": "Giovanni Hidalgo on percussion, Aaron Johnson on trombone, Stuart Bogie on saxophone, Ian Hendrickson-Smith on saxophone, Michael Leonhart on trumpet, and Eric Biondo on trumpet.", "out": "->", "nb": 1, "prev": "Old Folks Boogie", "next": "Day or Night"},
-  {"date": "2011-07-03", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": 26, "set": "1", "nb": 1, "prev": "A Song I Heard the Ocean Sing", "next": "Reba"}
+  {"date": "1988-10-29", "venue": "Sculpture Room, Goddard College", "city": "Plainfield", "state": "VT", "gap": null, "set": "1", "note": "First known Phish performance.", "prev": "The Lizards", "next": "Golgi Apparatus", "nb": 1},
+  {"date": "1988-11-03", "venue": "Molly's Cafe", "city": "Boston", "state": "MA", "gap": 1, "set": "2", "next": "Walk Away", "xprev": "Good Times Bad Times", "nb": 1},
+  {"date": "1988-11-05", "venue": "Sigma Phi Fraternity, Hamilton College", "city": "Clinton", "state": "NY", "gap": 2, "set": "1", "prev": "Slave to the Traffic Light", "next": "Fire", "nb": 1},
+  {"date": "1998-08-11", "venue": "Star Lake Amphitheatre", "city": "Burgettstown", "state": "PA", "gap": 1026, "set": "1", "prev": "Wolfman's Brother", "in": "->", "next": "Bittersweet Motel", "nb": 1},
+  {"date": "2002-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 153, "set": "3", "prev": "Runaway Jim", "in": "->", "next": "Taste", "nb": 1},
+  {"date": "2010-07-01", "venue": "Time Warner Cable Music Pavilion at Walnut Creek ", "city": "Raleigh", "state": "NC", "gap": 127, "set": "1", "prev": "Kill Devil Falls", "next": "Alaska", "nb": 1},
+  {"date": "2010-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 29, "set": "2", "note": "Giovanni Hidalgo on percussion, Aaron Johnson on trombone, Stuart Bogie on saxophone, Ian Hendrickson-Smith on saxophone, Michael Leonhart on trumpet, and Eric Biondo on trumpet.", "out": "->", "prev": "Old Folks Boogie", "next": "Day or Night", "nb": 1},
+  {"date": "2011-07-03", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": 26, "set": "1", "prev": "A Song I Heard the Ocean Sing", "next": "Reba", "nb": 1}
  ]
 }

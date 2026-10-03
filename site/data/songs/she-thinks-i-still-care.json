@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2009-03-08", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 1422, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Maze", "next": "Army of One"}
+  {"date": "2009-03-08", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Maze", "next": "Army of One", "nb": 1}
  ]
 }

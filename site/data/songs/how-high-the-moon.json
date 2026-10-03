@@ -3,14 +3,17 @@
  "slug": "how-high-the-moon",
  "artist": "Phish",
  "best": [
-
+  {"date": "1990-04-21", "score": 68, "venue": "Canyon West Room, Lincoln Center", "city": "Fort Collins", "state": "CO", "link": "https://fouldomain.com/tracks/5168"},
+  {"date": "1990-04-22", "score": 48, "venue": "Cutler Quad, Colorado College", "city": "Colorado Springs", "state": "CO", "link": "https://fouldomain.com/tracks/5197"},
+  {"date": "2009-08-13", "score": 46, "venue": "Darien Lake Performing Arts Center", "city": "Darien Center", "state": "NY", "link": "https://fouldomain.com/tracks/26752"},
+  {"date": "1990-04-26", "score": 44, "venue": "Dionysus Club, The 'Sco, Oberlin College", "city": "Oberlin", "state": "OH", "link": "https://fouldomain.com/tracks/5234"}
  ],
  "performances": [
-  {"date": "1990-04-21", "venue": "Canyon West Room, Lincoln Center", "city": "Fort Collins", "state": "CO", "gap": 373, "set": "1", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Walk Away", "next": "The Oh Kee Pa Ceremony"},
-  {"date": "1990-04-22", "venue": "Cutler Quad, Colorado College", "city": "Colorado Springs", "state": "CO", "gap": 1, "set": "2", "nb": 1, "prev": "Fluffhead", "next": "Esther"},
-  {"date": "1990-04-26", "venue": "Dionysus Club, The 'Sco, Oberlin College", "city": "Oberlin", "state": "OH", "gap": 3, "set": "2", "nb": 1, "xprev": "Lawn Boy", "next": "Esther"},
-  {"date": "1990-05-28", "venue": "Jack McConnell's House", "city": "Hilton Head", "state": "SC", "gap": 18, "set": "1", "nb": 1, "prev": "Donna Lee", "next": "My Funny Valentine"},
-  {"date": "1993-03-08", "venue": "Sweeney Center", "city": "Santa Fe", "state": "NM", "gap": 363, "set": "1", "out": ">", "nb": 1, "prev": "Fly Famous Mockingbird", "in": ">", "next": "Fly Famous Mockingbird"},
-  {"date": "2009-08-13", "venue": "Darien Lake Performing Arts Center", "city": "Darien Center", "state": "NY", "gap": 714, "set": "1", "out": ">", "nb": 1, "prev": "Bathtub Gin", "next": "Golgi Apparatus"}
+  {"date": "1990-04-21", "venue": "Canyon West Room, Lincoln Center", "city": "Fort Collins", "state": "CO", "gap": null, "set": "1", "note": "Phish debut.", "out": ">", "prev": "Walk Away", "next": "The Oh Kee Pa Ceremony", "nb": 1},
+  {"date": "1990-04-22", "venue": "Cutler Quad, Colorado College", "city": "Colorado Springs", "state": "CO", "gap": 1, "set": "2", "prev": "Fluffhead", "next": "Esther", "nb": 1},
+  {"date": "1990-04-26", "venue": "Dionysus Club, The 'Sco, Oberlin College", "city": "Oberlin", "state": "OH", "gap": 3, "set": "2", "next": "Esther", "xprev": "Lawn Boy", "nb": 1},
+  {"date": "1990-05-28", "venue": "Jack McConnell's House", "city": "Hilton Head", "state": "SC", "gap": 18, "set": "1", "prev": "Donna Lee", "next": "My Funny Valentine", "nb": 1},
+  {"date": "1993-03-08", "venue": "Sweeney Center", "city": "Santa Fe", "state": "NM", "gap": 363, "set": "1", "out": ">", "prev": "Fly Famous Mockingbird", "in": ">", "next": "Fly Famous Mockingbird", "nb": 1},
+  {"date": "2009-08-13", "venue": "Darien Lake Performing Arts Center", "city": "Darien Center", "state": "NY", "gap": 714, "set": "1", "out": ">", "prev": "Bathtub Gin", "next": "Golgi Apparatus", "nb": 1}
  ]
 }

@@ -30,7 +30,7 @@
   {"date": "2024-07-24", "score": 44, "venue": "Mohegan Sun Arena", "city": "Uncasville", "state": "CT", "link": "https://fouldomain.com/tracks/38608"}
  ],
  "performances": [
-  {"date": "2021-08-11", "venue": "Hersheypark Stadium", "city": "Hershey", "state": "PA", "gap": 1879, "set": "1", "note": "Phish debut.", "out": ">", "prev": "Halley's Comet", "in": ">", "next": "Gotta Jibboo", "nb": 1},
+  {"date": "2021-08-11", "venue": "Hersheypark Stadium", "city": "Hershey", "state": "PA", "gap": null, "set": "1", "note": "Phish debut.", "out": ">", "prev": "Halley's Comet", "in": ">", "next": "Gotta Jibboo", "nb": 1},
   {"date": "2021-08-29", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 6, "set": "1", "prev": "Free", "next": "How Many People Are You", "nb": 1},
   {"date": "2021-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 5, "set": "2", "out": ">", "prev": "Set Your Soul Free", "in": ">", "next": "Simple", "nb": 1},
   {"date": "2021-10-20", "venue": "Matthew Knight Arena", "city": "Eugene", "state": "OR", "gap": 5, "set": "2", "out": ">", "prev": "Ruby Waves", "in": ">", "next": "Golden Age", "nb": 1},
@@ -56,7 +56,7 @@
   {"date": "2025-07-09", "venue": "Jerome Schottenstein Center", "city": "Columbus", "state": "OH", "gap": 13, "set": "2", "prev": "Piper", "in": ">", "next": "Backwards Down the Number Line", "nb": 1},
   {"date": "2025-09-21", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 21, "set": "2", "prev": "Scents and Subtle Sounds", "in": ">", "next": "Ghost", "nb": 1},
   {"date": "2026-01-29", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 6, "set": "2", "prev": "Ruby Waves", "in": ">", "next": "What's Going Through Your Mind", "nb": 1},
-  {"date": "2026-04-30", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 8, "set": "2", "prev": "Prince Caspian", "in": ">", "next": "Runaway Jim", "nb": 1},
-  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 20, "set": "2", "nb": 1, "prev": "Life Saving Gun", "next": "Run Like an Antelope"}
+  {"date": "2026-04-30", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 9, "set": "2", "prev": "Prince Caspian", "in": ">", "next": "Runaway Jim", "nb": 1},
+  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 21, "set": "2", "prev": "Life Saving Gun", "next": "Run Like an Antelope", "nb": 1}
  ]
 }

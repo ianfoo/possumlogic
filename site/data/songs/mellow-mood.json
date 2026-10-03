@@ -3,18 +3,27 @@
  "slug": "mellow-mood",
  "artist": "Phish",
  "best": [
-
+  {"date": "2010-10-26", "score": 56, "venue": "Verizon Wireless Arena", "city": "Manchester", "state": "NH", "link": "https://fouldomain.com/tracks/28191"},
+  {"date": "2018-09-02", "score": 52, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/34509"},
+  {"date": "2000-10-06", "score": 50, "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "link": "https://fouldomain.com/tracks/25014"},
+  {"date": "2011-08-09", "score": 50, "venue": "Lake Tahoe Outdoor Arena at Harveys", "city": "Stateline", "state": "NV", "link": "https://fouldomain.com/tracks/28973"},
+  {"date": "2010-06-27", "score": 47, "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "link": "https://fouldomain.com/tracks/27579"},
+  {"date": "2000-09-29", "score": 46, "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/24927"},
+  {"date": "2011-06-08", "score": 44, "venue": "Darien Lake Performing Arts Center", "city": "Darien Center", "state": "NY", "link": "https://fouldomain.com/tracks/28588"},
+  {"date": "2003-08-03", "score": 36, "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "link": "https://fouldomain.com/tracks/25687"},
+  {"date": "2000-09-24", "score": 34, "venue": "Target Center", "city": "Minneapolis", "state": "MN", "link": "https://fouldomain.com/tracks/24867"},
+  {"date": "2000-09-08", "score": 31, "venue": "Pepsi Arena", "city": "Albany", "state": "NY", "link": "https://fouldomain.com/tracks/24689"}
  ],
  "performances": [
-  {"date": "2000-09-08", "venue": "Pepsi Arena", "city": "Albany", "state": "NY", "gap": 1344, "set": "1", "note": "Phish debut.", "nb": 1, "first": 1, "next": "Limb By Limb"},
-  {"date": "2000-09-24", "venue": "Target Center", "city": "Minneapolis", "state": "MN", "gap": 11, "set": "1", "nb": 1, "first": 1, "next": "Chalk Dust Torture"},
-  {"date": "2000-09-29", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 3, "set": "1", "nb": 1, "prev": "Frankenstein", "next": "Wilson"},
-  {"date": "2000-10-06", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 5, "set": "1", "nb": 1, "prev": "Boogie On Reggae Woman", "next": "Maze"},
-  {"date": "2003-08-03", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": 38, "set": "2", "out": ">", "nb": 1, "xprev": "Weekapaug Groove", "next": "Ghost"},
-  {"date": "2010-06-27", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 89, "set": "1", "nb": 1, "prev": "Walfredo", "next": "Stealing Time From the Faulty Plan"},
-  {"date": "2010-10-26", "venue": "Verizon Wireless Arena", "city": "Manchester", "state": "NH", "gap": 28, "set": "1", "nb": 1, "prev": "Alumni Blues", "next": "Access Me"},
-  {"date": "2011-06-08", "venue": "Darien Lake Performing Arts Center", "city": "Darien Center", "state": "NY", "gap": 18, "set": "1", "nb": 1, "prev": "Nellie Kane", "next": "Buffalo Bill"},
-  {"date": "2011-08-09", "venue": "Lake Tahoe Outdoor Arena at Harveys", "city": "Stateline", "state": "NV", "gap": 15, "set": "1", "nb": 1, "prev": "AC/DC Bag", "in": ">", "next": "Rift"},
-  {"date": "2018-09-02", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 257, "set": "1", "nb": 1, "prev": "Possum", "next": "Tube"}
+  {"date": "2000-09-08", "venue": "Pepsi Arena", "city": "Albany", "state": "NY", "gap": null, "set": "1", "note": "Phish debut.", "next": "Limb By Limb", "first": 1, "nb": 1},
+  {"date": "2000-09-24", "venue": "Target Center", "city": "Minneapolis", "state": "MN", "gap": 11, "set": "1", "next": "Chalk Dust Torture", "first": 1, "nb": 1},
+  {"date": "2000-09-29", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 3, "set": "1", "prev": "Frankenstein", "next": "Wilson", "nb": 1},
+  {"date": "2000-10-06", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 5, "set": "1", "prev": "Boogie On Reggae Woman", "next": "Maze", "nb": 1},
+  {"date": "2003-08-03", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": 38, "set": "2", "out": ">", "next": "Ghost", "xprev": "Weekapaug Groove", "nb": 1},
+  {"date": "2010-06-27", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 89, "set": "1", "prev": "Walfredo", "next": "Stealing Time From the Faulty Plan", "nb": 1},
+  {"date": "2010-10-26", "venue": "Verizon Wireless Arena", "city": "Manchester", "state": "NH", "gap": 28, "set": "1", "prev": "Alumni Blues", "next": "Access Me", "nb": 1},
+  {"date": "2011-06-08", "venue": "Darien Lake Performing Arts Center", "city": "Darien Center", "state": "NY", "gap": 18, "set": "1", "prev": "Nellie Kane", "next": "Buffalo Bill", "nb": 1},
+  {"date": "2011-08-09", "venue": "Lake Tahoe Outdoor Arena at Harveys", "city": "Stateline", "state": "NV", "gap": 15, "set": "1", "prev": "AC/DC Bag", "in": ">", "next": "Rift", "nb": 1},
+  {"date": "2018-09-02", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 257, "set": "1", "prev": "Possum", "next": "Tube", "nb": 1}
  ]
 }

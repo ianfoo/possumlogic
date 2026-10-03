@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2009-08-11", "venue": "Toyota Park", "city": "Bridgeview", "state": "IL", "gap": 1445, "set": "1", "note": "Debut.", "nb": 1, "prev": "Paul and Silas", "next": "The Curtain With"}
+  {"date": "2009-08-11", "venue": "Toyota Park", "city": "Bridgeview", "state": "IL", "gap": null, "set": "1", "note": "Debut.", "prev": "Paul and Silas", "next": "The Curtain With", "nb": 1}
  ]
 }

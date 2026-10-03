@@ -30,7 +30,7 @@
   {"date": "2018-12-30", "score": 84, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/34836"}
  ],
  "performances": [
-  {"date": "1985-03-16", "venue": "Doolin's", "city": "Burlington", "state": "VT", "gap": 12, "set": "1", "jamchart": true, "jam": "Debut. No recording exists.", "note": "First known performance.", "prev": "Jam", "last": 1, "nb": 1},
+  {"date": "1985-03-16", "venue": "Doolin's", "city": "Burlington", "state": "VT", "gap": null, "set": "1", "jamchart": true, "jam": "Debut. No recording exists.", "note": "First known performance.", "prev": "Jam", "last": 1, "nb": 1},
   {"date": "1985-04-06", "venue": "Finbar's", "city": "Burlington", "state": "VT", "gap": 2, "set": "1", "note": "Vocal section at the end with lyrics to the effect of \"Life is not what it seems.\"", "out": ">", "prev": "Alumni Blues", "in": ">", "next": "Dave's Energy Guide", "nb": 1},
   {"date": "1985-05-03", "venue": "University of Vermont", "city": "Burlington", "state": "VT", "gap": 7, "set": "1", "jamchart": true, "jam": "First known recorded version. No Page yet, although he sat in later in this show. Jeff was still in the band. Tempo is slower than later versions. The jam features solid, fairly intense soloing by Trey. Following the descending closing chords, there is a brief, lyrical outro.", "out": ">", "prev": "Slave to the Traffic Light", "next": "Dave's Energy Guide", "nb": 1},
   {"date": "1985-09-27", "venue": "Slade Hall, University of Vermont", "city": "Burlington", "state": "VT", "gap": 3, "set": "3", "out": ">", "next": "Dave's Energy Guide", "xprev": "Prep School Hippie", "nb": 1},
@@ -150,7 +150,7 @@
   {"date": "1990-09-16", "venue": "Wesleyan University", "city": "Middletown", "state": "CT", "gap": 2, "set": "1", "out": ">", "prev": "Paul and Silas", "next": "I Am Hydrogen", "nb": 1},
   {"date": "1990-09-21", "venue": "Somerville Theatre", "city": "Somerville", "state": "MA", "gap": 4, "set": "1", "out": ">", "prev": "The Landlady", "next": "I Am Hydrogen", "nb": 1},
   {"date": "1990-09-29", "venue": "23 East Cabaret", "city": "Ardmore", "state": "PA", "gap": 4, "set": "2", "out": ">", "prev": "Stash", "next": "I Am Hydrogen", "nb": 1},
-  {"date": "1990-10-01", "venue": "The Haunt", "city": "Ithaca", "state": "NY", "gap": 2, "set": "2", "out": ">", "next": "I Am Hydrogen", "xprev": "Suzy Greenberg", "nb": 1},
+  {"date": "1990-10-01", "venue": "The Haunt", "city": "Ithaca", "state": "NY", "gap": null, "set": "2", "out": ">", "next": "I Am Hydrogen", "xprev": "Suzy Greenberg", "nb": 1},
   {"date": "1990-10-03", "venue": "Thunderbird's", "city": "Portland", "state": "ME", "gap": 1, "set": "1", "out": ">", "prev": "The Asse Festival", "next": "I Am Hydrogen", "nb": 1},
   {"date": "1990-10-05", "venue": "Skidmore Gymnasium, Skidmore College", "city": "Saratoga Springs", "state": "NY", "gap": 2, "set": "1", "out": ">", "prev": "I Didn't Know", "next": "I Am Hydrogen", "nb": 1},
   {"date": "1990-10-07", "venue": "Club Bene", "city": "Sayreville", "state": "NJ", "gap": 2, "set": "1", "out": ">", "prev": "The Squirming Coil", "in": ">", "next": "I Am Hydrogen", "nb": 1},
@@ -576,9 +576,9 @@
   {"date": "2025-09-21", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 5, "set": "2", "out": ">", "next": "I Am Hydrogen", "xprev": "Most Events Aren't Planned", "nb": 1},
   {"date": "2025-12-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 2, "set": "2", "out": ">", "next": "The Final Hurrah", "xprev": "Fluffhead", "nb": 1},
   {"date": "2026-01-31", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 6, "set": "1", "out": ">", "next": "Halley's Comet", "first": 1, "nb": 1},
-  {"date": "2026-04-17", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 1, "set": "2", "out": ">", "prev": "Joy", "next": "I Am Hydrogen", "nb": 1},
-  {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 7, "set": "1", "prev": "Free", "next": "The Man Who Stepped Into Yesterday", "nb": 1},
-  {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 10, "set": "2", "out": ">", "next": "I Am Hydrogen", "xprev": "David Bowie", "nb": 1},
-  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 5, "set": "2", "nb": 1, "xprev": "Sand", "next": "Ruby Waves"}
+  {"date": "2026-04-17", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 2, "set": "2", "out": ">", "prev": "Joy", "next": "I Am Hydrogen", "nb": 1},
+  {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 8, "set": "1", "prev": "Free", "next": "The Man Who Stepped Into Yesterday", "nb": 1},
+  {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 11, "set": "2", "out": ">", "next": "I Am Hydrogen", "xprev": "David Bowie", "nb": 1},
+  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 6, "set": "2", "out": ">", "next": "Ruby Waves", "xprev": "Sand", "nb": 1}
  ]
 }

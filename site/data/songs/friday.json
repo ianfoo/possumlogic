@@ -3,21 +3,33 @@
  "slug": "friday",
  "artist": "Phish",
  "best": [
-
+  {"date": "2004-08-14", "score": 67, "venue": "Newport State Airport", "city": "Coventry", "state": "VT", "link": "https://fouldomain.com/tracks/26149"},
+  {"date": "2003-12-28", "score": 63, "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "link": "https://fouldomain.com/tracks/25787"},
+  {"date": "2003-01-04", "score": 62, "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "link": "https://fouldomain.com/tracks/25125"},
+  {"date": "2003-02-16", "score": 58, "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/25173"},
+  {"date": "2003-07-22", "score": 58, "venue": "Verizon Wireless Music Center", "city": "Noblesville", "state": "IN", "link": "https://fouldomain.com/tracks/25528"},
+  {"date": "2016-10-25", "score": 57, "venue": "Verizon Theatre at Grand Prairie", "city": "Grand Prairie", "state": "TX", "link": "https://fouldomain.com/tracks/33425"},
+  {"date": "2003-02-22", "score": 56, "venue": "U.S. Bank Arena", "city": "Cincinnati", "state": "OH", "link": "https://fouldomain.com/tracks/25234"},
+  {"date": "2003-07-10", "score": 52, "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "link": "https://fouldomain.com/tracks/25382"},
+  {"date": "2004-06-26", "score": 48, "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "link": "https://fouldomain.com/tracks/26052"},
+  {"date": "2003-07-31", "score": 47, "venue": "Tweeter Center at the Waterfront", "city": "Camden", "state": "NJ", "link": "https://fouldomain.com/tracks/25649"},
+  {"date": "2003-11-29", "score": 47, "venue": "Wachovia Spectrum", "city": "Philadelphia", "state": "PA", "link": "https://fouldomain.com/tracks/25734"},
+  {"date": "2004-08-10", "score": 38, "venue": "Tweeter Center", "city": "Mansfield", "state": "MA", "link": "https://fouldomain.com/tracks/26085"},
+  {"date": "2004-04-17", "score": 37, "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/25912"}
  ],
  "performances": [
-  {"date": "2003-01-04", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 1368, "set": "e", "note": "Debut.", "nb": 1, "xprev": "Also Sprach Zarathustra", "last": 1},
-  {"date": "2003-02-16", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 3, "set": "e", "nb": 1, "xprev": "Character Zero", "last": 1},
-  {"date": "2003-02-22", "venue": "U.S. Bank Arena", "city": "Cincinnati", "state": "OH", "gap": 4, "set": "2", "out": ">", "nb": 1, "prev": "Bathtub Gin", "next": "David Bowie"},
-  {"date": "2003-07-10", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 9, "set": "2", "out": ">", "nb": 1, "prev": "Divided Sky", "next": "Free"},
-  {"date": "2003-07-22", "venue": "Verizon Wireless Music Center", "city": "Noblesville", "state": "IN", "gap": 8, "set": "2", "nb": 1, "prev": "Free", "in": ">", "next": "The Lizards"},
-  {"date": "2003-07-31", "venue": "Tweeter Center at the Waterfront", "city": "Camden", "state": "NJ", "gap": 7, "set": "2", "out": ">", "nb": 1, "prev": "Free", "in": ">", "next": "Harry Hood"},
-  {"date": "2003-11-29", "venue": "Wachovia Spectrum", "city": "Philadelphia", "state": "PA", "gap": 4, "set": "e", "nb": 1, "xprev": "Character Zero", "last": 1},
-  {"date": "2003-12-28", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": 3, "set": "2", "out": ">", "nb": 1, "prev": "Water in the Sky", "next": "Harry Hood"},
-  {"date": "2004-04-17", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 6, "set": "2", "nb": 1, "prev": "Simple", "in": ">", "next": "Ghost"},
-  {"date": "2004-06-26", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 9, "set": "2", "out": ">", "nb": 1, "prev": "Free", "next": "Piper"},
-  {"date": "2004-08-10", "venue": "Tweeter Center", "city": "Mansfield", "state": "MA", "gap": 2, "set": "2", "nb": 1, "prev": "Dog Faced Boy", "next": "Harry Hood"},
-  {"date": "2004-08-14", "venue": "Newport State Airport", "city": "Coventry", "state": "VT", "gap": 3, "set": "3", "nb": 1, "prev": "Drowned", "in": ">", "xnext": "Harry Hood"},
-  {"date": "2016-10-25", "venue": "Verizon Theatre at Grand Prairie", "city": "Grand Prairie", "state": "TX", "gap": 325, "set": "2", "nb": 1, "prev": "Taste", "in": ">", "next": "Waves"}
+  {"date": "2003-01-04", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": null, "set": "e", "note": "Debut.", "xprev": "Also Sprach Zarathustra", "last": 1, "nb": 1},
+  {"date": "2003-02-16", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 3, "set": "e", "xprev": "Character Zero", "last": 1, "nb": 1},
+  {"date": "2003-02-22", "venue": "U.S. Bank Arena", "city": "Cincinnati", "state": "OH", "gap": 4, "set": "2", "out": ">", "prev": "Bathtub Gin", "next": "David Bowie", "nb": 1},
+  {"date": "2003-07-10", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 9, "set": "2", "out": ">", "prev": "Divided Sky", "next": "Free", "nb": 1},
+  {"date": "2003-07-22", "venue": "Verizon Wireless Music Center", "city": "Noblesville", "state": "IN", "gap": 8, "set": "2", "prev": "Free", "in": ">", "next": "The Lizards", "nb": 1},
+  {"date": "2003-07-31", "venue": "Tweeter Center at the Waterfront", "city": "Camden", "state": "NJ", "gap": 7, "set": "2", "out": ">", "prev": "Free", "in": ">", "next": "Harry Hood", "nb": 1},
+  {"date": "2003-11-29", "venue": "Wachovia Spectrum", "city": "Philadelphia", "state": "PA", "gap": 4, "set": "e", "xprev": "Character Zero", "last": 1, "nb": 1},
+  {"date": "2003-12-28", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": 3, "set": "2", "out": ">", "prev": "Water in the Sky", "next": "Harry Hood", "nb": 1},
+  {"date": "2004-04-17", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 6, "set": "2", "prev": "Simple", "in": ">", "next": "Ghost", "nb": 1},
+  {"date": "2004-06-26", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 9, "set": "2", "out": ">", "prev": "Free", "next": "Piper", "nb": 1},
+  {"date": "2004-08-10", "venue": "Tweeter Center", "city": "Mansfield", "state": "MA", "gap": 2, "set": "2", "prev": "Dog Faced Boy", "next": "Harry Hood", "nb": 1},
+  {"date": "2004-08-14", "venue": "Newport State Airport", "city": "Coventry", "state": "VT", "gap": 3, "set": "3", "prev": "Drowned", "in": ">", "xnext": "Harry Hood", "nb": 1},
+  {"date": "2016-10-25", "venue": "Verizon Theatre at Grand Prairie", "city": "Grand Prairie", "state": "TX", "gap": 325, "set": "2", "prev": "Taste", "in": ">", "next": "Waves", "nb": 1}
  ]
 }

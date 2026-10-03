@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2011-06-19", "venue": "nTelos Pavilion", "city": "Portsmouth", "state": "VA", "gap": 1536, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "The Moma Dance", "next": "Tube"}
+  {"date": "2011-06-19", "venue": "nTelos Pavilion", "city": "Portsmouth", "state": "VA", "gap": null, "set": "1", "note": "Phish debut.", "prev": "The Moma Dance", "next": "Tube", "nb": 1}
  ]
 }

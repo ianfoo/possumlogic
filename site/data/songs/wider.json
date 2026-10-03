@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2019-07-09", "venue": "Mohegan Sun Arena", "city": "Uncasville", "state": "CT", "gap": 1840, "set": "2", "note": "Phish debut.", "out": "->", "nb": 1, "prev": "Soul Planet", "in": "->", "next": "Undermind"}
+  {"date": "2019-07-09", "venue": "Mohegan Sun Arena", "city": "Uncasville", "state": "CT", "gap": null, "set": "2", "note": "Phish debut.", "out": "->", "prev": "Soul Planet", "in": "->", "next": "Undermind", "nb": 1}
  ]
 }

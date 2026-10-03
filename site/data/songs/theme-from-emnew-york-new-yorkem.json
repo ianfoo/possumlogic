@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "1997-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1179, "set": "e", "note": "Phish debut.", "out": ">", "nb": 1, "xprev": "Loving Cup", "next": "Tweezer Reprise"},
-  {"date": "2022-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 774, "set": "3", "note": "\"Naked dude\" dancers and singers. Lyrics changed to \"if I could be naked there.\"", "out": ">", "nb": 1, "prev": "Carini", "in": ">", "next": "Tweezer"}
+  {"date": "1997-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "e", "note": "Phish debut.", "out": ">", "next": "Tweezer Reprise", "xprev": "Loving Cup", "nb": 1},
+  {"date": "2022-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 774, "set": "3", "note": "\"Naked dude\" dancers and singers. Lyrics changed to \"if I could be naked there.\"", "out": ">", "prev": "Carini", "in": ">", "next": "Tweezer", "nb": 1}
  ]
 }
