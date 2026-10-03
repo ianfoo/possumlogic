@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2017-07-19", "venue": "Petersen Events Center", "city": "Pittsburgh", "state": "PA", "gap": 1759, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Divided Sky", "next": "Home"}
+  {"date": "2017-07-19", "venue": "Petersen Events Center", "city": "Pittsburgh", "state": "PA", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Divided Sky", "next": "Home", "nb": 1}
  ]
 }

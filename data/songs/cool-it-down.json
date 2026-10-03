@@ -3,20 +3,31 @@
  "slug": "cool-it-down",
  "artist": "Phish",
  "best": [
-
+  {"date": "2012-06-28", "score": 59, "venue": "Klipsch Music Center", "city": "Noblesville", "state": "IN", "link": "https://fouldomain.com/tracks/29574"},
+  {"date": "2018-10-23", "score": 57, "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "link": "https://fouldomain.com/tracks/34627"},
+  {"date": "2021-09-04", "score": 57, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/36268"},
+  {"date": "2000-09-24", "score": 55, "venue": "Target Center", "city": "Minneapolis", "state": "MN", "link": "https://fouldomain.com/tracks/24885"},
+  {"date": "2010-12-27", "score": 46, "venue": "DCU Center", "city": "Worcester", "state": "MA", "link": "https://fouldomain.com/tracks/28299"},
+  {"date": "2019-12-01", "score": 46, "venue": "Nassau Veterans Memorial Coliseum", "city": "Uniondale", "state": "NY", "link": "https://fouldomain.com/tracks/35547"},
+  {"date": "2009-11-28", "score": 45, "venue": "Times Union Center", "city": "Albany", "state": "NY", "link": "https://fouldomain.com/tracks/27102"},
+  {"date": "2012-08-15", "score": 42, "venue": "Long Beach Arena", "city": "Long Beach", "state": "CA", "link": "https://fouldomain.com/tracks/29800"},
+  {"date": "2003-07-29", "score": 41, "venue": "Post-Gazette Pavilion at Star Lake", "city": "Burgettstown", "state": "PA", "link": "https://fouldomain.com/tracks/25603"},
+  {"date": "1998-10-31", "score": 39, "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/22447"},
+  {"date": "2023-04-19", "score": 37, "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ", "city": "Berkeley", "state": "CA", "link": "https://fouldomain.com/tracks/37601"},
+  {"date": "2022-06-01", "score": 35, "venue": "Credit One Stadium", "city": "Charleston", "state": "SC", "link": "https://fouldomain.com/tracks/36797"}
  ],
  "performances": [
-  {"date": "1998-10-31", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 1223, "set": "2", "note": "Phish debut.", "nb": 1, "prev": "Rock and Roll", "next": "New Age"},
-  {"date": "2000-09-24", "venue": "Target Center", "city": "Minneapolis", "state": "MN", "gap": 132, "set": "2", "out": "->", "nb": 1, "prev": "Hold Your Head Up", "next": "David Bowie"},
-  {"date": "2003-07-29", "venue": "Post-Gazette Pavilion at Star Lake", "city": "Burgettstown", "state": "PA", "gap": 42, "set": "1", "nb": 1, "prev": "Gotta Jibboo", "next": "Scent of a Mule"},
-  {"date": "2009-11-28", "venue": "Times Union Center", "city": "Albany", "state": "NY", "gap": 71, "set": "2", "out": ">", "nb": 1, "prev": "Ghost", "next": "Gotta Jibboo"},
-  {"date": "2010-12-27", "venue": "DCU Center", "city": "Worcester", "state": "MA", "gap": 54, "set": "1", "nb": 1, "prev": "Funky Bitch", "next": "Roggae"},
-  {"date": "2012-06-28", "venue": "Klipsch Music Center", "city": "Noblesville", "state": "IN", "gap": 54, "set": "1", "out": ">", "nb": 1, "prev": "Wolfman's Brother", "next": "Tweezer"},
-  {"date": "2012-08-15", "venue": "Long Beach Arena", "city": "Long Beach", "state": "CA", "gap": 9, "set": "1", "nb": 1, "prev": "Guelah Papyrus", "next": "Rift"},
-  {"date": "2018-10-23", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": 229, "set": "1", "nb": 1, "prev": "Lawn Boy", "next": "Theme from the Bottom"},
-  {"date": "2019-12-01", "venue": "Nassau Veterans Memorial Coliseum", "city": "Uniondale", "state": "NY", "gap": 44, "set": "1", "out": ">", "nb": 1, "prev": "Timber (Jerry the Mule)", "in": ">", "next": "Roggae"},
-  {"date": "2021-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 34, "set": "1", "out": ">", "nb": 1, "prev": "Blaze On", "next": "Ghost"},
-  {"date": "2022-06-01", "venue": "Credit One Stadium", "city": "Charleston", "state": "SC", "gap": 28, "set": "1", "nb": 1, "first": 1, "next": "Foam"},
-  {"date": "2023-04-19", "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ", "city": "Berkeley", "state": "CA", "gap": 42, "set": "2", "out": ">", "nb": 1, "prev": "Weekapaug Groove", "in": ">", "next": "Set Your Soul Free"}
+  {"date": "1998-10-31", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Phish debut.", "prev": "Rock and Roll", "next": "New Age", "nb": 1},
+  {"date": "2000-09-24", "venue": "Target Center", "city": "Minneapolis", "state": "MN", "gap": 132, "set": "2", "out": "->", "prev": "Hold Your Head Up", "next": "David Bowie", "nb": 1},
+  {"date": "2003-07-29", "venue": "Post-Gazette Pavilion at Star Lake", "city": "Burgettstown", "state": "PA", "gap": 42, "set": "1", "prev": "Gotta Jibboo", "next": "Scent of a Mule", "nb": 1},
+  {"date": "2009-11-28", "venue": "Times Union Center", "city": "Albany", "state": "NY", "gap": 71, "set": "2", "out": ">", "prev": "Ghost", "next": "Gotta Jibboo", "nb": 1},
+  {"date": "2010-12-27", "venue": "DCU Center", "city": "Worcester", "state": "MA", "gap": 54, "set": "1", "prev": "Funky Bitch", "next": "Roggae", "nb": 1},
+  {"date": "2012-06-28", "venue": "Klipsch Music Center", "city": "Noblesville", "state": "IN", "gap": 54, "set": "1", "out": ">", "prev": "Wolfman's Brother", "next": "Tweezer", "nb": 1},
+  {"date": "2012-08-15", "venue": "Long Beach Arena", "city": "Long Beach", "state": "CA", "gap": 9, "set": "1", "prev": "Guelah Papyrus", "next": "Rift", "nb": 1},
+  {"date": "2018-10-23", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": 229, "set": "1", "prev": "Lawn Boy", "next": "Theme from the Bottom", "nb": 1},
+  {"date": "2019-12-01", "venue": "Nassau Veterans Memorial Coliseum", "city": "Uniondale", "state": "NY", "gap": 44, "set": "1", "out": ">", "prev": "Timber (Jerry the Mule)", "in": ">", "next": "Roggae", "nb": 1},
+  {"date": "2021-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 34, "set": "1", "out": ">", "prev": "Blaze On", "next": "Ghost", "nb": 1},
+  {"date": "2022-06-01", "venue": "Credit One Stadium", "city": "Charleston", "state": "SC", "gap": 28, "set": "1", "next": "Foam", "first": 1, "nb": 1},
+  {"date": "2023-04-19", "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ", "city": "Berkeley", "state": "CA", "gap": 42, "set": "2", "out": ">", "prev": "Weekapaug Groove", "in": ">", "next": "Set Your Soul Free", "nb": 1}
  ]
 }

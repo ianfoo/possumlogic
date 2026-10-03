@@ -3,11 +3,13 @@
  "slug": "gone",
  "artist": "Phish",
  "best": [
-
+  {"date": "2010-12-31", "score": 45, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/28372"},
+  {"date": "2009-10-29", "score": 33, "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "link": "https://fouldomain.com/tracks/26839"},
+  {"date": "2009-12-30", "score": 33, "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "link": "https://fouldomain.com/tracks/27272"}
  ],
  "performances": [
-  {"date": "2009-10-29", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": null, "set": "2", "nb": 1, "prev": "Starship Trooper Jam", "next": "Liquid Time"},
-  {"date": "2009-12-30", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": 1468, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Tela", "next": "Rocky Top"},
-  {"date": "2010-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 49, "set": "1", "nb": 1, "prev": "Beauty of My Dreams", "next": "Rock and Roll"}
+  {"date": "2009-10-29", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": null, "set": "2", "prev": "Starship Trooper Jam", "next": "Liquid Time", "nb": 1},
+  {"date": "2009-12-30", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Tela", "next": "Rocky Top", "nb": 1},
+  {"date": "2010-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 49, "set": "1", "prev": "Beauty of My Dreams", "next": "Rock and Roll", "nb": 1}
  ]
 }

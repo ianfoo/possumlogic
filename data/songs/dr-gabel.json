@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2010-06-22", "venue": "Comcast Center", "city": "Mansfield", "state": "MA", "gap": 1478, "set": "1", "note": "Debut.", "nb": 1, "prev": "Kill Devil Falls", "next": "Run Like an Antelope"}
+  {"date": "2010-06-22", "venue": "Comcast Center", "city": "Mansfield", "state": "MA", "gap": null, "set": "1", "note": "Debut.", "prev": "Kill Devil Falls", "next": "Run Like an Antelope", "nb": 1}
  ]
 }

@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2009-10-31", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": 1451, "set": "2", "note": "Phish debut; Dave Guy on trumpet, David Smith on trombone, and Tony Jarvis on saxophone.", "nb": 1, "prev": "Torn and Frayed", "next": "Loving Cup"}
+  {"date": "2009-10-31", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": null, "set": "2", "note": "Phish debut; Dave Guy on trumpet, David Smith on trombone, and Tony Jarvis on saxophone.", "prev": "Torn and Frayed", "next": "Loving Cup", "nb": 1}
  ]
 }

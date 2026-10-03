@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2003-12-31", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": 1409, "set": "3", "note": "Phish debut; instrumental.", "out": ">", "nb": 1, "prev": "Auld Lang Syne", "in": ">", "next": "Runaway Jim"},
-  {"date": "2012-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 192, "set": "e", "note": "First Phish performance in full.", "nb": 1, "prev": "Driver", "last": 1}
+  {"date": "2003-12-31", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": null, "set": "3", "note": "Phish debut; instrumental.", "out": ">", "prev": "Auld Lang Syne", "in": ">", "next": "Runaway Jim", "nb": 1},
+  {"date": "2012-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 192, "set": "e", "note": "First Phish performance in full.", "prev": "Driver", "last": 1, "nb": 1}
  ]
 }

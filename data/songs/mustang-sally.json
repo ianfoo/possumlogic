@@ -3,17 +3,25 @@
  "slug": "mustang-sally",
  "artist": "Phish",
  "best": [
-
+  {"date": "1988-08-05", "score": 68, "venue": "The Roma", "city": "Telluride", "state": "CO", "link": "https://fouldomain.com/tracks/2761"},
+  {"date": "1987-08-29", "score": 61, "venue": "The Ranch", "city": "South Burlington", "state": "VT", "link": "https://fouldomain.com/tracks/1927"},
+  {"date": "2009-06-14", "score": 50, "venue": "Bonnaroo Music & Arts Festival", "city": "Manchester", "state": "TN", "link": "https://fouldomain.com/tracks/26458"},
+  {"date": "1986-10-31", "score": 49, "venue": "Sculpture Room, Goddard College", "city": "Plainfield", "state": "VT", "link": "https://fouldomain.com/tracks/1641"},
+  {"date": "1986-10-15", "score": 44, "venue": "Hunt's", "city": "Burlington", "state": "VT", "link": "https://fouldomain.com/tracks/1628"},
+  {"date": "1988-06-21", "score": 44, "venue": "Nectar's", "city": "Burlington", "state": "VT", "link": "https://fouldomain.com/tracks/2498"},
+  {"date": "1988-02-24", "score": 41, "venue": "Gallagher's", "city": "Waitsfield", "state": "VT", "link": "https://fouldomain.com/tracks/2208"},
+  {"date": "1988-01-27", "score": 40, "venue": "Gallagher's", "city": "Waitsfield", "state": "VT", "link": "https://fouldomain.com/tracks/2093"},
+  {"date": "1987-08-10", "score": 36, "venue": "Nectar's", "city": "Burlington", "state": "VT", "link": "https://fouldomain.com/tracks/1883"}
  ],
  "performances": [
-  {"date": "1986-10-15", "venue": "Hunt's", "city": "Burlington", "state": "VT", "gap": 48, "set": "2", "note": "First known Phish performance.", "nb": 1, "prev": "Shaggy Dog", "next": "Fluffhead"},
-  {"date": "1986-10-31", "venue": "Sculpture Room, Goddard College", "city": "Plainfield", "state": "VT", "gap": 1, "set": "1", "nb": 1, "first": 1, "next": "Camel Walk"},
-  {"date": "1987-08-10", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": 25, "set": "2", "nb": 1, "prev": "I Know a Little", "next": "You Enjoy Myself"},
-  {"date": "1987-08-29", "venue": "The Ranch", "city": "South Burlington", "state": "VT", "gap": 3, "set": "1", "nb": 1, "prev": "Suzy Greenberg", "next": "Ya Mar"},
-  {"date": "1988-01-27", "venue": "Gallagher's", "city": "Waitsfield", "state": "VT", "gap": 24, "set": "1", "nb": 1, "prev": "Funky Bitch", "next": "AC/DC Bag"},
-  {"date": "1988-02-24", "venue": "Gallagher's", "city": "Waitsfield", "state": "VT", "gap": 6, "set": "2", "note": "John Carlton on drums.", "nb": 1, "xprev": "David Bowie", "next": "Sneakin' Sally Thru the Alley"},
-  {"date": "1988-06-21", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": 37, "set": "1", "nb": 1, "prev": "Rocky Top", "next": "Suzy Greenberg"},
-  {"date": "1988-08-05", "venue": "The Roma", "city": "Telluride", "state": "CO", "gap": 16, "set": "3", "nb": 1, "xprev": "The Lizards", "next": "Corinna"},
-  {"date": "2009-06-14", "venue": "Bonnaroo Music & Arts Festival", "city": "Manchester", "state": "TN", "gap": 1280, "set": "1", "note": "Bruce Springsteen on guitar and vocals.", "nb": 1, "prev": "Run Like an Antelope", "next": "Bobby Jean"}
+  {"date": "1986-10-15", "venue": "Hunt's", "city": "Burlington", "state": "VT", "gap": null, "set": "2", "note": "First known Phish performance.", "prev": "Shaggy Dog", "next": "Fluffhead", "nb": 1},
+  {"date": "1986-10-31", "venue": "Sculpture Room, Goddard College", "city": "Plainfield", "state": "VT", "gap": 1, "set": "1", "next": "Camel Walk", "first": 1, "nb": 1},
+  {"date": "1987-08-10", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": 24, "set": "2", "prev": "I Know a Little", "next": "You Enjoy Myself", "nb": 1},
+  {"date": "1987-08-29", "venue": "The Ranch", "city": "South Burlington", "state": "VT", "gap": 3, "set": "1", "prev": "Suzy Greenberg", "next": "Ya Mar", "nb": 1},
+  {"date": "1988-01-27", "venue": "Gallagher's", "city": "Waitsfield", "state": "VT", "gap": 23, "set": "1", "prev": "Funky Bitch", "next": "AC/DC Bag", "nb": 1},
+  {"date": "1988-02-24", "venue": "Gallagher's", "city": "Waitsfield", "state": "VT", "gap": 6, "set": "2", "note": "John Carlton on drums.", "next": "Sneakin' Sally Thru the Alley", "xprev": "David Bowie", "nb": 1},
+  {"date": "1988-06-21", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": 36, "set": "1", "prev": "Rocky Top", "next": "Suzy Greenberg", "nb": 1},
+  {"date": "1988-08-05", "venue": "The Roma", "city": "Telluride", "state": "CO", "gap": 17, "set": "3", "next": "Corinna", "xprev": "The Lizards", "nb": 1},
+  {"date": "2009-06-14", "venue": "Bonnaroo Music & Arts Festival", "city": "Manchester", "state": "TN", "gap": 1280, "set": "1", "note": "Bruce Springsteen on guitar and vocals.", "prev": "Run Like an Antelope", "next": "Bobby Jean", "nb": 1}
  ]
 }

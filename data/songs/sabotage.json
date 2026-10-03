@@ -3,14 +3,19 @@
  "slug": "sabotage",
  "artist": "Phish",
  "best": [
-
+  {"date": "1998-08-08", "score": 67, "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "link": "https://fouldomain.com/tracks/22206"},
+  {"date": "1998-08-16", "score": 59, "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "link": "https://fouldomain.com/tracks/22324"},
+  {"date": "2012-07-07", "score": 57, "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "link": "https://fouldomain.com/tracks/29769"},
+  {"date": "1998-11-21", "score": 46, "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "link": "https://fouldomain.com/tracks/22723"},
+  {"date": "2024-09-01", "score": 44, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/39017"},
+  {"date": "2011-09-02", "score": 38, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/29141"}
  ],
  "performances": [
-  {"date": "1998-08-08", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 1206, "set": "e", "note": "Phish debut.", "nb": 1, "xprev": "Harry Hood", "last": 1},
-  {"date": "1998-08-16", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": 5, "set": "3", "out": "->", "nb": 1, "xprev": "Run Like an Antelope", "next": "Also Sprach Zarathustra"},
-  {"date": "1998-11-21", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 22, "set": "2", "out": ">", "nb": 1, "xprev": "Bold As Love", "next": "Mike's Song"},
-  {"date": "2011-09-02", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 320, "set": "e", "nb": 1, "xprev": "Sweet Adeline", "last": 1},
-  {"date": "2012-07-07", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 26, "set": "e", "nb": 1, "xprev": "Weekapaug Groove", "last": 1},
-  {"date": "2024-09-01", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 453, "set": "e", "out": ">", "nb": 1, "xprev": "Slave to the Traffic Light", "next": "Tweezer Reprise"}
+  {"date": "1998-08-08", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": null, "set": "e", "note": "Phish debut.", "xprev": "Harry Hood", "last": 1, "nb": 1},
+  {"date": "1998-08-16", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": 5, "set": "3", "out": "->", "next": "Also Sprach Zarathustra", "xprev": "Run Like an Antelope", "nb": 1},
+  {"date": "1998-11-21", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 22, "set": "2", "out": ">", "next": "Mike's Song", "xprev": "Bold As Love", "nb": 1},
+  {"date": "2011-09-02", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 320, "set": "e", "xprev": "Sweet Adeline", "last": 1, "nb": 1},
+  {"date": "2012-07-07", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 26, "set": "e", "xprev": "Weekapaug Groove", "last": 1, "nb": 1},
+  {"date": "2024-09-01", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 453, "set": "e", "out": ">", "next": "Tweezer Reprise", "xprev": "Slave to the Traffic Light", "nb": 1}
  ]
 }

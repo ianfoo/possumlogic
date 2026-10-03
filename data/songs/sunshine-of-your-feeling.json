@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2017-08-05", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1771, "set": "1", "note": "Debut.", "nb": 1, "prev": "Fuck Your Face", "next": "Frost"}
+  {"date": "2017-08-05", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Debut.", "prev": "Fuck Your Face", "next": "Frost", "nb": 1}
  ]
 }

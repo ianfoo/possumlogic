@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2017-07-25", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1771, "set": "2", "note": "Debut.", "out": ">", "nb": 1, "prev": "Makisupa Policeman", "in": "->", "next": "Tuesday"},
-  {"date": "2021-10-20", "venue": "Matthew Knight Arena", "city": "Eugene", "state": "OR", "gap": 127, "set": "1", "jamchart": true, "jam": "The second airing of \"End of Session\" is the meat of this \"Split Open and Melt\" sandwich.", "out": ">", "nb": 1, "prev": "Split Open and Melt", "in": ">", "next": "Split Open and Melt"}
+  {"date": "2017-07-25", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "2", "note": "Debut.", "out": ">", "prev": "Makisupa Policeman", "in": "->", "next": "Tuesday", "nb": 1},
+  {"date": "2021-10-20", "venue": "Matthew Knight Arena", "city": "Eugene", "state": "OR", "gap": 127, "set": "1", "jamchart": true, "jam": "The second airing of \"End of Session\" is the meat of this \"Split Open and Melt\" sandwich.", "out": ">", "prev": "Split Open and Melt", "in": ">", "next": "Split Open and Melt", "nb": 1}
  ]
 }

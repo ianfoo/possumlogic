@@ -3,16 +3,23 @@
  "slug": "walfredo",
  "artist": "Phish",
  "best": [
-
+  {"date": "2000-09-30", "score": 64, "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/24941"},
+  {"date": "1997-02-13", "score": 56, "venue": "Shepherd's Bush Empire", "city": "London", "state": "", "link": "https://fouldomain.com/tracks/5"},
+  {"date": "2010-06-27", "score": 51, "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "link": "https://fouldomain.com/tracks/27578"},
+  {"date": "1997-02-18", "score": 50, "venue": "Bataclan", "city": "Paris", "state": "", "link": "https://fouldomain.com/tracks/93"},
+  {"date": "1997-02-22", "score": 45, "venue": "Teatro Olimpico", "city": "Rome", "state": "", "link": "https://fouldomain.com/tracks/145"},
+  {"date": "2014-10-27", "score": 45, "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "link": "https://fouldomain.com/tracks/31796"},
+  {"date": "1997-02-14", "score": 39, "venue": "Le Botanique", "city": "Brussels", "state": "", "link": "https://fouldomain.com/tracks/40"},
+  {"date": "1997-02-26", "score": 29, "venue": "Longhorn", "city": "Stuttgart", "state": "", "link": "https://fouldomain.com/tracks/212"}
  ],
  "performances": [
-  {"date": "1997-02-13", "venue": "Shepherd's Bush Empire", "city": "London", "state": "England", "gap": 1102, "set": "1", "note": "Debut.", "nb": 1, "prev": "Stash", "next": "Taste"},
-  {"date": "1997-02-14", "venue": "Le Botanique", "city": "Brussels", "state": "Brussels-Capital", "gap": 1, "set": "2", "nb": 1, "prev": "Reba", "next": "Rock A William"},
-  {"date": "1997-02-18", "venue": "Bataclan", "city": "Paris", "state": "\u00cele-de-France", "gap": 3, "set": "1", "nb": 1, "prev": "Waste", "next": "Character Zero"},
-  {"date": "1997-02-22", "venue": "Teatro Olimpico", "city": "Rome", "state": "Lazio", "gap": 3, "set": "1", "nb": 1, "first": 1, "next": "Also Sprach Zarathustra"},
-  {"date": "1997-02-26", "venue": "SWF3 Studios", "city": "Baden-Baden", "state": "Baden-W\u00fcrttemberg", "gap": null, "set": "1", "nb": 1, "prev": "Train Song", "next": "Goodbye Jam"},
-  {"date": "2000-09-30", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 250, "set": "1", "nb": 1, "first": 1, "next": "The Curtain With"},
-  {"date": "2010-06-27", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 131, "set": "1", "nb": 1, "first": 1, "next": "Mellow Mood"},
-  {"date": "2014-10-27", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 186, "set": "1", "nb": 1, "first": 1, "next": "Ocelot"}
+  {"date": "1997-02-13", "venue": "Shepherd's Bush Empire", "city": "London", "state": "England", "gap": null, "set": "1", "note": "Debut.", "prev": "Stash", "next": "Taste", "nb": 1},
+  {"date": "1997-02-14", "venue": "Le Botanique", "city": "Brussels", "state": "Brussels-Capital", "gap": 1, "set": "2", "prev": "Reba", "next": "Rock A William", "nb": 1},
+  {"date": "1997-02-18", "venue": "Bataclan", "city": "Paris", "state": "\u00cele-de-France", "gap": 3, "set": "1", "prev": "Waste", "next": "Character Zero", "nb": 1},
+  {"date": "1997-02-22", "venue": "Teatro Olimpico", "city": "Rome", "state": "Lazio", "gap": 3, "set": "1", "next": "Also Sprach Zarathustra", "first": 1, "nb": 1},
+  {"date": "1997-02-26", "venue": "SWF3 Studios", "city": "Baden-Baden", "state": "Baden-W\u00fcrttemberg", "gap": null, "set": "1", "prev": "Train Song", "next": "Goodbye Jam", "nb": 1},
+  {"date": "2000-09-30", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 250, "set": "1", "next": "The Curtain With", "first": 1, "nb": 1},
+  {"date": "2010-06-27", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 131, "set": "1", "next": "Mellow Mood", "first": 1, "nb": 1},
+  {"date": "2014-10-27", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 186, "set": "1", "next": "Ocelot", "first": 1, "nb": 1}
  ]
 }

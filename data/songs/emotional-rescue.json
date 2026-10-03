@@ -3,14 +3,19 @@
  "slug": "emotional-rescue",
  "artist": "Phish",
  "best": [
-
+  {"date": "1997-11-21", "score": 85, "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "link": "https://fouldomain.com/tracks/1061"},
+  {"date": "1997-12-31", "score": 84, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/1393"},
+  {"date": "2012-08-31", "score": 52, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/30038"},
+  {"date": "2000-09-30", "score": 46, "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/24958"},
+  {"date": "1998-07-28", "score": 43, "venue": "Sandstone Amphitheatre", "city": "Bonner Springs", "state": "KS", "link": "https://fouldomain.com/tracks/22035"},
+  {"date": "2019-02-22", "score": 43, "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya, Quintana Roo", "state": "", "link": "https://fouldomain.com/tracks/34908"}
  ],
  "performances": [
-  {"date": "1997-11-21", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 1160, "set": "1", "jamchart": true, "jam": "A dark and stormy groove with Fall '97's unique sound. Funk is the predominant style initially but the jam becomes more ambient and throbbing towards the end and taps into that same enveloping power found in the next night's \"Halley's\" jam.", "note": "Phish debut.", "out": ">", "nb": 1, "first": 1, "next": "Split Open and Melt"},
-  {"date": "1997-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 19, "set": "1", "jamchart": true, "jam": "Compared to Hampton, a snappier, more uptempo funk groove unfolds and intensifies in the later stages with brief rock flurries.", "out": ">", "nb": 1, "first": 1, "next": "Ya Mar"},
-  {"date": "1998-07-28", "venue": "Sandstone Amphitheatre", "city": "Bonner Springs", "state": "KS", "gap": 23, "set": "1", "out": ">", "nb": 1, "first": 1, "next": "Down with Disease"},
-  {"date": "2000-09-30", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 157, "set": "e", "nb": 1, "xprev": "A Day in the Life", "last": 1},
-  {"date": "2012-08-31", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 236, "set": "2", "out": ">", "nb": 1, "prev": "Chalk Dust Torture", "in": ">", "next": "Fuck Your Face"},
-  {"date": "2019-02-22", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 233, "set": "1", "nb": 1, "prev": "No Men In No Man's Land", "in": ">", "next": "Tube"}
+  {"date": "1997-11-21", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": null, "set": "1", "jamchart": true, "jam": "A dark and stormy groove with Fall '97's unique sound. Funk is the predominant style initially but the jam becomes more ambient and throbbing towards the end and taps into that same enveloping power found in the next night's \"Halley's\" jam.", "note": "Phish debut.", "out": ">", "next": "Split Open and Melt", "first": 1, "nb": 1},
+  {"date": "1997-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 19, "set": "1", "jamchart": true, "jam": "Compared to Hampton, a snappier, more uptempo funk groove unfolds and intensifies in the later stages with brief rock flurries.", "out": ">", "next": "Ya Mar", "first": 1, "nb": 1},
+  {"date": "1998-07-28", "venue": "Sandstone Amphitheatre", "city": "Bonner Springs", "state": "KS", "gap": 23, "set": "1", "out": ">", "next": "Down with Disease", "first": 1, "nb": 1},
+  {"date": "2000-09-30", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 157, "set": "e", "xprev": "A Day in the Life", "last": 1, "nb": 1},
+  {"date": "2012-08-31", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 236, "set": "2", "out": ">", "prev": "Chalk Dust Torture", "in": ">", "next": "Fuck Your Face", "nb": 1},
+  {"date": "2019-02-22", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 233, "set": "1", "prev": "No Men In No Man's Land", "in": ">", "next": "Tube", "nb": 1}
  ]
 }

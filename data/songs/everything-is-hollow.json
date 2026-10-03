@@ -3,12 +3,15 @@
  "slug": "everything-is-hollow",
  "artist": "Phish",
  "best": [
-
+  {"date": "2018-10-31", "score": 62, "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/34720"},
+  {"date": "2019-06-19", "score": 47, "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "link": "https://fouldomain.com/tracks/35040"},
+  {"date": "2019-12-08", "score": 46, "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "link": "https://fouldomain.com/tracks/35663"},
+  {"date": "2023-10-15", "score": 37, "venue": "United Center", "city": "Chicago", "state": "IL", "link": "https://fouldomain.com/tracks/38267"}
  ],
  "performances": [
-  {"date": "2018-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1811, "set": "2", "note": "Debut.", "nb": 1, "prev": "Stray Dog", "next": "We Are Come to Outlive Our Brains"},
-  {"date": "2019-06-19", "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "gap": 16, "set": "1", "nb": 1, "prev": "Back on the Train", "next": "About to Run"},
-  {"date": "2019-12-08", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 28, "set": "1", "nb": 1, "prev": "My Sweet One", "in": ">", "next": "The Curtain"},
-  {"date": "2023-10-15", "venue": "United Center", "city": "Chicago", "state": "IL", "gap": 134, "set": "1", "out": ">", "nb": 1, "first": 1, "next": "Timber (Jerry the Mule)"}
+  {"date": "2018-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "prev": "Stray Dog", "next": "We Are Come to Outlive Our Brains", "nb": 1},
+  {"date": "2019-06-19", "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "gap": 16, "set": "1", "prev": "Back on the Train", "next": "About to Run", "nb": 1},
+  {"date": "2019-12-08", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 28, "set": "1", "prev": "My Sweet One", "in": ">", "next": "The Curtain", "nb": 1},
+  {"date": "2023-10-15", "venue": "United Center", "city": "Chicago", "state": "IL", "gap": 135, "set": "1", "out": ">", "next": "Timber (Jerry the Mule)", "first": 1, "nb": 1}
  ]
 }

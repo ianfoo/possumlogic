@@ -3,14 +3,19 @@
  "slug": "frost",
  "artist": "Phish",
  "best": [
-
+  {"date": "2017-08-05", "score": 69, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/33969"},
+  {"date": "2019-12-08", "score": 65, "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "link": "https://fouldomain.com/tracks/35668"},
+  {"date": "2019-07-13", "score": 59, "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "link": "https://fouldomain.com/tracks/35382"},
+  {"date": "2018-10-26", "score": 55, "venue": "Allstate Arena", "city": "Rosemont", "state": "IL", "link": "https://fouldomain.com/tracks/34666"},
+  {"date": "2019-06-18", "score": 55, "venue": "Budweiser Stage", "city": "Toronto, Ontario", "state": "", "link": "https://fouldomain.com/tracks/35021"},
+  {"date": "2013-07-17", "score": 44, "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "link": "https://fouldomain.com/tracks/30361"}
  ],
  "performances": [
-  {"date": "2013-07-17", "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "gap": 1611, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Nellie Kane", "in": ">", "next": "Alaska"},
-  {"date": "2017-08-05", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 168, "set": "1", "out": ">", "nb": 1, "prev": "Sunshine of Your Feeling", "next": "Scent of a Mule"},
-  {"date": "2018-10-26", "venue": "Allstate Arena", "city": "Rosemont", "state": "IL", "gap": 37, "set": "2", "out": ">", "nb": 1, "prev": "Golden Age", "in": ">", "next": "Limb By Limb"},
-  {"date": "2019-06-18", "venue": "Budweiser Stage", "city": "Toronto", "state": "Ontario", "gap": 18, "set": "1", "nb": 1, "prev": "The Wedge", "next": "Halley's Comet"},
-  {"date": "2019-07-13", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 17, "set": "1", "nb": 1, "prev": "Ya Mar", "next": "The Sloth"},
-  {"date": "2019-12-08", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 12, "set": "1", "nb": 1, "prev": "Crazy Sometimes", "in": ">", "next": "Breath and Burning"}
+  {"date": "2013-07-17", "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Nellie Kane", "in": ">", "next": "Alaska", "nb": 1},
+  {"date": "2017-08-05", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 168, "set": "1", "out": ">", "prev": "Sunshine of Your Feeling", "next": "Scent of a Mule", "nb": 1},
+  {"date": "2018-10-26", "venue": "Allstate Arena", "city": "Rosemont", "state": "IL", "gap": 37, "set": "2", "out": ">", "prev": "Golden Age", "in": ">", "next": "Limb By Limb", "nb": 1},
+  {"date": "2019-06-18", "venue": "Budweiser Stage", "city": "Toronto", "state": "Ontario", "gap": 18, "set": "1", "prev": "The Wedge", "next": "Halley's Comet", "nb": 1},
+  {"date": "2019-07-13", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 17, "set": "1", "prev": "Ya Mar", "next": "The Sloth", "nb": 1},
+  {"date": "2019-12-08", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 12, "set": "1", "prev": "Crazy Sometimes", "in": ">", "next": "Breath and Burning", "nb": 1}
  ]
 }

@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2013-10-20", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 1621, "set": "2", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Piper", "in": "->", "next": "Also Sprach Zarathustra"}
+  {"date": "2013-10-20", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": null, "set": "2", "note": "Phish debut.", "out": ">", "prev": "Piper", "in": "->", "next": "Also Sprach Zarathustra", "nb": 1}
  ]
 }

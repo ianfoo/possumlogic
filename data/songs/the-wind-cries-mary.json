@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2017-07-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1767, "set": "e", "note": "Phish debut.", "nb": 1, "xprev": "In The Good Old Summer Time", "last": 1}
+  {"date": "2017-07-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "e", "note": "Phish debut.", "xprev": "In The Good Old Summer Time", "last": 1, "nb": 1}
  ]
 }

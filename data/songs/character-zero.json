@@ -29,7 +29,7 @@
   {"date": "2017-07-16", "score": 58, "venue": "Huntington Bank Pavilion at Northerly Island", "city": "Chicago", "state": "IL", "link": "https://fouldomain.com/tracks/33724"}
  ],
  "performances": [
-  {"date": "1996-06-06", "venue": "Joyous Lake", "city": "Woodstock", "state": "NY", "gap": 1030, "set": "2", "jamchart": true, "jam": "Fun debut. Notable for a strong vocals, tight play, and a decidedly different arrangement, it's clear the song is here to stay, even though \"[the band] don't know the end yet.\"", "note": "Debut.", "prev": "Waste", "next": "David Bowie", "nb": 1},
+  {"date": "1996-06-06", "venue": "Joyous Lake", "city": "Woodstock", "state": "NY", "gap": null, "set": "2", "jamchart": true, "jam": "Fun debut. Notable for a strong vocals, tight play, and a decidedly different arrangement, it's clear the song is here to stay, even though \"[the band] don't know the end yet.\"", "note": "Debut.", "prev": "Waste", "next": "David Bowie", "nb": 1},
   {"date": "1996-07-09", "venue": "Centre International", "city": "Deauville", "state": "Normandy", "gap": 5, "set": "1", "prev": "Bouncing Around the Room", "last": 1, "nb": 1},
   {"date": "1996-10-16", "venue": "Olympic Center", "city": "Lake Placid", "state": "NY", "gap": 25, "set": "1", "prev": "Silent in the Morning", "xnext": "Wolfman's Brother", "nb": 1},
   {"date": "1996-10-17", "venue": "Bryce Jordan Center, Penn State University", "city": "State College", "state": "PA", "gap": 1, "set": "1", "prev": "Punch You in the Eye", "next": "A Day in the Life", "nb": 1},
@@ -74,7 +74,7 @@
   {"date": "1997-08-03", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 3, "set": "1", "prev": "Limb By Limb", "xnext": "Julius", "nb": 1},
   {"date": "1997-08-08", "venue": "New World Music Theatre", "city": "Tinley Park", "state": "IL", "gap": 2, "set": "1", "prev": "Water in the Sky", "xnext": "Wolfman's Brother", "nb": 1},
   {"date": "1997-08-11", "venue": "Deer Creek Music Center", "city": "Noblesville", "state": "IN", "gap": 3, "set": "2", "prev": "You Enjoy Myself", "xnext": "The Squirming Coil", "nb": 1},
-  {"date": "1997-08-16", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": 2, "set": "1", "prev": "Train Song", "in": ">", "next": "The Squirming Coil", "nb": 1},
+  {"date": "1997-08-16", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": 3, "set": "1", "prev": "Train Song", "in": ">", "next": "The Squirming Coil", "nb": 1},
   {"date": "1997-11-13", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 2, "set": "1", "prev": "You Enjoy Myself", "xnext": "Stash", "nb": 1},
   {"date": "1997-11-17", "venue": "McNichols Arena", "city": "Denver", "state": "CO", "gap": 3, "set": "e", "xprev": "You Enjoy Myself", "last": 1, "nb": 1},
   {"date": "1997-11-23", "venue": "Lawrence Joel Veterans Memorial Coliseum", "city": "Winston-Salem", "state": "NC", "gap": 4, "set": "1", "prev": "Fluffhead", "in": ">", "xnext": "Bathtub Gin", "nb": 1},
@@ -292,11 +292,11 @@
   {"date": "2025-09-12", "venue": "Highland Festival Grounds at Kentucky Expo Center", "city": "Louisville", "state": "KY", "gap": 4, "set": "e", "next": "First Tube", "xprev": "Harry Hood", "nb": 1},
   {"date": "2025-12-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 9, "set": "2", "prev": "Golden Age", "in": ">", "xnext": "The Lizards", "nb": 1},
   {"date": "2026-01-28", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 3, "set": "2", "prev": "Backwards Down the Number Line", "in": ">", "xnext": "Dog Faced Boy", "nb": 1},
-  {"date": "2026-05-02", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 11, "set": "2", "prev": "A Life Beyond The Dream", "xnext": "Wading in the Velvet Sea", "nb": 1},
-  {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": null, "set": "1", "prev": "A Wave of Hope", "in": ">", "xnext": "Run Like an Antelope", "nb": 1},
-  {"date": "2026-07-17", "venue": "Coastal Credit Union Music Park at Walnut Creek", "city": "Raleigh", "state": "NC", "gap": 6, "set": "1", "prev": "Buried Alive", "in": ">", "next": "Llama", "nb": 1},
-  {"date": "2026-07-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "2", "prev": "Crosseyed and Painless", "in": ">", "xnext": "A Day in the Life", "nb": 1},
-  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 1, "set": "e", "out": ">", "prev": "Wading in the Velvet Sea", "next": "Tweezer Reprise", "nb": 1},
-  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": null, "set": "2", "nb": 1, "prev": "Run Like an Antelope", "in": ">", "xnext": "Wading in the Velvet Sea"}
+  {"date": "2026-05-02", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 12, "set": "2", "prev": "A Life Beyond The Dream", "xnext": "Wading in the Velvet Sea", "nb": 1},
+  {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 1, "set": "1", "prev": "A Wave of Hope", "in": ">", "xnext": "Run Like an Antelope", "nb": 1},
+  {"date": "2026-07-17", "venue": "Coastal Credit Union Music Park at Walnut Creek", "city": "Raleigh", "state": "NC", "gap": 7, "set": "1", "prev": "Buried Alive", "in": ">", "next": "Llama", "nb": 1},
+  {"date": "2026-07-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 8, "set": "2", "prev": "Crosseyed and Painless", "in": ">", "xnext": "A Day in the Life", "nb": 1},
+  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 2, "set": "e", "out": ">", "prev": "Wading in the Velvet Sea", "next": "Tweezer Reprise", "nb": 1},
+  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1, "set": "2", "prev": "Run Like an Antelope", "in": ">", "xnext": "Wading in the Velvet Sea", "nb": 1}
  ]
 }

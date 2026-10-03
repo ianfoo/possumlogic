@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2019-12-04", "venue": "Petersen Events Center", "city": "Pittsburgh", "state": "PA", "gap": 1852, "set": "2", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Runaway Jim", "in": ">", "next": "A Song I Heard the Ocean Sing"}
+  {"date": "2019-12-04", "venue": "Petersen Events Center", "city": "Pittsburgh", "state": "PA", "gap": null, "set": "2", "note": "Phish debut.", "out": ">", "prev": "Runaway Jim", "in": ">", "next": "A Song I Heard the Ocean Sing", "nb": 1}
  ]
 }

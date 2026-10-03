@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2013-09-01", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1618, "set": "2", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Mike's Song", "in": ">", "next": "Weekapaug Groove"}
+  {"date": "2013-09-01", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": null, "set": "2", "note": "Phish debut.", "out": ">", "prev": "Mike's Song", "in": ">", "next": "Weekapaug Groove", "nb": 1}
  ]
 }

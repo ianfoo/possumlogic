@@ -3,15 +3,20 @@
  "slug": "bye-bye-foot",
  "artist": "Phish",
  "best": [
-
+  {"date": "1997-07-22", "score": 60, "venue": "Walnut Creek Amphitheater", "city": "Raleigh", "state": "NC", "link": "https://fouldomain.com/tracks/663"},
+  {"date": "2019-11-29", "score": 58, "venue": "Dunkin' Donuts Center", "city": "Providence", "state": "RI", "link": "https://fouldomain.com/tracks/35498"},
+  {"date": "2021-10-23", "score": 53, "venue": "North Island Credit Union Amphitheatre", "city": "Chula Vista", "state": "CA", "link": "https://fouldomain.com/tracks/36406"},
+  {"date": "1997-06-14", "score": 50, "venue": "The S.F.X. Centre", "city": "Dublin", "state": "", "link": "https://fouldomain.com/tracks/364"},
+  {"date": "1997-06-20", "score": 50, "venue": "Divadlo Archa", "city": "Prague", "state": "", "link": "https://fouldomain.com/tracks/425"},
+  {"date": "1997-08-10", "score": 43, "venue": "Deer Creek Music Center", "city": "Noblesville", "state": "IN", "link": "https://fouldomain.com/tracks/869"}
  ],
  "performances": [
-  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "Samson Variation", "xnext": "Samson Variation"},
-  {"date": "1997-06-14", "venue": "The S.F.X. Centre", "city": "Dublin", "state": "County Dublin", "gap": 1118, "set": "1", "note": "Debut.", "nb": 1, "prev": "Limb By Limb", "next": "Free"},
-  {"date": "1997-06-20", "venue": "Divadlo Archa", "city": "Prague", "state": "Prague", "gap": 3, "set": "2", "out": ">", "nb": 1, "prev": "Ghost", "next": "Ginseng Sullivan"},
-  {"date": "1997-07-22", "venue": "Walnut Creek Amphitheater", "city": "Raleigh", "state": "NC", "gap": 16, "set": "1", "nb": 1, "prev": "Vultures", "next": "Taste"},
-  {"date": "1997-08-10", "venue": "Deer Creek Music Center", "city": "Noblesville", "state": "IN", "gap": 12, "set": "1", "out": ">", "nb": 1, "prev": "Split Open and Melt", "next": "Ginseng Sullivan"},
-  {"date": "2019-11-29", "venue": "Dunkin' Donuts Center", "city": "Providence", "state": "RI", "gap": 707, "set": "1", "nb": 1, "prev": "Scent of a Mule", "next": "No Men In No Man's Land"},
-  {"date": "2021-10-23", "venue": "North Island Credit Union Amphitheatre", "city": "Chula Vista", "state": "CA", "gap": 43, "set": "1", "nb": 1, "prev": "NICU", "in": "->", "next": "Tube"}
+  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": null, "set": "1", "prev": "Samson Variation", "xnext": "Samson Variation", "nb": 1},
+  {"date": "1997-06-14", "venue": "The S.F.X. Centre", "city": "Dublin", "state": "County Dublin", "gap": null, "set": "1", "note": "Debut.", "prev": "Limb By Limb", "next": "Free", "nb": 1},
+  {"date": "1997-06-20", "venue": "Divadlo Archa", "city": "Prague", "state": "Prague", "gap": 3, "set": "2", "out": ">", "prev": "Ghost", "next": "Ginseng Sullivan", "nb": 1},
+  {"date": "1997-07-22", "venue": "Walnut Creek Amphitheater", "city": "Raleigh", "state": "NC", "gap": 16, "set": "1", "prev": "Vultures", "next": "Taste", "nb": 1},
+  {"date": "1997-08-10", "venue": "Deer Creek Music Center", "city": "Noblesville", "state": "IN", "gap": 12, "set": "1", "out": ">", "prev": "Split Open and Melt", "next": "Ginseng Sullivan", "nb": 1},
+  {"date": "2019-11-29", "venue": "Dunkin' Donuts Center", "city": "Providence", "state": "RI", "gap": 707, "set": "1", "prev": "Scent of a Mule", "next": "No Men In No Man's Land", "nb": 1},
+  {"date": "2021-10-23", "venue": "North Island Credit Union Amphitheatre", "city": "Chula Vista", "state": "CA", "gap": 44, "set": "1", "prev": "NICU", "in": "->", "next": "Tube", "nb": 1}
  ]
 }

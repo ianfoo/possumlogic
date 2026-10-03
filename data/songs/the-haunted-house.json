@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2014-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1671, "set": "2", "note": "Debut.", "nb": 1, "prev": "Intro", "next": "The Very Long Fuse"}
+  {"date": "2014-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "prev": "Intro", "next": "The Very Long Fuse", "nb": 1}
  ]
 }

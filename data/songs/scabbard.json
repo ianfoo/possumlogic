@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2015-07-22", "venue": "Les Schwab Amphitheater", "city": "Bend", "state": "OR", "gap": 1679, "set": "1", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Back on the Train", "next": "Maze"},
-  {"date": "2015-08-22", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": 19, "set": "1", "out": ">", "nb": 1, "prev": "Army of One", "next": "Sample in a Jar"}
+  {"date": "2015-07-22", "venue": "Les Schwab Amphitheater", "city": "Bend", "state": "OR", "gap": null, "set": "1", "note": "Phish debut.", "out": ">", "prev": "Back on the Train", "next": "Maze", "nb": 1},
+  {"date": "2015-08-22", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": 19, "set": "1", "out": ">", "prev": "Army of One", "next": "Sample in a Jar", "nb": 1}
  ]
 }

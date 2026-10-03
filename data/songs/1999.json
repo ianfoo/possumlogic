@@ -3,12 +3,15 @@
  "slug": "1999",
  "artist": "Phish",
  "best": [
-
+  {"date": "2021-10-28", "score": 78, "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/36463"},
+  {"date": "2017-07-26", "score": 76, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/33843"},
+  {"date": "2022-08-13", "score": 46, "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "link": "https://fouldomain.com/tracks/37256"},
+  {"date": "1998-12-31", "score": 39, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/22897"}
  ],
  "performances": [
-  {"date": "1998-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1240, "set": "1", "note": "Phish debut.", "out": ">", "nb": 1, "first": 1, "next": "Mike's Song"},
-  {"date": "2017-07-26", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 524, "set": "2", "jamchart": true, "jam": "After busting a 524 show gap, the band breaks from \"1999\" proper and drops into a synth-heavy and funky jam, the four seemingly pushing for maximum freak-out effect. Each musician's contributions deserve attention, their collaborative effort adding much by way of subdivision value. Trey's soloing adds gain and grit, before a marked shift into major mode play produces a spirited release. Cools. Super -> into \"Steam\".", "out": "->", "nb": 1, "prev": "Mr. Completely", "in": ">", "next": "Steam"},
-  {"date": "2021-10-28", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 131, "set": "1", "jamchart": true, "jam": "Coming after a massive, show-opening \"2001\", \"1999\" makes its third appearance in a Phish setlist. The band wastes no time getting down and they find a groove together almost immediately. By 13:00, the party jam has turned into frenetic energy. Soaring play from Trey towards the end of the jam as they clunkily > into \"555\".", "out": ">", "nb": 1, "prev": "Also Sprach Zarathustra", "in": ">", "next": "555"},
-  {"date": "2022-08-13", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 41, "set": "1", "out": ">", "nb": 1, "first": 1, "next": "Fluffhead"}
+  {"date": "1998-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Phish debut.", "out": ">", "next": "Mike's Song", "first": 1, "nb": 1},
+  {"date": "2017-07-26", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 526, "set": "2", "jamchart": true, "jam": "After busting a 524 show gap, the band breaks from \"1999\" proper and drops into a synth-heavy and funky jam, the four seemingly pushing for maximum freak-out effect. Each musician's contributions deserve attention, their collaborative effort adding much by way of subdivision value. Trey's soloing adds gain and grit, before a marked shift into major mode play produces a spirited release. Cools. Super -> into \"Steam\".", "out": "->", "prev": "Mr. Completely", "in": ">", "next": "Steam", "nb": 1},
+  {"date": "2021-10-28", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 131, "set": "1", "jamchart": true, "jam": "Coming after a massive, show-opening \"2001\", \"1999\" makes its third appearance in a Phish setlist. The band wastes no time getting down and they find a groove together almost immediately. By 13:00, the party jam has turned into frenetic energy. Soaring play from Trey towards the end of the jam as they clunkily > into \"555\".", "out": ">", "prev": "Also Sprach Zarathustra", "in": ">", "next": "555", "nb": 1},
+  {"date": "2022-08-13", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 41, "set": "1", "out": ">", "next": "Fluffhead", "first": 1, "nb": 1}
  ]
 }

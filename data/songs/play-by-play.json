@@ -3,11 +3,13 @@
  "slug": "play-by-play",
  "artist": "Phish",
  "best": [
-
+  {"date": "2018-10-31", "score": 61, "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/34724"},
+  {"date": "2018-12-31", "score": 57, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/34865"},
+  {"date": "2019-06-25", "score": 48, "venue": "Darling's Waterfront Pavilion", "city": "Bangor", "state": "ME", "link": "https://fouldomain.com/tracks/35131"}
  ],
  "performances": [
-  {"date": "2018-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1811, "set": "2", "note": "Debut.", "nb": 1, "prev": "The Final Hurrah", "next": "Death Don't Hurt Very Long"},
-  {"date": "2018-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "1", "nb": 1, "prev": "What's the Use?", "in": ">", "next": "Waste"},
-  {"date": "2019-06-25", "venue": "Darling's Waterfront Pavilion", "city": "Bangor", "state": "ME", "gap": 13, "set": "2", "out": ">", "nb": 1, "prev": "Down with Disease", "in": ">", "next": "Simple"}
+  {"date": "2018-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "prev": "The Final Hurrah", "next": "Death Don't Hurt Very Long", "nb": 1},
+  {"date": "2018-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "1", "prev": "What's the Use?", "in": ">", "next": "Waste", "nb": 1},
+  {"date": "2019-06-25", "venue": "Darling's Waterfront Pavilion", "city": "Bangor", "state": "ME", "gap": 13, "set": "2", "out": ">", "prev": "Down with Disease", "in": ">", "next": "Simple", "nb": 1}
  ]
 }

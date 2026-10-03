@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2018-07-21", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 1783, "set": "1", "note": "Debut.", "out": ">", "nb": 1, "prev": "Weekapaug Groove", "next": "It's Ice"},
-  {"date": "2018-08-07", "venue": "BB&T Pavilion", "city": "Camden", "state": "NJ", "gap": 10, "set": "1", "out": ">", "nb": 1, "prev": "Lawn Boy", "next": "Wilson"}
+  {"date": "2018-07-21", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": null, "set": "1", "note": "Debut.", "out": ">", "prev": "Weekapaug Groove", "next": "It's Ice", "nb": 1},
+  {"date": "2018-08-07", "venue": "BB&T Pavilion", "city": "Camden", "state": "NJ", "gap": 10, "set": "1", "out": ">", "prev": "Lawn Boy", "next": "Wilson", "nb": 1}
  ]
 }

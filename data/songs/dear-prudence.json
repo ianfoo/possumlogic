@@ -3,11 +3,13 @@
  "slug": "dear-prudence",
  "artist": "Phish",
  "best": [
-
+  {"date": "2016-06-22", "score": 66, "venue": "Xcel Energy Center", "city": "St. Paul", "state": "MN", "link": "https://fouldomain.com/tracks/32683"},
+  {"date": "2016-06-29", "score": 54, "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "link": "https://fouldomain.com/tracks/32806"},
+  {"date": "1994-10-31", "score": 53, "venue": "Glens Falls Civic Center", "city": "Glens Falls", "state": "NY", "link": "https://fouldomain.com/tracks/16727"}
  ],
  "performances": [
-  {"date": "1994-10-31", "venue": "Glens Falls Civic Center", "city": "Glens Falls", "state": "NY", "gap": 919, "set": "2", "note": "Phish debut.", "nb": 1, "prev": "Back in the U.S.S.R.", "in": ">", "next": "Glass Onion"},
-  {"date": "2016-06-22", "venue": "Xcel Energy Center", "city": "St. Paul", "state": "MN", "gap": 799, "set": "1", "nb": 1, "prev": "Undermind", "next": "Stash"},
-  {"date": "2016-06-29", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": 4, "set": "e", "out": ">", "nb": 1, "xprev": "Dem Bones", "next": "Harry Hood"}
+  {"date": "1994-10-31", "venue": "Glens Falls Civic Center", "city": "Glens Falls", "state": "NY", "gap": null, "set": "2", "note": "Phish debut.", "prev": "Back in the U.S.S.R.", "in": ">", "next": "Glass Onion", "nb": 1},
+  {"date": "2016-06-22", "venue": "Xcel Energy Center", "city": "St. Paul", "state": "MN", "gap": 799, "set": "1", "prev": "Undermind", "next": "Stash", "nb": 1},
+  {"date": "2016-06-29", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": 5, "set": "e", "out": ">", "next": "Harry Hood", "xprev": "Dem Bones", "nb": 1}
  ]
 }

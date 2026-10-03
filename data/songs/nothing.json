@@ -3,17 +3,25 @@
  "slug": "nothing",
  "artist": "Phish",
  "best": [
-
+  {"date": "2004-06-23", "score": 84, "venue": "Verizon Wireless Music Center", "city": "Noblesville", "state": "IN", "link": "https://fouldomain.com/tracks/26001"},
+  {"date": "2004-06-17", "score": 58, "venue": "KeySpan Park", "city": "Brooklyn", "state": "NY", "link": "https://fouldomain.com/tracks/25924"},
+  {"date": "2012-06-07", "score": 51, "venue": "DCU Center", "city": "Worcester", "state": "MA", "link": "https://fouldomain.com/tracks/29317"},
+  {"date": "2022-06-01", "score": 50, "venue": "Credit One Stadium", "city": "Charleston", "state": "SC", "link": "https://fouldomain.com/tracks/36817"},
+  {"date": "2015-08-16", "score": 45, "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "link": "https://fouldomain.com/tracks/32373"},
+  {"date": "2009-06-06", "score": 43, "venue": "Comcast Center", "city": "Mansfield", "state": "MA", "link": "https://fouldomain.com/tracks/26342"},
+  {"date": "2017-01-15", "score": 39, "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya, Quintana Roo", "state": "", "link": "https://fouldomain.com/tracks/33652"},
+  {"date": "2024-10-26", "score": 29, "venue": "MVP Arena", "city": "Albany", "state": "NY", "link": "https://fouldomain.com/tracks/39043"},
+  {"date": "2010-06-24", "score": 28, "venue": "Susquehanna Bank Center", "city": "Camden", "state": "NJ", "link": "https://fouldomain.com/tracks/27527"}
  ],
  "performances": [
-  {"date": "2004-06-17", "venue": "KeySpan Park", "city": "Brooklyn", "state": "NY", "gap": 1409, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Free", "next": "Maze"},
-  {"date": "2004-06-23", "venue": "Verizon Wireless Music Center", "city": "Noblesville", "state": "IN", "gap": 5, "set": "2", "jamchart": true, "jam": "You wouldn't expect a song like \"Nothing\" to yield such a brooding jam, although considering the date, it may not be a complete surprise. Either way, this improvisational version is a unique experience, and concludes with a long tug-of-war segue -> \"46 Days\".", "out": "->", "nb": 1, "prev": "Slave to the Traffic Light", "next": "46 Days"},
-  {"date": "2009-06-06", "venue": "Comcast Center", "city": "Mansfield", "state": "MA", "gap": 17, "set": "1", "nb": 1, "prev": "Stealing Time From the Faulty Plan", "next": "Back on the Train"},
-  {"date": "2010-06-24", "venue": "Susquehanna Bank Center", "city": "Camden", "state": "NJ", "gap": 52, "set": "2", "out": ">", "nb": 1, "prev": "Crosseyed and Painless", "in": ">", "next": "Twenty Years Later"},
-  {"date": "2012-06-07", "venue": "DCU Center", "city": "Worcester", "state": "MA", "gap": 78, "set": "1", "nb": 1, "prev": "Rift", "next": "Ocelot"},
-  {"date": "2015-08-16", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 139, "set": "1", "nb": 1, "prev": "555", "next": "No Men In No Man's Land"},
-  {"date": "2017-01-15", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 58, "set": "1", "nb": 1, "prev": "Roggae", "next": "Ghost"},
-  {"date": "2022-06-01", "venue": "Credit One Stadium", "city": "Charleston", "state": "SC", "gap": 158, "set": "e", "out": ">", "nb": 1, "xprev": "Blaze On", "next": "When the Circus Comes"},
-  {"date": "2024-10-26", "venue": "MVP Arena", "city": "Albany", "state": "NY", "gap": 117, "set": "1", "nb": 1, "prev": "Back on the Train", "next": "Stash"}
+  {"date": "2004-06-17", "venue": "KeySpan Park", "city": "Brooklyn", "state": "NY", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Free", "next": "Maze", "nb": 1},
+  {"date": "2004-06-23", "venue": "Verizon Wireless Music Center", "city": "Noblesville", "state": "IN", "gap": 5, "set": "2", "jamchart": true, "jam": "You wouldn't expect a song like \"Nothing\" to yield such a brooding jam, although considering the date, it may not be a complete surprise. Either way, this improvisational version is a unique experience, and concludes with a long tug-of-war segue -> \"46 Days\".", "out": "->", "prev": "Slave to the Traffic Light", "next": "46 Days", "nb": 1},
+  {"date": "2009-06-06", "venue": "Comcast Center", "city": "Mansfield", "state": "MA", "gap": 17, "set": "1", "prev": "Stealing Time From the Faulty Plan", "next": "Back on the Train", "nb": 1},
+  {"date": "2010-06-24", "venue": "Susquehanna Bank Center", "city": "Camden", "state": "NJ", "gap": 52, "set": "2", "out": ">", "prev": "Crosseyed and Painless", "in": ">", "next": "Twenty Years Later", "nb": 1},
+  {"date": "2012-06-07", "venue": "DCU Center", "city": "Worcester", "state": "MA", "gap": 78, "set": "1", "prev": "Rift", "next": "Ocelot", "nb": 1},
+  {"date": "2015-08-16", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 139, "set": "1", "prev": "555", "next": "No Men In No Man's Land", "nb": 1},
+  {"date": "2017-01-15", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 58, "set": "1", "prev": "Roggae", "next": "Ghost", "nb": 1},
+  {"date": "2022-06-01", "venue": "Credit One Stadium", "city": "Charleston", "state": "SC", "gap": 158, "set": "e", "out": ">", "next": "When the Circus Comes", "xprev": "Blaze On", "nb": 1},
+  {"date": "2024-10-26", "venue": "MVP Arena", "city": "Albany", "state": "NY", "gap": 118, "set": "1", "prev": "Back on the Train", "next": "Stash", "nb": 1}
  ]
 }

@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2017-08-04", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1770, "set": "2", "note": "Phish debut.", "nb": 1, "prev": "No Men In No Man's Land", "in": ">", "next": "What's the Use?"}
+  {"date": "2017-08-04", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "2", "note": "Phish debut.", "prev": "No Men In No Man's Land", "in": ">", "next": "What's the Use?", "nb": 1}
  ]
 }

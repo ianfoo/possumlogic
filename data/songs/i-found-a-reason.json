@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "1998-10-31", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 1223, "set": "2", "note": "Phish debut.", "nb": 1, "prev": "Lonesome Cowboy Bill", "in": ">", "next": "Train Round the Bend"},
-  {"date": "2016-06-22", "venue": "Xcel Energy Center", "city": "St. Paul", "state": "MN", "gap": 495, "set": "2", "nb": 1, "prev": "Simple", "in": "->", "next": "No Men In No Man's Land"}
+  {"date": "1998-10-31", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Phish debut.", "prev": "Lonesome Cowboy Bill", "in": ">", "next": "Train Round the Bend", "nb": 1},
+  {"date": "2016-06-22", "venue": "Xcel Energy Center", "city": "St. Paul", "state": "MN", "gap": 495, "set": "2", "prev": "Simple", "in": "->", "next": "No Men In No Man's Land", "nb": 1}
  ]
 }

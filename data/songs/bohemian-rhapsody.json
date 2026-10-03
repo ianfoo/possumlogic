@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "1996-12-31", "venue": "FleetCenter", "city": "Boston", "state": "MA", "gap": 1101, "set": "3", "note": "Phish debut; Boston Community Choir.", "nb": 1, "prev": "Run Like an Antelope", "next": "Julius"},
-  {"date": "2022-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 852, "set": "3", "note": "The Late Show Gospel Choir. Lyrics changed to reference Ghost.", "out": ">", "nb": 1, "prev": "Ghost", "in": ">", "next": "Ghost"}
+  {"date": "1996-12-31", "venue": "FleetCenter", "city": "Boston", "state": "MA", "gap": null, "set": "3", "note": "Phish debut; Boston Community Choir.", "prev": "Run Like an Antelope", "next": "Julius", "nb": 1},
+  {"date": "2022-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 852, "set": "3", "note": "The Late Show Gospel Choir. Lyrics changed to reference Ghost.", "out": ">", "prev": "Ghost", "in": ">", "next": "Ghost", "nb": 1}
  ]
 }

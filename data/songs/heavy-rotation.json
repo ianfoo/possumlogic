@@ -3,11 +3,13 @@
  "slug": "heavy-rotation",
  "artist": "Phish",
  "best": [
-
+  {"date": "2015-07-22", "score": 44, "venue": "Les Schwab Amphitheater", "city": "Bend", "state": "OR", "link": "https://fouldomain.com/tracks/32045"},
+  {"date": "2022-08-06", "score": 38, "venue": "Atlantic City Beach", "city": "Atlantic City", "state": "NJ", "link": "https://fouldomain.com/tracks/37191"},
+  {"date": "2022-09-03", "score": 32, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/37329"}
  ],
  "performances": [
-  {"date": "2015-07-22", "venue": "Les Schwab Amphitheater", "city": "Bend", "state": "OR", "gap": 1687, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Winterqueen", "next": "Back on the Train"},
-  {"date": "2022-08-06", "venue": "Atlantic City Beach", "city": "Atlantic City", "state": "NJ", "gap": 253, "set": "1", "out": ">", "nb": 1, "prev": "Bathtub Gin", "next": "Character Zero"},
-  {"date": "2022-09-03", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 7, "set": "1", "nb": 1, "prev": "Walls of the Cave", "next": "Boogie On Reggae Woman"}
+  {"date": "2015-07-22", "venue": "Les Schwab Amphitheater", "city": "Bend", "state": "OR", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Winterqueen", "next": "Back on the Train", "nb": 1},
+  {"date": "2022-08-06", "venue": "Atlantic City Beach", "city": "Atlantic City", "state": "NJ", "gap": 253, "set": "1", "out": ">", "prev": "Bathtub Gin", "next": "Character Zero", "nb": 1},
+  {"date": "2022-09-03", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 8, "set": "1", "prev": "Walls of the Cave", "next": "Boogie On Reggae Woman", "nb": 1}
  ]
 }

@@ -3,17 +3,21 @@
  "slug": "lonesome-cowboy-bill",
  "artist": "Phish",
  "best": [
-
+  {"date": "1998-10-31", "score": 82, "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/22450"},
+  {"date": "2011-06-12", "score": 52, "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "link": "https://fouldomain.com/tracks/28660"},
+  {"date": "2012-07-01", "score": 50, "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "link": "https://fouldomain.com/tracks/29643"},
+  {"date": "2016-12-28", "score": 48, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/33523"},
+  {"date": "2003-07-30", "score": 46, "venue": "Tweeter Center at the Waterfront", "city": "Camden", "state": "NJ", "link": "https://fouldomain.com/tracks/25622"}
  ],
  "performances": [
-  {"date": "1995-05-14", "venue": "Fish's House", "city": "Burlington", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "Glide II", "next": "I'll Come Running"},
-  {"date": "1995-05-16", "venue": "Lowell Memorial Auditorium", "city": "Lowell", "state": "MA", "gap": 951, "set": "1", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Hold Your Head Up", "in": ">", "next": "Hold Your Head Up"},
-  {"date": "1995-06-07", "venue": "Boise State University Pavilion", "city": "Boise", "state": "ID", "gap": 1, "set": "2", "note": "Fish on trombone.", "out": ">", "nb": 1, "prev": "Hold Your Head Up", "in": ">", "next": "Hold Your Head Up"},
-  {"date": "1995-06-10", "venue": "Red Rocks Amphitheatre", "city": "Morrison", "state": "CO", "gap": 3, "set": "1", "out": ">", "nb": 1, "prev": "Hold Your Head Up", "in": ">", "next": "Hold Your Head Up"},
-  {"date": "1998-10-31", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 268, "set": "2", "jamchart": true, "jam": "Fiery jam segues into a magnificently enchanting, psychedelic horizon.", "out": ">", "nb": 1, "prev": "Head Held High", "next": "I Found a Reason"},
-  {"date": "2003-07-30", "venue": "Tweeter Center at the Waterfront", "city": "Camden", "state": "NJ", "gap": 175, "set": "1", "nb": 1, "prev": "My Friend, My Friend", "next": "Scents and Subtle Sounds"},
-  {"date": "2011-06-12", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 141, "set": "1", "nb": 1, "prev": "Buried Alive", "in": ">", "next": "Ha Ha Ha"},
-  {"date": "2012-07-01", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 40, "set": "1", "nb": 1, "prev": "Soul Shakedown Party", "next": "Vultures"},
-  {"date": "2016-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 177, "set": "1", "out": ">", "nb": 1, "prev": "Stealing Time From the Faulty Plan", "next": "Free"}
+  {"date": "1995-05-14", "venue": "Fish's House", "city": "Burlington", "state": "VT", "gap": null, "set": "1", "prev": "Glide II", "next": "I'll Come Running", "nb": 1},
+  {"date": "1995-05-16", "venue": "Lowell Memorial Auditorium", "city": "Lowell", "state": "MA", "gap": null, "set": "1", "note": "Phish debut.", "out": ">", "prev": "Hold Your Head Up", "in": ">", "next": "Hold Your Head Up", "nb": 1},
+  {"date": "1995-06-07", "venue": "Boise State University Pavilion", "city": "Boise", "state": "ID", "gap": 1, "set": "2", "note": "Fish on trombone.", "out": ">", "prev": "Hold Your Head Up", "in": ">", "next": "Hold Your Head Up", "nb": 1},
+  {"date": "1995-06-10", "venue": "Red Rocks Amphitheatre", "city": "Morrison", "state": "CO", "gap": 3, "set": "1", "out": ">", "prev": "Hold Your Head Up", "in": ">", "next": "Hold Your Head Up", "nb": 1},
+  {"date": "1998-10-31", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 268, "set": "2", "jamchart": true, "jam": "Fiery jam segues into a magnificently enchanting, psychedelic horizon.", "out": ">", "prev": "Head Held High", "next": "I Found a Reason", "nb": 1},
+  {"date": "2003-07-30", "venue": "Tweeter Center at the Waterfront", "city": "Camden", "state": "NJ", "gap": 175, "set": "1", "prev": "My Friend, My Friend", "next": "Scents and Subtle Sounds", "nb": 1},
+  {"date": "2011-06-12", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 141, "set": "1", "prev": "Buried Alive", "in": ">", "next": "Ha Ha Ha", "nb": 1},
+  {"date": "2012-07-01", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 40, "set": "1", "prev": "Soul Shakedown Party", "next": "Vultures", "nb": 1},
+  {"date": "2016-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 177, "set": "1", "out": ">", "prev": "Stealing Time From the Faulty Plan", "next": "Free", "nb": 1}
  ]
 }

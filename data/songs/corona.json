@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2017-07-15", "venue": "Huntington Bank Pavilion at Northerly Island", "city": "Chicago", "state": "IL", "gap": 1756, "set": "2", "note": "Phish debut.", "out": ">", "nb": 1, "xprev": "More", "next": "Simple"}
+  {"date": "2017-07-15", "venue": "Huntington Bank Pavilion at Northerly Island", "city": "Chicago", "state": "IL", "gap": null, "set": "2", "note": "Phish debut.", "out": ">", "next": "Simple", "xprev": "More", "nb": 1}
  ]
 }

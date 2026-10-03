@@ -3,10 +3,12 @@
  "slug": "lets-go",
  "artist": "Phish",
  "best": [
-
+  {"date": "1991-02-04", "score": 57, "venue": "The Front", "city": "Burlington", "state": "VT", "link": "https://fouldomain.com/tracks/6865"},
+  {"date": "2016-10-21", "score": 46, "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "link": "https://fouldomain.com/tracks/33352"},
+  {"date": "2016-07-01", "score": 39, "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "link": "https://fouldomain.com/tracks/32816"}
  ],
  "performances": [
-  {"date": "2016-07-01", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 1716, "set": "1", "note": "Debut.", "nb": 1, "prev": "Halfway to the Moon", "next": "Waiting All Night"},
-  {"date": "2016-10-21", "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "gap": 24, "set": "1", "nb": 1, "prev": "Mercury", "next": "Alaska"}
+  {"date": "2016-07-01", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": null, "set": "1", "note": "Debut.", "prev": "Halfway to the Moon", "next": "Waiting All Night", "nb": 1},
+  {"date": "2016-10-21", "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "gap": 24, "set": "1", "prev": "Mercury", "next": "Alaska", "nb": 1}
  ]
 }

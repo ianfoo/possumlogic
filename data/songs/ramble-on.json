@@ -6,8 +6,8 @@
 
  ],
  "performances": [
-  {"date": "1998-08-01", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 1205, "set": "1", "note": "Phish debut.", "out": ">", "nb": 1, "first": 1, "next": "Mike's Song"},
-  {"date": "1998-08-12", "venue": "Vernon Downs", "city": "Vernon", "state": "NY", "gap": 8, "set": "1", "jamchart": true, "jam": "After extending the normal outro, Trey brings back the bridge riff to usher in a calming, cyclical groove in vintage '98 style until -> \"Slave\".", "out": "->", "nb": 1, "prev": "Character Zero", "next": "Slave to the Traffic Light"},
-  {"date": "2010-10-30", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 307, "set": "2", "out": "->", "nb": 1, "prev": "Tweezer", "in": "->", "next": "Thank You"}
+  {"date": "1998-08-01", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": null, "set": "1", "note": "Phish debut.", "out": ">", "next": "Mike's Song", "first": 1, "nb": 1},
+  {"date": "1998-08-12", "venue": "Vernon Downs", "city": "Vernon", "state": "NY", "gap": 8, "set": "1", "jamchart": true, "jam": "After extending the normal outro, Trey brings back the bridge riff to usher in a calming, cyclical groove in vintage '98 style until -> \"Slave\".", "out": "->", "prev": "Character Zero", "next": "Slave to the Traffic Light", "nb": 1},
+  {"date": "2010-10-30", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 307, "set": "2", "out": "->", "prev": "Tweezer", "in": "->", "next": "Thank You", "nb": 1}
  ]
 }

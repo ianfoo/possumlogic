@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2011-08-09", "venue": "Lake Tahoe Outdoor Arena at Harveys", "city": "Stateline", "state": "NV", "gap": 1543, "set": "2", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Free", "next": "Harry Hood"}
+  {"date": "2011-08-09", "venue": "Lake Tahoe Outdoor Arena at Harveys", "city": "Stateline", "state": "NV", "gap": null, "set": "2", "note": "Phish debut.", "out": ">", "prev": "Free", "next": "Harry Hood", "nb": 1}
  ]
 }

@@ -3,18 +3,27 @@
  "slug": "how-many-people-are-you",
  "artist": "Phish",
  "best": [
-
+  {"date": "2019-06-26", "score": 52, "venue": "Darling's Waterfront Pavilion", "city": "Bangor", "state": "ME", "link": "https://fouldomain.com/tracks/35145"},
+  {"date": "2017-07-23", "score": 46, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/33804"},
+  {"date": "2016-01-01", "score": 41, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/32586"},
+  {"date": "2016-07-08", "score": 40, "venue": "Xfinity Center", "city": "Mansfield", "state": "MA", "link": "https://fouldomain.com/tracks/32907"},
+  {"date": "2015-08-22", "score": 39, "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "link": "https://fouldomain.com/tracks/32418"},
+  {"date": "2015-07-22", "score": 38, "venue": "Les Schwab Amphitheater", "city": "Bend", "state": "OR", "link": "https://fouldomain.com/tracks/32043"},
+  {"date": "2016-10-30", "score": 36, "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/33477"},
+  {"date": "2021-08-29", "score": 36, "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "link": "https://fouldomain.com/tracks/36186"},
+  {"date": "2015-07-31", "score": 28, "venue": "Aaron's Amphitheatre at Lakewood", "city": "Atlanta", "state": "GA", "link": "https://fouldomain.com/tracks/32140"},
+  {"date": "2018-07-27", "score": 28, "venue": "The Forum", "city": "Inglewood", "state": "CA", "link": "https://fouldomain.com/tracks/34268"}
  ],
  "performances": [
-  {"date": "2015-07-22", "venue": "Les Schwab Amphitheater", "city": "Bend", "state": "OR", "gap": 1679, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Stash", "next": "Winterqueen"},
-  {"date": "2015-07-31", "venue": "Aaron's Amphitheatre at Lakewood", "city": "Atlanta", "state": "GA", "gap": 5, "set": "1", "nb": 1, "prev": "The Moma Dance", "next": "Rift"},
-  {"date": "2015-08-22", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": 14, "set": "1", "nb": 1, "prev": "Camel Walk", "next": "When the Circus Comes"},
-  {"date": "2016-01-01", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "1", "nb": 1, "prev": "Heavy Things", "next": "Stash"},
-  {"date": "2016-07-08", "venue": "Xfinity Center", "city": "Mansfield", "state": "MA", "gap": 15, "set": "1", "nb": 1, "prev": "Fast Enough for You", "next": "Strange Design"},
-  {"date": "2016-10-30", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 26, "set": "1", "nb": 1, "prev": "Heavy Things", "next": "Stash"},
-  {"date": "2017-07-23", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 16, "set": "1", "nb": 1, "prev": "Back on the Train", "next": "Glide"},
-  {"date": "2018-07-27", "venue": "The Forum", "city": "Inglewood", "state": "CA", "gap": 25, "set": "1", "nb": 1, "prev": "Wolfman's Brother", "next": "Horn"},
-  {"date": "2019-06-26", "venue": "Darling's Waterfront Pavilion", "city": "Bangor", "state": "ME", "gap": 45, "set": "1", "nb": 1, "prev": "Kill Devil Falls", "in": ">", "next": "Petrichor"},
-  {"date": "2021-08-29", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 48, "set": "1", "out": ">", "nb": 1, "prev": "Lonely Trip", "next": "Bathtub Gin"}
+  {"date": "2015-07-22", "venue": "Les Schwab Amphitheater", "city": "Bend", "state": "OR", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Stash", "next": "Winterqueen", "nb": 1},
+  {"date": "2015-07-31", "venue": "Aaron's Amphitheatre at Lakewood", "city": "Atlanta", "state": "GA", "gap": 5, "set": "1", "prev": "The Moma Dance", "next": "Rift", "nb": 1},
+  {"date": "2015-08-22", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": 14, "set": "1", "prev": "Camel Walk", "next": "When the Circus Comes", "nb": 1},
+  {"date": "2016-01-01", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "1", "prev": "Heavy Things", "next": "Stash", "nb": 1},
+  {"date": "2016-07-08", "venue": "Xfinity Center", "city": "Mansfield", "state": "MA", "gap": 15, "set": "1", "prev": "Fast Enough for You", "next": "Strange Design", "nb": 1},
+  {"date": "2016-10-30", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 26, "set": "1", "prev": "Heavy Things", "next": "Stash", "nb": 1},
+  {"date": "2017-07-23", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 16, "set": "1", "prev": "Back on the Train", "next": "Glide", "nb": 1},
+  {"date": "2018-07-27", "venue": "The Forum", "city": "Inglewood", "state": "CA", "gap": 25, "set": "1", "prev": "Wolfman's Brother", "next": "Horn", "nb": 1},
+  {"date": "2019-06-26", "venue": "Darling's Waterfront Pavilion", "city": "Bangor", "state": "ME", "gap": 45, "set": "1", "prev": "Kill Devil Falls", "in": ">", "next": "Petrichor", "nb": 1},
+  {"date": "2021-08-29", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 48, "set": "1", "out": ">", "prev": "Lonely Trip", "next": "Bathtub Gin", "nb": 1}
  ]
 }

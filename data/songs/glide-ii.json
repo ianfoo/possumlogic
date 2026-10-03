@@ -6,8 +6,8 @@
 
  ],
  "performances": [
-  {"date": "1995-05-14", "venue": "Fish's House", "city": "Burlington", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "Strange Design", "next": "Lonesome Cowboy Bill"},
-  {"date": "1995-05-16", "venue": "Lowell Memorial Auditorium", "city": "Lowell", "state": "MA", "gap": 951, "set": "1", "note": "Debut.", "out": ">", "nb": 1, "prev": "Free", "next": "You Enjoy Myself"},
-  {"date": "2018-12-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 874, "set": "1", "out": ">", "nb": 1, "prev": "Mike's Song", "in": ">", "next": "Weekapaug Groove"}
+  {"date": "1995-05-14", "venue": "Fish's House", "city": "Burlington", "state": "VT", "gap": null, "set": "1", "prev": "Strange Design", "next": "Lonesome Cowboy Bill", "nb": 1},
+  {"date": "1995-05-16", "venue": "Lowell Memorial Auditorium", "city": "Lowell", "state": "MA", "gap": null, "set": "1", "note": "Debut.", "out": ">", "prev": "Free", "next": "You Enjoy Myself", "nb": 1},
+  {"date": "2018-12-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 874, "set": "1", "out": ">", "prev": "Mike's Song", "in": ">", "next": "Weekapaug Groove", "nb": 1}
  ]
 }

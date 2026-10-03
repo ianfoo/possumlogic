@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2009-10-29", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": null, "set": "2", "nb": 1, "prev": "Gone", "last": 1}
+  {"date": "2009-10-29", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": null, "set": "2", "prev": "Gone", "last": 1, "nb": 1}
  ]
 }

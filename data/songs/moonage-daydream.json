@@ -17,17 +17,17 @@
   {"date": "2025-06-28", "score": 26, "venue": "Moody Center", "city": "Austin", "state": "TX", "link": "https://fouldomain.com/tracks/39466"}
  ],
  "performances": [
-  {"date": "2016-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1752, "set": "2", "note": "Phish debut; With Sylvia D'Avanzo, Alisa Horn, Todd Low, Antoine Silverman, Alissa Smith, and Hiroko Taguchi on strings and Jennifer Hartswick, Celisse Henderson, and Jo Lampert on backing vocals.", "nb": 1, "prev": "Soul Love", "next": "Starman"},
-  {"date": "2017-07-21", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 13, "set": "1", "nb": 1, "prev": "Reba", "next": "Walls of the Cave"},
-  {"date": "2018-10-26", "venue": "Allstate Arena", "city": "Rosemont", "state": "IL", "gap": 48, "set": "1", "nb": 1, "prev": "Mercury", "in": ">", "next": "Walls of the Cave"},
-  {"date": "2019-12-07", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 46, "set": "1", "nb": 1, "prev": "Strange Design", "xnext": "The Connection"},
-  {"date": "2021-08-31", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 27, "set": "1", "nb": 1, "prev": "Gotta Jibboo", "xnext": "Soul Planet"},
-  {"date": "2022-08-06", "venue": "Atlantic City Beach", "city": "Atlantic City", "state": "NJ", "gap": 51, "set": "1", "nb": 1, "prev": "Character Zero", "xnext": "No Men In No Man's Land"},
-  {"date": "2022-09-02", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 7, "set": "1", "out": ">", "nb": 1, "prev": "Weekapaug Groove", "in": ">", "next": "Chalk Dust Torture"},
-  {"date": "2023-07-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 32, "set": "1", "nb": 1, "prev": "Foam", "xnext": "The Wedge"},
-  {"date": "2024-07-27", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 38, "set": "1", "nb": 1, "prev": "Foam", "next": "My Soul"},
-  {"date": "2025-06-28", "venue": "Moody Center", "city": "Austin", "state": "TX", "gap": 44, "set": "1", "nb": 1, "prev": "Guelah Papyrus", "xnext": "Chalk Dust Torture"},
-  {"date": "2025-09-20", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 24, "set": "1", "nb": 1, "prev": "Ether Edge", "xnext": "Everything's Right"},
-  {"date": "2026-04-23", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 12, "set": "1", "nb": 1, "prev": "Stash", "xnext": "The Curtain With"}
+  {"date": "2016-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Phish debut; With Sylvia D'Avanzo, Alisa Horn, Todd Low, Antoine Silverman, Alissa Smith, and Hiroko Taguchi on strings and Jennifer Hartswick, Celisse Henderson, and Jo Lampert on backing vocals.", "prev": "Soul Love", "next": "Starman", "nb": 1},
+  {"date": "2017-07-21", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 13, "set": "1", "prev": "Reba", "next": "Walls of the Cave", "nb": 1},
+  {"date": "2018-10-26", "venue": "Allstate Arena", "city": "Rosemont", "state": "IL", "gap": 48, "set": "1", "prev": "Mercury", "in": ">", "next": "Walls of the Cave", "nb": 1},
+  {"date": "2019-12-07", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 46, "set": "1", "prev": "Strange Design", "xnext": "The Connection", "nb": 1},
+  {"date": "2021-08-31", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 27, "set": "1", "prev": "Gotta Jibboo", "xnext": "Soul Planet", "nb": 1},
+  {"date": "2022-08-06", "venue": "Atlantic City Beach", "city": "Atlantic City", "state": "NJ", "gap": 51, "set": "1", "prev": "Character Zero", "xnext": "No Men In No Man's Land", "nb": 1},
+  {"date": "2022-09-02", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 7, "set": "1", "out": ">", "prev": "Weekapaug Groove", "in": ">", "next": "Chalk Dust Torture", "nb": 1},
+  {"date": "2023-07-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 32, "set": "1", "prev": "Foam", "xnext": "The Wedge", "nb": 1},
+  {"date": "2024-07-27", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 38, "set": "1", "prev": "Foam", "next": "My Soul", "nb": 1},
+  {"date": "2025-06-28", "venue": "Moody Center", "city": "Austin", "state": "TX", "gap": 44, "set": "1", "prev": "Guelah Papyrus", "xnext": "Chalk Dust Torture", "nb": 1},
+  {"date": "2025-09-20", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 24, "set": "1", "prev": "Ether Edge", "xnext": "Everything's Right", "nb": 1},
+  {"date": "2026-04-23", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 13, "set": "1", "prev": "Stash", "xnext": "The Curtain With", "nb": 1}
  ]
 }

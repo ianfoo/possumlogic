@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1898, "set": "2", "note": "Debut.", "nb": 1, "prev": "Clear Your Mind", "in": ">", "next": "The Inner Reaches of Outer"},
-  {"date": "2023-10-10", "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "gap": 88, "set": "1", "nb": 1, "prev": "Sigma Oasis", "next": "Theme from the Bottom"}
+  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "prev": "Clear Your Mind", "in": ">", "next": "The Inner Reaches of Outer", "nb": 1},
+  {"date": "2023-10-10", "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "gap": 88, "set": "1", "prev": "Sigma Oasis", "next": "Theme from the Bottom", "nb": 1}
  ]
 }

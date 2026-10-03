@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2017-07-14", "venue": "Huntington Bank Pavilion at Northerly Island", "city": "Chicago", "state": "IL", "gap": 1755, "set": "e", "note": "Debut.", "nb": 1, "xprev": "Julius", "next": "Golgi Apparatus"}
+  {"date": "2017-07-14", "venue": "Huntington Bank Pavilion at Northerly Island", "city": "Chicago", "state": "IL", "gap": null, "set": "e", "note": "Debut.", "next": "Golgi Apparatus", "xprev": "Julius", "nb": 1}
  ]
 }

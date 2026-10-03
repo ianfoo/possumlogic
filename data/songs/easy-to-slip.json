@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2013-08-30", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1616, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Limb By Limb", "xnext": "Punch You in the Eye"}
+  {"date": "2013-08-30", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Limb By Limb", "xnext": "Punch You in the Eye", "nb": 1}
  ]
 }

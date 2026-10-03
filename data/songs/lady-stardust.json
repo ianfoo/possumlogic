@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2016-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1747, "set": "2", "note": "Phish debut; Trey on acoustic.", "nb": 1, "prev": "It Ain't Easy", "next": "Star"}
+  {"date": "2016-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Phish debut; Trey on acoustic.", "prev": "It Ain't Easy", "next": "Star", "nb": 1}
  ]
 }

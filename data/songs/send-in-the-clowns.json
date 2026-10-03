@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2019-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "3", "note": "Phish debut; with lyrics changed to \"Send in the clones\" and performed a cappella.", "nb": 1, "xprev": "Possum", "next": "First Tube"}
+  {"date": "2019-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "3", "note": "Phish debut; with lyrics changed to \"Send in the clones\" and performed a cappella.", "next": "First Tube", "xprev": "Possum", "nb": 1}
  ]
 }

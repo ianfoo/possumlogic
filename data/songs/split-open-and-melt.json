@@ -30,7 +30,7 @@
   {"date": "2022-09-03", "score": 82, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/37342"}
  ],
  "performances": [
-  {"date": "1989-02-17", "venue": "Old Stone Church", "city": "Newmarket", "state": "NH", "gap": 204, "set": "1", "jamchart": true, "jam": "Debut. No recording available.", "note": "First known version.", "prev": "Divided Sky", "next": "Golgi Apparatus", "nb": 1},
+  {"date": "1989-02-17", "venue": "Old Stone Church", "city": "Newmarket", "state": "NH", "gap": null, "set": "1", "jamchart": true, "jam": "Debut. No recording available.", "note": "First known version.", "prev": "Divided Sky", "next": "Golgi Apparatus", "nb": 1},
   {"date": "1989-03-03", "venue": "Living and Learning Center, University of Vermont", "city": "Burlington", "state": "VT", "gap": 6, "set": "2", "prev": "The Lizards", "next": "Take the 'A' Train", "nb": 1},
   {"date": "1989-04-15", "venue": "Billings Lounge, University of Vermont", "city": "Burlington", "state": "VT", "gap": 15, "set": "2", "jamchart": true, "jam": "First recorded performance includes a Fish drum solo preceding the lyrical section \"We breathe deep...\" The jam is fairly intense but straightforward in structure.", "note": "With drum solo.", "prev": "Divided Sky", "next": "Suzy Greenberg", "nb": 1},
   {"date": "1989-04-20", "venue": "Humphries House (The Zoo), Amherst College", "city": "Amherst", "state": "MA", "gap": 2, "set": "2", "note": "Fish drum solo.", "prev": "You Enjoy Myself", "in": ">", "next": "The Lizards", "nb": 1},
@@ -383,8 +383,8 @@
   {"date": "2025-09-21", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 8, "set": "1", "jamchart": true, "jam": "A major version of the modern \"Melt.\" Placement seems to be instrumental, as the jam, exploding from the middle of the first, seems unfettered by \"role\" or expectation.  Note for note notable, play becomes particularly interesting after the ten-minute mark, when Page, following a slow, psychedelic, full-band build, blasts through somewhat familiar bleeps and bloops, unsettlingly smoothing the sound by alternating instruments, play almost breaking to become, of all things, serene (some must-hear Phish). More by way of general madness morphs to bleed into the song's conclusion.", "prev": "Meat", "next": "Golgi Apparatus", "nb": 1},
   {"date": "2025-12-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 3, "set": "1", "prev": "Reba", "xnext": "Ghost", "nb": 1},
   {"date": "2026-04-16", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 6, "set": "1", "prev": "Steam", "xnext": "Everything's Right", "nb": 1},
-  {"date": "2026-07-14", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 13, "set": "2", "note": "Unfinished.", "out": ">", "next": "Sand", "xprev": "Horn", "nb": 1},
-  {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 5, "set": "2", "prev": "My Friend, My Friend", "in": "->", "next": "The Lizards", "nb": 1},
-  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 8, "set": "1", "nb": 1, "prev": "Taste", "xnext": "My Friend, My Friend"}
+  {"date": "2026-07-14", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 14, "set": "2", "note": "Unfinished.", "out": ">", "next": "Sand", "xprev": "Horn", "nb": 1},
+  {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 6, "set": "2", "prev": "My Friend, My Friend", "in": "->", "next": "The Lizards", "nb": 1},
+  {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 9, "set": "1", "prev": "Taste", "xnext": "My Friend, My Friend", "nb": 1}
  ]
 }

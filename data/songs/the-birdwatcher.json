@@ -3,12 +3,15 @@
  "slug": "the-birdwatcher",
  "artist": "Phish",
  "best": [
-
+  {"date": "2012-06-28", "score": 55, "venue": "Klipsch Music Center", "city": "Noblesville", "state": "IN", "link": "https://fouldomain.com/tracks/29566"},
+  {"date": "2011-06-15", "score": 53, "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "link": "https://fouldomain.com/tracks/28723"},
+  {"date": "2015-09-06", "score": 50, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/32519"},
+  {"date": "2010-12-28", "score": 46, "venue": "DCU Center", "city": "Worcester", "state": "MA", "link": "https://fouldomain.com/tracks/28329"}
  ],
  "performances": [
-  {"date": "2010-12-28", "venue": "DCU Center", "city": "Worcester", "state": "MA", "gap": 1523, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Stealing Time From the Faulty Plan", "xnext": "Carini"},
-  {"date": "2011-06-15", "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "gap": 18, "set": "2", "out": "->", "nb": 1, "prev": "Character Zero", "next": "Kung"},
-  {"date": "2012-06-28", "venue": "Klipsch Music Center", "city": "Noblesville", "state": "IN", "gap": 35, "set": "1", "nb": 1, "first": 1, "next": "The Curtain With"},
-  {"date": "2015-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 134, "set": "1", "nb": 1, "prev": "Halfway to the Moon", "next": "Frankenstein"}
+  {"date": "2010-12-28", "venue": "DCU Center", "city": "Worcester", "state": "MA", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Stealing Time From the Faulty Plan", "xnext": "Carini", "nb": 1},
+  {"date": "2011-06-15", "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "gap": 18, "set": "2", "out": "->", "prev": "Character Zero", "next": "Kung", "nb": 1},
+  {"date": "2012-06-28", "venue": "Klipsch Music Center", "city": "Noblesville", "state": "IN", "gap": 35, "set": "1", "next": "The Curtain With", "first": 1, "nb": 1},
+  {"date": "2015-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 134, "set": "1", "prev": "Halfway to the Moon", "next": "Frankenstein", "nb": 1}
  ]
 }

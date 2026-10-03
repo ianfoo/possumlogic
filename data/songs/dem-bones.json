@@ -3,11 +3,13 @@
  "slug": "dem-bones",
  "artist": "Phish",
  "best": [
-
+  {"date": "2014-12-31", "score": 60, "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "link": "https://fouldomain.com/tracks/31953"},
+  {"date": "2017-08-04", "score": 52, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/33955"},
+  {"date": "2016-06-29", "score": 46, "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "link": "https://fouldomain.com/tracks/32805"}
  ],
  "performances": [
-  {"date": "2014-12-31", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": 1674, "set": "3", "note": "Phish debut; Fish on vacuum.", "out": ">", "nb": 1, "xprev": "Martian Monster", "next": "Auld Lang Syne"},
-  {"date": "2016-06-29", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": 40, "set": "2", "nb": 1, "prev": "Backwards Down the Number Line", "xnext": "Dear Prudence"},
-  {"date": "2017-08-04", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 55, "set": "2", "nb": 1, "xprev": "First Tube", "next": "No Men In No Man's Land"}
+  {"date": "2014-12-31", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": null, "set": "3", "note": "Phish debut; Fish on vacuum.", "out": ">", "next": "Auld Lang Syne", "xprev": "Martian Monster", "nb": 1},
+  {"date": "2016-06-29", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": 41, "set": "2", "prev": "Backwards Down the Number Line", "xnext": "Dear Prudence", "nb": 1},
+  {"date": "2017-08-04", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 55, "set": "2", "next": "No Men In No Man's Land", "xprev": "First Tube", "nb": 1}
  ]
 }

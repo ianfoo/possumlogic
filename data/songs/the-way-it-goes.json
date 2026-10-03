@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2011-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1551, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Bathtub Gin", "next": "Halfway to the Moon"}
+  {"date": "2011-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Bathtub Gin", "next": "Halfway to the Moon", "nb": 1}
  ]
 }

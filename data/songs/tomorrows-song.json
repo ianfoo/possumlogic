@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2009-11-27", "venue": "Times Union Center", "city": "Albany", "state": "NY", "gap": 1459, "set": "2", "note": "Debut.", "nb": 1, "prev": "Piper", "in": "->", "next": "Prince Caspian"}
+  {"date": "2009-11-27", "venue": "Times Union Center", "city": "Albany", "state": "NY", "gap": null, "set": "2", "note": "Debut.", "prev": "Piper", "in": "->", "next": "Prince Caspian", "nb": 1}
  ]
 }

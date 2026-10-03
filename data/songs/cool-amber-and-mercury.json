@@ -3,16 +3,23 @@
  "slug": "cool-amber-and-mercury",
  "artist": "Phish",
  "best": [
-
+  {"date": "2019-12-07", "score": 76, "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "link": "https://fouldomain.com/tracks/35651"},
+  {"date": "2018-10-31", "score": 71, "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/34726"},
+  {"date": "2023-10-10", "score": 67, "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "link": "https://fouldomain.com/tracks/38190"},
+  {"date": "2018-12-30", "score": 65, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/34847"},
+  {"date": "2019-06-11", "score": 45, "venue": "Chaifetz Arena, Saint Louis University", "city": "St. Louis", "state": "MO", "link": "https://fouldomain.com/tracks/34941"},
+  {"date": "2021-08-04", "score": 43, "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "link": "https://fouldomain.com/tracks/35970"},
+  {"date": "2021-08-29", "score": 41, "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "link": "https://fouldomain.com/tracks/36182"},
+  {"date": "2019-07-02", "score": 36, "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "link": "https://fouldomain.com/tracks/35234"}
  ],
  "performances": [
-  {"date": "2018-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1819, "set": "2", "jamchart": true, "jam": "Debut.", "note": "Debut.", "nb": 1, "prev": "Death Don't Hurt Very Long", "next": "Passing Through"},
-  {"date": "2018-12-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 6, "set": "2", "nb": 1, "xprev": "More", "next": "Everything's Right"},
-  {"date": "2019-06-11", "venue": "Chaifetz Arena, Saint Louis University", "city": "St. Louis", "state": "MO", "gap": 5, "set": "1", "nb": 1, "first": 1, "next": "46 Days"},
-  {"date": "2019-07-02", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 14, "set": "2", "out": ">", "nb": 1, "xprev": "Walls of the Cave", "next": "Down with Disease"},
-  {"date": "2019-12-07", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 18, "set": "2", "jamchart": true, "jam": "Stretches slightly beyond its usual confines with a pleasant jam which finds a darker direction in the final minute before > \"Melt\".", "out": ">", "nb": 1, "prev": "Dirt", "next": "Split Open and Melt"},
-  {"date": "2021-08-04", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": 15, "set": "1", "nb": 1, "prev": "My Sweet One", "next": "Halfway to the Moon"},
-  {"date": "2021-08-29", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 11, "set": "1", "out": ">", "nb": 1, "first": 1, "next": "The Moma Dance"},
-  {"date": "2023-10-10", "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "gap": 106, "set": "1", "jamchart": true, "jam": "In its first outing in over 100 shows, \"Cool Amber and Mercury\" makes a strong impression with arguably its most spirited appearance to date.", "nb": 1, "prev": "Theme from the Bottom", "next": "555"}
+  {"date": "2018-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "jamchart": true, "jam": "Debut.", "note": "Debut.", "prev": "Death Don't Hurt Very Long", "next": "Passing Through", "nb": 1},
+  {"date": "2018-12-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 6, "set": "2", "next": "Everything's Right", "xprev": "More", "nb": 1},
+  {"date": "2019-06-11", "venue": "Chaifetz Arena, Saint Louis University", "city": "St. Louis", "state": "MO", "gap": 5, "set": "1", "next": "46 Days", "first": 1, "nb": 1},
+  {"date": "2019-07-02", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 14, "set": "2", "out": ">", "next": "Down with Disease", "xprev": "Walls of the Cave", "nb": 1},
+  {"date": "2019-12-07", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 18, "set": "2", "jamchart": true, "jam": "Stretches slightly beyond its usual confines with a pleasant jam which finds a darker direction in the final minute before > \"Melt\".", "out": ">", "prev": "Dirt", "next": "Split Open and Melt", "nb": 1},
+  {"date": "2021-08-04", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": 15, "set": "1", "prev": "My Sweet One", "next": "Halfway to the Moon", "nb": 1},
+  {"date": "2021-08-29", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 11, "set": "1", "out": ">", "next": "The Moma Dance", "first": 1, "nb": 1},
+  {"date": "2023-10-10", "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "gap": 106, "set": "1", "jamchart": true, "jam": "In its first outing in over 100 shows, \"Cool Amber and Mercury\" makes a strong impression with arguably its most spirited appearance to date.", "prev": "Theme from the Bottom", "next": "555", "nb": 1}
  ]
 }

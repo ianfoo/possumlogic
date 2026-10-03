@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2009-10-31", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": 1451, "set": "2", "note": "Phish debut; Dave Guy on trumpet, David Smith on trombone, and Tony Jarvis on saxophone.", "out": ">", "nb": 1, "xprev": "Run Like an Antelope", "next": "Rip This Joint"}
+  {"date": "2009-10-31", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": null, "set": "2", "note": "Phish debut; Dave Guy on trumpet, David Smith on trombone, and Tony Jarvis on saxophone.", "out": ">", "next": "Rip This Joint", "xprev": "Run Like an Antelope", "nb": 1}
  ]
 }

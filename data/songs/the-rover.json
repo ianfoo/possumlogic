@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2010-06-24", "venue": "Susquehanna Bank Center", "city": "Camden", "state": "NJ", "gap": 1479, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Reba", "xnext": "Down with Disease"}
+  {"date": "2010-06-24", "venue": "Susquehanna Bank Center", "city": "Camden", "state": "NJ", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Reba", "xnext": "Down with Disease", "nb": 1}
  ]
 }

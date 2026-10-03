@@ -3,15 +3,20 @@
  "slug": "bill-bailey-wont-you-please-come-home",
  "artist": "Phish",
  "best": [
-
+  {"date": "2004-06-20", "score": 59, "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "link": "https://fouldomain.com/tracks/25972"},
+  {"date": "1999-07-03", "score": 58, "venue": "Lakewood Amphitheatre", "city": "Atlanta", "state": "GA", "link": "https://fouldomain.com/tracks/22971"},
+  {"date": "2010-10-15", "score": 56, "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "link": "https://fouldomain.com/tracks/28025"},
+  {"date": "1993-07-28", "score": 53, "venue": "Grady Cole Center", "city": "Charlotte", "state": "NC", "link": "https://fouldomain.com/tracks/14121"},
+  {"date": "1994-04-22", "score": 45, "venue": "Township Auditorium", "city": "Columbia", "state": "SC", "link": "https://fouldomain.com/tracks/15050"},
+  {"date": "1995-11-18", "score": 26, "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "link": "https://fouldomain.com/tracks/18485"}
  ],
  "performances": [
-  {"date": "1990-05-28", "venue": "Jack McConnell's House", "city": "Hilton Head", "state": "SC", "gap": null, "set": "1", "note": "First known Phish performance; with Dr. Jack McConnell.", "nb": 1, "prev": "Carolina", "next": "Piano Boogie Woogie Jam"},
-  {"date": "1993-07-28", "venue": "Grady Cole Center", "city": "Charlotte", "state": "NC", "gap": 799, "set": "e", "note": "First public Phish performance. Dr. Jack McConnell on piano and lead vocals.", "nb": 1, "prev": "Piano Duet", "last": 1},
-  {"date": "1994-04-22", "venue": "Township Auditorium", "city": "Columbia", "state": "SC", "gap": 42, "set": "e", "note": "Dr. Jack McConnell on piano and lead vocals.", "nb": 1, "prev": "Piano Duet", "in": "->", "last": 1},
-  {"date": "1995-11-18", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 165, "set": "e", "note": "Dr. Jack McConnell on vocals.", "nb": 1, "xprev": "Cavern", "last": 1},
-  {"date": "1999-07-03", "venue": "Lakewood Amphitheatre", "city": "Atlanta", "state": "GA", "gap": 243, "set": "e", "note": "Dr. Jack McConnell on vocals and kazoo.", "nb": 1, "prev": "The Little Drummer Boy", "xnext": "Harry Hood"},
-  {"date": "2004-06-20", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 167, "set": "1", "note": "Dr. Jack McConnell on vocals and tap shoes.", "nb": 1, "prev": "Julius", "next": "Waves"},
-  {"date": "2010-10-15", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 95, "set": "1", "note": "Dr. Jack McConnell on vocals and tap shoes.", "nb": 1, "prev": "Bathtub Gin", "next": "Boogie On Reggae Woman"}
+  {"date": "1990-05-28", "venue": "Jack McConnell's House", "city": "Hilton Head", "state": "SC", "gap": null, "set": "1", "note": "First known Phish performance; with Dr. Jack McConnell.", "prev": "Carolina", "next": "Piano Boogie Woogie Jam", "nb": 1},
+  {"date": "1993-07-28", "venue": "Grady Cole Center", "city": "Charlotte", "state": "NC", "gap": null, "set": "e", "note": "First public Phish performance. Dr. Jack McConnell on piano and lead vocals.", "prev": "Piano Duet", "last": 1, "nb": 1},
+  {"date": "1994-04-22", "venue": "Township Auditorium", "city": "Columbia", "state": "SC", "gap": 42, "set": "e", "note": "Dr. Jack McConnell on piano and lead vocals.", "prev": "Piano Duet", "in": "->", "last": 1, "nb": 1},
+  {"date": "1995-11-18", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 165, "set": "e", "note": "Dr. Jack McConnell on vocals.", "xprev": "Cavern", "last": 1, "nb": 1},
+  {"date": "1999-07-03", "venue": "Lakewood Amphitheatre", "city": "Atlanta", "state": "GA", "gap": 243, "set": "e", "note": "Dr. Jack McConnell on vocals and kazoo.", "prev": "The Little Drummer Boy", "xnext": "Harry Hood", "nb": 1},
+  {"date": "2004-06-20", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 167, "set": "1", "note": "Dr. Jack McConnell on vocals and tap shoes.", "prev": "Julius", "next": "Waves", "nb": 1},
+  {"date": "2010-10-15", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 95, "set": "1", "note": "Dr. Jack McConnell on vocals and tap shoes.", "prev": "Bathtub Gin", "next": "Boogie On Reggae Woman", "nb": 1}
  ]
 }

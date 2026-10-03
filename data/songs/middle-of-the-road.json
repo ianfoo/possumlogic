@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2009-08-08", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 1444, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Chalk Dust Torture", "next": "Tweezer"},
-  {"date": "2009-08-14", "venue": "The Comcast Theatre", "city": "Hartford", "state": "CT", "gap": 3, "set": "1", "nb": 1, "prev": "I Didn't Know", "next": "Character Zero"}
+  {"date": "2009-08-08", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Chalk Dust Torture", "next": "Tweezer", "nb": 1},
+  {"date": "2009-08-14", "venue": "The Comcast Theatre", "city": "Hartford", "state": "CT", "gap": 3, "set": "1", "prev": "I Didn't Know", "next": "Character Zero", "nb": 1}
  ]
 }

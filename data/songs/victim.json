@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2019-12-04", "venue": "Petersen Events Center", "city": "Pittsburgh", "state": "PA", "gap": 1852, "set": "1", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "When the Circus Comes", "next": "Run Like an Antelope"},
-  {"date": "2020-02-20", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 8, "set": "1", "nb": 1, "prev": "Shake Your Coconuts", "next": "The Moma Dance"}
+  {"date": "2019-12-04", "venue": "Petersen Events Center", "city": "Pittsburgh", "state": "PA", "gap": null, "set": "1", "note": "Phish debut.", "out": ">", "prev": "When the Circus Comes", "next": "Run Like an Antelope", "nb": 1},
+  {"date": "2020-02-20", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 8, "set": "1", "prev": "Shake Your Coconuts", "next": "The Moma Dance", "nb": 1}
  ]
 }

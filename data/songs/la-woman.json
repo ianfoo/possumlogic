@@ -3,10 +3,11 @@
  "slug": "la-woman",
  "artist": "Phish",
  "best": [
-
+  {"date": "2021-10-24", "score": 78, "venue": "The Forum", "city": "Inglewood", "state": "CA", "link": "https://fouldomain.com/tracks/36430"},
+  {"date": "2003-12-30", "score": 66, "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "link": "https://fouldomain.com/tracks/25818"}
  ],
  "performances": [
-  {"date": "2003-12-30", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": 1408, "set": "2", "times": 2, "jamchart": true, "jam": "-&gt; in from &quot;Tube.&quot; Debut of this Doors' classic and part of a thematic sequence. &gt; to &quot;BOAF.&quot;", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Tube", "in": "->", "next": "Birds of a Feather"},
-  {"date": "2021-10-24", "venue": "The Forum", "city": "Inglewood", "state": "CA", "gap": 492, "set": "2", "jamchart": true, "jam": "Lyrics begin -> from \"Tweezer\" and the performance initially retains some of that jam's character with the song proper more fully emerging later. After a \"Tweezer\" tease, the jamming opens up again and ultimately segues to -> \"S.A.N.T.O.S.\".", "out": "->", "nb": 1, "prev": "Tweezer", "in": "->", "next": "Say It To Me S.A.N.T.O.S."}
+  {"date": "2003-12-30", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": null, "set": "2", "times": 2, "jamchart": true, "jam": "-&gt; in from &quot;Tube.&quot; Debut of this Doors' classic and part of a thematic sequence. &gt; to &quot;BOAF.&quot;", "note": "Phish debut.", "out": ">", "prev": "Tube", "in": "->", "next": "Birds of a Feather", "nb": 1},
+  {"date": "2021-10-24", "venue": "The Forum", "city": "Inglewood", "state": "CA", "gap": 493, "set": "2", "jamchart": true, "jam": "Lyrics begin -> from \"Tweezer\" and the performance initially retains some of that jam's character with the song proper more fully emerging later. After a \"Tweezer\" tease, the jamming opens up again and ultimately segues to -> \"S.A.N.T.O.S.\".", "out": "->", "prev": "Tweezer", "in": "->", "next": "Say It To Me S.A.N.T.O.S.", "nb": 1}
  ]
 }

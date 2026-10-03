@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2012-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1593, "set": "1", "note": "Phish debut.", "nb": 1, "first": 1, "next": "Possum"}
+  {"date": "2012-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Phish debut.", "next": "Possum", "first": 1, "nb": 1}
  ]
 }

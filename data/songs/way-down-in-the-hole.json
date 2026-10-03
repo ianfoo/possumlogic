@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2017-08-02", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1769, "set": "1", "note": "Phish debut.", "nb": 1, "first": 1, "next": "Buried Alive"}
+  {"date": "2017-08-02", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Phish debut.", "next": "Buried Alive", "first": 1, "nb": 1}
  ]
 }

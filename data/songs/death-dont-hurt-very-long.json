@@ -3,7 +3,18 @@
  "slug": "death-dont-hurt-very-long",
  "artist": "Phish",
  "best": [
-
+  {"date": "2018-12-29", "score": 79, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/34826"},
+  {"date": "2024-08-07", "score": 65, "venue": "Van Andel Arena", "city": "Grand Rapids", "state": "MI", "link": "https://fouldomain.com/tracks/38801"},
+  {"date": "2019-02-21", "score": 63, "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya, Quintana Roo", "state": "", "link": "https://fouldomain.com/tracks/34898"},
+  {"date": "2018-10-31", "score": 61, "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/34725"},
+  {"date": "2019-07-14", "score": 58, "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "link": "https://fouldomain.com/tracks/35417"},
+  {"date": "2021-08-10", "score": 56, "venue": "Hersheypark Stadium", "city": "Hershey", "state": "PA", "link": "https://fouldomain.com/tracks/36055"},
+  {"date": "2019-07-06", "score": 53, "venue": "Fenway Park", "city": "Boston", "state": "MA", "link": "https://fouldomain.com/tracks/35300"},
+  {"date": "2019-06-22", "score": 49, "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "link": "https://fouldomain.com/tracks/35091"},
+  {"date": "2019-12-06", "score": 48, "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "link": "https://fouldomain.com/tracks/35635"},
+  {"date": "2021-10-31", "score": 44, "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/36545"},
+  {"date": "2019-06-29", "score": 35, "venue": "BB&T Pavilion", "city": "Camden", "state": "NJ", "link": "https://fouldomain.com/tracks/35193"},
+  {"date": "2022-08-10", "score": 34, "venue": "Budweiser Stage", "city": "Toronto, Ontario", "state": "", "link": "https://fouldomain.com/tracks/37230"}
  ],
  "performances": [
   {"date": "2018-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "prev": "Play by Play", "next": "Cool Amber and Mercury", "nb": 1},
@@ -19,6 +30,6 @@
   {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 25, "set": "3", "out": ">", "prev": "Soul Planet", "in": "->", "next": "Twist", "nb": 1},
   {"date": "2022-08-10", "venue": "Budweiser Stage", "city": "Toronto", "state": "Ontario", "gap": 36, "set": "2", "out": ">", "prev": "Down with Disease", "in": "->", "next": "Twenty Years Later", "nb": 1},
   {"date": "2024-08-07", "venue": "Van Andel Arena", "city": "Grand Rapids", "state": "MI", "gap": 83, "set": "2", "jamchart": true, "jam": "> \"Wolfman's Brother,\" and played quite slowly atop a \"Mound\"-like beat, the space affords Trey and guest Billy Strings plenty of room to shred.", "note": "Billy Strings on guitar. Performed in a slow, bluesy style.", "prev": "Wolfman's Brother", "in": ">", "next": "Evolve", "nb": 1},
-  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 100, "set": "2", "prev": "Mercury", "in": ">", "next": "Fluffhead", "nb": 1}
+  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "out": ">", "nb": 1, "prev": "Mercury", "in": ">", "next": "Fluffhead"}
  ]
 }

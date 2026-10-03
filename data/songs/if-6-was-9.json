@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2021-10-28", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1895, "set": "2", "jamchart": true, "jam": "A great cover choice for the \"numbers\" show, and a great jam from the \"numbers\" show, full of Trey guitar pyrotechnics, gnarly and powerful jamming, and an absolutely soaring finale. Hendrix would've been proud.", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Seven Below", "in": ">", "next": "Five Years"}
+  {"date": "2021-10-28", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "jamchart": true, "jam": "A great cover choice for the \"numbers\" show, and a great jam from the \"numbers\" show, full of Trey guitar pyrotechnics, gnarly and powerful jamming, and an absolutely soaring finale. Hendrix would've been proud.", "note": "Phish debut.", "out": ">", "prev": "Seven Below", "in": ">", "next": "Five Years", "nb": 1}
  ]
 }

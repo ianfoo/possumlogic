@@ -3,18 +3,27 @@
  "slug": "torn-and-frayed",
  "artist": "Phish",
  "best": [
-
+  {"date": "2012-07-07", "score": 56, "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "link": "https://fouldomain.com/tracks/29747"},
+  {"date": "2020-02-20", "score": 55, "venue": "Moon Palace", "city": "Cancun, Quintana Roo", "state": "", "link": "https://fouldomain.com/tracks/35779"},
+  {"date": "2009-10-31", "score": 52, "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "link": "https://fouldomain.com/tracks/26879"},
+  {"date": "2021-08-27", "score": 52, "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "link": "https://fouldomain.com/tracks/36144"},
+  {"date": "2012-06-07", "score": 51, "venue": "DCU Center", "city": "Worcester", "state": "MA", "link": "https://fouldomain.com/tracks/29313"},
+  {"date": "2011-07-01", "score": 48, "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "link": "https://fouldomain.com/tracks/28805"},
+  {"date": "2012-06-23", "score": 42, "venue": "First Niagara Pavilion", "city": "Burgettstown", "state": "PA", "link": "https://fouldomain.com/tracks/29526"},
+  {"date": "2009-11-21", "score": 39, "venue": "U.S. Bank Arena", "city": "Cincinnati", "state": "OH", "link": "https://fouldomain.com/tracks/26984"},
+  {"date": "2010-10-19", "score": 37, "venue": "Augusta Civic Center", "city": "Augusta", "state": "ME", "link": "https://fouldomain.com/tracks/28073"},
+  {"date": "2023-10-06", "score": 36, "venue": "Bridgestone Arena", "city": "Nashville", "state": "TN", "link": "https://fouldomain.com/tracks/38141"}
  ],
  "performances": [
-  {"date": "2009-10-31", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": 1459, "set": "2", "note": "Phish debut.", "nb": 1, "prev": "Sweet Virginia", "next": "Sweet Black Angel"},
-  {"date": "2009-11-21", "venue": "U.S. Bank Arena", "city": "Cincinnati", "state": "OH", "gap": 4, "set": "1", "nb": 1, "prev": "Ocelot", "next": "Strange Design"},
-  {"date": "2010-10-19", "venue": "Augusta Civic Center", "city": "Augusta", "state": "ME", "gap": 50, "set": "1", "nb": 1, "prev": "Back on the Train", "next": "Bathtub Gin"},
-  {"date": "2011-07-01", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": 32, "set": "1", "out": ">", "nb": 1, "prev": "The Moma Dance", "next": "NICU"},
-  {"date": "2012-06-07", "venue": "DCU Center", "city": "Worcester", "state": "MA", "gap": 20, "set": "1", "nb": 1, "prev": "Runaway Jim", "in": ">", "next": "Funky Bitch"},
-  {"date": "2012-06-23", "venue": "First Niagara Pavilion", "city": "Burgettstown", "state": "PA", "gap": 9, "set": "1", "nb": 1, "prev": "Maze", "next": "The Moma Dance"},
-  {"date": "2012-07-07", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 9, "set": "1", "nb": 1, "prev": "The Moma Dance", "next": "Rift"},
-  {"date": "2020-02-20", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 285, "set": "1", "out": ">", "nb": 1, "first": 1, "next": "Ghost"},
-  {"date": "2021-08-27", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 18, "set": "1", "nb": 1, "first": 1, "next": "No Men In No Man's Land"},
-  {"date": "2023-10-06", "venue": "Bridgestone Arena", "city": "Nashville", "state": "TN", "gap": 105, "set": "2", "nb": 1, "prev": "Oblivion", "next": "Light"}
+  {"date": "2009-10-31", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": null, "set": "2", "note": "Phish debut.", "prev": "Sweet Virginia", "next": "Sweet Black Angel", "nb": 1},
+  {"date": "2009-11-21", "venue": "U.S. Bank Arena", "city": "Cincinnati", "state": "OH", "gap": 4, "set": "1", "prev": "Ocelot", "next": "Strange Design", "nb": 1},
+  {"date": "2010-10-19", "venue": "Augusta Civic Center", "city": "Augusta", "state": "ME", "gap": 50, "set": "1", "prev": "Back on the Train", "next": "Bathtub Gin", "nb": 1},
+  {"date": "2011-07-01", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": 32, "set": "1", "out": ">", "prev": "The Moma Dance", "next": "NICU", "nb": 1},
+  {"date": "2012-06-07", "venue": "DCU Center", "city": "Worcester", "state": "MA", "gap": 20, "set": "1", "prev": "Runaway Jim", "in": ">", "next": "Funky Bitch", "nb": 1},
+  {"date": "2012-06-23", "venue": "First Niagara Pavilion", "city": "Burgettstown", "state": "PA", "gap": 9, "set": "1", "prev": "Maze", "next": "The Moma Dance", "nb": 1},
+  {"date": "2012-07-07", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 9, "set": "1", "prev": "The Moma Dance", "next": "Rift", "nb": 1},
+  {"date": "2020-02-20", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 285, "set": "1", "out": ">", "next": "Ghost", "first": 1, "nb": 1},
+  {"date": "2021-08-27", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 18, "set": "1", "next": "No Men In No Man's Land", "first": 1, "nb": 1},
+  {"date": "2023-10-06", "venue": "Bridgestone Arena", "city": "Nashville", "state": "TN", "gap": 105, "set": "2", "prev": "Oblivion", "next": "Light", "nb": 1}
  ]
 }

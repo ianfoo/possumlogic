@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2020-02-19", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": null, "set": "1", "nb": 1, "prev": "Jam", "next": "Jam"}
+  {"date": "2020-02-19", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": null, "set": "1", "prev": "Jam", "next": "Jam", "nb": 1}
  ]
 }

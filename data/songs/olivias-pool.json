@@ -3,19 +3,29 @@
  "slug": "olivias-pool",
  "artist": "Phish",
  "best": [
-
+  {"date": "1997-07-29", "score": 58, "venue": "Desert Sky Pavilion", "city": "Phoenix", "state": "AZ", "link": "https://fouldomain.com/tracks/731"},
+  {"date": "1997-07-06", "score": 54, "venue": "Spiaggia di Rivoltella", "city": "Desenzano", "state": "", "link": "https://fouldomain.com/tracks/578"},
+  {"date": "1997-06-25", "score": 50, "venue": "L'Aeronef", "city": "Lille", "state": "", "link": "https://fouldomain.com/tracks/476"},
+  {"date": "2021-10-29", "score": 45, "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/36479"},
+  {"date": "2019-07-14", "score": 44, "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "link": "https://fouldomain.com/tracks/35398"},
+  {"date": "2022-08-06", "score": 39, "venue": "Atlantic City Beach", "city": "Atlantic City", "state": "NJ", "link": "https://fouldomain.com/tracks/37186"},
+  {"date": "2023-04-18", "score": 39, "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ", "city": "Berkeley", "state": "CA", "link": "https://fouldomain.com/tracks/37568"},
+  {"date": "1997-06-16", "score": 33, "venue": "Royal Albert Hall", "city": "London", "state": "", "link": "https://fouldomain.com/tracks/386"},
+  {"date": "1997-11-17", "score": 33, "venue": "McNichols Arena", "city": "Denver", "state": "CO", "link": "https://fouldomain.com/tracks/1040"},
+  {"date": "1997-06-13", "score": 32, "venue": "The S.F.X. Centre", "city": "Dublin", "state": "", "link": "https://fouldomain.com/tracks/353"},
+  {"date": "1997-07-10", "score": 32, "venue": "Espace Julien", "city": "Marseilles", "state": "", "link": "https://fouldomain.com/tracks/625"}
  ],
  "performances": [
-  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "Wading in the Velvet Sea", "next": "I Don't Care"},
-  {"date": "1997-06-13", "venue": "The S.F.X. Centre", "city": "Dublin", "state": "County Dublin", "gap": 1117, "set": "2", "note": "Debut.", "out": ">", "nb": 1, "prev": "Ghost", "in": "->", "next": "Character Zero"},
-  {"date": "1997-06-16", "venue": "Royal Albert Hall", "city": "London", "state": "England", "gap": 2, "set": "1", "nb": 1, "prev": "Wolfman's Brother", "xnext": "Limb By Limb"},
-  {"date": "1997-06-25", "venue": "L\u2019Aeronef", "city": "Lille", "state": "Hauts-de-France", "gap": 6, "set": "1", "nb": 1, "first": 1, "next": "Dogs Stole Things"},
-  {"date": "1997-07-10", "venue": "Espace Julien", "city": "Marseilles", "state": "PACA", "gap": 9, "set": "1", "nb": 1, "prev": "Jam", "xnext": "Also Sprach Zarathustra"},
-  {"date": "1997-07-29", "venue": "Desert Sky Pavilion", "city": "Phoenix", "state": "AZ", "gap": 7, "set": "2", "nb": 1, "xprev": "Loving Cup", "next": "Run Like an Antelope"},
-  {"date": "1997-11-17", "venue": "McNichols Arena", "city": "Denver", "state": "CO", "gap": 17, "set": "2", "out": ">", "nb": 1, "prev": "Down with Disease", "in": "->", "next": "Johnny B. Goode"},
-  {"date": "2019-07-14", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 694, "set": "1", "nb": 1, "prev": "The Landlady", "next": "The Man Who Stepped Into Yesterday"},
-  {"date": "2021-10-29", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 52, "set": "1", "nb": 1, "first": 1, "next": "Axilla (Part II)"},
-  {"date": "2022-08-06", "venue": "Atlantic City Beach", "city": "Atlantic City", "state": "NJ", "gap": 36, "set": "1", "out": ">", "nb": 1, "prev": "The Moma Dance", "next": "My Soul"},
-  {"date": "2023-04-18", "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ", "city": "Berkeley", "state": "CA", "gap": 21, "set": "1", "out": ">", "nb": 1, "first": 1, "next": "Seven Below"}
+  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": null, "set": "1", "prev": "Wading in the Velvet Sea", "next": "I Don't Care", "nb": 1},
+  {"date": "1997-06-13", "venue": "The S.F.X. Centre", "city": "Dublin", "state": "County Dublin", "gap": null, "set": "2", "note": "Debut.", "out": ">", "prev": "Ghost", "in": "->", "next": "Character Zero", "nb": 1},
+  {"date": "1997-06-16", "venue": "Royal Albert Hall", "city": "London", "state": "England", "gap": 2, "set": "1", "prev": "Wolfman's Brother", "xnext": "Limb By Limb", "nb": 1},
+  {"date": "1997-06-25", "venue": "L\u2019Aeronef", "city": "Lille", "state": "Hauts-de-France", "gap": 6, "set": "1", "next": "Dogs Stole Things", "first": 1, "nb": 1},
+  {"date": "1997-07-10", "venue": "Espace Julien", "city": "Marseilles", "state": "PACA", "gap": 9, "set": "1", "prev": "Jam", "xnext": "Also Sprach Zarathustra", "nb": 1},
+  {"date": "1997-07-29", "venue": "Desert Sky Pavilion", "city": "Phoenix", "state": "AZ", "gap": 7, "set": "2", "next": "Run Like an Antelope", "xprev": "Loving Cup", "nb": 1},
+  {"date": "1997-11-17", "venue": "McNichols Arena", "city": "Denver", "state": "CO", "gap": 17, "set": "2", "out": ">", "prev": "Down with Disease", "in": "->", "next": "Johnny B. Goode", "nb": 1},
+  {"date": "2019-07-14", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 694, "set": "1", "prev": "The Landlady", "next": "The Man Who Stepped Into Yesterday", "nb": 1},
+  {"date": "2021-10-29", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 52, "set": "1", "next": "Axilla (Part II)", "first": 1, "nb": 1},
+  {"date": "2022-08-06", "venue": "Atlantic City Beach", "city": "Atlantic City", "state": "NJ", "gap": 36, "set": "1", "out": ">", "prev": "The Moma Dance", "next": "My Soul", "nb": 1},
+  {"date": "2023-04-18", "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ", "city": "Berkeley", "state": "CA", "gap": 21, "set": "1", "out": ">", "next": "Seven Below", "first": 1, "nb": 1}
  ]
 }

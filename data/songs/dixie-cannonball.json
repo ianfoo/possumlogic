@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2009-12-30", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": 1468, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Jesus Just Left Chicago", "next": "Stealing Time From the Faulty Plan"}
+  {"date": "2009-12-30", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Jesus Just Left Chicago", "next": "Stealing Time From the Faulty Plan", "nb": 1}
  ]
 }

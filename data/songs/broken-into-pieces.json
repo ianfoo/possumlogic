@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2023-08-01", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1973, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Timber (Jerry the Mule)", "next": "Wolfman's Brother"},
-  {"date": "2023-10-10", "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "gap": 13, "set": "1", "nb": 1, "prev": "Bathtub Gin", "next": "Reba"}
+  {"date": "2023-08-01", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Timber (Jerry the Mule)", "next": "Wolfman's Brother", "nb": 1},
+  {"date": "2023-10-10", "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "gap": 13, "set": "1", "prev": "Bathtub Gin", "next": "Reba", "nb": 1}
  ]
 }

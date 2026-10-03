@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "1996-10-31", "venue": "The Omni", "city": "Atlanta", "state": "GA", "gap": 1074, "set": "2", "note": "Phish debut; Karl Perazzo on percussion, Dave Grippo on saxophone, and Gary Gazaway on trumpet.", "out": ">", "nb": 1, "prev": "The Great Curve", "next": "Houses in Motion"},
-  {"date": "2015-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 636, "set": "e", "out": ">", "nb": 1, "prev": "Your Pet Cat", "in": ">", "next": "United We Stand"}
+  {"date": "1996-10-31", "venue": "The Omni", "city": "Atlanta", "state": "GA", "gap": null, "set": "2", "note": "Phish debut; Karl Perazzo on percussion, Dave Grippo on saxophone, and Gary Gazaway on trumpet.", "out": ">", "prev": "The Great Curve", "next": "Houses in Motion", "nb": 1},
+  {"date": "2015-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 636, "set": "e", "out": ">", "prev": "Your Pet Cat", "in": ">", "next": "United We Stand", "nb": 1}
  ]
 }

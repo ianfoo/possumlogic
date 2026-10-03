@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2019-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1856, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Down with Disease", "next": "Ghost"}
+  {"date": "2019-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Down with Disease", "next": "Ghost", "nb": 1}
  ]
 }

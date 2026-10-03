@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2010-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 1521, "set": "2", "note": "Phish debut; Page on bass, Mike on piano, Trey on drums and Fish on vocals.", "nb": 1, "prev": "Rocket in My Pocket", "next": "Don't Bogart That Joint"},
-  {"date": "2020-02-22", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 349, "set": "1", "nb": 1, "first": 1, "next": "Tube"}
+  {"date": "2010-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "note": "Phish debut; Page on bass, Mike on piano, Trey on drums and Fish on vocals.", "prev": "Rocket in My Pocket", "next": "Don't Bogart That Joint", "nb": 1},
+  {"date": "2020-02-22", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 349, "set": "1", "next": "Tube", "first": 1, "nb": 1}
  ]
 }

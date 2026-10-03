@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2016-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1747, "set": "2", "note": "Phish debut; With Sylvia D'Avanzo, Alisa Horn, Todd Low, Antoine Silverman, Alissa Smith, and Hiroko Taguchi on strings and Jennifer Hartswick, Celisse Henderson, and Jo Lampert on backing vocals.", "nb": 1, "prev": "Suffragette City", "xnext": "46 Days"},
-  {"date": "2017-08-01", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 21, "set": "e", "nb": 1, "xprev": "Possum", "last": 1}
+  {"date": "2016-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Phish debut; With Sylvia D'Avanzo, Alisa Horn, Todd Low, Antoine Silverman, Alissa Smith, and Hiroko Taguchi on strings and Jennifer Hartswick, Celisse Henderson, and Jo Lampert on backing vocals.", "prev": "Suffragette City", "xnext": "46 Days", "nb": 1},
+  {"date": "2017-08-01", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 21, "set": "e", "xprev": "Possum", "last": 1, "nb": 1}
  ]
 }

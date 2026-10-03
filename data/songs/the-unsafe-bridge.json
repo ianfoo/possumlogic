@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2014-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1671, "set": "2", "note": "Debut.", "nb": 1, "prev": "Shipwreck", "next": "The Chinese Water Torture"}
+  {"date": "2014-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "prev": "Shipwreck", "next": "The Chinese Water Torture", "nb": 1}
  ]
 }

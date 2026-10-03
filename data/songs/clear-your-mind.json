@@ -3,12 +3,15 @@
  "slug": "clear-your-mind",
  "artist": "Phish",
  "best": [
-
+  {"date": "2022-02-27", "score": 47, "venue": "Moon Palace", "city": "Cancun, Quintana Roo", "state": "", "link": "https://fouldomain.com/tracks/36633"},
+  {"date": "2023-07-22", "score": 46, "venue": "The Pavilion at Star Lake", "city": "Burgettstown", "state": "PA", "link": "https://fouldomain.com/tracks/37806"},
+  {"date": "2022-08-12", "score": 41, "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "link": "https://fouldomain.com/tracks/37240"},
+  {"date": "2021-10-31", "score": 38, "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/36533"}
  ],
  "performances": [
-  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "out": ">", "nb": 1, "prev": "Thanksgiving", "next": "The 9th Cube"},
-  {"date": "2022-02-27", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 5, "set": "1", "out": ">", "nb": 1, "prev": "My Friend, My Friend", "in": ">", "next": "Split Open and Melt"},
-  {"date": "2022-08-12", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 32, "set": "1", "out": ">", "nb": 1, "prev": "Fuego", "next": "Twist"},
-  {"date": "2023-07-22", "venue": "The Pavilion at Star Lake", "city": "Burgettstown", "state": "PA", "gap": 30, "set": "1", "out": ">", "nb": 1, "prev": "Llama", "next": "Sample in a Jar"}
+  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "out": ">", "prev": "Thanksgiving", "next": "The 9th Cube", "nb": 1},
+  {"date": "2022-02-27", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 5, "set": "1", "out": ">", "prev": "My Friend, My Friend", "in": ">", "next": "Split Open and Melt", "nb": 1},
+  {"date": "2022-08-12", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 32, "set": "1", "out": ">", "prev": "Fuego", "next": "Twist", "nb": 1},
+  {"date": "2023-07-22", "venue": "The Pavilion at Star Lake", "city": "Burgettstown", "state": "PA", "gap": 31, "set": "1", "out": ">", "prev": "Llama", "next": "Sample in a Jar", "nb": 1}
  ]
 }

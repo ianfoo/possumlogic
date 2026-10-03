@@ -3,11 +3,13 @@
  "slug": "blister-in-the-sun",
  "artist": "Phish",
  "best": [
-
+  {"date": "2012-07-07", "score": 45, "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "link": "https://fouldomain.com/tracks/29764"},
+  {"date": "1997-07-26", "score": 40, "venue": "South Park Meadows", "city": "Austin", "state": "TX", "link": "https://fouldomain.com/tracks/715"},
+  {"date": "1998-07-09", "score": 36, "venue": "Zeleste", "city": "Barcelona", "state": "", "link": "https://fouldomain.com/tracks/21866"}
  ],
  "performances": [
-  {"date": "1997-07-26", "venue": "South Park Meadows", "city": "Austin", "state": "TX", "gap": 1140, "set": "2", "note": "Bob Gullotti on a second drum set.", "out": "->", "nb": 1, "prev": "Harry Hood", "in": "->", "next": "Harry Hood"},
-  {"date": "1998-07-09", "venue": "Zeleste", "city": "Barcelona", "state": "Catalonia", "gap": 51, "set": "2", "out": ">", "nb": 1, "prev": "Scent of a Mule", "in": "->", "next": "Scent of a Mule"},
-  {"date": "2012-07-07", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 392, "set": "2", "times": 2, "note": "First verse only.", "out": ">", "nb": 1, "prev": "Down with Disease", "in": "->", "next": "Down with Disease"}
+  {"date": "1997-07-26", "venue": "South Park Meadows", "city": "Austin", "state": "TX", "gap": null, "set": "2", "note": "Bob Gullotti on a second drum set.", "out": "->", "prev": "Harry Hood", "in": "->", "next": "Harry Hood", "nb": 1},
+  {"date": "1998-07-09", "venue": "Zeleste", "city": "Barcelona", "state": "Catalonia", "gap": 51, "set": "2", "out": ">", "prev": "Scent of a Mule", "in": "->", "next": "Scent of a Mule", "nb": 1},
+  {"date": "2012-07-07", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 392, "set": "2", "times": 2, "note": "First verse only.", "out": ">", "prev": "Down with Disease", "in": "->", "next": "Down with Disease", "nb": 1}
  ]
 }

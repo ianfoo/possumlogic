@@ -18,19 +18,19 @@
   {"date": "1997-02-20", "score": 37, "venue": "Teatro Smeraldo", "city": "Milan", "state": "", "link": "https://fouldomain.com/tracks/108"}
  ],
  "performances": [
-  {"date": "1997-02-17", "venue": "Paradiso", "city": "Amsterdam", "state": "North Holland", "gap": 1101, "set": "1", "jamchart": true, "jam": "Debut.", "note": "Phish debut.", "out": ">", "nb": 1, "first": 1, "next": "Divided Sky"},
-  {"date": "1997-02-20", "venue": "Teatro Smeraldo", "city": "Milan", "state": "Lombardy", "gap": 2, "set": "1", "out": ">", "nb": 1, "prev": "Tweezer", "in": ">", "next": "Chalk Dust Torture"},
-  {"date": "2003-02-28", "venue": "Nassau Veterans Memorial Coliseum", "city": "Uniondale", "state": "NY", "gap": 272, "set": "2", "jamchart": true, "jam": "Busted out for the first time since 2/20/97, \"Soul Shakedown Party\" made for the perfect landing spot after an epic \"Tweezer\" with an extended reggae groove which grew more spacious into -> \"David Bowie\".", "out": "->", "nb": 1, "prev": "Tweezer", "in": ">", "next": "David Bowie"},
-  {"date": "2004-04-17", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 33, "set": "1", "nb": 1, "first": 1, "next": "Halley's Comet"},
-  {"date": "2009-12-30", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": 64, "set": "1", "nb": 1, "first": 1, "next": "Runaway Jim"},
-  {"date": "2011-07-03", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": 71, "set": "1", "out": ">", "nb": 1, "first": 1, "next": "AC/DC Bag"},
-  {"date": "2011-09-02", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 10, "set": "2", "out": "->", "nb": 1, "prev": "Steam", "in": ">", "next": "Seven Below"},
-  {"date": "2012-07-01", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 22, "set": "1", "nb": 1, "first": 1, "next": "Lonesome Cowboy Bill"},
-  {"date": "2014-10-22", "venue": "Santa Barbara Bowl", "city": "Santa Barbara", "state": "CA", "gap": 94, "set": "1", "nb": 1, "first": 1, "next": "The Wedge"},
-  {"date": "2016-07-03", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 53, "set": "2", "nb": 1, "xprev": "Possum", "next": "The Moma Dance"},
-  {"date": "2017-08-05", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 53, "set": "1", "nb": 1, "first": 1, "next": "Uncle Pen"},
-  {"date": "2018-07-28", "venue": "The Forum", "city": "Inglewood", "state": "CA", "gap": 17, "set": "1", "nb": 1, "prev": "Timber (Jerry the Mule)", "next": "Kill Devil Falls"},
-  {"date": "2021-08-14", "venue": "Atlantic City Beach", "city": "Atlantic City", "state": "NJ", "gap": 87, "set": "1", "nb": 1, "prev": "Reba", "next": "Split Open and Melt"},
-  {"date": "2025-02-01", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 163, "set": "1", "jamchart": true, "jam": "A celebration of the last night of the run on the beach, the band gives us one of their longest and most sustained reggae grooves they've ever performed. No frills, just the band locked in on a groove together.", "nb": 1, "prev": "Bathtub Gin", "next": "Martian Monster"}
+  {"date": "1997-02-17", "venue": "Paradiso", "city": "Amsterdam", "state": "North Holland", "gap": null, "set": "1", "jamchart": true, "jam": "Debut.", "note": "Phish debut.", "out": ">", "next": "Divided Sky", "first": 1, "nb": 1},
+  {"date": "1997-02-20", "venue": "Teatro Smeraldo", "city": "Milan", "state": "Lombardy", "gap": 2, "set": "1", "out": ">", "prev": "Tweezer", "in": ">", "next": "Chalk Dust Torture", "nb": 1},
+  {"date": "2003-02-28", "venue": "Nassau Veterans Memorial Coliseum", "city": "Uniondale", "state": "NY", "gap": 272, "set": "2", "jamchart": true, "jam": "Busted out for the first time since 2/20/97, \"Soul Shakedown Party\" made for the perfect landing spot after an epic \"Tweezer\" with an extended reggae groove which grew more spacious into -> \"David Bowie\".", "out": "->", "prev": "Tweezer", "in": ">", "next": "David Bowie", "nb": 1},
+  {"date": "2004-04-17", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 33, "set": "1", "next": "Halley's Comet", "first": 1, "nb": 1},
+  {"date": "2009-12-30", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": 64, "set": "1", "next": "Runaway Jim", "first": 1, "nb": 1},
+  {"date": "2011-07-03", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": 71, "set": "1", "out": ">", "next": "AC/DC Bag", "first": 1, "nb": 1},
+  {"date": "2011-09-02", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 10, "set": "2", "out": "->", "prev": "Steam", "in": ">", "next": "Seven Below", "nb": 1},
+  {"date": "2012-07-01", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 22, "set": "1", "next": "Lonesome Cowboy Bill", "first": 1, "nb": 1},
+  {"date": "2014-10-22", "venue": "Santa Barbara Bowl", "city": "Santa Barbara", "state": "CA", "gap": 94, "set": "1", "next": "The Wedge", "first": 1, "nb": 1},
+  {"date": "2016-07-03", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 53, "set": "2", "next": "The Moma Dance", "xprev": "Possum", "nb": 1},
+  {"date": "2017-08-05", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 53, "set": "1", "next": "Uncle Pen", "first": 1, "nb": 1},
+  {"date": "2018-07-28", "venue": "The Forum", "city": "Inglewood", "state": "CA", "gap": 17, "set": "1", "prev": "Timber (Jerry the Mule)", "next": "Kill Devil Falls", "nb": 1},
+  {"date": "2021-08-14", "venue": "Atlantic City Beach", "city": "Atlantic City", "state": "NJ", "gap": 88, "set": "1", "prev": "Reba", "next": "Split Open and Melt", "nb": 1},
+  {"date": "2025-02-01", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 163, "set": "1", "jamchart": true, "jam": "A celebration of the last night of the run on the beach, the band gives us one of their longest and most sustained reggae grooves they've ever performed. No frills, just the band locked in on a groove together.", "prev": "Bathtub Gin", "next": "Martian Monster", "nb": 1}
  ]
 }

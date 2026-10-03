@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2010-10-11", "venue": "1stBank Center", "city": "Broomfield", "state": "CO", "gap": 1501, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Tweezer", "next": "The Squirming Coil"},
-  {"date": "2010-12-27", "venue": "DCU Center", "city": "Worcester", "state": "MA", "gap": 13, "set": "1", "nb": 1, "prev": "Heavy Things", "next": "Roses Are Free"}
+  {"date": "2010-10-11", "venue": "1stBank Center", "city": "Broomfield", "state": "CO", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Tweezer", "next": "The Squirming Coil", "nb": 1},
+  {"date": "2010-12-27", "venue": "DCU Center", "city": "Worcester", "state": "MA", "gap": 13, "set": "1", "prev": "Heavy Things", "next": "Roses Are Free", "nb": 1}
  ]
 }

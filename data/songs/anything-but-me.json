@@ -3,20 +3,31 @@
  "slug": "anything-but-me",
  "artist": "Phish",
  "best": [
-
+  {"date": "2003-01-04", "score": 62, "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "link": "https://fouldomain.com/tracks/25112"},
+  {"date": "2003-07-07", "score": 60, "venue": "Cricket Pavilion", "city": "Phoenix", "state": "AZ", "link": "https://fouldomain.com/tracks/25331"},
+  {"date": "2003-12-29", "score": 59, "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "link": "https://fouldomain.com/tracks/25793"},
+  {"date": "2003-07-27", "score": 57, "venue": "ALLTEL Pavilion", "city": "Raleigh", "state": "NC", "link": "https://fouldomain.com/tracks/25590"},
+  {"date": "2004-06-25", "score": 57, "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "link": "https://fouldomain.com/tracks/26027"},
+  {"date": "2004-08-15", "score": 56, "venue": "Newport State Airport", "city": "Coventry", "state": "VT", "link": "https://fouldomain.com/tracks/26154"},
+  {"date": "2009-08-16", "score": 56, "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "link": "https://fouldomain.com/tracks/26812"},
+  {"date": "2003-12-02", "score": 55, "venue": "FleetCenter", "city": "Boston", "state": "MA", "link": "https://fouldomain.com/tracks/25756"},
+  {"date": "2003-02-16", "score": 54, "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/25169"},
+  {"date": "2003-07-17", "score": 47, "venue": "Verizon Wireless Amphitheater Kansas City", "city": "Bonner Springs", "state": "KS", "link": "https://fouldomain.com/tracks/25456"},
+  {"date": "2003-02-20", "score": 44, "venue": "Allstate Arena", "city": "Rosemont", "state": "IL", "link": "https://fouldomain.com/tracks/25205"},
+  {"date": "2011-08-15", "score": 38, "venue": "UIC Pavilion, University of Illinois", "city": "Chicago", "state": "IL", "link": "https://fouldomain.com/tracks/29048"}
  ],
  "performances": [
-  {"date": "2003-01-04", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 1360, "set": "1", "note": "Debut.", "nb": 1, "prev": "Maze", "next": "Ya Mar"},
-  {"date": "2003-02-16", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 3, "set": "2", "out": ">", "nb": 1, "prev": "Down with Disease", "in": ">", "next": "Piper"},
-  {"date": "2003-02-20", "venue": "Allstate Arena", "city": "Rosemont", "state": "IL", "gap": 2, "set": "e", "out": ">", "nb": 1, "prev": "Golgi Apparatus", "next": "Tweezer Reprise"},
-  {"date": "2003-07-07", "venue": "Cricket Pavilion", "city": "Phoenix", "state": "AZ", "gap": 8, "set": "1", "nb": 1, "prev": "Spices", "next": "David Bowie"},
-  {"date": "2003-07-17", "venue": "Verizon Wireless Amphitheater Kansas City", "city": "Bonner Springs", "state": "KS", "gap": 7, "set": "2", "out": ">", "nb": 1, "prev": "Limb By Limb", "next": "Horn"},
-  {"date": "2003-07-27", "venue": "ALLTEL Pavilion", "city": "Raleigh", "state": "NC", "gap": 8, "set": "1", "nb": 1, "prev": "Discern", "next": "Llama"},
-  {"date": "2003-12-02", "venue": "FleetCenter", "city": "Boston", "state": "MA", "gap": 9, "set": "1", "nb": 1, "prev": "Piper", "in": ">", "next": "Water in the Sky"},
-  {"date": "2003-12-29", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": 2, "set": "1", "nb": 1, "prev": "Foam", "next": "Limb By Limb"},
-  {"date": "2004-06-25", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 13, "set": "1", "nb": 1, "prev": "Glide", "next": "David Bowie"},
-  {"date": "2004-08-15", "venue": "Newport State Airport", "city": "Coventry", "state": "VT", "gap": 7, "set": "1", "nb": 1, "prev": "Weekapaug Groove", "next": "Reba"},
-  {"date": "2009-08-16", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 30, "set": "1", "nb": 1, "prev": "Guyute", "next": "Cars Trucks Buses"},
-  {"date": "2011-08-15", "venue": "UIC Pavilion, University of Illinois", "city": "Chicago", "state": "IL", "gap": 97, "set": "1", "nb": 1, "prev": "Wolfman's Brother", "next": "Babylon Baby"}
+  {"date": "2003-01-04", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": null, "set": "1", "note": "Debut.", "prev": "Maze", "next": "Ya Mar", "nb": 1},
+  {"date": "2003-02-16", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 3, "set": "2", "out": ">", "prev": "Down with Disease", "in": ">", "next": "Piper", "nb": 1},
+  {"date": "2003-02-20", "venue": "Allstate Arena", "city": "Rosemont", "state": "IL", "gap": 2, "set": "e", "out": ">", "prev": "Golgi Apparatus", "next": "Tweezer Reprise", "nb": 1},
+  {"date": "2003-07-07", "venue": "Cricket Pavilion", "city": "Phoenix", "state": "AZ", "gap": 8, "set": "1", "prev": "Spices", "next": "David Bowie", "nb": 1},
+  {"date": "2003-07-17", "venue": "Verizon Wireless Amphitheater Kansas City", "city": "Bonner Springs", "state": "KS", "gap": 7, "set": "2", "out": ">", "prev": "Limb By Limb", "next": "Horn", "nb": 1},
+  {"date": "2003-07-27", "venue": "ALLTEL Pavilion", "city": "Raleigh", "state": "NC", "gap": 8, "set": "1", "prev": "Discern", "next": "Llama", "nb": 1},
+  {"date": "2003-12-02", "venue": "FleetCenter", "city": "Boston", "state": "MA", "gap": 9, "set": "1", "prev": "Piper", "in": ">", "next": "Water in the Sky", "nb": 1},
+  {"date": "2003-12-29", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": 2, "set": "1", "prev": "Foam", "next": "Limb By Limb", "nb": 1},
+  {"date": "2004-06-25", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 13, "set": "1", "prev": "Glide", "next": "David Bowie", "nb": 1},
+  {"date": "2004-08-15", "venue": "Newport State Airport", "city": "Coventry", "state": "VT", "gap": 7, "set": "1", "prev": "Weekapaug Groove", "next": "Reba", "nb": 1},
+  {"date": "2009-08-16", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 30, "set": "1", "prev": "Guyute", "next": "Cars Trucks Buses", "nb": 1},
+  {"date": "2011-08-15", "venue": "UIC Pavilion, University of Illinois", "city": "Chicago", "state": "IL", "gap": 97, "set": "1", "prev": "Wolfman's Brother", "next": "Babylon Baby", "nb": 1}
  ]
 }

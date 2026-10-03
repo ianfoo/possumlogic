@@ -16,17 +16,17 @@
   {"date": "2000-09-29", "score": 40, "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/24929"}
  ],
  "performances": [
-  {"date": "1995-05-14", "venue": "Fish's House", "city": "Burlington", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "Don't You Want To Go?", "next": "Theme from the Bottom"},
-  {"date": "1995-05-16", "venue": "Lowell Memorial Auditorium", "city": "Lowell", "state": "MA", "gap": 951, "set": "1", "note": "Debut.", "nb": 1, "prev": "Ha Ha Ha", "in": ">", "next": "Strange Design"},
-  {"date": "1995-06-07", "venue": "Boise State University Pavilion", "city": "Boise", "state": "ID", "gap": 1, "set": "2", "nb": 1, "prev": "Maze", "next": "Theme from the Bottom"},
-  {"date": "1995-06-14", "venue": "Mud Island Amphitheater", "city": "Memphis", "state": "TN", "gap": 5, "set": "1", "out": ">", "nb": 1, "prev": "Silent in the Morning", "next": "Split Open and Melt"},
-  {"date": "1995-06-20", "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "gap": 5, "set": "1", "nb": 1, "prev": "Llama", "next": "Ginseng Sullivan"},
-  {"date": "1995-06-24", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": 3, "set": "1", "nb": 1, "prev": "Rift", "next": "Julius"},
-  {"date": "2000-09-29", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 393, "set": "1", "out": ">", "nb": 1, "prev": "Wilson", "in": ">", "next": "Bathtub Gin"},
-  {"date": "2000-10-06", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 5, "set": "2", "nb": 1, "prev": "Down with Disease", "in": "->", "next": "The Inlaw Josie Wales"},
-  {"date": "2003-07-30", "venue": "Tweeter Center at the Waterfront", "city": "Camden", "state": "NJ", "gap": 35, "set": "1", "out": ">", "nb": 1, "prev": "You Ain't Goin' Nowhere", "next": "Chalk Dust Torture"},
-  {"date": "2019-02-21", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 429, "set": "1", "nb": 1, "first": 1, "next": "Twist"},
-  {"date": "2019-07-14", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 25, "set": "1", "nb": 1, "prev": "Vultures", "next": "Pebbles and Marbles"},
-  {"date": "2025-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 237, "set": "e", "out": ">", "nb": 1, "prev": "Sincere", "next": "Tweezer Reprise"}
+  {"date": "1995-05-14", "venue": "Fish's House", "city": "Burlington", "state": "VT", "gap": null, "set": "1", "prev": "Don't You Want To Go?", "next": "Theme from the Bottom", "nb": 1},
+  {"date": "1995-05-16", "venue": "Lowell Memorial Auditorium", "city": "Lowell", "state": "MA", "gap": null, "set": "1", "note": "Debut.", "prev": "Ha Ha Ha", "in": ">", "next": "Strange Design", "nb": 1},
+  {"date": "1995-06-07", "venue": "Boise State University Pavilion", "city": "Boise", "state": "ID", "gap": 1, "set": "2", "prev": "Maze", "next": "Theme from the Bottom", "nb": 1},
+  {"date": "1995-06-14", "venue": "Mud Island Amphitheater", "city": "Memphis", "state": "TN", "gap": 5, "set": "1", "out": ">", "prev": "Silent in the Morning", "next": "Split Open and Melt", "nb": 1},
+  {"date": "1995-06-20", "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "gap": 5, "set": "1", "prev": "Llama", "next": "Ginseng Sullivan", "nb": 1},
+  {"date": "1995-06-24", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": 3, "set": "1", "prev": "Rift", "next": "Julius", "nb": 1},
+  {"date": "2000-09-29", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 393, "set": "1", "out": ">", "prev": "Wilson", "in": ">", "next": "Bathtub Gin", "nb": 1},
+  {"date": "2000-10-06", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 5, "set": "2", "prev": "Down with Disease", "in": "->", "next": "The Inlaw Josie Wales", "nb": 1},
+  {"date": "2003-07-30", "venue": "Tweeter Center at the Waterfront", "city": "Camden", "state": "NJ", "gap": 35, "set": "1", "out": ">", "prev": "You Ain't Goin' Nowhere", "next": "Chalk Dust Torture", "nb": 1},
+  {"date": "2019-02-21", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 429, "set": "1", "next": "Twist", "first": 1, "nb": 1},
+  {"date": "2019-07-14", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 25, "set": "1", "prev": "Vultures", "next": "Pebbles and Marbles", "nb": 1},
+  {"date": "2025-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 238, "set": "e", "out": ">", "prev": "Sincere", "next": "Tweezer Reprise", "nb": 1}
  ]
 }

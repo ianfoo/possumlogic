@@ -31,7 +31,7 @@
  ],
  "performances": [
   {"date": "2002-12-14", "venue": "Studio 8H, NBC Studios", "city": "New York", "state": "NY", "gap": null, "set": "1", "next": "Chalk Dust Torture", "first": 1, "nb": 1},
-  {"date": "2003-01-02", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 1363, "set": "2", "jamchart": true, "jam": "Debut. Jam gradually settles down from high powered \"46 Days\"-style in to a subtle, Trey and Page led foray. Picking up rhythm and energy, there are \"CYHMK\" teases as the jam builds in intensity. Settles down at the ending with no return to \"46 Days\" proper.", "note": "Debut.", "out": ">", "next": "Simple", "xprev": "Character Zero", "nb": 1},
+  {"date": "2003-01-02", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": null, "set": "2", "jamchart": true, "jam": "Debut. Jam gradually settles down from high powered \"46 Days\"-style in to a subtle, Trey and Page led foray. Picking up rhythm and energy, there are \"CYHMK\" teases as the jam builds in intensity. Settles down at the ending with no return to \"46 Days\" proper.", "note": "Debut.", "out": ">", "next": "Simple", "xprev": "Character Zero", "nb": 1},
   {"date": "2003-02-15", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 4, "set": "1", "prev": "Life on Mars?", "next": "It's Ice", "nb": 1},
   {"date": "2003-02-25", "venue": "First Union Spectrum", "city": "Philadelphia", "state": "PA", "gap": 7, "set": "1", "prev": "Talk", "next": "Taste", "nb": 1},
   {"date": "2003-07-10", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 7, "set": "2", "next": "Divided Sky", "xprev": "Run Like an Antelope", "nb": 1},
@@ -187,8 +187,8 @@
   {"date": "2025-07-27", "venue": "Broadview Stage at SPAC", "city": "Saratoga Springs", "state": "NY", "gap": 7, "set": "1", "jamchart": true, "jam": "Compact version with no shortage of ideas or verve. Listen for the atypical tonal and mode shifts.", "prev": "Tweezer Reprise", "in": ">", "next": "About to Run", "nb": 1},
   {"date": "2025-09-12", "venue": "Highland Festival Grounds at Kentucky Expo Center", "city": "Louisville", "state": "KY", "gap": 1, "set": "1", "next": "The Moma Dance", "first": 1, "nb": 1},
   {"date": "2025-09-19", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 5, "set": "1", "prev": "Fluffhead", "next": "My Friend, My Friend", "nb": 1},
-  {"date": "2026-04-23", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 13, "set": "1", "next": "Guyute", "first": 1, "nb": 1},
-  {"date": "2026-07-12", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 9, "set": "1", "next": "Evolve", "first": 1, "nb": 1},
-  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 13, "set": "2", "out": ">", "nb": 1, "xprev": "Wolfman's Brother", "next": "Down with Disease"}
+  {"date": "2026-04-23", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 14, "set": "1", "next": "Guyute", "first": 1, "nb": 1},
+  {"date": "2026-07-12", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 10, "set": "1", "next": "Evolve", "first": 1, "nb": 1},
+  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 14, "set": "2", "out": ">", "next": "Down with Disease", "xprev": "Wolfman's Brother", "nb": 1}
  ]
 }

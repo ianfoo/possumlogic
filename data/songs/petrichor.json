@@ -19,19 +19,19 @@
   {"date": "2019-06-26", "score": 40, "venue": "Darling's Waterfront Pavilion", "city": "Bangor", "state": "ME", "link": "https://fouldomain.com/tracks/35146"}
  ],
  "performances": [
-  {"date": "2016-10-14", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 1739, "set": "1", "note": "Phish debut.", "nb": 1, "first": 1, "next": "Ghost"},
-  {"date": "2016-10-16", "venue": "Jacksonville Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 2, "set": "1", "nb": 1, "prev": "Stash", "next": "Mike's Song"},
-  {"date": "2016-10-19", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": 2, "set": "1", "nb": 1, "prev": "My Soul", "next": "Stealing Time From the Faulty Plan"},
-  {"date": "2016-10-24", "venue": "Verizon Theatre at Grand Prairie", "city": "Grand Prairie", "state": "TX", "gap": 3, "set": "2", "nb": 1, "prev": "Seven Below", "in": ">", "next": "Maze"},
-  {"date": "2016-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 5, "set": "1", "out": ">", "nb": 1, "prev": "Ass Handed", "next": "Run Like an Antelope"},
-  {"date": "2016-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 4, "set": "3", "note": "James Casey on saxophone, Natalie Cressman on trombone and vocals, Jennifer Hartswick on trumpet and vocals, Jeff Tanski on keyboards, and Andres Forero on percussion.", "out": ">", "nb": 1, "xprev": "More", "next": "Auld Lang Syne"},
-  {"date": "2017-08-05", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 20, "set": "2", "out": ">", "nb": 1, "prev": "Ghost", "in": ">", "next": "Light"},
-  {"date": "2018-08-05", "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "gap": 21, "set": "1", "out": ">", "nb": 1, "prev": "What's the Use?", "in": ">", "next": "Most Events Aren't Planned"},
-  {"date": "2018-10-28", "venue": "Allstate Arena", "city": "Rosemont", "state": "IL", "gap": 18, "set": "1", "nb": 1, "prev": "Tube", "next": "I Always Wanted It This Way"},
-  {"date": "2019-06-26", "venue": "Darling's Waterfront Pavilion", "city": "Bangor", "state": "ME", "gap": 22, "set": "1", "out": ">", "nb": 1, "prev": "How Many People Are You", "next": "Saw It Again"},
-  {"date": "2019-07-09", "venue": "Mohegan Sun Arena", "city": "Uncasville", "state": "CT", "gap": 8, "set": "1", "nb": 1, "prev": "Maze", "next": "Things People Do"},
-  {"date": "2019-12-08", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 15, "set": "2", "out": ">", "nb": 1, "prev": "I Always Wanted It This Way", "next": "Boogie On Reggae Woman"},
-  {"date": "2022-08-13", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 81, "set": "1", "nb": 1, "prev": "Taste", "next": "The Squirming Coil"},
-  {"date": "2025-07-09", "venue": "Jerome Schottenstein Center", "city": "Columbus", "state": "OH", "gap": 121, "set": "1", "nb": 1, "prev": "Undermind", "next": "Life Saving Gun"}
+  {"date": "2016-10-14", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": null, "set": "1", "note": "Phish debut.", "next": "Ghost", "first": 1, "nb": 1},
+  {"date": "2016-10-16", "venue": "Jacksonville Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 2, "set": "1", "prev": "Stash", "next": "Mike's Song", "nb": 1},
+  {"date": "2016-10-19", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": 2, "set": "1", "prev": "My Soul", "next": "Stealing Time From the Faulty Plan", "nb": 1},
+  {"date": "2016-10-24", "venue": "Verizon Theatre at Grand Prairie", "city": "Grand Prairie", "state": "TX", "gap": 3, "set": "2", "prev": "Seven Below", "in": ">", "next": "Maze", "nb": 1},
+  {"date": "2016-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 5, "set": "1", "out": ">", "prev": "Ass Handed", "next": "Run Like an Antelope", "nb": 1},
+  {"date": "2016-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 4, "set": "3", "note": "James Casey on saxophone, Natalie Cressman on trombone and vocals, Jennifer Hartswick on trumpet and vocals, Jeff Tanski on keyboards, and Andres Forero on percussion.", "out": ">", "next": "Auld Lang Syne", "xprev": "More", "nb": 1},
+  {"date": "2017-08-05", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 20, "set": "2", "out": ">", "prev": "Ghost", "in": ">", "next": "Light", "nb": 1},
+  {"date": "2018-08-05", "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "gap": 21, "set": "1", "out": ">", "prev": "What's the Use?", "in": ">", "next": "Most Events Aren't Planned", "nb": 1},
+  {"date": "2018-10-28", "venue": "Allstate Arena", "city": "Rosemont", "state": "IL", "gap": 18, "set": "1", "prev": "Tube", "next": "I Always Wanted It This Way", "nb": 1},
+  {"date": "2019-06-26", "venue": "Darling's Waterfront Pavilion", "city": "Bangor", "state": "ME", "gap": 22, "set": "1", "out": ">", "prev": "How Many People Are You", "next": "Saw It Again", "nb": 1},
+  {"date": "2019-07-09", "venue": "Mohegan Sun Arena", "city": "Uncasville", "state": "CT", "gap": 8, "set": "1", "prev": "Maze", "next": "Things People Do", "nb": 1},
+  {"date": "2019-12-08", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 15, "set": "2", "out": ">", "prev": "I Always Wanted It This Way", "next": "Boogie On Reggae Woman", "nb": 1},
+  {"date": "2022-08-13", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 81, "set": "1", "prev": "Taste", "next": "The Squirming Coil", "nb": 1},
+  {"date": "2025-07-09", "venue": "Jerome Schottenstein Center", "city": "Columbus", "state": "OH", "gap": 121, "set": "1", "prev": "Undermind", "next": "Life Saving Gun", "nb": 1}
  ]
 }

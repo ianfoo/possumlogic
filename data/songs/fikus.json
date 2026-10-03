@@ -3,14 +3,19 @@
  "slug": "fikus",
  "artist": "Phish",
  "best": [
-
+  {"date": "1998-11-07", "score": 61, "venue": "UIC Pavilion, University of Illinois", "city": "Chicago", "state": "IL", "link": "https://fouldomain.com/tracks/22532"},
+  {"date": "1998-07-02", "score": 57, "venue": "The Grey Hall", "city": "Copenhagen", "state": "", "link": "https://fouldomain.com/tracks/21785"},
+  {"date": "1998-08-01", "score": 54, "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "link": "https://fouldomain.com/tracks/22096"},
+  {"date": "2024-08-11", "score": 49, "venue": "Bethel Woods Center for the Arts", "city": "Bethel", "state": "NY", "link": "https://fouldomain.com/tracks/38855"},
+  {"date": "1998-07-29", "score": 41, "venue": "Riverport Amphitheater", "city": "Maryland Heights", "state": "MO", "link": "https://fouldomain.com/tracks/22058"},
+  {"date": "1998-08-08", "score": 36, "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "link": "https://fouldomain.com/tracks/22196"}
  ],
  "performances": [
-  {"date": "1998-07-02", "venue": "The Grey Hall", "city": "Copenhagen", "state": "Capital Region", "gap": 1180, "set": "1", "note": "Debut.", "nb": 1, "prev": "Meat", "next": "Shafty"},
-  {"date": "1998-07-29", "venue": "Riverport Amphitheater", "city": "Maryland Heights", "state": "MO", "gap": 17, "set": "1", "nb": 1, "prev": "Foam", "next": "Farmhouse"},
-  {"date": "1998-08-01", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 2, "set": "1", "nb": 1, "prev": "Guyute", "next": "Birds of a Feather"},
-  {"date": "1998-08-08", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 5, "set": "1", "nb": 1, "prev": "Guyute", "next": "Farmhouse"},
-  {"date": "1998-11-07", "venue": "UIC Pavilion, University of Illinois", "city": "Chicago", "state": "IL", "gap": 17, "set": "1", "nb": 1, "prev": "Limb By Limb", "next": "Billy Breathes"},
-  {"date": "2024-08-11", "venue": "Bethel Woods Center for the Arts", "city": "Bethel", "state": "NY", "gap": 800, "set": "1", "nb": 1, "prev": "Bathtub Gin", "next": "Theme from the Bottom"}
+  {"date": "1998-07-02", "venue": "The Grey Hall", "city": "Copenhagen", "state": "Capital Region", "gap": null, "set": "1", "note": "Debut.", "prev": "Meat", "next": "Shafty", "nb": 1},
+  {"date": "1998-07-29", "venue": "Riverport Amphitheater", "city": "Maryland Heights", "state": "MO", "gap": 17, "set": "1", "prev": "Foam", "next": "Farmhouse", "nb": 1},
+  {"date": "1998-08-01", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 2, "set": "1", "prev": "Guyute", "next": "Birds of a Feather", "nb": 1},
+  {"date": "1998-08-08", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 5, "set": "1", "prev": "Guyute", "next": "Farmhouse", "nb": 1},
+  {"date": "1998-11-07", "venue": "UIC Pavilion, University of Illinois", "city": "Chicago", "state": "IL", "gap": 17, "set": "1", "prev": "Limb By Limb", "next": "Billy Breathes", "nb": 1},
+  {"date": "2024-08-11", "venue": "Bethel Woods Center for the Arts", "city": "Bethel", "state": "NY", "gap": 801, "set": "1", "prev": "Bathtub Gin", "next": "Theme from the Bottom", "nb": 1}
  ]
 }

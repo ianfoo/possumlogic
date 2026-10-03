@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2017-08-04", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1770, "set": "1", "note": "Phish debut.", "nb": 1, "first": 1, "next": "Punch You in the Eye"}
+  {"date": "2017-08-04", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Phish debut.", "next": "Punch You in the Eye", "first": 1, "nb": 1}
  ]
 }

@@ -3,11 +3,13 @@
  "slug": "casual-enlightenment",
  "artist": "Phish",
  "best": [
-
+  {"date": "2023-07-18", "score": 47, "venue": "Live Oak Bank Pavilion at Riverfront Park", "city": "Wilmington", "state": "NC", "link": "https://fouldomain.com/tracks/37756"},
+  {"date": "2021-08-08", "score": 40, "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "link": "https://fouldomain.com/tracks/36030"},
+  {"date": "2021-10-20", "score": 34, "venue": "Matthew Knight Arena", "city": "Eugene", "state": "OR", "link": "https://fouldomain.com/tracks/36375"}
  ],
  "performances": [
-  {"date": "2021-08-08", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 1872, "set": "1", "note": "Debut.", "nb": 1, "prev": "Taste", "next": "David Bowie"},
-  {"date": "2021-10-20", "venue": "Matthew Knight Arena", "city": "Eugene", "state": "OR", "gap": 18, "set": "1", "out": ">", "nb": 1, "prev": "Timber (Jerry the Mule)", "next": "Divided Sky"},
-  {"date": "2023-07-18", "venue": "Live Oak Bank Pavilion at Riverfront Park", "city": "Wilmington", "state": "NC", "gap": 72, "set": "1", "nb": 1, "prev": "Divided Sky", "next": "Shade"}
+  {"date": "2021-08-08", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": null, "set": "1", "note": "Debut.", "prev": "Taste", "next": "David Bowie", "nb": 1},
+  {"date": "2021-10-20", "venue": "Matthew Knight Arena", "city": "Eugene", "state": "OR", "gap": 18, "set": "1", "out": ">", "prev": "Timber (Jerry the Mule)", "next": "Divided Sky", "nb": 1},
+  {"date": "2023-07-18", "venue": "Live Oak Bank Pavilion at Riverfront Park", "city": "Wilmington", "state": "NC", "gap": 73, "set": "1", "prev": "Divided Sky", "next": "Shade", "nb": 1}
  ]
 }

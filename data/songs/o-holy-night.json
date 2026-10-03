@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2017-08-02", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1769, "set": "2", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Mike's Song", "in": ">", "next": "Taste"}
+  {"date": "2017-08-02", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "2", "note": "Phish debut.", "out": ">", "prev": "Mike's Song", "in": ">", "next": "Taste", "nb": 1}
  ]
 }

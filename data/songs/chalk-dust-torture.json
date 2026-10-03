@@ -30,7 +30,7 @@
   {"date": "2023-07-19", "score": 81, "venue": "Live Oak Bank Pavilion at Riverfront Park", "city": "Wilmington", "state": "NC", "link": "https://fouldomain.com/tracks/37779"}
  ],
  "performances": [
-  {"date": "1991-02-01", "venue": "Alumnae Hall, Brown University", "city": "Providence", "state": "RI", "gap": 462, "set": "2", "jamchart": true, "jam": "Debut.", "note": "Debut.", "next": "Reba", "xprev": "David Bowie", "nb": 1},
+  {"date": "1991-02-01", "venue": "Alumnae Hall, Brown University", "city": "Providence", "state": "RI", "gap": null, "set": "2", "jamchart": true, "jam": "Debut.", "note": "Debut.", "next": "Reba", "xprev": "David Bowie", "nb": 1},
   {"date": "1991-02-02", "venue": "Alumni Gymnasium, Bates College", "city": "Lewiston", "state": "ME", "gap": 1, "set": "1", "prev": "You Enjoy Myself", "xnext": "The Squirming Coil", "nb": 1},
   {"date": "1991-02-03", "venue": "The Front", "city": "Burlington", "state": "VT", "gap": 1, "set": "1", "prev": "Reba", "next": "Foam", "nb": 1},
   {"date": "1991-02-04", "venue": "The Front", "city": "Burlington", "state": "VT", "gap": 1, "set": "1", "prev": "Bouncing Around the Room", "xnext": "The Squirming Coil", "nb": 1},
@@ -60,7 +60,7 @@
   {"date": "1991-05-10", "venue": "Page Commons Room, Student Center, Colby College", "city": "Waterville", "state": "ME", "gap": 1, "set": "2", "prev": "McGrupp and the Watchful Hosemasters", "in": ">", "next": "Hold Your Head Up", "nb": 1},
   {"date": "1991-05-11", "venue": "The Front", "city": "Burlington", "state": "VT", "gap": 1, "set": "2", "next": "You Enjoy Myself", "xprev": "Golgi Apparatus", "nb": 1},
   {"date": "1991-05-12", "venue": "The Front", "city": "Burlington", "state": "VT", "gap": 1, "set": "1", "next": "Bouncing Around the Room", "first": 1, "nb": 1},
-  {"date": "1991-05-16", "venue": "The Sting", "city": "New Britain", "state": "CT", "gap": null, "set": "1", "prev": "Fly Famous Mockingbird", "in": ">", "next": "You Enjoy Myself", "nb": 1},
+  {"date": "1991-05-16", "venue": "The Sting", "city": "New Britain", "state": "CT", "gap": 1, "set": "1", "prev": "Fly Famous Mockingbird", "in": ">", "next": "You Enjoy Myself", "nb": 1},
   {"date": "1991-05-17", "venue": "Campus Club", "city": "Providence", "state": "RI", "gap": 1, "set": "1", "jamchart": true, "jam": "A brief blackout occurs during this version. Fishman continues playing, and is joined by Carl Gerhard on trumpet. Power comes back and a jazzy jam ensues.", "next": "Drums", "first": 1, "nb": 1},
   {"date": "1991-05-18", "venue": "The Marquee", "city": "New York", "state": "NY", "gap": 1, "set": "1", "out": ">", "prev": "Golgi Apparatus", "in": ">", "next": "You Enjoy Myself", "nb": 1},
   {"date": "1991-05-19", "venue": "Salisbury School", "city": "Salisbury", "state": "CT", "gap": 1, "set": "1", "out": ">", "prev": "The Landlady", "in": ">", "next": "Bouncing Around the Room", "nb": 1},
@@ -306,7 +306,7 @@
   {"date": "1997-07-30", "venue": "Ventura County Fairgrounds", "city": "Ventura", "state": "CA", "gap": 3, "set": "1", "jamchart": true, "jam": "Brother to versions from 6/20/95, 7/30/03 and 7/16/13. Incredible improvisation packed into this 10 minute version.", "prev": "Wolfman's Brother", "in": ">", "next": "Water in the Sky", "nb": 1},
   {"date": "1997-08-08", "venue": "New World Music Theatre", "city": "Tinley Park", "state": "IL", "gap": 5, "set": "2", "jamchart": true, "jam": "Raging version that keeps rising from one peak to the next.", "prev": "Prince Caspian", "in": ">", "xnext": "Hoochie Coochie Man", "nb": 1},
   {"date": "1997-08-14", "venue": "Darien Lake Performing Arts Center", "city": "Darien Center", "state": "NY", "gap": 5, "set": "2", "next": "Love Me", "xprev": "Run Like an Antelope", "nb": 1},
-  {"date": "1997-08-16", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": null, "set": "1", "jamchart": true, "jam": "Great example of why '97 is such a pivotal year in Phistory. Here they stretch and expand the music everywhere possible without ever really getting beyond \"CDT\" proper.", "prev": "Harpua", "in": ">", "next": "Theme from the Bottom", "nb": 1},
+  {"date": "1997-08-16", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": 1, "set": "1", "jamchart": true, "jam": "Great example of why '97 is such a pivotal year in Phistory. Here they stretch and expand the music everywhere possible without ever really getting beyond \"CDT\" proper.", "prev": "Harpua", "in": ">", "next": "Theme from the Bottom", "nb": 1},
   {"date": "1997-11-13", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 2, "set": "1", "next": "Black-Eyed Katy", "first": 1, "nb": 1},
   {"date": "1997-11-21", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 5, "set": "1", "prev": "Lawn Boy", "in": ">", "next": "Prince Caspian", "nb": 1},
   {"date": "1997-12-02", "venue": "CoreStates Spectrum", "city": "Philadelphia", "state": "PA", "gap": 7, "set": "1", "prev": "Makisupa Policeman", "next": "Ghost", "nb": 1},
@@ -338,8 +338,8 @@
   {"date": "1999-07-18", "venue": "Oswego County Airport", "city": "Volney", "state": "NY", "gap": 3, "set": "1", "jamchart": true, "jam": "Breaks into a nice pulsing groove at about 6:45. Doesn't stray as far from \"CDT\" as the 7/10/99 version, but still great.", "prev": "Reba", "xnext": "Runaway Jim", "nb": 1},
   {"date": "1999-07-20", "venue": "Molson Amphitheatre", "city": "Toronto", "state": "Ontario", "gap": 1, "set": "1", "next": "Sample in a Jar", "first": 1, "nb": 1},
   {"date": "1999-07-24", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 3, "set": "2", "jamchart": true, "jam": "Fiery and well-played but with a spacey outro jam.", "prev": "Waste", "in": ">", "xnext": "Glide", "nb": 1},
-  {"date": "1999-07-30", "venue": "Naeba Ski Resort", "city": "Niigata", "state": "Niigata", "gap": 4, "set": "1", "next": "Guyute", "first": 1, "nb": 1},
-  {"date": "1999-09-09", "venue": "GM Place", "city": "Vancouver", "state": "British Columbia", "gap": 3, "set": "1", "prev": "Guyute", "next": "Back at the Chicken Shack", "nb": 1},
+  {"date": "1999-07-30", "venue": "Naeba Ski Resort", "city": "Niigata", "state": "Niigata", "gap": 3, "set": "1", "next": "Guyute", "first": 1, "nb": 1},
+  {"date": "1999-09-09", "venue": "GM Place", "city": "Vancouver", "state": "British Columbia", "gap": 4, "set": "1", "prev": "Guyute", "next": "Back at the Chicken Shack", "nb": 1},
   {"date": "1999-09-14", "venue": "Boise State University Pavilion", "city": "Boise", "state": "ID", "gap": 4, "set": "1", "next": "The Sloth", "first": 1, "nb": 1},
   {"date": "1999-09-16", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 1, "set": "1", "prev": "Ya Mar", "next": "Farmhouse", "nb": 1},
   {"date": "1999-09-22", "venue": "Pan American Center", "city": "Las Cruces", "state": "NM", "gap": 5, "set": "1", "prev": "Also Sprach Zarathustra", "in": ">", "next": "Guelah Papyrus", "nb": 1},
@@ -557,10 +557,10 @@
   {"date": "2025-09-21", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 7, "set": "2", "prev": "Ghost", "in": ">", "xnext": "A Life Beyond The Dream", "nb": 1},
   {"date": "2025-12-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 3, "set": "1", "times": 2, "out": ">", "next": "The Moma Dance", "first": 1, "nb": 1},
   {"date": "2026-01-28", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 2, "set": "1", "prev": "Fling Your Head", "xnext": "Waves", "nb": 1},
-  {"date": "2026-04-25", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 8, "set": "2", "jamchart": true, "jam": "A dark, spooky, and contemplative affair that maintains forward momentum thanks to Fish\u2019s pushing before shifting efficiently to an upbeat melodic climb with familiar motifs and a crushing climax that decays into an ambient sample laden froth.", "note": "Unfinished.", "prev": "Blaze On", "next": "Mercury", "nb": 1},
-  {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 3, "set": "1", "note": "Unfinished.", "out": ">", "next": "Ghost", "first": 1, "nb": 1},
-  {"date": "2026-07-24", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 11, "set": "2", "out": ">", "prev": "Also Sprach Zarathustra", "in": ">", "next": "Sparks", "nb": 1},
-  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 4, "set": "1", "note": "Unfinished.", "out": ">", "prev": "Tweezer", "in": ">", "next": "Stash", "nb": 1},
-  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1, "set": "2", "nb": 1, "prev": "Tweezer", "in": ">", "xnext": "When the Circus Comes"}
+  {"date": "2026-04-25", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 9, "set": "2", "jamchart": true, "jam": "A dark, spooky, and contemplative affair that maintains forward momentum thanks to Fish\u2019s pushing before shifting efficiently to an upbeat melodic climb with familiar motifs and a crushing climax that decays into an ambient sample laden froth.", "note": "Unfinished.", "prev": "Blaze On", "next": "Mercury", "nb": 1},
+  {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 4, "set": "1", "note": "Unfinished.", "out": ">", "next": "Ghost", "first": 1, "nb": 1},
+  {"date": "2026-07-24", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 12, "set": "2", "out": ">", "prev": "Also Sprach Zarathustra", "in": ">", "next": "Sparks", "nb": 1},
+  {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 5, "set": "1", "note": "Unfinished.", "out": ">", "prev": "Tweezer", "in": ">", "next": "Stash", "nb": 1},
+  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "2", "prev": "Tweezer", "in": ">", "xnext": "When the Circus Comes", "nb": 1}
  ]
 }

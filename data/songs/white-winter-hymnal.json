@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2017-07-26", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1764, "set": "1", "note": "Phish debut; a cappella.", "nb": 1, "first": 1, "next": "Cars Trucks Buses"}
+  {"date": "2017-07-26", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Phish debut; a cappella.", "next": "Cars Trucks Buses", "first": 1, "nb": 1}
  ]
 }

@@ -3,13 +3,17 @@
  "slug": "cry-baby-cry",
  "artist": "Phish",
  "best": [
-
+  {"date": "1998-11-21", "score": 49, "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "link": "https://fouldomain.com/tracks/22714"},
+  {"date": "2016-07-20", "score": 49, "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "link": "https://fouldomain.com/tracks/33066"},
+  {"date": "1994-10-31", "score": 44, "venue": "Glens Falls Civic Center", "city": "Glens Falls", "state": "NY", "link": "https://fouldomain.com/tracks/16753"},
+  {"date": "1994-11-22", "score": 44, "venue": "Jesse Auditorium, University of Missouri", "city": "Columbia", "state": "MO", "link": "https://fouldomain.com/tracks/17014"},
+  {"date": "1995-06-16", "score": 33, "venue": "Walnut Creek Amphitheater", "city": "Raleigh", "state": "NC", "link": "https://fouldomain.com/tracks/17530"}
  ],
  "performances": [
-  {"date": "1994-10-31", "venue": "Glens Falls Civic Center", "city": "Glens Falls", "state": "NY", "gap": 919, "set": "2", "note": "Phish debut. Fish on vacuum.", "out": "->", "nb": 1, "prev": "Savoy Truffle", "next": "Revolution 9"},
-  {"date": "1994-11-22", "venue": "Jesse Auditorium, University of Missouri", "city": "Columbia", "state": "MO", "gap": 13, "set": "2", "out": ">", "nb": 1, "prev": "Yerushalayim Shel Zahav", "next": "The Curtain"},
-  {"date": "1995-06-16", "venue": "Walnut Creek Amphitheater", "city": "Raleigh", "state": "NC", "gap": 27, "set": "1", "nb": 1, "prev": "Ya Mar", "next": "It's Ice"},
-  {"date": "1998-11-21", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 278, "set": "1", "out": ">", "nb": 1, "prev": "Divided Sky", "next": "Boogie On Reggae Woman"},
-  {"date": "2016-07-20", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 498, "set": "1", "nb": 1, "prev": "Fuck Your Face", "next": "Sing Monica"}
+  {"date": "1994-10-31", "venue": "Glens Falls Civic Center", "city": "Glens Falls", "state": "NY", "gap": null, "set": "2", "note": "Phish debut. Fish on vacuum.", "out": "->", "prev": "Savoy Truffle", "next": "Revolution 9", "nb": 1},
+  {"date": "1994-11-22", "venue": "Jesse Auditorium, University of Missouri", "city": "Columbia", "state": "MO", "gap": 13, "set": "2", "out": ">", "prev": "Yerushalayim Shel Zahav", "next": "The Curtain", "nb": 1},
+  {"date": "1995-06-16", "venue": "Walnut Creek Amphitheater", "city": "Raleigh", "state": "NC", "gap": 27, "set": "1", "prev": "Ya Mar", "next": "It's Ice", "nb": 1},
+  {"date": "1998-11-21", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 278, "set": "1", "out": ">", "prev": "Divided Sky", "next": "Boogie On Reggae Woman", "nb": 1},
+  {"date": "2016-07-20", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 498, "set": "1", "prev": "Fuck Your Face", "next": "Sing Monica", "nb": 1}
  ]
 }

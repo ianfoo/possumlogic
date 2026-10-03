@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2010-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 1521, "set": "2", "note": "Phish debut; A cappella.", "nb": 1, "prev": "Willin'", "next": "A Apolitical Blues"},
-  {"date": "2016-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 238, "set": "1", "nb": 1, "first": 1, "next": "Your Pet Cat"}
+  {"date": "2010-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "note": "Phish debut; A cappella.", "prev": "Willin'", "next": "A Apolitical Blues", "nb": 1},
+  {"date": "2016-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 238, "set": "1", "next": "Your Pet Cat", "first": 1, "nb": 1}
  ]
 }

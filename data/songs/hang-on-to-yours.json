@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2016-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1747, "set": "2", "note": "Phish debut; With Jennifer Hartswick, Celisse Henderson, and Jo Lampert on backing vocals.", "nb": 1, "prev": "Star", "next": "Ziggy Stardust"}
+  {"date": "2016-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Phish debut; With Jennifer Hartswick, Celisse Henderson, and Jo Lampert on backing vocals.", "prev": "Star", "next": "Ziggy Stardust", "nb": 1}
  ]
 }

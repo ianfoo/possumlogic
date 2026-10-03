@@ -3,13 +3,18 @@
  "slug": "sweet-jane",
  "artist": "Phish",
  "best": [
-
+  {"date": "1991-11-02", "score": 55, "venue": "Lory Student Center Theatre, Colorado State University", "city": "Fort Collins", "state": "CO", "link": "https://fouldomain.com/tracks/9132"},
+  {"date": "1998-10-31", "score": 47, "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/22445"},
+  {"date": "2012-06-29", "score": 40, "venue": "Klipsch Music Center", "city": "Noblesville", "state": "IN", "link": "https://fouldomain.com/tracks/29593"},
+  {"date": "2020-02-22", "score": 39, "venue": "Moon Palace", "city": "Cancun, Quintana Roo", "state": "", "link": "https://fouldomain.com/tracks/35839"},
+  {"date": "1998-08-08", "score": 31, "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "link": "https://fouldomain.com/tracks/22199"},
+  {"date": "2017-07-23", "score": 30, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/33816"}
  ],
  "performances": [
-  {"date": "1998-08-08", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 1210, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Possum", "in": ">", "xnext": "Cavern"},
-  {"date": "1998-10-31", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 13, "set": "2", "nb": 1, "prev": "Who Loves the Sun?", "next": "Rock and Roll"},
-  {"date": "2012-06-29", "venue": "Klipsch Music Center", "city": "Noblesville", "state": "IN", "gap": 354, "set": "1", "nb": 1, "prev": "Dinner and a Movie", "next": "Limb By Limb"},
-  {"date": "2017-07-23", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 193, "set": "e", "nb": 1, "xprev": "Wading in the Velvet Sea", "last": 1},
-  {"date": "2020-02-22", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 100, "set": "e", "out": ">", "nb": 1, "xprev": "Harry Hood", "next": "Tweezer Reprise"}
+  {"date": "1998-08-08", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Possum", "in": ">", "xnext": "Cavern", "nb": 1},
+  {"date": "1998-10-31", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 13, "set": "2", "prev": "Who Loves the Sun?", "next": "Rock and Roll", "nb": 1},
+  {"date": "2012-06-29", "venue": "Klipsch Music Center", "city": "Noblesville", "state": "IN", "gap": 354, "set": "1", "prev": "Dinner and a Movie", "next": "Limb By Limb", "nb": 1},
+  {"date": "2017-07-23", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 193, "set": "e", "xprev": "Wading in the Velvet Sea", "last": 1, "nb": 1},
+  {"date": "2020-02-22", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 100, "set": "e", "out": ">", "next": "Tweezer Reprise", "xprev": "Harry Hood", "nb": 1}
  ]
 }

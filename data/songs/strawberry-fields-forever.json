@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2017-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1769, "set": "1", "note": "Phish debut; a cappella.", "nb": 1, "first": 1, "next": "Halley's Comet"},
-  {"date": "2022-08-02", "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "gap": 168, "set": "1", "nb": 1, "first": 1, "next": "Crowd Control"}
+  {"date": "2017-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Phish debut; a cappella.", "next": "Halley's Comet", "first": 1, "nb": 1},
+  {"date": "2022-08-02", "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "gap": 168, "set": "1", "next": "Crowd Control", "first": 1, "nb": 1}
  ]
 }

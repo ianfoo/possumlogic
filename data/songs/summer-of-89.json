@@ -3,12 +3,15 @@
  "slug": "summer-of-89",
  "artist": "Phish",
  "best": [
-
+  {"date": "2010-06-25", "score": 67, "venue": "Susquehanna Bank Center", "city": "Camden", "state": "NJ", "link": "https://fouldomain.com/tracks/27541"},
+  {"date": "2010-06-18", "score": 51, "venue": "The Comcast Theatre", "city": "Hartford", "state": "CT", "link": "https://fouldomain.com/tracks/27433"},
+  {"date": "2010-08-09", "score": 50, "venue": "Telluride Town Park", "city": "Telluride", "state": "CO", "link": "https://fouldomain.com/tracks/27767"},
+  {"date": "2010-10-12", "score": 40, "venue": "1stBank Center", "city": "Broomfield", "state": "CO", "link": "https://fouldomain.com/tracks/28019"}
  ],
  "performances": [
-  {"date": "2010-06-18", "venue": "The Comcast Theatre", "city": "Hartford", "state": "CT", "gap": 1475, "set": "1", "note": "Debut.", "nb": 1, "prev": "Wolfman's Brother", "next": "Foam"},
-  {"date": "2010-06-25", "venue": "Susquehanna Bank Center", "city": "Camden", "state": "NJ", "gap": 5, "set": "1", "nb": 1, "prev": "Free Man in Paris", "next": "Split Open and Melt"},
-  {"date": "2010-08-09", "venue": "Telluride Town Park", "city": "Telluride", "state": "CO", "gap": 11, "set": "1", "nb": 1, "prev": "Light Up Or Leave Me Alone", "next": "Stash"},
-  {"date": "2010-10-12", "venue": "1stBank Center", "city": "Broomfield", "state": "CO", "gap": 11, "set": "2", "out": ">", "nb": 1, "prev": "Bug", "next": "Split Open and Melt"}
+  {"date": "2010-06-18", "venue": "The Comcast Theatre", "city": "Hartford", "state": "CT", "gap": null, "set": "1", "note": "Debut.", "prev": "Wolfman's Brother", "next": "Foam", "nb": 1},
+  {"date": "2010-06-25", "venue": "Susquehanna Bank Center", "city": "Camden", "state": "NJ", "gap": 5, "set": "1", "prev": "Free Man in Paris", "next": "Split Open and Melt", "nb": 1},
+  {"date": "2010-08-09", "venue": "Telluride Town Park", "city": "Telluride", "state": "CO", "gap": 11, "set": "1", "prev": "Light Up Or Leave Me Alone", "next": "Stash", "nb": 1},
+  {"date": "2010-10-12", "venue": "1stBank Center", "city": "Broomfield", "state": "CO", "gap": 11, "set": "2", "out": ">", "prev": "Bug", "next": "Split Open and Melt", "nb": 1}
  ]
 }

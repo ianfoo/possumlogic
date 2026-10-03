@@ -3,9 +3,33 @@
  "slug": "friend",
  "artist": "Phish",
  "best": [
-
+  {"date": "2024-09-01", "score": 87, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/39003"},
+  {"date": "2025-12-31", "score": 87, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/40003"},
+  {"date": "2025-07-15", "score": 86, "venue": "TD Pavilion at the Mann", "city": "Philadelphia", "state": "PA", "link": "https://fouldomain.com/tracks/39615"},
+  {"date": "2026-01-31", "score": 85, "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "link": "https://fouldomain.com/tracks/40081"},
+  {"date": "1993-03-18", "score": 84, "venue": "The Palace", "city": "Hollywood", "state": "CA", "link": "https://fouldomain.com/tracks/12881"},
+  {"date": "2024-08-09", "score": 84, "venue": "Bethel Woods Center for the Arts", "city": "Bethel", "state": "NY", "link": "https://fouldomain.com/tracks/38812"},
+  {"date": "2024-12-31", "score": 84, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/39146"},
+  {"date": "1993-08-07", "score": 83, "venue": "Darien Lake Performing Arts Center", "city": "Darien Center", "state": "NY", "link": "https://fouldomain.com/tracks/14276"},
+  {"date": "2023-12-29", "score": 83, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/38321"},
+  {"date": "2024-07-26", "score": 83, "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "link": "https://fouldomain.com/tracks/38616"},
+  {"date": "1993-08-11", "score": 80, "venue": "Eastbrook Theatre", "city": "Grand Rapids", "state": "MI", "link": "https://fouldomain.com/tracks/14331"},
+  {"date": "1994-11-30", "score": 77, "venue": "Campus Recreation Center, Evergreen College", "city": "Olympia", "state": "WA", "link": "https://fouldomain.com/tracks/17094"},
+  {"date": "1993-03-21", "score": 76, "venue": "Ventura Theatre", "city": "Ventura", "state": "CA", "link": "https://fouldomain.com/tracks/12926"},
+  {"date": "2017-07-25", "score": 76, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/33819"},
+  {"date": "1994-04-10", "score": 75, "venue": "Alumni Arena, SUNY Buffalo", "city": "Buffalo", "state": "NY", "link": "https://fouldomain.com/tracks/14829"},
+  {"date": "1994-07-10", "score": 75, "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "link": "https://fouldomain.com/tracks/16200"},
+  {"date": "2000-09-27", "score": 75, "venue": "Fiddler's Green", "city": "Englewood", "state": "CO", "link": "https://fouldomain.com/tracks/24907"},
+  {"date": "2023-07-14", "score": 75, "venue": "Ameris Bank Amphitheatre", "city": "Alpharetta", "state": "GA", "link": "https://fouldomain.com/tracks/37704"},
+  {"date": "2025-09-19", "score": 75, "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "link": "https://fouldomain.com/tracks/39885"},
+  {"date": "2026-05-02", "score": 75, "venue": "Sphere", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/58791"},
+  {"date": "1993-04-17", "score": 74, "venue": "Michigan Theater", "city": "Ann Arbor", "state": "MI", "link": "https://fouldomain.com/tracks/13411"},
+  {"date": "1993-05-05", "score": 73, "venue": "Palace Theatre", "city": "Albany", "state": "NY", "link": "https://fouldomain.com/tracks/13763"},
+  {"date": "1994-06-21", "score": 73, "venue": "Cincinnati Music Hall", "city": "Cincinnati", "state": "OH", "link": "https://fouldomain.com/tracks/15843"},
+  {"date": "2023-07-30", "score": 73, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/37929"},
+  {"date": "1994-10-29", "score": 72, "venue": "Spartanburg Memorial Auditorium", "city": "Spartanburg", "state": "SC", "link": "https://fouldomain.com/tracks/16692"}
  ],
  "performances": [
-  {"date": "2019-06-22", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 1829, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "NICU", "next": "No Men In No Man's Land"}
+  {"date": "2019-06-22", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": null, "set": "1", "note": "Phish debut.", "prev": "NICU", "next": "No Men In No Man's Land", "nb": 1}
  ]
 }

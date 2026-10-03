@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2010-10-26", "venue": "Verizon Wireless Arena", "city": "Manchester", "state": "NH", "gap": 1510, "set": "2", "jamchart": true, "jam": "-&gt; in from &quot;Makisupa.&quot; To honor reggae star Gregory Isaac's recent passing, the band plays his song &quot;Night Nurse&quot; in the middle of &quot;Makisupa.&quot; -&gt; to &quot;Makisupa.&quot;", "note": "Phish debut.", "out": "->", "nb": 1, "prev": "Makisupa Policeman", "in": "->", "next": "Makisupa Policeman"}
+  {"date": "2010-10-26", "venue": "Verizon Wireless Arena", "city": "Manchester", "state": "NH", "gap": null, "set": "2", "jamchart": true, "jam": "-&gt; in from &quot;Makisupa.&quot; To honor reggae star Gregory Isaac's recent passing, the band plays his song &quot;Night Nurse&quot; in the middle of &quot;Makisupa.&quot; -&gt; to &quot;Makisupa.&quot;", "note": "Phish debut.", "out": "->", "prev": "Makisupa Policeman", "in": "->", "next": "Makisupa Policeman", "nb": 1}
  ]
 }

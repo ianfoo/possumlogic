@@ -3,13 +3,17 @@
  "slug": "sweet-virginia",
  "artist": "Phish",
  "best": [
-
+  {"date": "1999-09-26", "score": 55, "venue": "Kiefer UNO Lakefront Arena, University of New Orleans", "city": "New Orleans", "state": "LA", "link": "https://fouldomain.com/tracks/23574"},
+  {"date": "2009-10-31", "score": 55, "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "link": "https://fouldomain.com/tracks/26878"},
+  {"date": "2012-06-24", "score": 52, "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "link": "https://fouldomain.com/tracks/29555"},
+  {"date": "2009-12-05", "score": 51, "venue": "John Paul Jones Arena", "city": "Charlottesville", "state": "VA", "link": "https://fouldomain.com/tracks/27214"},
+  {"date": "2011-09-02", "score": 48, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/29119"}
  ],
  "performances": [
-  {"date": "1999-09-26", "venue": "Kiefer UNO Lakefront Arena, University of New Orleans", "city": "New Orleans", "state": "LA", "gap": 1284, "set": "1", "note": "Phish debut.", "nb": 1, "first": 1, "next": "First Tube"},
-  {"date": "2009-10-31", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": 175, "set": "2", "note": "Sharon Jones and Saundra Williams on backup vocals, Dave Guy on trumpet, David Smith on trombone, and Tony Jarvis on saxophone.", "nb": 1, "prev": "Tumbling Dice", "next": "Torn and Frayed"},
-  {"date": "2009-12-05", "venue": "John Paul Jones Arena", "city": "Charlottesville", "state": "VA", "gap": 14, "set": "2", "nb": 1, "prev": "Free", "next": "Harry Hood"},
-  {"date": "2011-09-02", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 84, "set": "1", "nb": 1, "prev": "The Sloth", "next": "Susskind Hotel"},
-  {"date": "2012-06-24", "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "gap": 18, "set": "2", "nb": 1, "prev": "Ghost", "in": ">", "next": "Rift"}
+  {"date": "1999-09-26", "venue": "Kiefer UNO Lakefront Arena, University of New Orleans", "city": "New Orleans", "state": "LA", "gap": null, "set": "1", "note": "Phish debut.", "next": "First Tube", "first": 1, "nb": 1},
+  {"date": "2009-10-31", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": 175, "set": "2", "note": "Sharon Jones and Saundra Williams on backup vocals, Dave Guy on trumpet, David Smith on trombone, and Tony Jarvis on saxophone.", "prev": "Tumbling Dice", "next": "Torn and Frayed", "nb": 1},
+  {"date": "2009-12-05", "venue": "John Paul Jones Arena", "city": "Charlottesville", "state": "VA", "gap": 14, "set": "2", "prev": "Free", "next": "Harry Hood", "nb": 1},
+  {"date": "2011-09-02", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 84, "set": "1", "prev": "The Sloth", "next": "Susskind Hotel", "nb": 1},
+  {"date": "2012-06-24", "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "gap": 18, "set": "2", "prev": "Ghost", "in": ">", "next": "Rift", "nb": 1}
  ]
 }

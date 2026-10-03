@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "nb": 1, "prev": "Egg in a Hole", "next": "Clear Your Mind"}
+  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "prev": "Egg in a Hole", "next": "Clear Your Mind", "nb": 1}
  ]
 }

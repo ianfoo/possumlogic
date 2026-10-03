@@ -3,11 +3,13 @@
  "slug": "mock-song",
  "artist": "Phish",
  "best": [
-
+  {"date": "2003-07-12", "score": 57, "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "link": "https://fouldomain.com/tracks/25395"},
+  {"date": "2018-10-19", "score": 39, "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "link": "https://fouldomain.com/tracks/34569"},
+  {"date": "2015-08-21", "score": 34, "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "link": "https://fouldomain.com/tracks/32396"}
  ],
  "performances": [
-  {"date": "2003-07-12", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 1385, "set": "1", "note": "Debut.", "nb": 1, "prev": "Heavy Things", "next": "Army of One"},
-  {"date": "2015-08-21", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": 320, "set": "1", "nb": 1, "prev": "The Wedge", "next": "Roggae"},
-  {"date": "2018-10-19", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 106, "set": "1", "nb": 1, "prev": "Blaze On", "in": ">", "next": "Divided Sky"}
+  {"date": "2003-07-12", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": null, "set": "1", "note": "Debut.", "prev": "Heavy Things", "next": "Army of One", "nb": 1},
+  {"date": "2015-08-21", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": 320, "set": "1", "prev": "The Wedge", "next": "Roggae", "nb": 1},
+  {"date": "2018-10-19", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 106, "set": "1", "prev": "Blaze On", "in": ">", "next": "Divided Sky", "nb": 1}
  ]
 }

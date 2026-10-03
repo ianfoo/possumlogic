@@ -6,10 +6,10 @@
 
  ],
  "performances": [
-  {"date": "1990-06-09", "venue": "The Wetlands Preserve", "city": "New York", "state": "NY", "gap": 404, "set": "2", "out": ">", "nb": 1, "xprev": "Weekapaug Groove", "next": "Harry Hood"},
-  {"date": "1991-02-19", "venue": "The Bayou", "city": "Washington", "state": "DC", "gap": 71, "set": "2", "out": ">", "nb": 1, "prev": "Love You", "in": "->", "next": "Love You"},
-  {"date": "1991-02-22", "venue": "Cat's Cradle", "city": "Chapel Hill", "state": "NC", "gap": 3, "set": "1", "note": "Fish on trombone.", "out": ">", "nb": 1, "prev": "Terrapin", "in": "->", "next": "Hold Your Head Up"},
-  {"date": "1991-03-01", "venue": "The Georgia Theatre", "city": "Athens", "state": "GA", "gap": 5, "set": "2", "out": ">", "nb": 1, "prev": "Love You", "in": "->", "next": "Hold Your Head Up"},
-  {"date": "2010-10-30", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 1037, "set": "1", "jamchart": true, "jam": "-&gt; in from &quot;CDT.&quot; Brief jam, part of Led Zeppelin oriented thematic set. -&gt; back to &quot;CDT.&quot;", "note": "One verse only.", "out": ">", "nb": 1, "prev": "Chalk Dust Torture", "in": "->", "next": "Chalk Dust Torture"}
+  {"date": "1990-06-09", "venue": "The Wetlands Preserve", "city": "New York", "state": "NY", "gap": null, "set": "2", "out": ">", "next": "Harry Hood", "xprev": "Weekapaug Groove", "nb": 1},
+  {"date": "1991-02-19", "venue": "The Bayou", "city": "Washington", "state": "DC", "gap": 71, "set": "2", "out": ">", "prev": "Love You", "in": "->", "next": "Love You", "nb": 1},
+  {"date": "1991-02-22", "venue": "Cat's Cradle", "city": "Chapel Hill", "state": "NC", "gap": 3, "set": "1", "note": "Fish on trombone.", "out": ">", "prev": "Terrapin", "in": "->", "next": "Hold Your Head Up", "nb": 1},
+  {"date": "1991-03-01", "venue": "The Georgia Theatre", "city": "Athens", "state": "GA", "gap": 5, "set": "2", "out": ">", "prev": "Love You", "in": "->", "next": "Hold Your Head Up", "nb": 1},
+  {"date": "2010-10-30", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 1037, "set": "1", "jamchart": true, "jam": "-&gt; in from &quot;CDT.&quot; Brief jam, part of Led Zeppelin oriented thematic set. -&gt; back to &quot;CDT.&quot;", "note": "One verse only.", "out": ">", "prev": "Chalk Dust Torture", "in": "->", "next": "Chalk Dust Torture", "nb": 1}
  ]
 }

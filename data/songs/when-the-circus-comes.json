@@ -30,7 +30,7 @@
   {"date": "2021-10-15", "score": 56, "venue": "Golden 1 Center", "city": "Sacramento", "state": "CA", "link": "https://fouldomain.com/tracks/36321"}
  ],
  "performances": [
-  {"date": "1997-02-13", "venue": "Shepherd's Bush Empire", "city": "London", "state": "England", "gap": 1098, "set": "2", "note": "Phish debut.", "out": ">", "prev": "Slave to the Traffic Light", "in": ">", "next": "Maze", "nb": 1},
+  {"date": "1997-02-13", "venue": "Shepherd's Bush Empire", "city": "London", "state": "England", "gap": null, "set": "2", "note": "Phish debut.", "out": ">", "prev": "Slave to the Traffic Light", "in": ">", "next": "Maze", "nb": 1},
   {"date": "1997-02-16", "venue": "Alter Wartesaal", "city": "Cologne", "state": "NRW", "gap": 2, "set": "2", "prev": "Simple", "in": "->", "next": "Swept Away", "nb": 1},
   {"date": "1997-02-20", "venue": "Teatro Smeraldo", "city": "Milan", "state": "Lombardy", "gap": 3, "set": "1", "out": ">", "prev": "Gumbo", "next": "David Bowie", "nb": 1},
   {"date": "1997-02-22", "venue": "Teatro Olimpico", "city": "Rome", "state": "Lazio", "gap": 2, "set": "1", "prev": "NICU", "in": ">", "next": "Talk", "nb": 1},
@@ -105,7 +105,7 @@
   {"date": "2023-07-19", "venue": "Live Oak Bank Pavilion at Riverfront Park", "city": "Wilmington", "state": "NC", "gap": 13, "set": "1", "prev": "Back on the Train", "next": "It's Ice", "nb": 1},
   {"date": "2024-02-23", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 33, "set": "e", "next": "Character Zero", "xprev": "Harry Hood", "nb": 1},
   {"date": "2024-07-20", "venue": "Xfinity Center", "city": "Mansfield", "state": "MA", "gap": 7, "set": "e", "next": "David Bowie", "xprev": "Chalk Dust Torture", "nb": 1},
-  {"date": "2025-07-11", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 53, "set": "e", "next": "First Tube", "xprev": "Suzy Greenberg", "nb": 1},
-  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 56, "set": "e", "nb": 1, "xprev": "Chalk Dust Torture", "next": "Carini"}
+  {"date": "2025-07-11", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 54, "set": "e", "next": "First Tube", "xprev": "Suzy Greenberg", "nb": 1},
+  {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 57, "set": "e", "next": "Carini", "xprev": "Chalk Dust Torture", "nb": 1}
  ]
 }

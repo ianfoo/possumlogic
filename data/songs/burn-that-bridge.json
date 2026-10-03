@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2010-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1517, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Scent of a Mule", "next": "Weigh"}
+  {"date": "2010-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Scent of a Mule", "next": "Weigh", "nb": 1}
  ]
 }

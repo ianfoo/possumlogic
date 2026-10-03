@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "1998-10-31", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 1223, "set": "2", "note": "Phish debut.", "nb": 1, "xprev": "Weekapaug Groove", "next": "Sweet Jane"},
-  {"date": "2019-02-21", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 604, "set": "1", "nb": 1, "prev": "Free", "next": "Everything's Right"}
+  {"date": "1998-10-31", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Phish debut.", "next": "Sweet Jane", "xprev": "Weekapaug Groove", "nb": 1},
+  {"date": "2019-02-21", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 604, "set": "1", "prev": "Free", "next": "Everything's Right", "nb": 1}
  ]
 }

@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2010-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "note": "Phish debut; Giovanni Hidalgo on percussion.", "nb": 1, "prev": "Don't Bogart That Joint", "next": "Sailin' Shoes"}
+  {"date": "2010-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "note": "Phish debut; Giovanni Hidalgo on percussion.", "prev": "Don't Bogart That Joint", "next": "Sailin' Shoes", "nb": 1}
  ]
 }

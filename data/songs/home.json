@@ -3,15 +3,38 @@
  "slug": "home",
  "artist": "Phish",
  "best": [
-
+  {"date": "1994-11-02", "score": 70, "venue": "Bangor Auditorium", "city": "Bangor", "state": "ME", "link": "https://fouldomain.com/tracks/16780"},
+  {"date": "1994-07-06", "score": 66, "venue": "Theatre St. Denis", "city": "Montr\u00e9al, Qu\u00e9bec", "state": "", "link": "https://fouldomain.com/tracks/16137"},
+  {"date": "1994-11-12", "score": 64, "venue": "MAC Center, Kent State University", "city": "Kent", "state": "OH", "link": "https://fouldomain.com/tracks/16839"},
+  {"date": "1994-10-10", "score": 63, "venue": "Palace Theatre", "city": "Louisville", "state": "KY", "link": "https://fouldomain.com/tracks/16376"},
+  {"date": "1994-11-14", "score": 63, "venue": "DeVos Hall", "city": "Grand Rapids", "state": "MI", "link": "https://fouldomain.com/tracks/16879"},
+  {"date": "1995-11-29", "score": 62, "venue": "Municipal Auditorium", "city": "Nashville", "state": "TN", "link": "https://fouldomain.com/tracks/18631"},
+  {"date": "1994-11-18", "score": 60, "venue": "MSU Auditorium, Michigan State University", "city": "East Lansing", "state": "MI", "link": "https://fouldomain.com/tracks/16937"},
+  {"date": "1994-11-19", "score": 60, "venue": "Parking Lot, Indiana University Auditorium", "city": "Bloomington", "state": "IN", "link": "https://fouldomain.com/tracks/16949"},
+  {"date": "1994-11-17", "score": 59, "venue": "Hara Arena", "city": "Dayton", "state": "OH", "link": "https://fouldomain.com/tracks/16925"},
+  {"date": "1995-10-20", "score": 59, "venue": "Five Seasons Arena", "city": "Cedar Rapids", "state": "IA", "link": "https://fouldomain.com/tracks/18141"},
+  {"date": "2004-06-20", "score": 59, "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "link": "https://fouldomain.com/tracks/25972"},
+  {"date": "2019-07-02", "score": 59, "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "link": "https://fouldomain.com/tracks/35231"},
+  {"date": "1999-07-03", "score": 58, "venue": "Lakewood Amphitheatre", "city": "Atlanta", "state": "GA", "link": "https://fouldomain.com/tracks/22971"},
+  {"date": "1994-12-31", "score": 57, "venue": "Boston Garden", "city": "Boston", "state": "MA", "link": "https://fouldomain.com/tracks/17358"},
+  {"date": "1994-06-26", "score": 56, "venue": "Municipal Auditorium", "city": "Charleston", "state": "WV", "link": "https://fouldomain.com/tracks/15984"},
+  {"date": "1994-10-28", "score": 56, "venue": "Gaillard Auditorium", "city": "Charleston", "state": "SC", "link": "https://fouldomain.com/tracks/16687"},
+  {"date": "1999-12-17", "score": 56, "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "link": "https://fouldomain.com/tracks/23985"},
+  {"date": "2010-10-15", "score": 56, "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "link": "https://fouldomain.com/tracks/28025"},
+  {"date": "2012-06-28", "score": 55, "venue": "Klipsch Music Center", "city": "Noblesville", "state": "IN", "link": "https://fouldomain.com/tracks/29569"},
+  {"date": "2016-12-30", "score": 55, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/33566"},
+  {"date": "1993-07-28", "score": 53, "venue": "Grady Cole Center", "city": "Charlotte", "state": "NC", "link": "https://fouldomain.com/tracks/14121"},
+  {"date": "2000-06-13", "score": 53, "venue": "Club Quattro", "city": "Naka-ku, Nagoya", "state": "", "link": "https://fouldomain.com/tracks/24271"},
+  {"date": "2026-07-14", "score": 53, "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "link": "https://fouldomain.com/tracks/268894"},
+  {"date": "1994-10-18", "score": 52, "venue": "Vanderbilt University Memorial Gym", "city": "Nashville", "state": "TN", "link": "https://fouldomain.com/tracks/16515"}
  ],
  "performances": [
-  {"date": "2016-10-14", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 1735, "set": "1", "note": "Debut.", "nb": 1, "prev": "Heavy Things", "next": "Poor Heart"},
-  {"date": "2016-10-28", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 9, "set": "1", "nb": 1, "prev": "Limb By Limb", "next": "When the Circus Comes"},
-  {"date": "2017-07-19", "venue": "Petersen Events Center", "city": "Pittsburgh", "state": "PA", "gap": 15, "set": "1", "out": ">", "nb": 1, "prev": "Marissa", "next": "Prince Caspian"},
-  {"date": "2017-07-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 8, "set": "1", "nb": 1, "prev": "Esther", "next": "Brian and Robert"},
-  {"date": "2018-08-11", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 29, "set": "1", "nb": 1, "prev": "Sugar Shack", "next": "Joy"},
-  {"date": "2018-09-01", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 3, "set": "1", "nb": 1, "prev": "Shade", "next": "Wolfman's Brother"},
-  {"date": "2019-07-02", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 37, "set": "1", "out": ">", "nb": 1, "prev": "Meat", "next": "Bathtub Gin"}
+  {"date": "2016-10-14", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": null, "set": "1", "note": "Debut.", "prev": "Heavy Things", "next": "Poor Heart", "nb": 1},
+  {"date": "2016-10-28", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 9, "set": "1", "prev": "Limb By Limb", "next": "When the Circus Comes", "nb": 1},
+  {"date": "2017-07-19", "venue": "Petersen Events Center", "city": "Pittsburgh", "state": "PA", "gap": 15, "set": "1", "out": ">", "prev": "Marissa", "next": "Prince Caspian", "nb": 1},
+  {"date": "2017-07-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 8, "set": "1", "prev": "Esther", "next": "Brian and Robert", "nb": 1},
+  {"date": "2018-08-11", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 29, "set": "1", "prev": "Sugar Shack", "next": "Joy", "nb": 1},
+  {"date": "2018-09-01", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 3, "set": "1", "prev": "Shade", "next": "Wolfman's Brother", "nb": 1},
+  {"date": "2019-07-02", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 37, "set": "1", "out": ">", "prev": "Meat", "next": "Bathtub Gin", "nb": 1}
  ]
 }

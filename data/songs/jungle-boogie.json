@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2003-12-31", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": 1409, "set": "3", "note": "Phish debut. Miami Palmetto Senior High Band and cheerleading squad.", "out": ">", "nb": 1, "xprev": "Chalk Dust Torture", "next": "Auld Lang Syne"},
-  {"date": "2022-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 544, "set": "3", "note": "The Late Show Gospel Choir and the BD Entertainment Marching Band.", "out": ">", "nb": 1, "prev": "Ghost", "in": "->", "next": "Wilson"}
+  {"date": "2003-12-31", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": null, "set": "3", "note": "Phish debut. Miami Palmetto Senior High Band and cheerleading squad.", "out": ">", "next": "Auld Lang Syne", "xprev": "Chalk Dust Torture", "nb": 1},
+  {"date": "2022-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 544, "set": "3", "note": "The Late Show Gospel Choir and the BD Entertainment Marching Band.", "out": ">", "prev": "Ghost", "in": "->", "next": "Wilson", "nb": 1}
  ]
 }

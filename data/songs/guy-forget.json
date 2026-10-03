@@ -3,12 +3,15 @@
  "slug": "guy-forget",
  "artist": "Phish",
  "best": [
-
+  {"date": "2023-08-05", "score": 74, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/38006"},
+  {"date": "2000-10-01", "score": 70, "venue": "Blockbuster Desert Sky Pavilion", "city": "Phoenix", "state": "AZ", "link": "https://fouldomain.com/tracks/24971"},
+  {"date": "2011-09-04", "score": 42, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/29185"},
+  {"date": "2024-08-03", "score": 27, "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "link": "https://fouldomain.com/tracks/38743"}
  ],
  "performances": [
-  {"date": "2000-10-01", "venue": "Blockbuster Desert Sky Pavilion", "city": "Phoenix", "state": "AZ", "gap": 1356, "set": "2", "jamchart": true, "jam": "-&gt; from &quot;Piper&quot;. Terrific '00 style space groove including Trey on the mini keyboard for a spell. -&gt; to &quot;When the Circus Comes&quot;.", "note": "Debut.", "out": "->", "nb": 1, "prev": "Piper", "in": "->", "next": "When the Circus Comes"},
-  {"date": "2011-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 199, "set": "2", "out": "->", "nb": 1, "prev": "Ghost", "in": "->", "next": "Ghost"},
-  {"date": "2023-08-05", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 425, "set": "2", "jamchart": true, "jam": "Mike begins \"Guy Forget\" out of pure improv (so-called \"type II\" jamming) and Trey catches on in seconds, and after only a few measures Fish starts singing \"Guy Forget,\" and Trey and then Fish rap/speak the only lyric of \"Guy Forget\" over upbeat improv.", "out": "->", "nb": 1, "prev": "Tweezer", "in": "->", "next": "Tweezer"},
-  {"date": "2024-08-03", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 37, "set": "2", "out": "->", "nb": 1, "prev": "Crosseyed and Painless", "in": "->", "next": "Crosseyed and Painless"}
+  {"date": "2000-10-01", "venue": "Blockbuster Desert Sky Pavilion", "city": "Phoenix", "state": "AZ", "gap": null, "set": "2", "jamchart": true, "jam": "-&gt; from &quot;Piper&quot;. Terrific '00 style space groove including Trey on the mini keyboard for a spell. -&gt; to &quot;When the Circus Comes&quot;.", "note": "Debut.", "out": "->", "prev": "Piper", "in": "->", "next": "When the Circus Comes", "nb": 1},
+  {"date": "2011-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 199, "set": "2", "out": "->", "prev": "Ghost", "in": "->", "next": "Ghost", "nb": 1},
+  {"date": "2023-08-05", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 425, "set": "2", "jamchart": true, "jam": "Mike begins \"Guy Forget\" out of pure improv (so-called \"type II\" jamming) and Trey catches on in seconds, and after only a few measures Fish starts singing \"Guy Forget,\" and Trey and then Fish rap/speak the only lyric of \"Guy Forget\" over upbeat improv.", "out": "->", "prev": "Tweezer", "in": "->", "next": "Tweezer", "nb": 1},
+  {"date": "2024-08-03", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 38, "set": "2", "out": "->", "prev": "Crosseyed and Painless", "in": "->", "next": "Crosseyed and Painless", "nb": 1}
  ]
 }

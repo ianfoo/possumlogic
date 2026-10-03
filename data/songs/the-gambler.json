@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2012-06-10", "venue": "Bonnaroo Music & Arts Festival", "city": "Manchester", "state": "TN", "gap": null, "set": "1", "note": "Phish debut; Kenny Rogers on vocals.", "nb": 1, "prev": "Axilla", "next": "Possum"}
+  {"date": "2012-06-10", "venue": "Bonnaroo Music & Arts Festival", "city": "Manchester", "state": "TN", "gap": null, "set": "1", "note": "Phish debut; Kenny Rogers on vocals.", "prev": "Axilla", "next": "Possum", "nb": 1}
  ]
 }

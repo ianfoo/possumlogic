@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2011-06-07", "venue": "Comcast Center", "city": "Mansfield", "state": "MA", "gap": 1527, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "David Bowie", "next": "Divided Sky"}
+  {"date": "2011-06-07", "venue": "Comcast Center", "city": "Mansfield", "state": "MA", "gap": null, "set": "1", "note": "Phish debut.", "prev": "David Bowie", "next": "Divided Sky", "nb": 1}
  ]
 }

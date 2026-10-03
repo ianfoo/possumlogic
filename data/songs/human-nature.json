@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2024-07-20", "venue": "Xfinity Center", "city": "Mansfield", "state": "MA", "gap": null, "set": "1", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Backwards Down the Number Line", "next": "It's Ice"},
-  {"date": "2024-08-11", "venue": "Bethel Woods Center for the Arts", "city": "Bethel", "state": "NY", "gap": 15, "set": "1", "nb": 1, "prev": "Timber (Jerry the Mule)", "next": "Limb By Limb"}
+  {"date": "2024-07-20", "venue": "Xfinity Center", "city": "Mansfield", "state": "MA", "gap": null, "set": "1", "note": "Phish debut.", "out": ">", "prev": "Backwards Down the Number Line", "next": "It's Ice", "nb": 1},
+  {"date": "2024-08-11", "venue": "Bethel Woods Center for the Arts", "city": "Bethel", "state": "NY", "gap": 16, "set": "1", "prev": "Timber (Jerry the Mule)", "next": "Limb By Limb", "nb": 1}
  ]
 }

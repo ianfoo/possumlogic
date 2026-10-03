@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2011-07-02", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": 1538, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "Suzy Greenberg", "xnext": "Runaway Jim"}
+  {"date": "2011-07-02", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": null, "set": "1", "note": "Phish debut.", "prev": "Suzy Greenberg", "xnext": "Runaway Jim", "nb": 1}
  ]
 }

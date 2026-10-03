@@ -3,13 +3,16 @@
  "slug": "chalk-dust-torture-reprise",
  "artist": "Phish",
  "best": [
-
+  {"date": "2000-07-11", "score": 76, "venue": "Deer Creek Music Center", "city": "Noblesville", "state": "IN", "link": "https://fouldomain.com/tracks/24610"},
+  {"date": "1994-12-10", "score": 57, "venue": "Civic Auditorium", "city": "Santa Monica", "state": "CA", "link": "https://fouldomain.com/tracks/17290"},
+  {"date": "2019-12-08", "score": 51, "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "link": "https://fouldomain.com/tracks/35687"},
+  {"date": "2019-12-28", "score": 34, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/35708"}
  ],
  "performances": [
-  {"date": "1994-12-10", "venue": "Civic Auditorium", "city": "Santa Monica", "state": "CA", "gap": 946, "set": "e", "note": "Debut; crew introductions.", "nb": 1, "xprev": "Cavern", "next": "Good Times Bad Times"},
-  {"date": "2000-07-11", "venue": "Deer Creek Music Center", "city": "Noblesville", "state": "IN", "gap": 393, "set": "1", "times": 2, "jamchart": true, "jam": "Fun little ditty, and very unlike big brother &quot;CDT&quot; makes only its second appearance ever, transitioning in through a series of stops at the end of a funky version of &quot;Drowned.&quot; The third and final version (so far) of &quot;CDT Reprise&quot; was played as final encore (following &quot;Moby Dick,&quot; of course) at this thematic show.", "out": ">", "nb": 1, "prev": "Drowned", "next": "Chalk Dust Torture"},
-  {"date": "2019-12-08", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 524, "set": "e", "nb": 1, "prev": "Izabella", "last": 1},
-  {"date": "2019-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1, "set": "2", "note": "With lyrics changed to Ass Handed.", "out": ">", "nb": 1, "prev": "Ass Handed", "in": ">", "next": "Character Zero"},
-  {"date": "2024-02-24", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 141, "set": "1", "nb": 1, "prev": "Sanity", "next": "Wolfman's Brother"}
+  {"date": "1994-12-10", "venue": "Civic Auditorium", "city": "Santa Monica", "state": "CA", "gap": null, "set": "e", "note": "Debut; crew introductions.", "next": "Good Times Bad Times", "xprev": "Cavern", "nb": 1},
+  {"date": "2000-07-11", "venue": "Deer Creek Music Center", "city": "Noblesville", "state": "IN", "gap": 393, "set": "1", "times": 2, "jamchart": true, "jam": "Fun little ditty, and very unlike big brother &quot;CDT&quot; makes only its second appearance ever, transitioning in through a series of stops at the end of a funky version of &quot;Drowned.&quot; The third and final version (so far) of &quot;CDT Reprise&quot; was played as final encore (following &quot;Moby Dick,&quot; of course) at this thematic show.", "out": ">", "prev": "Drowned", "next": "Chalk Dust Torture", "nb": 1},
+  {"date": "2019-12-08", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 524, "set": "e", "prev": "Izabella", "last": 1, "nb": 1},
+  {"date": "2019-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1, "set": "2", "note": "With lyrics changed to Ass Handed.", "out": ">", "prev": "Ass Handed", "in": ">", "next": "Character Zero", "nb": 1},
+  {"date": "2024-02-24", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 142, "set": "1", "prev": "Sanity", "next": "Wolfman's Brother", "nb": 1}
  ]
 }

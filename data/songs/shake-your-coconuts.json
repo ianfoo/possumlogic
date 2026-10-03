@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2017-07-21", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1768, "set": "1", "note": "Phish debut. Lyrics changed to reference the Baker's Dozen.", "nb": 1, "first": 1, "next": "Martian Monster"},
-  {"date": "2020-02-20", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 100, "set": "1", "note": "Lyrics changed to \"It's Phish in Mexico time.\"", "nb": 1, "prev": "Free", "next": "Victim"}
+  {"date": "2017-07-21", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Phish debut. Lyrics changed to reference the Baker's Dozen.", "next": "Martian Monster", "first": 1, "nb": 1},
+  {"date": "2020-02-20", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 100, "set": "1", "note": "Lyrics changed to \"It's Phish in Mexico time.\"", "prev": "Free", "next": "Victim", "nb": 1}
  ]
 }

@@ -3,11 +3,13 @@
  "slug": "susskind-hotel",
  "artist": "Phish",
  "best": [
-
+  {"date": "2011-09-02", "score": 49, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/29120"},
+  {"date": "2012-07-04", "score": 42, "venue": "Nikon at Jones Beach Theater", "city": "Wantagh", "state": "NY", "link": "https://fouldomain.com/tracks/29698"},
+  {"date": "2011-07-02", "score": 38, "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "link": "https://fouldomain.com/tracks/28838"}
  ],
  "performances": [
-  {"date": "2011-07-02", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": 1538, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "46 Days", "in": ">", "next": "When the Circus Comes"},
-  {"date": "2011-09-02", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 11, "set": "1", "nb": 1, "prev": "Sweet Virginia", "next": "Strange Design"},
-  {"date": "2012-07-04", "venue": "Nikon at Jones Beach Theater", "city": "Wantagh", "state": "NY", "gap": 24, "set": "1", "nb": 1, "prev": "Alaska", "in": ">", "next": "Hold Your Head Up"}
+  {"date": "2011-07-02", "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "gap": null, "set": "1", "note": "Phish debut.", "prev": "46 Days", "in": ">", "next": "When the Circus Comes", "nb": 1},
+  {"date": "2011-09-02", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 11, "set": "1", "prev": "Sweet Virginia", "next": "Strange Design", "nb": 1},
+  {"date": "2012-07-04", "venue": "Nikon at Jones Beach Theater", "city": "Wantagh", "state": "NY", "gap": 24, "set": "1", "prev": "Alaska", "in": ">", "next": "Hold Your Head Up", "nb": 1}
  ]
 }

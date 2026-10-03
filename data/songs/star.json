@@ -3,9 +3,33 @@
  "slug": "star",
  "artist": "Phish",
  "best": [
-
+  {"date": "2019-07-09", "score": 91, "venue": "Mohegan Sun Arena", "city": "Uncasville", "state": "CT", "link": "https://fouldomain.com/tracks/35321"},
+  {"date": "2021-10-26", "score": 86, "venue": "Santa Barbara Bowl", "city": "Santa Barbara", "state": "CA", "link": "https://fouldomain.com/tracks/36451"},
+  {"date": "2026-01-31", "score": 85, "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "link": "https://fouldomain.com/tracks/40087"},
+  {"date": "2020-02-20", "score": 84, "venue": "Moon Palace", "city": "Cancun, Quintana Roo", "state": "", "link": "https://fouldomain.com/tracks/35793"},
+  {"date": "2023-04-19", "score": 83, "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ", "city": "Berkeley", "state": "CA", "link": "https://fouldomain.com/tracks/37599"},
+  {"date": "2022-02-27", "score": 82, "venue": "Moon Palace", "city": "Cancun, Quintana Roo", "state": "", "link": "https://fouldomain.com/tracks/36639"},
+  {"date": "2026-07-19", "score": 76, "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "link": "https://fouldomain.com/tracks/149721"},
+  {"date": "2011-07-03", "score": 75, "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "link": "https://fouldomain.com/tracks/28897"},
+  {"date": "2025-09-20", "score": 75, "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "link": "https://fouldomain.com/tracks/39916"},
+  {"date": "2026-07-29", "score": 70, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/209963"},
+  {"date": "2026-04-17", "score": 65, "venue": "Sphere", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/50754"},
+  {"date": "1996-12-28", "score": 62, "venue": "CoreStates Spectrum", "city": "Philadelphia", "state": "PA", "link": "https://fouldomain.com/tracks/20182"},
+  {"date": "2009-05-31", "score": 62, "venue": "Fenway Park", "city": "Boston", "state": "MA", "link": "https://fouldomain.com/tracks/26262"},
+  {"date": "2009-06-16", "score": 59, "venue": "The Fox Theatre", "city": "St. Louis", "state": "MO", "link": "https://fouldomain.com/tracks/26492"},
+  {"date": "2010-07-04", "score": 59, "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "link": "https://fouldomain.com/tracks/27682"},
+  {"date": "2021-09-03", "score": 59, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/36254"},
+  {"date": "1996-10-17", "score": 58, "venue": "Bryce Jordan Center, Penn State University", "city": "State College", "state": "PA", "link": "https://fouldomain.com/tracks/19513"},
+  {"date": "2021-08-15", "score": 58, "venue": "Atlantic City Beach", "city": "Atlantic City", "state": "NJ", "link": "https://fouldomain.com/tracks/36135"},
+  {"date": "2024-04-21", "score": 57, "venue": "Sphere", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/38514"},
+  {"date": "1996-10-25", "score": 55, "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "link": "https://fouldomain.com/tracks/19631"},
+  {"date": "2021-08-29", "score": 55, "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "link": "https://fouldomain.com/tracks/36198"},
+  {"date": "2023-08-31", "score": 55, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/38069"},
+  {"date": "1996-10-21", "score": 54, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/19553"},
+  {"date": "1996-11-27", "score": 54, "venue": "Key Arena", "city": "Seattle", "state": "WA", "link": "https://fouldomain.com/tracks/20037"},
+  {"date": "2016-12-28", "score": 54, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/33521"}
  ],
  "performances": [
-  {"date": "2016-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1747, "set": "2", "note": "Phish debut; With Jennifer Hartswick, Celisse Henderson, and Jo Lampert on backing vocals.", "nb": 1, "prev": "Lady Stardust", "next": "Hang On to Yourself"}
+  {"date": "2016-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Phish debut; With Jennifer Hartswick, Celisse Henderson, and Jo Lampert on backing vocals.", "prev": "Lady Stardust", "next": "Hang On to Yourself", "nb": 1}
  ]
 }

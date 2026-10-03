@@ -3,16 +3,23 @@
  "slug": "sing-monica",
  "artist": "Phish",
  "best": [
-
+  {"date": "2014-07-13", "score": 55, "venue": "Randall's Island", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/31281"},
+  {"date": "2014-07-03", "score": 43, "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "link": "https://fouldomain.com/tracks/31141"},
+  {"date": "2014-07-09", "score": 43, "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "link": "https://fouldomain.com/tracks/31205"},
+  {"date": "2014-07-26", "score": 41, "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "link": "https://fouldomain.com/tracks/31434"},
+  {"date": "2016-07-20", "score": 40, "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "link": "https://fouldomain.com/tracks/33067"},
+  {"date": "2014-11-01", "score": 36, "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/31914"},
+  {"date": "2013-10-31", "score": 35, "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "link": "https://fouldomain.com/tracks/30925"},
+  {"date": "2013-12-28", "score": 27, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/30993"}
  ],
  "performances": [
-  {"date": "2013-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 1628, "set": "2", "note": "Debut; Acoustic.", "nb": 1, "prev": "The Line", "next": "Waiting All Night"},
-  {"date": "2013-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 3, "set": "1", "nb": 1, "prev": "Wolfman's Brother", "next": "Seven Below"},
-  {"date": "2014-07-03", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 7, "set": "e", "out": ">", "nb": 1, "xprev": "Run Like an Antelope", "next": "Tweezer Reprise"},
-  {"date": "2014-07-09", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": 4, "set": "1", "nb": 1, "prev": "Glide", "next": "Birds of a Feather"},
-  {"date": "2014-07-13", "venue": "Randall's Island", "city": "New York", "state": "NY", "gap": 3, "set": "2", "nb": 1, "prev": "Wading in the Velvet Sea", "next": "Slave to the Traffic Light"},
-  {"date": "2014-07-26", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 7, "set": "2", "out": ">", "nb": 1, "prev": "The Mango Song", "in": ">", "next": "Light"},
-  {"date": "2014-11-01", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 20, "set": "e", "nb": 1, "prev": "Waiting All Night", "next": "The Star-Spangled Banner"},
-  {"date": "2016-07-20", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 55, "set": "1", "out": ">", "nb": 1, "prev": "Cry Baby Cry", "next": "McGrupp and the Watchful Hosemasters"}
+  {"date": "2013-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "note": "Debut; Acoustic.", "prev": "The Line", "next": "Waiting All Night", "nb": 1},
+  {"date": "2013-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 3, "set": "1", "prev": "Wolfman's Brother", "next": "Seven Below", "nb": 1},
+  {"date": "2014-07-03", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 7, "set": "e", "out": ">", "next": "Tweezer Reprise", "xprev": "Run Like an Antelope", "nb": 1},
+  {"date": "2014-07-09", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": 4, "set": "1", "prev": "Glide", "next": "Birds of a Feather", "nb": 1},
+  {"date": "2014-07-13", "venue": "Randall's Island", "city": "New York", "state": "NY", "gap": 3, "set": "2", "prev": "Wading in the Velvet Sea", "next": "Slave to the Traffic Light", "nb": 1},
+  {"date": "2014-07-26", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 7, "set": "2", "out": ">", "prev": "The Mango Song", "in": ">", "next": "Light", "nb": 1},
+  {"date": "2014-11-01", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 20, "set": "e", "prev": "Waiting All Night", "next": "The Star-Spangled Banner", "nb": 1},
+  {"date": "2016-07-20", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 55, "set": "1", "out": ">", "prev": "Cry Baby Cry", "next": "McGrupp and the Watchful Hosemasters", "nb": 1}
  ]
 }
