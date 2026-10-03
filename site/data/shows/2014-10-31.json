@@ -204,7 +204,7 @@
       "song": "Wolfman's Brother",
       "slug": "wolfmans-brother",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 166,
       "recent_plays": 68,
@@ -213,7 +213,7 @@
       "gap_low": 1.5134884318207917,
       "gap_high": 3.994560343206211,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2014-10-29",
       "prev_venue": "Bill Graham Civic Auditorium",
       "prev_place": "San Francisco, CA"

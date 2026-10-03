@@ -185,7 +185,7 @@
       "song": "Golden Age",
       "slug": "golden-age",
       "jamchart": true,
-      "gap": null,
+      "gap": 1,
       "out": "->",
       "plays": 82,
       "recent_plays": 49,
@@ -194,7 +194,7 @@
       "gap_low": 2.9556145679470673,
       "gap_high": 10.215887421087777,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2025-02-01",
       "prev_venue": "Moon Palace",
       "prev_place": "Cancun, Quintana Roo"

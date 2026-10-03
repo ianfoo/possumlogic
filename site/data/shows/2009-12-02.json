@@ -204,7 +204,7 @@
       "song": "Cavern",
       "slug": "cavern",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 377,
       "recent_plays": 29,
@@ -213,7 +213,7 @@
       "gap_low": 2.1293487053830114,
       "gap_high": 8.950095189295293,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2009-11-29",
       "prev_venue": "Cumberland County Civic Center",
       "prev_place": "Portland, ME"

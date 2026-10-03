@@ -14,7 +14,7 @@
       "song": "First Tube",
       "slug": "first-tube",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 101,
       "recent_plays": 54,
@@ -23,7 +23,7 @@
       "gap_low": 2.67006607592893,
       "gap_high": 10.03132028490525,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2019-09-01",
       "prev_venue": "Dick's Sporting Goods Park",
       "prev_place": "Commerce City, CO"

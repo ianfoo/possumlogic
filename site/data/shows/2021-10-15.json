@@ -33,7 +33,7 @@
       "song": "Harry Hood",
       "slug": "harry-hood",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 393,
       "recent_plays": 86,
@@ -42,7 +42,7 @@
       "gap_low": 1.4748595164359655,
       "gap_high": 4.682221124221046,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2021-09-05",
       "prev_venue": "Dick's Sporting Goods Park",
       "prev_place": "Commerce City, CO"

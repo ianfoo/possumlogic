@@ -52,7 +52,7 @@
       "song": "Possum",
       "slug": "possum",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 458,
       "recent_plays": 55,
@@ -61,7 +61,7 @@
       "gap_low": 0.9848106704439406,
       "gap_high": 3.8666835653730347,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "expected",
       "prev_date": "2011-08-06",
       "prev_venue": "Gorge Amphitheatre",
       "prev_place": "George, WA"

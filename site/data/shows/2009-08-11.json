@@ -205,7 +205,7 @@
       "song": "Backwards Down the Number Line",
       "slug": "backwards-down-the-number-line",
       "jamchart": true,
-      "gap": null,
+      "gap": 1,
       "out": ">",
       "plays": 9,
       "recent_plays": 8,

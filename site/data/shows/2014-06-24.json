@@ -147,7 +147,7 @@
       "song": "Twist",
       "slug": "twist",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 93,
       "recent_plays": 40,
@@ -156,7 +156,7 @@
       "gap_low": 1.6605747593269182,
       "gap_high": 7.938954358796742,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2014-04-26",
       "prev_venue": "New Orleans Fairgrounds",
       "prev_place": "New Orleans, LA"

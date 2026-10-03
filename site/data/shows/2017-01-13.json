@@ -265,7 +265,7 @@
       "song": "Twist",
       "slug": "twist",
       "jamchart": true,
-      "gap": null,
+      "gap": 1,
       "out": "->",
       "plays": 126,
       "recent_plays": 72,
@@ -274,7 +274,7 @@
       "gap_low": 1.3565515079994759,
       "gap_high": 6.0810155102409915,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2016-12-31",
       "prev_venue": "Madison Square Garden",
       "prev_place": "New York, NY"

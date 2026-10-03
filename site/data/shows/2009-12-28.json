@@ -356,7 +356,7 @@
       "song": "Harry Hood",
       "slug": "harry-hood",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": ">",
       "plays": 284,
       "recent_plays": 43,
@@ -365,7 +365,7 @@
       "gap_low": 1.4654901556560667,
       "gap_high": 4.8228238334464395,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2009-12-05",
       "prev_venue": "John Paul Jones Arena",
       "prev_place": "Charlottesville, VA"

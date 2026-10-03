@@ -299,7 +299,7 @@
       "song": "Tweezer Reprise",
       "slug": "tweezer-reprise",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": ">",
       "plays": 285,
       "recent_plays": 97,
@@ -308,7 +308,7 @@
       "gap_low": 1.5886012847462458,
       "gap_high": 5.004934197636624,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2019-07-02",
       "prev_venue": "Saratoga Performing Arts Center",
       "prev_place": "Saratoga Springs, NY"

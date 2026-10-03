@@ -395,7 +395,7 @@
       "song": "Tweezer Reprise",
       "slug": "tweezer-reprise",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 318,
       "recent_plays": 69,
@@ -404,7 +404,7 @@
       "gap_low": 2.019973184772647,
       "gap_high": 6.83766370833072,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2024-09-01",
       "prev_venue": "Dick's Sporting Goods Park",
       "prev_place": "Commerce City, CO"

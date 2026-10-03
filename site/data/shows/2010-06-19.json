@@ -14,7 +14,7 @@
       "song": "Tweezer Reprise",
       "slug": "tweezer-reprise",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 198,
       "recent_plays": 35,
@@ -23,7 +23,7 @@
       "gap_low": 1.5566489483718327,
       "gap_high": 6.290669733247178,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2010-06-18",
       "prev_venue": "The Comcast Theatre",
       "prev_place": "Hartford, CT"

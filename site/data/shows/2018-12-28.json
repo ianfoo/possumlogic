@@ -356,7 +356,7 @@
       "song": "Possum",
       "slug": "possum",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 527,
       "recent_plays": 112,
@@ -365,7 +365,7 @@
       "gap_low": 1.1963887654274878,
       "gap_high": 4.136923050177857,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2018-11-03",
       "prev_venue": "MGM Grand Garden Arena",
       "prev_place": "Las Vegas, NV"

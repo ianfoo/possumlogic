@@ -360,7 +360,7 @@
       "song": "Cavern",
       "slug": "cavern",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": ">",
       "plays": 402,
       "recent_plays": 44,
@@ -369,7 +369,7 @@
       "gap_low": 1.3781822791076057,
       "gap_high": 6.231350462531581,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2011-12-31",
       "prev_venue": "Madison Square Garden",
       "prev_place": "New York, NY"
