@@ -6,7 +6,7 @@
   "state": "NJ",
   "artist": "Phish",
   "tour": "2026 Fall Tour",
-  "notes": "<p>Down with Disease featured Trey on the mini drum kit.</p>",
+  "notes": "<p>Down with Disease was unfinished and featured Trey on mini drum kit.</p>",
   "permalink": "https://phish.net/setlists/phish-october-02-2026-jim-whelan-boardwalk-hall-atlantic-city-nj-usa.html",
   "songs": [
     {
@@ -160,9 +160,28 @@
       "gap_high": 8.23436110135188,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Tweezer",
+      "slug": "tweezer",
+      "gap": 0,
+      "jamchart": false,
+      "prev_date": "2026-09-05",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 420,
+      "recent_plays": 67,
+      "gap_median": 5,
+      "gap_mean": 5.7164179104477615,
+      "gap_low": 3.3063139984264955,
+      "gap_high": 8.190027699941924,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
-  "count_since": "2026-10-03T01:46:58+00:00",
+  "count_since": "2026-10-03T02:12:34+00:00",
   "encored": false,
   "provisional": true
 }
