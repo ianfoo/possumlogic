@@ -84,9 +84,28 @@
       "gap_high": 13.401411220242055,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 1",
+      "song": "It's Ice",
+      "slug": "its-ice",
+      "gap": 7,
+      "jamchart": false,
+      "prev_date": "2026-07-27",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 256,
+      "recent_plays": 21,
+      "gap_median": 13,
+      "gap_mean": 18.095238095238095,
+      "gap_low": 8.2854881383273,
+      "gap_high": 27.998949594060964,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
-  "count_since": "2026-10-03T00:30:07+00:00",
+  "count_since": "2026-10-03T00:40:24+00:00",
   "encored": false,
   "provisional": true
 }
