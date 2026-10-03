@@ -19,7 +19,14 @@
       "prev_venue": "Dick's Sporting Goods Park",
       "prev_place": "Commerce City, CO",
       "out": "",
-      "verdict": null
+      "plays": 104,
+      "recent_plays": 64,
+      "gap_median": 6.0,
+      "gap_mean": 5.984375,
+      "gap_low": 2.9174445687754145,
+      "gap_high": 9.15174896820174,
+      "gap_away": null,
+      "verdict": "premature"
     },
     {
       "set": "SET 1",
@@ -31,7 +38,14 @@
       "prev_venue": "Dick's Sporting Goods Park",
       "prev_place": "Commerce City, CO",
       "out": "",
-      "verdict": null
+      "plays": 45,
+      "recent_plays": 43,
+      "gap_median": 5,
+      "gap_mean": 5.674418604651163,
+      "gap_low": 3.0550647310468175,
+      "gap_high": 8.252271703433909,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
   "count_since": "2026-10-02T23:59:19+00:00",
