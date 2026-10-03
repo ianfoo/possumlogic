@@ -323,6 +323,6 @@
   {"date": "2026-05-02", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 15, "set": "e", "prev": "Wading in the Velvet Sea", "last": 1, "nb": 1},
   {"date": "2026-07-12", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 5, "set": "e", "prev": "Wilson", "in": ">", "last": 1, "nb": 1},
   {"date": "2026-07-24", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 8, "set": "e", "prev": "Sweet Adeline", "last": 1, "nb": 1},
-  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 9, "set": "2", "prev": "Death Don't Hurt Very Long", "in": ">"}
+  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 9, "set": "2", "prev": "Death Don't Hurt Very Long", "in": ">", "xnext": "Alumni Blues"}
  ]
 }

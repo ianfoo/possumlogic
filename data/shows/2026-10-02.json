@@ -6,7 +6,7 @@
   "state": "NJ",
   "artist": "Phish",
   "tour": "2026 Fall Tour",
-  "notes": "<p>Down with Disease was unfinished. DwD and Tweezer featured Trey on mini drum kit. Death Don't Hurt Very Long was last performed <a class=\"show-date-link\" href=\"https://phish.net/setlists/phish-august-07-2024-van-andel-arena-grand-rapids-mi-usa.html\" data-showdate=\"2024-08-07\">August 7, 2024</a> (100 shows).</p>",
+  "notes": "<p>Down with Disease was unfinished. DwD and Tweezer featured Trey on mini drum kit. Death Don't Hurt Very Long was last performed <a class=\"show-date-link\" href=\"https://phish.net/setlists/phish-august-07-2024-van-andel-arena-grand-rapids-mi-usa.html\" data-showdate=\"2024-08-07\">August 7, 2024</a> (100 shows). Alumni Blues was last performed <a class=\"show-date-link\" href=\"https://phish.net/setlists/phish-july-12-2023-orion-amphitheater-huntsville-al-usa.html\" data-showdate=\"2023-07-12\">July 12, 2023</a> (158 shows).</p>",
   "permalink": "https://phish.net/setlists/phish-october-02-2026-jim-whelan-boardwalk-hall-atlantic-city-nj-usa.html",
   "songs": [
     {
@@ -236,9 +236,28 @@
       "gap_high": 13.235713487372294,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "ENCORE",
+      "song": "Alumni Blues",
+      "slug": "alumni-blues",
+      "gap": 158,
+      "jamchart": false,
+      "prev_date": "2023-07-12",
+      "prev_venue": "Orion Amphitheater",
+      "prev_place": "Huntsville, AL",
+      "out": "",
+      "plays": 113,
+      "recent_plays": 6,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": "bustout"
     }
   ],
-  "count_since": "2026-10-03T02:48:29+00:00",
-  "encored": false,
+  "count_since": "2026-10-03T03:08:58+00:00",
+  "encored": true,
   "provisional": true
 }
