@@ -65,9 +65,28 @@
       "gap_high": 7.859412311241368,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 1",
+      "song": "Pillow Jets",
+      "slug": "pillow-jets",
+      "gap": 17,
+      "jamchart": false,
+      "prev_date": "2026-07-12",
+      "prev_venue": "Ruoff Music Center",
+      "prev_place": "Noblesville, IN",
+      "out": "",
+      "plays": 18,
+      "recent_plays": 16,
+      "gap_median": 8.0,
+      "gap_mean": 8.4375,
+      "gap_low": 3.762756602513682,
+      "gap_high": 13.401411220242055,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-03T00:19:51+00:00",
+  "count_since": "2026-10-03T00:30:07+00:00",
   "encored": false,
   "provisional": true
 }
