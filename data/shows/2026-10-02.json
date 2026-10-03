@@ -122,9 +122,28 @@
       "gap_high": 6.410110519027579,
       "gap_away": null,
       "verdict": "premature"
+    },
+    {
+      "set": "SET 2",
+      "song": "Oblivion",
+      "slug": "oblivion",
+      "gap": 3,
+      "jamchart": false,
+      "prev_date": "2026-09-04",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 30,
+      "recent_plays": 28,
+      "gap_median": 5.5,
+      "gap_mean": 5.571428571428571,
+      "gap_low": 3.691129299491653,
+      "gap_high": 7.527787105631539,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
-  "count_since": "2026-10-03T00:50:41+00:00",
+  "count_since": "2026-10-03T01:26:29+00:00",
   "encored": false,
   "provisional": true
 }
