@@ -30,7 +30,7 @@
   {"date": "2015-08-11", "score": 51, "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "link": "https://fouldomain.com/tracks/32288"}
  ],
  "performances": [
-  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": 0, "set": "1", "times": 2, "nb": 1, "prev": "Water in the Sky", "next": "Dirt"},
+  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": null, "set": "1", "times": 2, "nb": 1, "prev": "Water in the Sky", "next": "Dirt"},
   {"date": "1997-06-13", "venue": "The S.F.X. Centre", "city": "Dublin", "state": "County Dublin", "gap": 1114, "set": "2", "jamchart": true, "jam": "Played twice during \"Bradstock\" (6/6/97), \"Vultures\" properly debuts in Dublin, a month before the band's historic 1997 summer tour. While the song will be reworked over the coming years, its essential elements are place, namely super intra-band improvisation, working within the \"context\" of the song's form, framed, in large part, by incredible percussion and rhythmic variation.", "note": "Debut.", "nb": 1, "prev": "Water in the Sky", "next": "Slave to the Traffic Light"},
   {"date": "1997-06-19", "venue": "Arena Wien", "city": "Vienna", "state": "Vienna", "gap": 3, "set": "1", "nb": 1, "prev": "Waste", "next": "Runaway Jim"},
   {"date": "1997-06-24", "venue": "La Laiterie", "city": "Strasbourg", "state": "Grand Est", "gap": 4, "set": "1", "nb": 1, "prev": "Dogs Stole Things", "next": "Guelah Papyrus"},

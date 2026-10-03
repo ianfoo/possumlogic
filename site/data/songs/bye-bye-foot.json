@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": 0, "set": "1", "nb": 1, "prev": "Samson Variation", "xnext": "Samson Variation"},
+  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "Samson Variation", "xnext": "Samson Variation"},
   {"date": "1997-06-14", "venue": "The S.F.X. Centre", "city": "Dublin", "state": "County Dublin", "gap": 1118, "set": "1", "note": "Debut.", "nb": 1, "prev": "Limb By Limb", "next": "Free"},
   {"date": "1997-06-20", "venue": "Divadlo Archa", "city": "Prague", "state": "Prague", "gap": 3, "set": "2", "out": ">", "nb": 1, "prev": "Ghost", "next": "Ginseng Sullivan"},
   {"date": "1997-07-22", "venue": "Walnut Creek Amphitheater", "city": "Raleigh", "state": "NC", "gap": 16, "set": "1", "nb": 1, "prev": "Vultures", "next": "Taste"},

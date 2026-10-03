@@ -30,7 +30,7 @@
   {"date": "2015-08-23", "score": 79, "venue": "Watkins Glen International", "city": "Watkins Glen", "state": "NY", "link": "https://fouldomain.com/tracks/32445"}
  ],
  "performances": [
-  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": 0, "set": "1", "nb": 1, "first": 1, "next": "Weigh"},
+  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": null, "set": "1", "nb": 1, "first": 1, "next": "Weigh"},
   {"date": "1992-03-06", "venue": "The Music Hall", "city": "Portsmouth", "state": "NH", "gap": 590, "set": "1", "jamchart": true, "jam": "Debut is played at a slower tempo than later versions, and Page's solo features the piano rather than the B-3.", "note": "Debut.", "nb": 1, "prev": "Guelah Papyrus", "next": "Reba"},
   {"date": "1992-03-07", "venue": "The Music Hall", "city": "Portsmouth", "state": "NH", "gap": 1, "set": "1", "nb": 1, "prev": "Silent in the Morning", "next": "The Mango Song"},
   {"date": "1992-03-11", "venue": "The Colonial Theatre", "city": "Keene", "state": "NH", "gap": 1, "set": "1", "nb": 1, "prev": "Reba", "next": "Fee"},

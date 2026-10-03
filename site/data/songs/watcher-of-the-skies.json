@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2010-03-15", "venue": "The Waldorf Astoria", "city": "New York", "state": "NY", "gap": 0, "set": "1", "note": "Phish Debut.", "nb": 1, "first": 1, "next": "No Reply At All"}
+  {"date": "2010-03-15", "venue": "The Waldorf Astoria", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Phish Debut.", "nb": 1, "first": 1, "next": "No Reply At All"}
  ]
 }

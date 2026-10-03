@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2016-06-29", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": 0, "set": "2", "note": "Debut.", "nb": 1, "prev": "The Line", "next": "Backwards Down the Number Line"},
+  {"date": "2016-06-29", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": null, "set": "2", "note": "Debut.", "nb": 1, "prev": "The Line", "next": "Backwards Down the Number Line"},
   {"date": "2016-07-06", "venue": "Cross Insurance Arena", "city": "Portland", "state": "ME", "gap": 4, "set": "2", "out": ">", "nb": 1, "prev": "Mike's Song", "in": ">", "next": "Devotion to a Dream"},
   {"date": "2016-07-15", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 4, "set": "1", "nb": 1, "prev": "The Line", "next": "Rift"},
   {"date": "2016-10-18", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": 14, "set": "1", "nb": 1, "prev": "Sand", "next": "46 Days"},

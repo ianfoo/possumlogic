@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2026-01-29", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 0, "set": "e", "note": "Debut.", "nb": 1, "xprev": "What's Going Through Your Mind", "next": "Run Like an Antelope"}
+  {"date": "2026-01-29", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": null, "set": "e", "note": "Debut.", "nb": 1, "xprev": "What's Going Through Your Mind", "next": "Run Like an Antelope"}
  ]
 }

@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2016-06-29", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": 0, "set": "1", "note": "Debut.", "nb": 1, "prev": "Blaze On", "next": "Llama"},
+  {"date": "2016-06-29", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": null, "set": "1", "note": "Debut.", "nb": 1, "prev": "Blaze On", "next": "Llama"},
   {"date": "2016-10-15", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 21, "set": "1", "out": ">", "nb": 1, "prev": "Devotion to a Dream", "next": "Timber (Jerry the Mule)"},
   {"date": "2016-10-19", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": 3, "set": "1", "nb": 1, "prev": "My Sweet One", "next": "Halfway to the Moon"},
   {"date": "2016-10-25", "venue": "Verizon Theatre at Grand Prairie", "city": "Grand Prairie", "state": "TX", "gap": 4, "set": "1", "nb": 1, "prev": "Foam", "next": "Divided Sky"},

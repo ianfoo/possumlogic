@@ -30,7 +30,7 @@
   {"date": "2016-07-18", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 7, "set": "1", "nb": 1, "prev": "46 Days", "next": "Roggae"},
   {"date": "2016-10-21", "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "gap": 15, "set": "1", "nb": 1, "prev": "Blaze On", "next": "Things People Do"},
   {"date": "2016-12-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 10, "set": "1", "nb": 1, "prev": "Wilson", "next": "You Enjoy Myself"},
-  {"date": "2017-01-12", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 0, "set": "1", "nb": 1, "prev": "Jam", "next": "My Soul"},
+  {"date": "2017-01-12", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": null, "set": "1", "nb": 1, "prev": "Jam", "next": "My Soul"},
   {"date": "2017-07-18", "venue": "Ervin J. Nutter Center, Wright State University", "city": "Dayton", "state": "OH", "gap": 8, "set": "1", "nb": 1, "prev": "Roggae", "next": "Maze"},
   {"date": "2017-08-01", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 10, "set": "1", "nb": 1, "prev": "Crowd Control", "next": "When the Circus Comes"},
   {"date": "2017-09-03", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 7, "set": "1", "nb": 1, "prev": "Birds of a Feather", "next": "Most Events Aren't Planned"},

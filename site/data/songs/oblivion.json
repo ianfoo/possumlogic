@@ -30,7 +30,7 @@
   {"date": "2025-06-22", "score": 29, "venue": "SNHU Arena", "city": "Manchester", "state": "NH", "link": "https://fouldomain.com/tracks/39406"}
  ],
  "performances": [
-  {"date": "2023-07-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 0, "set": "2", "note": "Phish debut.", "prev": "Lonely Trip", "next": "Chalk Dust Torture", "nb": 1},
+  {"date": "2023-07-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": null, "set": "2", "note": "Phish debut.", "prev": "Lonely Trip", "next": "Chalk Dust Torture", "nb": 1},
   {"date": "2023-07-19", "venue": "Live Oak Bank Pavilion at Riverfront Park", "city": "Wilmington", "state": "NC", "gap": 6, "set": "2", "jamchart": true, "jam": "> from \"Chalk Dust Torture.\" The second version of \"Oblivion\" gets taken for a big-time walk. This is grimy, dirty Phish; no bliss jamming or peaks to be found. Page on the synth, heavy effects from Trey, this is a truly exploratory jam.", "prev": "Chalk Dust Torture", "in": ">", "next": "The Wedge", "nb": 1},
   {"date": "2023-07-23", "venue": "St. Joseph's Health Amphitheater at Lakeview", "city": "Syracuse", "state": "NY", "gap": 3, "set": "2", "jamchart": true, "jam": "The second leg of a mammoth 1-2 punch following \"Tweezer\", \"Oblivion\" proves to be a prime vehicle for synth-drenched improvisation. A late-night, portentous atmosphere persists until the pivot to major shortly after 11:00, bringing to bear an encouraging blissful payoff.", "prev": "Tweezer", "in": "->", "next": "Miss You", "nb": 1},
   {"date": "2023-07-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 4, "set": "2", "out": ">", "prev": "Fuego", "in": ">", "next": "Wingsuit", "nb": 1},

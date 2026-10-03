@@ -32,7 +32,7 @@
  "performances": [
   {"date": "1985-04-06", "venue": "Finbar's", "city": "Burlington", "state": "VT", "gap": 14, "set": "1", "note": "First known performance.", "prev": "Camel Walk", "xnext": "McGrupp and the Watchful Hosemasters", "nb": 1},
   {"date": "1985-05-03", "venue": "University of Vermont", "city": "Burlington", "state": "VT", "gap": 7, "set": "3", "jamchart": true, "jam": "First recorded performance. -> in from \"Makisupa.\" Jam section only of \"Antelope\" is played at a slower tempo, but otherwise has crescendo building characteristics similar to modern versions. -> to the debut of the Grateful Dead's \"The Other One.\"", "out": "->", "prev": "Makisupa Policeman", "in": ">", "next": "The Other One", "nb": 1},
-  {"date": "1985-09-26", "venue": "WRUV Radio", "city": "Burlington", "state": "VT", "gap": 0, "set": "1", "prev": "Alumni Blues", "next": "Dave's Energy Guide", "nb": 1},
+  {"date": "1985-09-26", "venue": "WRUV Radio", "city": "Burlington", "state": "VT", "gap": null, "set": "1", "prev": "Alumni Blues", "next": "Dave's Energy Guide", "nb": 1},
   {"date": "1985-10-17", "venue": "Finbar's", "city": "Burlington", "state": "VT", "gap": 4, "set": "1", "prev": "Camel Walk", "next": "McGrupp and the Watchful Hosemasters", "nb": 1},
   {"date": "1985-11-23", "venue": "Goddard College", "city": "Plainfield", "state": "VT", "gap": 5, "set": "2", "out": "->", "prev": "Whipping Post", "next": "Dave's Energy Guide", "nb": 1},
   {"date": "1986-02-03", "venue": "Hunt's", "city": "Burlington", "state": "VT", "gap": 2, "set": "1", "note": "Jeff Holdsworth on slide guitar.", "prev": "Prep School Hippie", "xnext": "Exiled Shadows", "nb": 1},

@@ -119,7 +119,7 @@
   {"date": "1991-04-25", "venue": "Field House, University of New Hampshire", "city": "Durham", "state": "NH", "gap": 4, "set": "2", "nb": 1, "prev": "Tela", "in": ">", "next": "Stash"},
   {"date": "1991-05-10", "venue": "Page Commons Room, Student Center, Colby College", "city": "Waterville", "state": "ME", "gap": 7, "set": "1", "out": ">", "nb": 1, "prev": "Ya Mar", "next": "The Sloth"},
   {"date": "1991-05-12", "venue": "The Front", "city": "Burlington", "state": "VT", "gap": 2, "set": "1", "out": ">", "nb": 1, "prev": "Bouncing Around the Room", "next": "Stash"},
-  {"date": "1991-05-16", "venue": "The Sting", "city": "New Britain", "state": "CT", "gap": 0, "set": "2", "out": ">", "nb": 1, "prev": "Runaway Jim", "next": "Bouncing Around the Room"},
+  {"date": "1991-05-16", "venue": "The Sting", "city": "New Britain", "state": "CT", "gap": null, "set": "2", "out": ">", "nb": 1, "prev": "Runaway Jim", "next": "Bouncing Around the Room"},
   {"date": "1991-05-18", "venue": "The Marquee", "city": "New York", "state": "NY", "gap": 2, "set": "e", "out": ">", "nb": 1, "xprev": "The Lizards", "next": "Runaway Jim"},
   {"date": "1991-05-19", "venue": "Salisbury School", "city": "Salisbury", "state": "CT", "gap": 1, "set": "2", "out": ">", "nb": 1, "prev": "Reba", "next": "The Sloth"},
   {"date": "1991-07-11", "venue": "Battery Park", "city": "Burlington", "state": "VT", "gap": 1, "set": "2", "note": "Giant Country Horns.", "out": ">", "nb": 1, "xprev": "The Landlady", "next": "Cavern"},

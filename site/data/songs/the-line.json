@@ -42,7 +42,7 @@
   {"date": "2014-07-26", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 2, "set": "1", "nb": 1, "prev": "Lawn Boy", "next": "Stash"},
   {"date": "2014-07-29", "venue": "nTelos Pavilion", "city": "Portsmouth", "state": "VA", "gap": 2, "set": "2", "out": ">", "nb": 1, "prev": "If I Could", "next": "Birds of a Feather"},
   {"date": "2014-08-03", "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "gap": 4, "set": "1", "nb": 1, "prev": "Pebbles and Marbles", "next": "Vultures"},
-  {"date": "2014-08-29", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 0, "set": "1", "nb": 1, "prev": "Guyute", "next": "Ocelot"},
+  {"date": "2014-08-29", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": null, "set": "1", "nb": 1, "prev": "Guyute", "next": "Ocelot"},
   {"date": "2014-10-18", "venue": "Key Arena", "city": "Seattle", "state": "WA", "gap": 4, "set": "1", "nb": 1, "prev": "The Moma Dance", "next": "Sugar Shack"},
   {"date": "2014-10-24", "venue": "The Forum", "city": "Inglewood", "state": "CA", "gap": 3, "set": "1", "nb": 1, "prev": "Divided Sky", "next": "It's Ice"},
   {"date": "2014-10-29", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 3, "set": "1", "nb": 1, "prev": "The Wedge", "next": "Wolfman's Brother"},

@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2024-08-14", "venue": "The Woodlands", "city": "Dover", "state": "DE", "gap": 0, "set": "1", "out": ">", "nb": 1, "prev": "My Sharona", "in": ">", "next": "Day Tripper"}
+  {"date": "2024-08-14", "venue": "The Woodlands", "city": "Dover", "state": "DE", "gap": null, "set": "1", "out": ">", "nb": 1, "prev": "My Sharona", "in": ">", "next": "Day Tripper"}
  ]
 }

@@ -18,10 +18,10 @@
       "out": "",
       "plays": 228,
       "recent_plays": 77,
-      "gap_median": 3,
-      "gap_mean": 3.688311688311688,
-      "gap_low": 1.4483746740172374,
-      "gap_high": 6.1106381909797625,
+      "gap_median": 4.0,
+      "gap_mean": 3.8378378378378377,
+      "gap_low": 1.8202962758782775,
+      "gap_high": 5.930967771924622,
       "gap_away": null,
       "verdict": "premature",
       "prev_date": "2023-08-26",
@@ -113,10 +113,10 @@
       "out": "",
       "plays": 483,
       "recent_plays": 46,
-      "gap_median": 6.0,
-      "gap_mean": 6.782608695652174,
-      "gap_low": 2.31106022252673,
-      "gap_high": 11.529273517953154,
+      "gap_median": 6,
+      "gap_mean": 6.933333333333334,
+      "gap_low": 2.665219943836888,
+      "gap_high": 11.295497506724459,
       "gap_away": null,
       "verdict": "expected",
       "prev_date": "2023-08-04",
@@ -157,7 +157,8 @@
       "gap_high": 71.42638433357864,
       "gap_away": [
         3,
-        75
+        75,
+        9
       ],
       "verdict": "expected",
       "prev_date": "2023-07-15",
@@ -210,11 +211,11 @@
       "gap": 7,
       "out": "->",
       "plays": 68,
-      "recent_plays": 66,
-      "gap_median": 3.0,
-      "gap_mean": 3.4545454545454546,
-      "gap_low": 1.1899019557666457,
-      "gap_high": 5.752349062820829,
+      "recent_plays": 67,
+      "gap_median": 3,
+      "gap_mean": 3.619047619047619,
+      "gap_low": 1.528798994746416,
+      "gap_high": 5.647736498218778,
       "gap_away": null,
       "verdict": "overdue",
       "prev_date": "2023-07-30",
@@ -255,7 +256,8 @@
       "gap_high": 50.05484723726969,
       "gap_away": [
         4,
-        43
+        43,
+        15
       ],
       "verdict": "expected",
       "prev_date": "2023-07-28",
@@ -296,7 +298,8 @@
       "gap_high": 46.35785010764124,
       "gap_away": [
         4,
-        43
+        43,
+        12
       ],
       "verdict": "overdue",
       "prev_date": "2022-07-29",

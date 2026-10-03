@@ -29,7 +29,7 @@
   {"date": "1997-06-19", "score": 42, "venue": "Arena Wien", "city": "Vienna", "state": "", "link": "https://fouldomain.com/tracks/407"}
  ],
  "performances": [
-  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": 0, "set": "2", "nb": 1, "prev": "Samson Variation", "next": "Waking Up"},
+  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": null, "set": "2", "nb": 1, "prev": "Samson Variation", "next": "Waking Up"},
   {"date": "1997-06-14", "venue": "The S.F.X. Centre", "city": "Dublin", "state": "County Dublin", "gap": 1115, "set": "2", "note": "Phish debut.", "nb": 1, "prev": "Piper", "next": "Waking Up"},
   {"date": "1997-06-19", "venue": "Arena Wien", "city": "Vienna", "state": "Vienna", "gap": 2, "set": "2", "out": ">", "nb": 1, "prev": "Ghost", "in": "->", "next": "Wading in the Velvet Sea"},
   {"date": "1997-06-25", "venue": "L\u2019Aeronef", "city": "Lille", "state": "Hauts-de-France", "gap": 5, "set": "1", "nb": 1, "prev": "Wading in the Velvet Sea", "next": "Limb By Limb"},
@@ -37,7 +37,7 @@
   {"date": "1997-07-31", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 15, "set": "1", "nb": 1, "prev": "Glide", "next": "You Enjoy Myself"},
   {"date": "1997-11-29", "venue": "Worcester Centrum Centre", "city": "Worcester", "state": "MA", "gap": 22, "set": "1", "nb": 1, "prev": "Ginseng Sullivan", "next": "Horn"},
   {"date": "1997-12-12", "venue": "Pepsi Arena", "city": "Albany", "state": "NY", "gap": 9, "set": "2", "jamchart": true, "jam": "&quot;Saw It Again&quot; rocks along in full power mode for a good 5 1/2 minutes before mellowing into '97-style ambient space and -&gt; to a high quality &quot;Piper.&quot;", "note": "Extended jam.", "out": "->", "nb": 1, "xprev": "Character Zero", "next": "Piper"},
-  {"date": "1999-06-24", "venue": "The Barn", "city": "Outer Burlington", "state": "VT", "gap": 0, "set": "2", "nb": 1, "prev": "Bug", "next": "Rock A William"},
+  {"date": "1999-06-24", "venue": "The Barn", "city": "Outer Burlington", "state": "VT", "gap": null, "set": "2", "nb": 1, "prev": "Bug", "next": "Rock A William"},
   {"date": "1999-07-08", "venue": "GTE Virginia Beach Amphitheater", "city": "Virginia Beach", "state": "VA", "gap": 78, "set": "2", "nb": 1, "prev": "Jesus Just Left Chicago", "next": "Sleep"},
   {"date": "1999-07-25", "venue": "Deer Creek Music Center", "city": "Noblesville", "state": "IN", "gap": 13, "set": "1", "nb": 1, "prev": "Makisupa Policeman", "next": "Boogie On Reggae Woman"},
   {"date": "1999-09-10", "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "gap": 7, "set": "2", "nb": 1, "prev": "Gotta Jibboo", "next": "Split Open and Melt"},

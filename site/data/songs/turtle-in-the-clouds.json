@@ -27,7 +27,7 @@
  "performances": [
   {"date": "2018-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1815, "set": "2", "note": "Debut.", "nb": 1, "xprev": "First Tube", "next": "Stray Dog"},
   {"date": "2018-12-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 5, "set": "1", "nb": 1, "prev": "Blaze On", "next": "The Sloth"},
-  {"date": "2019-02-20", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 0, "set": "1", "out": ">", "nb": 1, "first": 1, "next": "Jam"},
+  {"date": "2019-02-20", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": null, "set": "1", "out": ">", "nb": 1, "first": 1, "next": "Jam"},
   {"date": "2019-02-22", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 4, "set": "1", "nb": 1, "prev": "You Enjoy Myself", "next": "46 Days"},
   {"date": "2019-06-11", "venue": "Chaifetz Arena, Saint Louis University", "city": "St. Louis", "state": "MO", "gap": 2, "set": "e", "nb": 1, "xprev": "Slave to the Traffic Light", "next": "Character Zero"},
   {"date": "2019-06-26", "venue": "Darling's Waterfront Pavilion", "city": "Bangor", "state": "ME", "gap": 10, "set": "2", "nb": 1, "xprev": "Sand", "next": "Gotta Jibboo"},

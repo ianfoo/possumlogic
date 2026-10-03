@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2024-10-25", "venue": "MVP Arena", "city": "Albany", "state": "NY", "gap": 0, "set": "1", "note": "Phish debut.", "nb": 1, "first": 1, "next": "The Moma Dance"}
+  {"date": "2024-10-25", "venue": "MVP Arena", "city": "Albany", "state": "NY", "gap": null, "set": "1", "note": "Phish debut.", "nb": 1, "first": 1, "next": "The Moma Dance"}
  ]
 }

@@ -30,7 +30,7 @@
   {"date": "1993-08-08", "score": 75, "venue": "Nautica Stage", "city": "Cleveland", "state": "OH", "link": "https://fouldomain.com/tracks/14298"}
  ],
  "performances": [
-  {"date": "1984-12-01", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": 0, "set": "1", "note": "First known performance; Dude of Life on vocals.", "prev": "Skippy the Wondermouse", "xnext": "Eyes of the World", "nb": 1},
+  {"date": "1984-12-01", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": null, "set": "1", "note": "First known performance; Dude of Life on vocals.", "prev": "Skippy the Wondermouse", "xnext": "Eyes of the World", "nb": 1},
   {"date": "1986-10-15", "venue": "Hunt's", "city": "Burlington", "state": "VT", "gap": 42, "set": "2", "prev": "Mustang Sally", "next": "Sneakin' Sally Thru the Alley", "nb": 1},
   {"date": "1986-10-31", "venue": "Sculpture Room, Goddard College", "city": "Plainfield", "state": "VT", "gap": 1, "set": "1", "prev": "Shaggy Dog", "xnext": "Jam", "nb": 1},
   {"date": "1986-12-06", "venue": "The Ranch", "city": "Shelburne", "state": "VT", "gap": 5, "set": "1", "prev": "Makisupa Policeman", "in": "->", "xnext": "I Know a Little", "nb": 1},

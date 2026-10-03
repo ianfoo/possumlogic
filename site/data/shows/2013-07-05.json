@@ -17,11 +17,11 @@
       "gap": 4,
       "out": "",
       "plays": 51,
-      "recent_plays": 49,
+      "recent_plays": 50,
       "gap_median": 2,
-      "gap_mean": 2.3877551020408165,
-      "gap_low": 1.003665543680675,
-      "gap_high": 3.825051873981127,
+      "gap_mean": 2.4893617021276597,
+      "gap_low": 1.248080686931341,
+      "gap_high": 3.7363538382540833,
       "gap_away": null,
       "verdict": "overdue",
       "prev_date": "2012-12-28",
@@ -81,7 +81,8 @@
       "gap_high": 15.63769254612534,
       "gap_away": [
         3,
-        29
+        29,
+        24
       ],
       "verdict": "premature",
       "prev_date": "2012-12-31",
@@ -173,7 +174,7 @@
       "gap": 5,
       "out": ">",
       "plays": 11,
-      "recent_plays": 9,
+      "recent_plays": 10,
       "gap_median": 17,
       "gap_mean": 23.666666666666668,
       "gap_low": 9.784621352225853,
@@ -269,7 +270,7 @@
       "gap": 2,
       "out": "->",
       "plays": 44,
-      "recent_plays": 42,
+      "recent_plays": 43,
       "gap_median": 4.0,
       "gap_mean": 4.0476190476190474,
       "gap_low": 2.058377488119938,
@@ -326,7 +327,7 @@
       "gap": 25,
       "out": ">",
       "plays": 8,
-      "recent_plays": 6,
+      "recent_plays": 7,
       "gap_median": null,
       "gap_mean": null,
       "gap_low": null,
@@ -352,7 +353,8 @@
       "gap_high": 20.3639001864065,
       "gap_away": [
         2,
-        32
+        32,
+        16
       ],
       "verdict": "overdue",
       "prev_date": "2012-06-17",

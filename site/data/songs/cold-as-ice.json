@@ -26,7 +26,7 @@
   {"date": "1992-04-19", "score": 55, "venue": "The Catalyst", "city": "Santa Cruz", "state": "CA", "link": "https://fouldomain.com/tracks/10469"}
  ],
  "performances": [
-  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": 0, "set": "1", "nb": 1, "prev": "Cracklin' Rosie", "in": ">", "next": "The Horse"},
+  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "Cracklin' Rosie", "in": ">", "next": "The Horse"},
   {"date": "1992-03-07", "venue": "The Music Hall", "city": "Portsmouth", "state": "NH", "gap": 590, "set": "2", "times": 2, "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Weekapaug Groove", "in": ">", "next": "Cracklin' Rosie"},
   {"date": "1992-03-11", "venue": "The Colonial Theatre", "city": "Keene", "state": "NH", "gap": 1, "set": "2", "times": 2, "out": ">", "nb": 1, "prev": "Brother", "next": "Baby Lemonade"},
   {"date": "1992-03-12", "venue": "The Flynn Theatre", "city": "Burlington", "state": "VT", "gap": 1, "set": "2", "times": 2, "out": ">", "nb": 1, "prev": "David Bowie", "next": "Cracklin' Rosie"},
@@ -60,7 +60,7 @@
   {"date": "1992-04-24", "venue": "Roseland Theater", "city": "Portland", "state": "OR", "gap": 1, "set": "2", "times": 2, "out": ">", "nb": 1, "prev": "Horn", "in": ">", "next": "Love You"},
   {"date": "1992-04-25", "venue": "Campus Recreation Center, Evergreen College", "city": "Olympia", "state": "WA", "gap": 1, "set": "2", "times": 2, "out": ">", "nb": 1, "prev": "Weigh", "in": ">", "next": "Terrapin"},
   {"date": "1992-04-29", "venue": "First Avenue", "city": "Minneapolis", "state": "MN", "gap": 1, "set": "2", "times": 2, "out": ">", "nb": 1, "prev": "Weekapaug Groove", "next": "Love You"},
-  {"date": "1992-04-30", "venue": "Barrymore Theatre", "city": "Madison", "state": "WI", "gap": 0, "set": "2", "times": 2, "out": ">", "nb": 1, "prev": "Chalk Dust Torture", "next": "Cracklin' Rosie"},
+  {"date": "1992-04-30", "venue": "Barrymore Theatre", "city": "Madison", "state": "WI", "gap": null, "set": "2", "times": 2, "out": ">", "nb": 1, "prev": "Chalk Dust Torture", "next": "Cracklin' Rosie"},
   {"date": "1992-05-01", "venue": "The Rave", "city": "Milwaukee", "state": "WI", "gap": 1, "set": "2", "times": 2, "out": ">", "nb": 1, "prev": "Llama", "next": "Terrapin"},
   {"date": "1992-05-02", "venue": "Cabaret Metro", "city": "Chicago", "state": "IL", "gap": 1, "set": "2", "times": 2, "out": ">", "nb": 1, "prev": "Chalk Dust Torture", "next": "Cracklin' Rosie"},
   {"date": "1992-05-03", "venue": "Michigan State University Union Ballroom", "city": "East Lansing", "state": "MI", "gap": 1, "set": "2", "times": 2, "out": ">", "nb": 1, "prev": "The Mango Song", "in": ">", "next": "Cracklin' Rosie"},

@@ -30,7 +30,7 @@
   {"date": "2011-08-05", "score": 78, "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "link": "https://fouldomain.com/tracks/28905"}
  ],
  "performances": [
-  {"date": "1995-05-14", "venue": "Fish's House", "city": "Burlington", "state": "VT", "gap": 0, "set": "1", "prev": "Ha Ha Ha", "next": "Free", "nb": 1},
+  {"date": "1995-05-14", "venue": "Fish's House", "city": "Burlington", "state": "VT", "gap": null, "set": "1", "prev": "Ha Ha Ha", "next": "Free", "nb": 1},
   {"date": "1995-06-07", "venue": "Boise State University Pavilion", "city": "Boise", "state": "ID", "gap": 949, "set": "1", "jamchart": true, "jam": "Debut. Jam section features the same spiraling Trey and Page musicianship, but the lyrics, vocalist, and ending would remain a work in progress for another year. \"The Fog That Surrounds\" and \"Taste That Surrounds\" are both very similar (related) songs performed in 1995 as the band tinkered with the format for \"Taste.\" See the song history for \"Taste\" on this site for more information.", "note": "Debut.", "prev": "Weigh", "next": "Strange Design", "nb": 1},
   {"date": "1995-06-09", "venue": "Red Rocks Amphitheatre", "city": "Morrison", "state": "CO", "gap": 2, "set": "1", "prev": "Theme from the Bottom", "next": "Sparkle", "nb": 1},
   {"date": "1995-06-13", "venue": "Riverport Amphitheater", "city": "Maryland Heights", "state": "MO", "gap": 2, "set": "1", "prev": "Strange Design", "in": ">", "next": "Reba", "nb": 1},

@@ -30,7 +30,7 @@
   {"date": "2018-07-21", "score": 53, "venue": "Gorge Amphitheatre", "city": "George", "state": "WA", "link": "https://fouldomain.com/tracks/34206"}
  ],
  "performances": [
-  {"date": "1999-06-24", "venue": "The Barn", "city": "Outer Burlington", "state": "VT", "gap": 0, "set": "2", "nb": 1, "prev": "Jam", "next": "Saw It Again"},
+  {"date": "1999-06-24", "venue": "The Barn", "city": "Outer Burlington", "state": "VT", "gap": null, "set": "2", "nb": 1, "prev": "Jam", "next": "Saw It Again"},
   {"date": "1999-06-30", "venue": "Sandstone Amphitheatre", "city": "Bonner Springs", "state": "KS", "gap": 1244, "set": "2", "note": "Phish debut.", "out": "->", "nb": 1, "prev": "Piper", "next": "My Left Toe"},
   {"date": "1999-07-07", "venue": "Blockbuster Pavilion", "city": "Charlotte", "state": "NC", "gap": 4, "set": "2", "out": ">", "nb": 1, "prev": "My Left Toe", "in": ">", "next": "You Enjoy Myself"},
   {"date": "1999-07-13", "venue": "Tweeter Center", "city": "Mansfield", "state": "MA", "gap": 5, "set": "2", "out": ">", "nb": 1, "prev": "Piper", "next": "Mountains in the Mist"},

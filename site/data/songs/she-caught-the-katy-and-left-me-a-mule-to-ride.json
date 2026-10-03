@@ -11,7 +11,7 @@
   {"date": "1987-08-29", "venue": "The Ranch", "city": "South Burlington", "state": "VT", "gap": 10, "set": "e", "nb": 1, "xprev": "Jesus Just Left Chicago", "last": 1},
   {"date": "1988-07-30", "venue": "The Roma", "city": "Telluride", "state": "CO", "gap": 80, "set": "2", "note": "Fish absent, Trey on drums.", "nb": 1, "prev": "Suzy Greenberg", "next": "Contact"},
   {"date": "1998-07-21", "venue": "Desert Sky Pavilion", "city": "Phoenix", "state": "AZ", "gap": 1041, "set": "2", "out": ">", "nb": 1, "prev": "Ghost", "in": "->", "next": "Funky Bitch"},
-  {"date": "1998-08-14", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": 0, "set": "1", "nb": 1, "prev": "Jam", "next": "Dog Log"},
+  {"date": "1998-08-14", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": null, "set": "1", "nb": 1, "prev": "Jam", "next": "Dog Log"},
   {"date": "2010-12-28", "venue": "DCU Center", "city": "Worcester", "state": "MA", "gap": 325, "set": "1", "nb": 1, "prev": "Alaska", "next": "Wolfman's Brother"}
  ]
 }

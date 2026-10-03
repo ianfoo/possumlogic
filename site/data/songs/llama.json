@@ -85,7 +85,7 @@
   {"date": "1991-05-09", "venue": "Portland Performing Arts Center", "city": "Portland", "state": "ME", "gap": 1, "set": "1", "nb": 1, "prev": "Reba", "next": "Bouncing Around the Room"},
   {"date": "1991-05-11", "venue": "The Front", "city": "Burlington", "state": "VT", "gap": 2, "set": "1", "nb": 1, "prev": "The Landlady", "next": "The Squirming Coil"},
   {"date": "1991-05-12", "venue": "The Front", "city": "Burlington", "state": "VT", "gap": 1, "set": "1", "note": "Dave Grippo on saxophone.", "nb": 1, "prev": "Destiny Unbound", "next": "Fee"},
-  {"date": "1991-05-16", "venue": "The Sting", "city": "New Britain", "state": "CT", "gap": 0, "set": "1", "nb": 1, "prev": "Magilla", "xnext": "Runaway Jim"},
+  {"date": "1991-05-16", "venue": "The Sting", "city": "New Britain", "state": "CT", "gap": null, "set": "1", "nb": 1, "prev": "Magilla", "xnext": "Runaway Jim"},
   {"date": "1991-05-19", "venue": "Salisbury School", "city": "Salisbury", "state": "CT", "gap": 3, "set": "1", "nb": 1, "prev": "The Squirming Coil", "xnext": "The Oh Kee Pa Ceremony"},
   {"date": "1991-07-13", "venue": "Berkshire Performing Arts Center", "city": "Lenox", "state": "MA", "gap": 3, "set": "1", "nb": 1, "prev": "Foam", "next": "The Oh Kee Pa Ceremony"},
   {"date": "1991-07-14", "venue": "Townshend Family Park", "city": "Townshend", "state": "VT", "gap": 1, "set": "1", "nb": 1, "prev": "Reba", "next": "The Squirming Coil"},

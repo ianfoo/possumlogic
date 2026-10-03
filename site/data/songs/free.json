@@ -30,7 +30,7 @@
   {"date": "2022-04-22", "score": 81, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/36690"}
  ],
  "performances": [
-  {"date": "1995-05-14", "venue": "Fish's House", "city": "Burlington", "state": "VT", "gap": 0, "set": "1", "prev": "Taste", "next": "Strange Design", "nb": 1},
+  {"date": "1995-05-14", "venue": "Fish's House", "city": "Burlington", "state": "VT", "gap": null, "set": "1", "prev": "Taste", "next": "Strange Design", "nb": 1},
   {"date": "1995-05-16", "venue": "Lowell Memorial Auditorium", "city": "Lowell", "state": "MA", "gap": 948, "set": "1", "jamchart": true, "jam": "Debut. Jam section similar in tone, but less with percussion and with less Page than later '95 - '96 versions.", "note": "Debut.", "prev": "Hold Your Head Up", "next": "Glide II", "nb": 1},
   {"date": "1995-06-08", "venue": "The Delta Center", "city": "Salt Lake City", "state": "UT", "gap": 2, "set": "2", "out": ">", "prev": "Rift", "in": ">", "next": "Bouncing Around the Room", "nb": 1},
   {"date": "1995-06-10", "venue": "Red Rocks Amphitheatre", "city": "Morrison", "state": "CO", "gap": 2, "set": "1", "out": ">", "prev": "It's Ice", "in": ">", "next": "Rift", "nb": 1},

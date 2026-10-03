@@ -30,7 +30,7 @@
   {"date": "1999-12-13", "score": 54, "venue": "Providence Civic Center", "city": "Providence", "state": "RI", "link": "https://fouldomain.com/tracks/23928"}
  ],
  "performances": [
-  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": 0, "set": "1", "nb": 1, "prev": "Silent in the Morning", "last": 1},
+  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "Silent in the Morning", "last": 1},
   {"date": "1992-03-06", "venue": "The Music Hall", "city": "Portsmouth", "state": "NH", "gap": 590, "set": "2", "note": "Debut.", "nb": 1, "prev": "Bouncing Around the Room", "next": "Possum"},
   {"date": "1992-03-11", "venue": "The Colonial Theatre", "city": "Keene", "state": "NH", "gap": 2, "set": "2", "note": "Simpsons signal.", "nb": 1, "prev": "Llama", "next": "The Sloth"},
   {"date": "1992-03-19", "venue": "Palace Theatre", "city": "New Haven", "state": "CT", "gap": 5, "set": "2", "nb": 1, "prev": "Chalk Dust Torture", "next": "My Sweet One"},

@@ -30,7 +30,7 @@
   {"date": "2024-10-26", "score": 83, "venue": "MVP Arena", "city": "Albany", "state": "NY", "link": "https://fouldomain.com/tracks/39058"}
  ],
  "performances": [
-  {"date": "1984-12-01", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": 0, "set": "1", "jamchart": true, "jam": "First known performance. It's all guitar in the jam section, as this was the pre-Page era.", "note": "First known performance.", "prev": "Makisupa Policeman", "next": "Spanish Flea", "nb": 1},
+  {"date": "1984-12-01", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": null, "set": "1", "jamchart": true, "jam": "First known performance. It's all guitar in the jam section, as this was the pre-Page era.", "note": "First known performance.", "prev": "Makisupa Policeman", "next": "Spanish Flea", "nb": 1},
   {"date": "1985-04-06", "venue": "Finbar's", "city": "Burlington", "state": "VT", "gap": 9, "set": "1", "prev": "Wild Child", "next": "Jam", "nb": 1},
   {"date": "1985-05-03", "venue": "University of Vermont", "city": "Burlington", "state": "VT", "gap": 7, "set": "1", "next": "Mike's Song", "first": 1, "nb": 1},
   {"date": "1985-09-27", "venue": "Slade Hall, University of Vermont", "city": "Burlington", "state": "VT", "gap": 3, "set": "1", "prev": "Fire", "next": "In the Midnight Hour", "nb": 1},

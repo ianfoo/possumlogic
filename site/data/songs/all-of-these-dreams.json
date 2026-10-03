@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2002-12-19", "venue": "Ed Sullivan Theater", "city": "New York", "state": "NY", "gap": 0, "set": "1", "nb": 1, "first": 1, "last": 1},
+  {"date": "2002-12-19", "venue": "Ed Sullivan Theater", "city": "New York", "state": "NY", "gap": null, "set": "1", "nb": 1, "first": 1, "last": 1},
   {"date": "2003-01-03", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 1367, "set": "2", "note": "Debut.", "nb": 1, "prev": "Free", "next": "Possum"},
   {"date": "2003-02-14", "venue": "Great Western Forum", "city": "Inglewood", "state": "CA", "gap": 2, "set": "2", "nb": 1, "prev": "Carini", "next": "Limb By Limb"},
   {"date": "2003-02-21", "venue": "U.S. Bank Arena", "city": "Cincinnati", "state": "OH", "gap": 5, "set": "2", "nb": 1, "prev": "Harry Hood", "in": ">", "next": "Possum"},

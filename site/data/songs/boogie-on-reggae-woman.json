@@ -53,7 +53,7 @@
   {"date": "2000-09-18", "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "gap": 6, "set": "2", "jamchart": true, "jam": "Very improvisational version. Trey adds nicely to the basic outro, then the group moves on to a bluesy swing, swirling '00 funk, some rhythmic jamming, and a spacey transition with a -&gt; to &quot;Twist.&quot;", "out": "->", "nb": 1, "xprev": "Prince Caspian", "next": "Twist"},
   {"date": "2000-09-25", "venue": "Sandstone Amphitheatre", "city": "Bonner Springs", "state": "KS", "gap": 5, "set": "e", "out": ">", "nb": 1, "xprev": "Funky Bitch", "next": "Driver"},
   {"date": "2000-10-06", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 7, "set": "1", "nb": 1, "prev": "Stash", "next": "Mellow Mood"},
-  {"date": "2001-12-01", "venue": "Reception Hall, Swiss\u00f4tel", "city": "Boston", "state": "MA", "gap": 0, "set": "1", "nb": 1, "prev": "Wolfman's Brother", "in": ">", "next": "Loving Cup"},
+  {"date": "2001-12-01", "venue": "Reception Hall, Swiss\u00f4tel", "city": "Boston", "state": "MA", "gap": null, "set": "1", "nb": 1, "prev": "Wolfman's Brother", "in": ">", "next": "Loving Cup"},
   {"date": "2003-01-04", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 5, "set": "1", "nb": 1, "prev": "Llama", "next": "Roggae"},
   {"date": "2003-02-21", "venue": "U.S. Bank Arena", "city": "Cincinnati", "state": "OH", "gap": 6, "set": "1", "jamchart": true, "jam": "Breakdown jamming.", "nb": 1, "prev": "Lifeboy", "in": ">", "next": "Run Like an Antelope"},
   {"date": "2003-03-01", "venue": "Greensboro Coliseum", "city": "Greensboro", "state": "NC", "gap": 6, "set": "2", "nb": 1, "prev": "Wolfman's Brother", "in": "->", "next": "Wading in the Velvet Sea"},

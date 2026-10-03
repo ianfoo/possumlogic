@@ -28,7 +28,7 @@
   {"date": "2023-10-08", "venue": "Bridgestone Arena", "city": "Nashville", "state": "TN", "gap": 20, "set": "1", "nb": 1, "prev": "Beauty of a Broken Heart", "next": "Taste"},
   {"date": "2024-02-22", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 10, "set": "1", "nb": 1, "prev": "Driver", "next": "Gumbo"},
   {"date": "2024-04-21", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 5, "set": "1", "jamchart": true, "jam": "After a composed section punctuated by flourishes from Page, Trey starts the solo with some swelling guitar licks which give way to a funky, groove based jam which goes from deep and murky to a fun, flowing jam that doesn't stray far from the song's structure.", "nb": 1, "prev": "Shade", "next": "Character Zero"},
-  {"date": "2024-07-19", "venue": "Xfinity Center", "city": "Mansfield", "state": "MA", "gap": 0, "set": "1", "nb": 1, "prev": "Character Zero", "next": "Down with Disease"},
+  {"date": "2024-07-19", "venue": "Xfinity Center", "city": "Mansfield", "state": "MA", "gap": null, "set": "1", "nb": 1, "prev": "Character Zero", "next": "Down with Disease"},
   {"date": "2024-07-31", "venue": "Chaifetz Arena, Saint Louis University", "city": "St. Louis", "state": "MO", "gap": 8, "set": "1", "nb": 1, "prev": "Turtle in the Clouds", "next": "Back on the Train"},
   {"date": "2024-08-10", "venue": "Bethel Woods Center for the Arts", "city": "Bethel", "state": "NY", "gap": 6, "set": "1", "nb": 1, "prev": "Sample in a Jar", "next": "Dinner and a Movie"},
   {"date": "2024-08-30", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 6, "set": "1", "nb": 1, "prev": "Wolfman's Brother", "next": "Guelah Papyrus"},

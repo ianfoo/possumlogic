@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "1995-05-14", "venue": "Fish's House", "city": "Burlington", "state": "VT", "gap": 0, "set": "1", "nb": 1, "prev": "Glide II", "next": "I'll Come Running"},
+  {"date": "1995-05-14", "venue": "Fish's House", "city": "Burlington", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "Glide II", "next": "I'll Come Running"},
   {"date": "1995-05-16", "venue": "Lowell Memorial Auditorium", "city": "Lowell", "state": "MA", "gap": 951, "set": "1", "note": "Phish debut.", "out": ">", "nb": 1, "prev": "Hold Your Head Up", "in": ">", "next": "Hold Your Head Up"},
   {"date": "1995-06-07", "venue": "Boise State University Pavilion", "city": "Boise", "state": "ID", "gap": 1, "set": "2", "note": "Fish on trombone.", "out": ">", "nb": 1, "prev": "Hold Your Head Up", "in": ">", "next": "Hold Your Head Up"},
   {"date": "1995-06-10", "venue": "Red Rocks Amphitheatre", "city": "Morrison", "state": "CO", "gap": 3, "set": "1", "out": ">", "nb": 1, "prev": "Hold Your Head Up", "in": ">", "next": "Hold Your Head Up"},

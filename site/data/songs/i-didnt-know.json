@@ -60,7 +60,7 @@
   {"date": "1989-02-18", "venue": "Old Stone Church", "city": "Newmarket", "state": "NH", "gap": 5, "set": "1", "nb": 1, "prev": "The Curtain", "in": ">", "next": "Colonel Forbin's Ascent"},
   {"date": "1989-03-03", "venue": "Living and Learning Center, University of Vermont", "city": "Burlington", "state": "VT", "gap": 5, "set": "1", "note": "Fish on trombone.", "nb": 1, "prev": "Run Like an Antelope", "next": "Divided Sky"},
   {"date": "1989-03-04", "venue": "The Wetlands Preserve", "city": "New York", "state": "NY", "gap": 1, "set": "1", "note": "Fish on trombone.", "nb": 1, "prev": "Take the 'A' Train", "next": "Mike's Song"},
-  {"date": "1989-03-05", "venue": "Anastasio's House", "city": "Unknown", "state": "NJ", "gap": 0, "set": "2", "note": "Fish on trombone.", "nb": 1, "prev": "Basin Street Blues", "last": 1},
+  {"date": "1989-03-05", "venue": "Anastasio's House", "city": "Unknown", "state": "NJ", "gap": null, "set": "2", "note": "Fish on trombone.", "nb": 1, "prev": "Basin Street Blues", "last": 1},
   {"date": "1989-03-13", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": 3, "set": "3", "nb": 1, "prev": "Whipping Post", "next": "Free Bird"},
   {"date": "1989-04-15", "venue": "Billings Lounge, University of Vermont", "city": "Burlington", "state": "VT", "gap": 11, "set": "1", "note": "Fish on trombone; with sound effects from an electronic drum machine.", "nb": 1, "prev": "Alumni Blues", "next": "McGrupp and the Watchful Hosemasters"},
   {"date": "1989-04-21", "venue": "The Front", "city": "Burlington", "state": "VT", "gap": 3, "set": "1", "nb": 1, "first": 1, "next": "Contact"},

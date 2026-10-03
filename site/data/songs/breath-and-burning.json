@@ -30,7 +30,7 @@
   {"date": "2016-07-10", "venue": "Lakeview Amphitheater", "city": "Syracuse", "state": "NY", "gap": 4, "set": "2", "nb": 1, "prev": "Simple", "in": ">", "next": "Rocky Top"},
   {"date": "2016-07-19", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 4, "set": "1", "nb": 1, "prev": "Free", "next": "Theme from the Bottom"},
   {"date": "2016-09-02", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 6, "set": "1", "nb": 1, "prev": "No Men In No Man's Land", "next": "Undermind"},
-  {"date": "2016-10-10", "venue": "NBC Studios", "city": "New York", "state": "NY", "gap": 0, "set": "1", "note": "Ian Hendrickson-Smith on saxophone and David Guy on trumpet.", "nb": 1, "first": 1, "next": "Blaze On"},
+  {"date": "2016-10-10", "venue": "NBC Studios", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Ian Hendrickson-Smith on saxophone and David Guy on trumpet.", "nb": 1, "first": 1, "next": "Blaze On"},
   {"date": "2016-10-18", "venue": "Ascend Amphitheater", "city": "Nashville", "state": "TN", "gap": 5, "set": "1", "nb": 1, "prev": "46 Days", "in": ">", "next": "Limb By Limb"},
   {"date": "2016-10-24", "venue": "Verizon Theatre at Grand Prairie", "city": "Grand Prairie", "state": "TX", "gap": 4, "set": "1", "nb": 1, "prev": "No Men In No Man's Land", "next": "Poor Heart"},
   {"date": "2016-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 9, "set": "3", "note": "James Casey on saxophone, Natalie Cressman on trombone, Jennifer Hartswick on trumpet, and Andres Forero on percussion.", "nb": 1, "prev": "No Men In No Man's Land", "next": "Tide Turns"},

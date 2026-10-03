@@ -30,7 +30,7 @@
   {"date": "1999-07-01", "score": 49, "venue": "First American Music Center", "city": "Antioch", "state": "TN", "link": "https://fouldomain.com/tracks/22945"}
  ],
  "performances": [
-  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": 0, "set": "1", "times": 2, "nb": 1, "prev": "Ghost", "next": "Vultures"},
+  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": null, "set": "1", "times": 2, "nb": 1, "prev": "Ghost", "next": "Vultures"},
   {"date": "1997-06-13", "venue": "The S.F.X. Centre", "city": "Dublin", "state": "County Dublin", "gap": 1113, "set": "2", "note": "Debut.", "nb": 1, "prev": "Maze", "next": "Vultures"},
   {"date": "1997-06-16", "venue": "Royal Albert Hall", "city": "London", "state": "England", "gap": 2, "set": "1", "nb": 1, "prev": "Taste", "next": "Sample in a Jar"},
   {"date": "1997-06-19", "venue": "Arena Wien", "city": "Vienna", "state": "Vienna", "gap": 1, "set": "1", "nb": 1, "prev": "Punch You in the Eye", "next": "Maze"},
@@ -62,7 +62,7 @@
   {"date": "1999-07-10", "venue": "E Centre", "city": "Camden", "state": "NJ", "gap": 6, "set": "1", "jamchart": true, "jam": "High octave and soaring soloing by Trey in this fantastic version.", "out": ">", "nb": 1, "prev": "Roggae", "next": "Back at the Chicken Shack"},
   {"date": "1999-07-12", "venue": "Tweeter Center", "city": "Mansfield", "state": "MA", "gap": 1, "set": "1", "out": ">", "nb": 1, "prev": "Split Open and Melt", "next": "Character Zero"},
   {"date": "1999-07-18", "venue": "Oswego County Airport", "city": "Volney", "state": "NY", "gap": 5, "set": "1", "out": ">", "nb": 1, "prev": "Farmhouse", "next": "Bathtub Gin"},
-  {"date": "1999-09-04", "venue": "Chris Kuroda's Wedding", "city": "Stowe", "state": "VT", "gap": 0, "set": "1", "nb": 1, "prev": "Back on the Train", "next": "Possum"},
+  {"date": "1999-09-04", "venue": "Chris Kuroda's Wedding", "city": "Stowe", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "Back on the Train", "next": "Possum"},
   {"date": "1999-09-17", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 17, "set": "1", "nb": 1, "prev": "The Moma Dance", "next": "When the Circus Comes"},
   {"date": "1999-09-24", "venue": "South Park Meadows", "city": "Austin", "state": "TX", "gap": 5, "set": "1", "nb": 1, "prev": "Farmhouse", "next": "The Moma Dance"},
   {"date": "1999-12-17", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 25, "set": "1", "nb": 1, "prev": "When the Circus Comes", "next": "Twist"},
@@ -84,7 +84,7 @@
   {"date": "2009-06-19", "venue": "Verizon Wireless Music Center", "city": "Noblesville", "state": "IN", "gap": 10, "set": "1", "nb": 1, "prev": "The Moma Dance", "next": "Split Open and Melt"},
   {"date": "2009-07-31", "venue": "Red Rocks Amphitheatre", "city": "Morrison", "state": "CO", "gap": 4, "set": "1", "nb": 1, "prev": "Lawn Boy", "next": "Stealing Time From the Faulty Plan"},
   {"date": "2009-08-14", "venue": "The Comcast Theatre", "city": "Hartford", "state": "CT", "gap": 8, "set": "2", "nb": 1, "prev": "Piper", "in": ">", "next": "Ghost"},
-  {"date": "2009-10-29", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": 0, "set": "1", "nb": 1, "first": 1, "next": "Sleep Again"},
+  {"date": "2009-10-29", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": null, "set": "1", "nb": 1, "first": 1, "next": "Sleep Again"},
   {"date": "2009-11-01", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": 5, "set": "1", "note": "Acoustic.", "nb": 1, "first": 1, "next": "Back on the Train"},
   {"date": "2009-11-20", "venue": "U.S. Bank Arena", "city": "Cincinnati", "state": "OH", "gap": 2, "set": "1", "nb": 1, "prev": "Alaska", "next": "Fast Enough for You"},
   {"date": "2009-11-29", "venue": "Cumberland County Civic Center", "city": "Portland", "state": "ME", "gap": 7, "set": "1", "nb": 1, "prev": "Kill Devil Falls", "next": "Stash"},

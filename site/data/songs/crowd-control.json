@@ -28,7 +28,7 @@
   {"date": "2009-08-15", "score": 30, "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "link": "https://fouldomain.com/tracks/26787"}
  ],
  "performances": [
-  {"date": "2003-11-28", "venue": "Nassau Veterans Memorial Coliseum", "city": "Uniondale", "state": "NY", "gap": 0, "set": "2", "note": "Debut.", "nb": 1, "prev": "Two Versions of Me", "next": "Mike's Song"},
+  {"date": "2003-11-28", "venue": "Nassau Veterans Memorial Coliseum", "city": "Uniondale", "state": "NY", "gap": null, "set": "2", "note": "Debut.", "nb": 1, "prev": "Two Versions of Me", "next": "Mike's Song"},
   {"date": "2004-04-15", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 8, "set": "2", "out": ">", "nb": 1, "prev": "Secret Smile", "next": "Slave to the Traffic Light"},
   {"date": "2004-06-18", "venue": "KeySpan Park", "city": "Brooklyn", "state": "NY", "gap": 4, "set": "1", "nb": 1, "prev": "Camel Walk", "next": "Stash"},
   {"date": "2004-08-09", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 8, "set": "2", "out": ">", "nb": 1, "prev": "Lifeboy", "next": "Seven Below"},

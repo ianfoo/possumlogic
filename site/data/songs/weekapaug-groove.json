@@ -128,7 +128,7 @@
   {"date": "1990-06-08", "venue": "23 East Cabaret", "city": "Ardmore", "state": "PA", "gap": 1, "set": "2", "prev": "I Am Hydrogen", "in": ">", "last": 1, "nb": 1},
   {"date": "1990-06-09", "venue": "The Wetlands Preserve", "city": "New York", "state": "NY", "gap": 1, "set": "1", "prev": "I Am Hydrogen", "in": ">", "xnext": "Whole Lotta Love", "nb": 1},
   {"date": "1990-06-16", "venue": "Townshend Family Park", "city": "Townshend", "state": "VT", "gap": 1, "set": "3", "prev": "I Am Hydrogen", "in": ">", "xnext": "Contact", "nb": 1},
-  {"date": "1990-06-17", "venue": "Wendell Recording Studio", "city": "Wendell", "state": "MA", "gap": 0, "set": "1", "prev": "I Am Hydrogen", "in": ">", "next": "The Man Who Stepped Into Yesterday", "nb": 1},
+  {"date": "1990-06-17", "venue": "Wendell Recording Studio", "city": "Wendell", "state": "MA", "gap": null, "set": "1", "prev": "I Am Hydrogen", "in": ">", "next": "The Man Who Stepped Into Yesterday", "nb": 1},
   {"date": "1990-09-13", "venue": "The Wetlands Preserve", "city": "New York", "state": "NY", "gap": 4, "set": "2", "prev": "I Am Hydrogen", "in": ">", "next": "Magilla", "nb": 1},
   {"date": "1990-09-14", "venue": "The Living Room", "city": "Providence", "state": "RI", "gap": 1, "set": "1", "prev": "I Am Hydrogen", "in": ">", "xnext": "The Asse Festival", "nb": 1},
   {"date": "1990-09-16", "venue": "Wesleyan University", "city": "Middletown", "state": "CT", "gap": 2, "set": "1", "jamchart": true, "jam": "Why he is called Machine Gun Trey.", "prev": "I Am Hydrogen", "in": ">", "next": "Magilla", "nb": 1},

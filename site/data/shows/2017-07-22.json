@@ -75,7 +75,7 @@
       "gap": 6,
       "out": ">",
       "plays": 12,
-      "recent_plays": 10,
+      "recent_plays": 11,
       "gap_median": 4.0,
       "gap_mean": 4.1,
       "gap_low": 1.8753651916562712,
@@ -101,7 +101,8 @@
       "gap_high": 10.15887167676031,
       "gap_away": [
         6,
-        19
+        19,
+        55
       ],
       "verdict": "expected",
       "prev_date": "2017-07-16",
@@ -123,7 +124,8 @@
       "gap_high": 27.812458353415124,
       "gap_away": [
         3,
-        60
+        60,
+        21
       ],
       "verdict": "overdue",
       "prev_date": "2016-07-10",
@@ -192,14 +194,14 @@
       "song": "Down with Disease",
       "slug": "down-with-disease",
       "jamchart": false,
-      "gap": 2,
+      "gap": 3,
       "out": ">",
       "plays": 266,
       "recent_plays": 99,
-      "gap_median": 2,
-      "gap_mean": 2.4242424242424243,
-      "gap_low": 1.029945831612257,
-      "gap_high": 3.9372630623182943,
+      "gap_median": 3,
+      "gap_mean": 3.4242424242424243,
+      "gap_low": 2.096275786449339,
+      "gap_high": 4.807226602159442,
       "gap_away": null,
       "verdict": "expected",
       "prev_date": "2017-07-18",
@@ -253,7 +255,7 @@
       "gap": 16,
       "out": ">",
       "plays": 4,
-      "recent_plays": 2,
+      "recent_plays": 3,
       "gap_median": null,
       "gap_mean": null,
       "gap_low": null,
@@ -310,7 +312,7 @@
       "gap": 6,
       "out": "",
       "plays": 22,
-      "recent_plays": 20,
+      "recent_plays": 21,
       "gap_median": 10.0,
       "gap_mean": 15.2,
       "gap_low": 5.075510391084928,
@@ -336,7 +338,8 @@
       "gap_high": 84.70362565834012,
       "gap_away": [
         3,
-        73
+        73,
+        10
       ],
       "verdict": "expected",
       "prev_date": "2017-07-18",

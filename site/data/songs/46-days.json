@@ -30,7 +30,7 @@
   {"date": "2025-04-20", "score": 73, "venue": "Moda Center", "city": "Portland", "state": "OR", "link": "https://fouldomain.com/tracks/39268"}
  ],
  "performances": [
-  {"date": "2002-12-14", "venue": "Studio 8H, NBC Studios", "city": "New York", "state": "NY", "gap": 0, "set": "1", "next": "Chalk Dust Torture", "first": 1, "nb": 1},
+  {"date": "2002-12-14", "venue": "Studio 8H, NBC Studios", "city": "New York", "state": "NY", "gap": null, "set": "1", "next": "Chalk Dust Torture", "first": 1, "nb": 1},
   {"date": "2003-01-02", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 1363, "set": "2", "jamchart": true, "jam": "Debut. Jam gradually settles down from high powered \"46 Days\"-style in to a subtle, Trey and Page led foray. Picking up rhythm and energy, there are \"CYHMK\" teases as the jam builds in intensity. Settles down at the ending with no return to \"46 Days\" proper.", "note": "Debut.", "out": ">", "next": "Simple", "xprev": "Character Zero", "nb": 1},
   {"date": "2003-02-15", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 4, "set": "1", "prev": "Life on Mars?", "next": "It's Ice", "nb": 1},
   {"date": "2003-02-25", "venue": "First Union Spectrum", "city": "Philadelphia", "state": "PA", "gap": 7, "set": "1", "prev": "Talk", "next": "Taste", "nb": 1},

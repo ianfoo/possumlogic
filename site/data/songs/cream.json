@@ -6,7 +6,7 @@
 
  ],
  "performances": [
-  {"date": "2025-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 0, "set": "2", "note": "Phish debut; Ice cream man on cowbell.", "nb": 1, "prev": "It's Ice", "in": ">", "xnext": "Harry Hood"},
+  {"date": "2025-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "2", "note": "Phish debut; Ice cream man on cowbell.", "nb": 1, "prev": "It's Ice", "in": ">", "xnext": "Harry Hood"},
   {"date": "2026-07-12", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 17, "set": "2", "out": ">", "nb": 1, "prev": "Light", "in": ">", "next": "Also Sprach Zarathustra"}
  ]
 }

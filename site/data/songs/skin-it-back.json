@@ -16,7 +16,7 @@
   {"date": "1988-02-20", "venue": "St. Lawrence University", "city": "Canton", "state": "NY", "gap": 31, "set": "1", "jamchart": true, "jam": "Some excellent interplay between Trey and Page kicks this jam off. It culminates in screaming play from Trey and some classic, early Phish tension-and-release.", "nb": 1, "prev": "Good Times Bad Times", "next": "David Bowie"},
   {"date": "1988-07-25", "venue": "Nectar's", "city": "Burlington", "state": "VT", "gap": 48, "set": "2", "nb": 1, "xprev": "Fluffhead", "next": "Harpua"},
   {"date": "1988-07-29", "venue": "The Roma", "city": "Telluride", "state": "CO", "gap": 2, "set": "2", "nb": 1, "prev": "Suzy Greenberg", "next": "Jesus Just Left Chicago"},
-  {"date": "2003-08-01", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": 0, "set": "1", "nb": 1, "prev": "Jam", "in": "->", "next": "Jam"},
+  {"date": "2003-08-01", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": null, "set": "1", "nb": 1, "prev": "Jam", "in": "->", "next": "Jam"},
   {"date": "2012-07-03", "venue": "Nikon at Jones Beach Theater", "city": "Wantagh", "state": "NY", "gap": 1424, "set": "1", "out": ">", "nb": 1, "first": 1, "next": "Possum"},
   {"date": "2012-08-22", "venue": "Starlight Theatre", "city": "Kansas City", "state": "MO", "gap": 9, "set": "1", "nb": 1, "prev": "Chalk Dust Torture", "next": "The Moma Dance"},
   {"date": "2015-08-11", "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "gap": 111, "set": "1", "out": "->", "nb": 1, "prev": "Axilla", "next": "Martian Monster"},

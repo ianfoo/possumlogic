@@ -28,7 +28,7 @@
   {"date": "2023-07-30", "score": 29, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/37943"}
  ],
  "performances": [
-  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": 0, "set": "2", "nb": 1, "prev": "Stand!", "in": "->", "last": 1},
+  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": null, "set": "2", "nb": 1, "prev": "Stand!", "in": "->", "last": 1},
   {"date": "1997-06-13", "venue": "The S.F.X. Centre", "city": "Dublin", "state": "County Dublin", "gap": 1113, "set": "e", "note": "Phish debut.", "nb": 1, "prev": "Stand!", "in": "->", "last": 1},
   {"date": "1997-07-26", "venue": "South Park Meadows", "city": "Austin", "state": "TX", "gap": 23, "set": "1", "note": "Bob Gullotti on a second drum set.", "nb": 1, "prev": "You Enjoy Myself", "in": "->", "xnext": "Timber (Jerry the Mule)"},
   {"date": "1997-08-13", "venue": "Star Lake Amphitheatre", "city": "Burgettstown", "state": "PA", "gap": 11, "set": "2", "nb": 1, "prev": "Ghost", "in": "->", "next": "Sleeping Monkey"},
