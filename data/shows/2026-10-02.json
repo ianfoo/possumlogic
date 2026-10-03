@@ -255,9 +255,47 @@
       "gap_high": null,
       "gap_away": null,
       "verdict": "bustout"
+    },
+    {
+      "set": "ENCORE",
+      "song": "Letter to Jimmy Page",
+      "slug": "letter-to-jimmy-page",
+      "gap": null,
+      "jamchart": false,
+      "prev_date": "2023-07-12",
+      "prev_venue": "Orion Amphitheater",
+      "prev_place": "Huntsville, AL",
+      "out": "",
+      "plays": 98,
+      "recent_plays": 6,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": null
+    },
+    {
+      "set": "ENCORE",
+      "song": "Say It To Me S.A.N.T.O.S.",
+      "slug": "say-it-to-me-santos",
+      "gap": 5,
+      "jamchart": false,
+      "prev_date": "2026-07-31",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 58,
+      "recent_plays": 57,
+      "gap_median": 5.0,
+      "gap_mean": 5.375,
+      "gap_low": 2.979739911366524,
+      "gap_high": 7.871219672695487,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-03T03:08:58+00:00",
+  "count_since": "2026-10-03T03:14:12+00:00",
   "encored": true,
   "provisional": true
 }

@@ -30,7 +30,7 @@
   {"date": "2018-12-31", "score": 38, "venue": "Madison Square Garden", "city": "New York", "state": "NY", "link": "https://fouldomain.com/tracks/34878"}
  ],
  "performances": [
-  {"date": "2018-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 1816, "set": "2", "note": "Debut.", "prev": "We Are Come to Outlive Our Brains", "next": "The Final Hurrah", "nb": 1},
+  {"date": "2018-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "prev": "We Are Come to Outlive Our Brains", "next": "The Final Hurrah", "nb": 1},
   {"date": "2018-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "3", "prev": "Auld Lang Syne", "next": "Simple", "nb": 1},
   {"date": "2019-02-23", "venue": "Barcel\u00f3 Maya Beach", "city": "Riviera Maya", "state": "Quintana Roo", "gap": 3, "set": "2", "prev": "Ghost", "in": "->", "xnext": "Simple", "nb": 1},
   {"date": "2019-06-14", "venue": "Bonnaroo Music & Arts Festival", "city": "Manchester", "state": "TN", "gap": 3, "set": "1", "prev": "Down with Disease", "in": ">", "next": "Everything's Right", "nb": 1},
@@ -84,8 +84,9 @@
   {"date": "2025-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 10, "set": "3", "prev": "Piper", "in": ">", "xnext": "Sincere", "nb": 1},
   {"date": "2026-01-29", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 2, "set": "1", "prev": "McGrupp and the Watchful Hosemasters", "in": ">", "xnext": "A Wave of Hope", "nb": 1},
   {"date": "2026-04-24", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 7, "set": "2", "prev": "Vultures", "xnext": "Slave to the Traffic Light", "nb": 1},
-  {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 4, "set": "e", "prev": "Slave to the Traffic Light", "last": 1, "nb": 1},
-  {"date": "2026-07-21", "venue": "Empower Federal Credit Union Amphitheater at Lakeview", "city": "Syracuse", "state": "NY", "gap": 9, "set": "2", "prev": "More", "in": ">", "last": 1, "nb": 1},
-  {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 5, "set": "e", "nb": 1, "prev": "A Life Beyond The Dream", "last": 1}
+  {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 5, "set": "e", "prev": "Slave to the Traffic Light", "last": 1, "nb": 1},
+  {"date": "2026-07-21", "venue": "Empower Federal Credit Union Amphitheater at Lakeview", "city": "Syracuse", "state": "NY", "gap": 10, "set": "2", "prev": "More", "in": ">", "last": 1, "nb": 1},
+  {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 6, "set": "e", "prev": "A Life Beyond The Dream", "last": 1, "nb": 1},
+  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 5, "set": "e", "prev": "Alumni Blues"}
  ]
 }
