@@ -119,6 +119,30 @@ jobs:
             echo "a watcher is already up; nothing to do"
           fi
 
+      # Arm for tonight, whatever this run was for. These crons land about
+      # four times a day and hours late, so the one that lands at 19:50 is
+      # the one that has to cover a 23:00 window -- see arm.yml.
+      - name: Arm a watcher for the next window
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          out=$(python possumlogic.py --site site --watching --lead 30)
+          opens=$(echo "$out" | grep '^opens_in=' | cut -d= -f2)
+          if [ -z "$opens" ] || [ "$opens" -eq 0 ] || [ "$opens" -gt 720 ]; then
+            echo "nothing to arm (opens_in=$opens)"
+            exit 0
+          fi
+          up=$(gh run list --workflow arm.yml --json status \
+                 --jq '[.[] | select(.status == "in_progress" or .status == "queued")] | length' \
+                 2>/dev/null || echo 0)
+          if [ "$up" = "0" ]; then
+            echo "window opens in $opens min -- dispatching arm.yml"
+            gh workflow run arm.yml --ref "$GITHUB_REF_NAME"
+          else
+            echo "window opens in $opens min; already armed"
+          fi
+
       # Pillow slices the batched preview-card screenshot; the browser that
       # takes it is already on the runner image. Without both, pages still
       # build and publish -- they just point at previews nobody drew.

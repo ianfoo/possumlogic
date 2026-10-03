@@ -393,6 +393,18 @@ scheduled to. Hence the sentinel in `possumlogic.yml`, which dispatches
 `watch.yml` when a show is on and no watcher is up — `workflow_dispatch` is not
 a scheduled event and is not throttled.
 
+**The sentinel was a cron backing up a cron, and on 2026-10-02 both missed.**
+That week both workflows landed about four times a day and *hours* off
+schedule — watch.yml's show-hours cron ran at 14:06 UTC — and nothing fired
+between 19:47 and the second hour of the Atlantic City show. Now every run of
+either workflow asks `--watching`'s `opens_in=` and, if a window opens within
+twelve hours, dispatches `arm.yml`, which sleeps until the window and then
+starts the watcher. **Rely on a cron landing sometime, never on it landing on
+time.** The same night the index filed the live show under "Also on file":
+`fetch_calendar` holds back today's UTC date so a show is never *counted*
+early, and `show_kind` read that as "not a concert". A provisional report is a
+show now; the counts still read the calendar.
+
 **A watcher that only watches the window runs long after the show ends — but
 the page's "settled" is not the watcher's "safe to leave".** The loop's exit
 test was `watching()`, which asks about the 7h30m window, so a show that ended

@@ -10287,6 +10287,35 @@ def watching(site_dir, now=None, lead=0):
     return live
 
 
+def opens_in(site_dir, now=None, lead=0):
+    """Whole minutes until the next watch window opens, 0 if one is open now,
+    None if nothing on the schedule has a window still ahead.
+
+    The arming question, asked hours before a show. Both crons that could
+    start a watcher were measured on 2026-10-02 landing about four times a day,
+    hours off their schedule -- watch.yml's show-hours cron ran at 14:06 UTC --
+    and on that night neither fired between 19:47 and the second hour of the
+    show. A firing that lands at all, whenever it lands, is the only reliable
+    thing the scheduler offers, so whichever one does asks this and leaves a
+    run waiting for the window rather than hoping one lands inside it.
+    """
+    now = (now or _utcnow()) + datetime.timedelta(minutes=lead)
+    path = os.path.join(site_dir, *SCHEDULE)
+    if not os.path.isfile(path):
+        return None
+    try:
+        with open(path, encoding="utf-8") as fh:
+            shows = json.load(fh).get("shows") or []
+    except ValueError:
+        return None
+    ahead = []
+    for s in shows:
+        w = watch_window(s)
+        if w and now <= w[1]:
+            ahead.append(max(0, (w[0] - now).total_seconds()))
+    return int(min(ahead) // 60) if ahead else None
+
+
 def fetch_schedule(site_dir, apikey, artist="Phish", **kw):
     """Announced shows that have not happened yet. -> the list, soonest first.
 
@@ -10489,6 +10518,17 @@ def show_kind(report, calendar=None):
     for kind, pattern in KIND_PATTERNS:
         if re.search(pattern, notes, re.I):
             return kind
+    # A show being played tonight is not on the calendar yet, by design:
+    # fetch_calendar holds back today's UTC date so a show is never counted
+    # before it has happened. But that hold says "do not count it", not "it is
+    # not a concert", and reading it as the second filed the live show under
+    # "Also on file" with the soundchecks -- with no "On stage now" banner --
+    # for every minute before 00:00 UTC. On 2026-10-02 that was the opening
+    # hour at Atlantic City. A report still coming in that does not read as a
+    # soundcheck or a taping is the concert; the counts are untouched, because
+    # they read the calendar, not this.
+    if report.get("provisional"):
+        return "show"
     return "session"
 
 
@@ -11993,12 +12033,16 @@ def main():
         # changing -- and not for what a caller might do about it, which is
         # the caller's question and has other answers.
         #
-        # Two lines rather than one because they answer different questions
+        # Separate lines because they answer different questions
         # and the callers differ: the gate wants `watching`, the watcher's loop
         # wants `settled` to stop early. Both are parsed with `cut -d= -f2`
         # after a `grep`, so adding a line cannot break a reader of the other.
         print("watching=%s" % ("true" if live else "false"))
         print("released=%s" % ("true" if done else "false"))
+        # Empty when nothing is scheduled, so a caller comparing it as a
+        # number must treat "" as "no".
+        mins = opens_in(args.site, lead=args.lead)
+        print("opens_in=%s" % ("" if mins is None else mins))
         return
     if args.recheck and not args.catch_up:
         sys.exit("error: --recheck only means something with --catch-up")
