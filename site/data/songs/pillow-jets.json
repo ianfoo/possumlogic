@@ -39,6 +39,6 @@
   {"date": "2025-09-13", "venue": "Coca-Cola Amphitheater", "city": "Birmingham", "state": "AL", "gap": 8, "set": "2", "out": ">", "prev": "Life Saving Gun", "in": ">", "next": "Mountains in the Mist", "nb": 1},
   {"date": "2026-05-01", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 22, "set": "2", "prev": "Crosseyed and Painless", "in": ">", "next": "Shade", "nb": 1},
   {"date": "2026-07-12", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 6, "set": "2", "out": ">", "prev": "Simple", "next": "Light", "nb": 1},
-  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 17, "set": "1", "prev": "Slave to the Traffic Light"}
+  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 17, "set": "1", "prev": "Slave to the Traffic Light", "next": "It's Ice"}
  ]
 }
