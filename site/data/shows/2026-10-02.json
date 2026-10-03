@@ -217,9 +217,28 @@
       "gap_high": 28.634806233897606,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 2",
+      "song": "Fluffhead",
+      "slug": "fluffhead",
+      "gap": 9,
+      "jamchart": false,
+      "prev_date": "2026-07-24",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 294,
+      "recent_plays": 43,
+      "gap_median": 8,
+      "gap_mean": 8.883720930232558,
+      "gap_low": 4.5594784923137075,
+      "gap_high": 13.235713487372294,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-03T02:43:20+00:00",
+  "count_since": "2026-10-03T02:48:29+00:00",
   "encored": false,
   "provisional": true
 }
