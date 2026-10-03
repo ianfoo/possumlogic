@@ -128,7 +128,7 @@
       "song": "Tube",
       "slug": "tube",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 78,
       "recent_plays": 25,
@@ -137,7 +137,7 @@
       "gap_low": 1.9943296899040046,
       "gap_high": 12.11811160200046,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2009-06-07",
       "prev_venue": "Susquehanna Bank Center",
       "prev_place": "Camden, NJ"

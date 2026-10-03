@@ -382,7 +382,7 @@
       "song": "Tube",
       "slug": "tube",
       "jamchart": true,
-      "gap": null,
+      "gap": 1,
       "out": ">",
       "plays": 137,
       "recent_plays": 61,
@@ -391,7 +391,7 @@
       "gap_low": 1.9178143258767997,
       "gap_high": 7.205608336629913,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2016-09-04",
       "prev_venue": "Dick's Sporting Goods Park",
       "prev_place": "Commerce City, CO"

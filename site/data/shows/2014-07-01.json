@@ -109,7 +109,7 @@
       "song": "555",
       "slug": "555",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 4,
       "recent_plays": 3,

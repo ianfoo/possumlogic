@@ -280,7 +280,7 @@
       "song": "Wolfman's Brother",
       "slug": "wolfmans-brother",
       "jamchart": true,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 104,
       "recent_plays": 42,
@@ -289,7 +289,7 @@
       "gap_low": 1.843302172745323,
       "gap_high": 5.016608108481236,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2009-06-21",
       "prev_venue": "Alpine Valley Music Theatre",
       "prev_place": "East Troy, WI"

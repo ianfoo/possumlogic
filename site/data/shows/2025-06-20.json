@@ -223,7 +223,7 @@
       "song": "Twist",
       "slug": "twist",
       "jamchart": true,
-      "gap": null,
+      "gap": 1,
       "out": ">",
       "plays": 181,
       "recent_plays": 75,
@@ -232,7 +232,7 @@
       "gap_low": 1.6619022748921717,
       "gap_high": 6.675052191933459,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2025-04-27",
       "prev_venue": "Hollywood Bowl",
       "prev_place": "Hollywood, CA"

@@ -458,7 +458,7 @@
       "song": "Tweezer Reprise",
       "slug": "tweezer-reprise",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 184,
       "recent_plays": 36,
@@ -467,7 +467,7 @@
       "gap_low": 1.8365310271618203,
       "gap_high": 7.201938527583389,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2009-03-08",
       "prev_venue": "Hampton Coliseum",
       "prev_place": "Hampton, VA"

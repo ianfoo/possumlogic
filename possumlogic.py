@@ -826,6 +826,19 @@ def _finish_song(s, hist, date, counting=None):
     # give -- see _gap -- would otherwise leave the key missing, where every
     # caller reads it by subscript.
     s.setdefault("gap", None)
+    # phish.net has not measured it yet -- it files a song entered during a
+    # show as 0 and gets round to it later -- so count it off the calendar
+    # instead: counting shows after the previous performance, up to and
+    # including this one. On 2026-10-02 that agreed with phish.net on all
+    # nine songs it *had* measured, and it is what a dash was standing in
+    # for: Mercury 14, Tweezer 2. The next fetch overwrites it with
+    # phish.net's own figure. Only between two counting shows, because
+    # anything else is not a gap the calendar can see.
+    if s["gap"] is None and idx and counting and date in counting \
+            and hist[idx - 1]["showdate"] in counting:
+        cal = sorted(counting)
+        s["gap"] = (bisect.bisect_right(cal, date)
+                    - bisect.bisect_right(cal, hist[idx - 1]["showdate"]))
     # What the song went into. phish.net files the mark on the earlier of the
     # two songs it joins, which is what makes it belong on this row: with a
     # band that segues as much as this one, "Tweezer ->" and "Tweezer" are

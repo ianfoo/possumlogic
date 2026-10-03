@@ -337,7 +337,7 @@
       "song": "You Enjoy Myself",
       "slug": "you-enjoy-myself",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 591,
       "recent_plays": 58,
@@ -346,7 +346,7 @@
       "gap_low": 2.1644505361855435,
       "gap_high": 9.572867690490222,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2019-12-31",
       "prev_venue": "Madison Square Garden",
       "prev_place": "New York, NY"

@@ -375,7 +375,7 @@
       "song": "Tweezer Reprise",
       "slug": "tweezer-reprise",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 265,
       "recent_plays": 82,
@@ -384,7 +384,7 @@
       "gap_low": 1.6335302114281243,
       "gap_high": 4.457824416616045,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2016-08-28",
       "prev_venue": "Oak Ridge Farm",
       "prev_place": "Arrington, VA"

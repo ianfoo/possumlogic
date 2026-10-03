@@ -243,7 +243,7 @@
       "song": "Blaze On",
       "slug": "blaze-on",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": ">",
       "plays": 40,
       "recent_plays": 39,
@@ -252,7 +252,7 @@
       "gap_low": 1.2075845209854426,
       "gap_high": 4.31387670732937,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2019-02-23",
       "prev_venue": "Barcel\u00f3 Maya Beach",
       "prev_place": "Riviera Maya, Quintana Roo"

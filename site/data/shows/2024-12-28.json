@@ -113,7 +113,7 @@
       "song": "Kill Devil Falls",
       "slug": "kill-devil-falls",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 115,
       "recent_plays": 44,
@@ -122,7 +122,7 @@
       "gap_low": 3.1966206910333144,
       "gap_high": 11.087955417425093,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2024-10-27",
       "prev_venue": "MVP Arena",
       "prev_place": "Albany, NY"

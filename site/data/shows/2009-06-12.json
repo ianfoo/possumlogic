@@ -261,7 +261,7 @@
       "song": "Harry Hood",
       "slug": "harry-hood",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": ">",
       "plays": 273,
       "recent_plays": 43,
@@ -270,7 +270,7 @@
       "gap_low": 1.827045079697709,
       "gap_high": 5.640070804940149,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2009-06-10",
       "prev_venue": "Thompson-Boling Arena",
       "prev_place": "Knoxville, TN"

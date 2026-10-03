@@ -90,7 +90,7 @@
       "song": "Everything's Right",
       "slug": "everythings-right",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": "",
       "plays": 53,
       "recent_plays": 52,
@@ -99,7 +99,7 @@
       "gap_low": 1.6822837358386824,
       "gap_high": 5.752827896790773,
       "gap_away": null,
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2023-12-31",
       "prev_venue": "Madison Square Garden",
       "prev_place": "New York, NY"

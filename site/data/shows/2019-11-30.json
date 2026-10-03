@@ -223,7 +223,7 @@
       "song": "Plasma",
       "slug": "plasma",
       "jamchart": false,
-      "gap": null,
+      "gap": 1,
       "out": ">",
       "plays": 13,
       "recent_plays": 12,
@@ -236,7 +236,7 @@
         31,
         11
       ],
-      "verdict": null,
+      "verdict": "premature",
       "prev_date": "2019-11-29",
       "prev_venue": "Dunkin' Donuts Center",
       "prev_place": "Providence, RI"
