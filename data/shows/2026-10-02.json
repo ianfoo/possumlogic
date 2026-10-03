@@ -6,7 +6,7 @@
   "state": "NJ",
   "artist": "Phish",
   "tour": "2026 Fall Tour",
-  "notes": "<p>Down with Disease was unfinished. DwD and Tweezer featured Trey on mini drum kit.</p>",
+  "notes": "<p>Down with Disease was unfinished. DwD and Tweezer featured Trey on mini drum kit. Death Don't Hurt Very Long was last performed <a class=\"show-date-link\" href=\"https://phish.net/setlists/phish-august-07-2024-van-andel-arena-grand-rapids-mi-usa.html\" data-showdate=\"2024-08-07\">August 7, 2024</a> (100 shows).</p>",
   "permalink": "https://phish.net/setlists/phish-october-02-2026-jim-whelan-boardwalk-hall-atlantic-city-nj-usa.html",
   "songs": [
     {
@@ -198,9 +198,28 @@
       "gap_high": 14.074650327211476,
       "gap_away": null,
       "verdict": "premature"
+    },
+    {
+      "set": "SET 2",
+      "song": "Death Don't Hurt Very Long",
+      "slug": "death-dont-hurt-very-long",
+      "gap": 100,
+      "jamchart": false,
+      "prev_date": "2024-08-07",
+      "prev_venue": "Van Andel Arena",
+      "prev_place": "Grand Rapids, MI",
+      "out": "",
+      "plays": 14,
+      "recent_plays": 12,
+      "gap_median": 5.5,
+      "gap_mean": 17.166666666666668,
+      "gap_low": 3.0700432387128505,
+      "gap_high": 28.634806233897606,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-03T02:33:04+00:00",
+  "count_since": "2026-10-03T02:43:20+00:00",
   "encored": false,
   "provisional": true
 }
