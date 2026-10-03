@@ -120,6 +120,6 @@
   {"date": "2021-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 29, "set": "1", "times": 2, "out": ">", "next": "Letter to Jimmy Page", "first": 1, "nb": 1},
   {"date": "2022-07-30", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 43, "set": "e", "times": 2, "out": ">", "next": "Letter to Jimmy Page", "xprev": "Suzy Greenberg", "nb": 1},
   {"date": "2023-07-12", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 32, "set": "e", "times": 2, "note": "Lyrics changed to \"no PhD.\"", "out": ">", "next": "Letter to Jimmy Page", "xprev": "Free", "nb": 1},
-  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 158, "set": "e", "xprev": "Fluffhead", "next": "Letter to Jimmy Page"}
+  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 158, "set": "e", "xprev": "Fluffhead", "next": "Letter to Jimmy Page", "nb": 1}
  ]
 }

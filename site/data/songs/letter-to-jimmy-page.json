@@ -104,6 +104,6 @@
   {"date": "2021-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 29, "set": "1", "out": ">", "prev": "Alumni Blues", "in": ">", "next": "Alumni Blues", "nb": 1},
   {"date": "2022-07-30", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 43, "set": "e", "out": ">", "prev": "Alumni Blues", "in": ">", "next": "Alumni Blues", "nb": 1},
   {"date": "2023-07-12", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 32, "set": "e", "out": ">", "prev": "Alumni Blues", "in": ">", "next": "Alumni Blues", "nb": 1},
-  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "e", "out": ">", "prev": "Alumni Blues", "in": ">", "next": "Alumni Blues"}
+  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "e", "out": ">", "prev": "Alumni Blues", "in": ">", "next": "Alumni Blues", "nb": 1}
  ]
 }
