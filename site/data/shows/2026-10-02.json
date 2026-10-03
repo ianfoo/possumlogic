@@ -141,9 +141,28 @@
       "gap_high": 7.527787105631539,
       "gap_away": null,
       "verdict": "premature"
+    },
+    {
+      "set": "SET 2",
+      "song": "Down with Disease",
+      "slug": "down-with-disease",
+      "gap": 3,
+      "jamchart": false,
+      "prev_date": "2026-09-04",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 329,
+      "recent_plays": 69,
+      "gap_median": 5,
+      "gap_mean": 5.521739130434782,
+      "gap_low": 2.93423505380379,
+      "gap_high": 8.23436110135188,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-03T01:26:29+00:00",
+  "count_since": "2026-10-03T01:46:58+00:00",
   "encored": false,
   "provisional": true
 }
