@@ -33,7 +33,7 @@
   {"date": "1996-10-31", "venue": "The Omni", "city": "Atlanta", "state": "GA", "gap": 43, "set": "1", "out": ">", "nb": 1, "first": 1, "next": "Highway to Hell"},
   {"date": "1998-08-15", "venue": "Loring Commerce Centre", "city": "Limestone", "state": "ME", "gap": 140, "set": "2", "out": ">", "nb": 1, "prev": "Gumbo", "in": "->", "next": "Tweezer"},
   {"date": "1998-11-27", "venue": "Worcester Centrum Centre", "city": "Worcester", "state": "MA", "gap": 26, "set": "2", "out": ">", "nb": 1, "prev": "Chalk Dust Torture", "in": ">", "next": "Buffalo Bill"},
-  {"date": "2003-07-06", "venue": "Cricket Pavilion", "city": "Phoenix", "state": "AZ", "gap": 0, "set": "1", "nb": 1, "prev": "I Am Hydrogen", "last": 1},
+  {"date": "2003-07-06", "venue": "Cricket Pavilion", "city": "Phoenix", "state": "AZ", "gap": null, "set": "1", "nb": 1, "prev": "I Am Hydrogen", "last": 1},
   {"date": "2009-03-08", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 190, "set": "1", "note": "Unfinished.", "out": ">", "nb": 1, "first": 1, "next": "Wilson"},
   {"date": "2009-11-28", "venue": "Times Union Center", "city": "Albany", "state": "NY", "gap": 38, "set": "1", "nb": 1, "prev": "Uncle Pen", "next": "Foam"},
   {"date": "2010-07-03", "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "gap": 26, "set": "1", "nb": 1, "prev": "Strange Design", "next": "Run Like an Antelope"},

@@ -30,7 +30,7 @@
   {"date": "1994-10-18", "score": 78, "venue": "Vanderbilt University Memorial Gym", "city": "Nashville", "state": "TN", "link": "https://fouldomain.com/tracks/16505"}
  ],
  "performances": [
-  {"date": "1991-09-25", "venue": "The Colonial Theatre", "city": "Keene", "state": "NH", "gap": 0, "set": "1", "jamchart": true, "jam": "Debut in Keene, NH. First version includes Page-led, band-wide jam following the descending chords indicating the lyrical skater's fall through the ice.", "note": "Debut.", "prev": "My Sweet One", "next": "The Landlady", "nb": 1},
+  {"date": "1991-09-25", "venue": "The Colonial Theatre", "city": "Keene", "state": "NH", "gap": null, "set": "1", "jamchart": true, "jam": "Debut in Keene, NH. First version includes Page-led, band-wide jam following the descending chords indicating the lyrical skater's fall through the ice.", "note": "Debut.", "prev": "My Sweet One", "next": "The Landlady", "nb": 1},
   {"date": "1991-09-26", "venue": "State Theatre Of Ithaca", "city": "Ithaca", "state": "NY", "gap": 1, "set": "1", "jamchart": true, "jam": "Good rocking and somewhat dissonant jam section with great Fish.", "prev": "Fee", "next": "My Sweet One", "nb": 1},
   {"date": "1991-09-27", "venue": "The Warehouse", "city": "Rochester", "state": "NY", "gap": 1, "set": "1", "jamchart": true, "jam": "Some excellent tension building by Page and Trey in the jam segment.", "prev": "Paul and Silas", "next": "I Didn't Know", "nb": 1},
   {"date": "1991-09-29", "venue": "The Agora Ballroom", "city": "Cleveland", "state": "OH", "gap": 2, "set": "1", "prev": "I Didn't Know", "next": "Poor Heart", "nb": 1},

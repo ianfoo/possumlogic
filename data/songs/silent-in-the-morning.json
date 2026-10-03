@@ -30,7 +30,7 @@
   {"date": "2020-02-23", "score": 52, "venue": "Moon Palace", "city": "Cancun, Quintana Roo", "state": "", "link": "https://fouldomain.com/tracks/35860"}
  ],
  "performances": [
-  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": 0, "set": "1", "nb": 1, "prev": "The Horse", "in": ">", "next": "NICU"},
+  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "The Horse", "in": ">", "next": "NICU"},
   {"date": "1992-03-07", "venue": "The Music Hall", "city": "Portsmouth", "state": "NH", "gap": 591, "set": "1", "note": "Debut.", "nb": 1, "prev": "The Horse", "in": ">", "next": "Maze"},
   {"date": "1992-03-13", "venue": "Campus Club", "city": "Providence", "state": "RI", "gap": 3, "set": "2", "nb": 1, "prev": "The Horse", "in": ">", "next": "The Landlady"},
   {"date": "1992-03-19", "venue": "Palace Theatre", "city": "New Haven", "state": "CT", "gap": 3, "set": "1", "nb": 1, "prev": "The Horse", "in": ">", "next": "Dinner and a Movie"},

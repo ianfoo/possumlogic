@@ -30,12 +30,12 @@
   {"date": "2025-09-13", "score": 84, "venue": "Coca-Cola Amphitheater", "city": "Birmingham", "state": "AL", "link": "https://fouldomain.com/tracks/39817"}
  ],
  "performances": [
-  {"date": "1993-12-31", "venue": "Worcester Centrum Centre", "city": "Worcester", "state": "MA", "gap": 0, "set": "3", "jamchart": true, "jam": "Jam segment only following \"Auld Lang Syne\" (Released on Live Bait Volume 3).", "out": ">", "prev": "Auld Lang Syne", "in": ">", "next": "Split Open and Melt", "nb": 1},
+  {"date": "1993-12-31", "venue": "Worcester Centrum Centre", "city": "Worcester", "state": "MA", "gap": null, "set": "3", "jamchart": true, "jam": "Jam segment only following \"Auld Lang Syne\" (Released on Live Bait Volume 3).", "out": ">", "prev": "Auld Lang Syne", "in": ">", "next": "Split Open and Melt", "nb": 1},
   {"date": "1994-04-04", "venue": "The Flynn Theatre", "city": "Burlington", "state": "VT", "gap": 1, "set": "2", "jamchart": true, "jam": "Debut of the complete song.", "note": "Debut.", "out": ">", "next": "If I Could", "xprev": "Possum", "nb": 1},
   {"date": "1994-04-06", "venue": "Concert Hall", "city": "Toronto", "state": "Ontario", "gap": 2, "set": "2", "jamchart": true, "jam": "Trey is just ON FIRE! A thrilling, albeit straight-up \"Type I\" version.", "prev": "The Curtain", "in": ">", "next": "Wolfman's Brother", "nb": 1},
   {"date": "1994-04-08", "venue": "Recreation Hall, Penn State University", "city": "State College", "state": "PA", "gap": 1, "set": "1", "prev": "Silent in the Morning", "in": ">", "next": "If I Could", "nb": 1},
   {"date": "1994-04-10", "venue": "Alumni Arena, SUNY Buffalo", "city": "Buffalo", "state": "NY", "gap": 2, "set": "1", "prev": "Scent of a Mule", "xnext": "My Friend, My Friend", "nb": 1},
-  {"date": "1994-04-13", "venue": "WNEW Studios", "city": "New York", "state": "NY", "gap": 0, "set": "1", "prev": "Sample in a Jar", "next": "Rift", "nb": 1},
+  {"date": "1994-04-13", "venue": "WNEW Studios", "city": "New York", "state": "NY", "gap": null, "set": "1", "prev": "Sample in a Jar", "next": "Rift", "nb": 1},
   {"date": "1994-04-14", "venue": "Beacon Theatre", "city": "New York", "state": "NY", "gap": 3, "set": "1", "prev": "Sparkle", "in": ">", "next": "Glide", "nb": 1},
   {"date": "1994-04-15", "venue": "Beacon Theatre", "city": "New York", "state": "NY", "gap": 1, "set": "1", "prev": "It's Ice", "in": ">", "xnext": "Maze", "nb": 1},
   {"date": "1994-04-17", "venue": "Patriot Center, George Mason University", "city": "Fairfax", "state": "VA", "gap": 2, "set": "1", "out": ">", "prev": "Mound", "next": "If I Could", "nb": 1},

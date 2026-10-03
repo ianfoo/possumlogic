@@ -30,7 +30,7 @@
   {"date": "1995-06-24", "score": 51, "venue": "The Mann Center for the Performing Arts", "city": "Philadelphia", "state": "PA", "link": "https://fouldomain.com/tracks/17642"}
  ],
  "performances": [
-  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": 0, "set": "1", "nb": 1, "prev": "Sleeping Monkey", "next": "Cracklin' Rosie"},
+  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "Sleeping Monkey", "next": "Cracklin' Rosie"},
   {"date": "1992-03-06", "venue": "The Music Hall", "city": "Portsmouth", "state": "NH", "gap": 590, "set": "2", "note": "Debut.", "nb": 1, "prev": "Stash", "next": "Llama"},
   {"date": "1992-03-11", "venue": "The Colonial Theatre", "city": "Keene", "state": "NH", "gap": 2, "set": "1", "nb": 1, "prev": "Split Open and Melt", "next": "Divided Sky"},
   {"date": "1992-03-13", "venue": "Campus Club", "city": "Providence", "state": "RI", "gap": 2, "set": "1", "out": ">", "nb": 1, "prev": "Divided Sky", "next": "Fluffhead"},

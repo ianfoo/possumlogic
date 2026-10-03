@@ -117,7 +117,7 @@
   {"date": "1991-05-09", "venue": "Portland Performing Arts Center", "city": "Portland", "state": "ME", "gap": 3, "set": "2", "nb": 1, "prev": "Split Open and Melt", "next": "Rocky Top"},
   {"date": "1991-05-11", "venue": "The Front", "city": "Burlington", "state": "VT", "gap": 2, "set": "1", "out": ">", "nb": 1, "prev": "Llama", "next": "Cavern"},
   {"date": "1991-05-12", "venue": "The Front", "city": "Burlington", "state": "VT", "gap": 1, "set": "2", "out": ">", "nb": 1, "prev": "Weekapaug Groove", "next": "The Oh Kee Pa Ceremony"},
-  {"date": "1991-05-16", "venue": "The Sting", "city": "New Britain", "state": "CT", "gap": 0, "set": "2", "nb": 1, "prev": "The Landlady", "next": "Tweezer"},
+  {"date": "1991-05-16", "venue": "The Sting", "city": "New Britain", "state": "CT", "gap": null, "set": "2", "nb": 1, "prev": "The Landlady", "next": "Tweezer"},
   {"date": "1991-05-19", "venue": "Salisbury School", "city": "Salisbury", "state": "CT", "gap": 3, "set": "1", "nb": 1, "prev": "Cavern", "next": "Llama"},
   {"date": "1991-07-12", "venue": "The Colonial Theatre", "city": "Keene", "state": "NH", "gap": 2, "set": "2", "nb": 1, "prev": "Golgi Apparatus", "next": "Moose the Mooche"},
   {"date": "1991-07-14", "venue": "Townshend Family Park", "city": "Townshend", "state": "VT", "gap": 2, "set": "1", "out": ">", "nb": 1, "prev": "Llama", "next": "Golgi Apparatus"},

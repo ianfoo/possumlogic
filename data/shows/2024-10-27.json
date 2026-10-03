@@ -24,7 +24,8 @@
       "gap_high": 25.090798912870525,
       "gap_away": [
         3,
-        47
+        47,
+        24
       ],
       "verdict": "expected",
       "prev_date": "2024-08-02",
@@ -39,7 +40,7 @@
       "gap": 4,
       "out": "",
       "plays": 4,
-      "recent_plays": 2,
+      "recent_plays": 3,
       "gap_median": null,
       "gap_mean": null,
       "gap_low": null,
@@ -122,7 +123,8 @@
       "gap_high": 17.520151282581747,
       "gap_away": [
         3,
-        38
+        38,
+        30
       ],
       "verdict": "expected",
       "prev_date": "2024-08-11",
@@ -144,7 +146,8 @@
       "gap_high": 27.636660498548128,
       "gap_away": [
         3,
-        43
+        43,
+        21
       ],
       "verdict": "expected",
       "prev_date": "2024-08-16",
@@ -197,11 +200,11 @@
       "gap": 4,
       "out": ">",
       "plays": 60,
-      "recent_plays": 58,
-      "gap_median": 4.0,
-      "gap_mean": 3.6724137931034484,
-      "gap_low": 1.6094338461945101,
-      "gap_high": 5.8537669981237865,
+      "recent_plays": 59,
+      "gap_median": 4,
+      "gap_mean": 3.736842105263158,
+      "gap_low": 1.7836081967916986,
+      "gap_high": 5.75835152430349,
       "gap_away": null,
       "verdict": "expected",
       "prev_date": "2024-08-30",
@@ -235,7 +238,7 @@
       "gap": 23,
       "out": "",
       "plays": 40,
-      "recent_plays": 38,
+      "recent_plays": 39,
       "gap_median": 6.0,
       "gap_mean": 8.657894736842104,
       "gap_low": 3.2176808495447613,
@@ -273,7 +276,7 @@
       "gap": 3,
       "out": "",
       "plays": 15,
-      "recent_plays": 13,
+      "recent_plays": 14,
       "gap_median": 17,
       "gap_mean": 18.615384615384617,
       "gap_low": 8.064015614729142,
@@ -312,10 +315,10 @@
       "out": ">",
       "plays": 102,
       "recent_plays": 29,
-      "gap_median": 10,
-      "gap_mean": 11.10344827586207,
-      "gap_low": 3.0978581021130402,
-      "gap_high": 19.195982280341955,
+      "gap_median": 10.0,
+      "gap_mean": 11.5,
+      "gap_low": 4.000617050751961,
+      "gap_high": 18.377240906705346,
       "gap_away": null,
       "verdict": "overdue",
       "prev_date": "2024-07-23",

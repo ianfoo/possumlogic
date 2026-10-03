@@ -30,7 +30,7 @@
   {"date": "1998-11-27", "score": 40, "venue": "Worcester Centrum Centre", "city": "Worcester", "state": "MA", "link": "https://fouldomain.com/tracks/22786"}
  ],
  "performances": [
-  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": 0, "set": "1", "times": 2, "nb": 1, "prev": "Limb By Limb", "next": "Ghost"},
+  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": null, "set": "1", "times": 2, "nb": 1, "prev": "Limb By Limb", "next": "Ghost"},
   {"date": "1997-06-13", "venue": "The S.F.X. Centre", "city": "Dublin", "state": "County Dublin", "gap": 1117, "set": "1", "note": "Debut.", "nb": 1, "prev": "Theme from the Bottom", "next": "Beauty of My Dreams"},
   {"date": "1997-06-14", "venue": "The S.F.X. Centre", "city": "Dublin", "state": "County Dublin", "gap": 1, "set": "2", "nb": 1, "prev": "Waking Up", "next": "Waste"},
   {"date": "1997-06-16", "venue": "Royal Albert Hall", "city": "London", "state": "England", "gap": 1, "set": "1", "out": ">", "nb": 1, "prev": "The Squirming Coil", "in": ">", "next": "Taste"},

@@ -16,7 +16,7 @@
   {"date": "2000-09-29", "score": 40, "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/24929"}
  ],
  "performances": [
-  {"date": "1995-05-14", "venue": "Fish's House", "city": "Burlington", "state": "VT", "gap": 0, "set": "1", "nb": 1, "prev": "Don't You Want To Go?", "next": "Theme from the Bottom"},
+  {"date": "1995-05-14", "venue": "Fish's House", "city": "Burlington", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "Don't You Want To Go?", "next": "Theme from the Bottom"},
   {"date": "1995-05-16", "venue": "Lowell Memorial Auditorium", "city": "Lowell", "state": "MA", "gap": 951, "set": "1", "note": "Debut.", "nb": 1, "prev": "Ha Ha Ha", "in": ">", "next": "Strange Design"},
   {"date": "1995-06-07", "venue": "Boise State University Pavilion", "city": "Boise", "state": "ID", "gap": 1, "set": "2", "nb": 1, "prev": "Maze", "next": "Theme from the Bottom"},
   {"date": "1995-06-14", "venue": "Mud Island Amphitheater", "city": "Memphis", "state": "TN", "gap": 5, "set": "1", "out": ">", "nb": 1, "prev": "Silent in the Morning", "next": "Split Open and Melt"},

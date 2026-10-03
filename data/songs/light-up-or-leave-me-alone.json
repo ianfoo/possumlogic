@@ -19,7 +19,7 @@
   {"date": "1988-08-13", "venue": "The Front", "city": "Burlington", "state": "VT", "gap": 7, "set": "1", "nb": 1, "prev": "Fly Famous Mockingbird", "next": "Suzy Greenberg"},
   {"date": "1989-03-01", "venue": "Gallagher's", "city": "Waitsfield", "state": "VT", "gap": 47, "set": "2", "nb": 1, "prev": "Halley's Comet", "in": ">", "next": "Big Black Furry Creature from Mars"},
   {"date": "1999-12-30", "venue": "Big Cypress Seminole Indian Reservation", "city": "Big Cypress", "state": "FL", "gap": 1097, "set": "1", "jamchart": true, "jam": "A wonderful compact jam that starts with some dark energy but soon enough taps into classic '99 sounds and soars into the stratosphere. Welcome to Big Cypress.", "note": "Unfinished.", "out": ">", "nb": 1, "prev": "Water in the Sky", "next": "Suzy Greenberg"},
-  {"date": "2004-08-13", "venue": "Newport State Airport", "city": "Coventry", "state": "VT", "gap": 0, "set": "1", "nb": 1, "prev": "Jam", "next": "Ginseng Sullivan"},
+  {"date": "2004-08-13", "venue": "Newport State Airport", "city": "Coventry", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "Jam", "next": "Ginseng Sullivan"},
   {"date": "2010-07-01", "venue": "Time Warner Cable Music Pavilion at Walnut Creek ", "city": "Raleigh", "state": "NC", "gap": 183, "set": "2", "note": "Unfinished.", "out": "->", "nb": 1, "prev": "Have Mercy", "next": "Free"},
   {"date": "2010-08-09", "venue": "Telluride Town Park", "city": "Telluride", "state": "CO", "gap": 7, "set": "1", "nb": 1, "prev": "Ocelot", "next": "Summer of '89"},
   {"date": "2010-10-29", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 20, "set": "1", "nb": 1, "prev": "Sample in a Jar", "next": "Sugar Shack"},

@@ -10,7 +10,7 @@
   {"date": "2009-06-19", "venue": "Verizon Wireless Music Center", "city": "Noblesville", "state": "IN", "gap": 8, "set": "2", "nb": 1, "prev": "Twist", "next": "Tweezer"},
   {"date": "2009-08-05", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 7, "set": "e", "nb": 1, "xprev": "Weekapaug Groove", "next": "Bold As Love"},
   {"date": "2009-08-15", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 6, "set": "2", "nb": 1, "prev": "Alaska", "next": "46 Days"},
-  {"date": "2009-10-29", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": 0, "set": "1", "nb": 1, "prev": "Sleep Again", "next": "Invisible"},
+  {"date": "2009-10-29", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": null, "set": "1", "nb": 1, "prev": "Sleep Again", "next": "Invisible"},
   {"date": "2009-11-01", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": 4, "set": "1", "note": "Acoustic.", "nb": 1, "prev": "My Sweet One", "next": "Bouncing Around the Room"},
   {"date": "2009-11-22", "venue": "War Memorial at Oncenter", "city": "Syracuse", "state": "NY", "gap": 4, "set": "1", "nb": 1, "prev": "Boogie On Reggae Woman", "next": "Beauty of a Broken Heart"},
   {"date": "2009-11-28", "venue": "Times Union Center", "city": "Albany", "state": "NY", "gap": 4, "set": "2", "nb": 1, "prev": "Gotta Jibboo", "next": "Wolfman's Brother"},

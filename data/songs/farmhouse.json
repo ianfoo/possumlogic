@@ -30,7 +30,7 @@
   {"date": "2015-07-31", "score": 55, "venue": "Aaron's Amphitheatre at Lakewood", "city": "Atlanta", "state": "GA", "link": "https://fouldomain.com/tracks/32151"}
  ],
  "performances": [
-  {"date": "1997-11-07", "venue": "NBC Television Studios, Studio 6A", "city": "New York", "state": "NY", "gap": 0, "set": "1", "note": "Unofficial debut.", "nb": 1, "first": 1, "next": "Mike's Song"},
+  {"date": "1997-11-07", "venue": "NBC Television Studios, Studio 6A", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Unofficial debut.", "nb": 1, "first": 1, "next": "Mike's Song"},
   {"date": "1997-11-16", "venue": "McNichols Arena", "city": "Denver", "state": "CO", "gap": 1154, "set": "1", "jamchart": true, "jam": "Debut features Page deploying the now familiar watery keyboard effects he would use for most of the '90s, while Trey briefly shows off his Hendrix-esque skills in a culminating trill.", "note": "Played in concert for the first time.", "nb": 1, "prev": "Black-Eyed Katy", "next": "The Old Home Place"},
   {"date": "1997-11-28", "venue": "Worcester Centrum Centre", "city": "Worcester", "state": "MA", "gap": 7, "set": "1", "nb": 1, "prev": "Maze", "next": "Black-Eyed Katy"},
   {"date": "1997-12-28", "venue": "USAir Arena", "city": "Landover", "state": "MD", "gap": 12, "set": "1", "nb": 1, "prev": "Runaway Jim", "next": "Funky Bitch"},
@@ -42,7 +42,7 @@
   {"date": "1998-11-18", "venue": "BI-LO Center", "city": "Greenville", "state": "SC", "gap": 3, "set": "1", "out": ">", "nb": 1, "prev": "Birds of a Feather", "next": "My Soul"},
   {"date": "1998-11-20", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 2, "set": "2", "nb": 1, "prev": "Roses Are Free", "next": "Hold Your Head Up"},
   {"date": "1998-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "1", "nb": 1, "prev": "Stash", "next": "Taste"},
-  {"date": "1999-06-24", "venue": "The Barn", "city": "Outer Burlington", "state": "VT", "gap": 0, "set": "1", "nb": 1, "first": 1, "next": "The Moma Dance"},
+  {"date": "1999-06-24", "venue": "The Barn", "city": "Outer Burlington", "state": "VT", "gap": null, "set": "1", "nb": 1, "first": 1, "next": "The Moma Dance"},
   {"date": "1999-06-30", "venue": "Sandstone Amphitheatre", "city": "Bonner Springs", "state": "KS", "gap": 4, "set": "1", "nb": 1, "prev": "Bathtub Gin", "next": "Tube"},
   {"date": "1999-07-04", "venue": "Lakewood Amphitheatre", "city": "Atlanta", "state": "GA", "gap": 3, "set": "1", "nb": 1, "prev": "Ya Mar", "next": "The Oh Kee Pa Ceremony"},
   {"date": "1999-07-09", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 3, "set": "1", "nb": 1, "prev": "Limb By Limb", "next": "Back on the Train"},

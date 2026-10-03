@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2023-08-04", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 0, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "46 Days", "in": ">", "next": "Bouncing Around the Room"}
+  {"date": "2023-08-04", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "1", "note": "Phish debut.", "nb": 1, "prev": "46 Days", "in": ">", "next": "Bouncing Around the Room"}
  ]
 }

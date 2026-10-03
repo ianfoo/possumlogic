@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 0, "set": "2", "note": "Debut.", "nb": 1, "prev": "Knuckle Bone Broth Avenue", "next": "Egg in a Hole"}
+  {"date": "2021-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "note": "Debut.", "nb": 1, "prev": "Knuckle Bone Broth Avenue", "next": "Egg in a Hole"}
  ]
 }

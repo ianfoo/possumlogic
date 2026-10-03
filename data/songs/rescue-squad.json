@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2019-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 0, "set": "e", "note": "Debut; only Trey.", "nb": 1, "prev": "Tweezer Reprise", "last": 1}
+  {"date": "2019-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "e", "note": "Debut; only Trey.", "nb": 1, "prev": "Tweezer Reprise", "last": 1}
  ]
 }

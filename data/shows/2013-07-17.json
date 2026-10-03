@@ -62,7 +62,8 @@
       "gap_high": 10.775511812025346,
       "gap_away": [
         4,
-        19
+        19,
+        37
       ],
       "verdict": "expected",
       "prev_date": "2013-07-06",
@@ -154,7 +155,7 @@
       "gap": 10,
       "out": "",
       "plays": 31,
-      "recent_plays": 29,
+      "recent_plays": 30,
       "gap_median": 6,
       "gap_mean": 5.655172413793103,
       "gap_low": 3.6352962582569006,
@@ -192,7 +193,7 @@
       "gap": 5,
       "out": ">",
       "plays": 41,
-      "recent_plays": 39,
+      "recent_plays": 40,
       "gap_median": 4,
       "gap_mean": 4.461538461538462,
       "gap_low": 2.402403771365993,
@@ -256,7 +257,8 @@
       "gap_high": 22.66048170212438,
       "gap_away": [
         3,
-        32
+        32,
+        17
       ],
       "verdict": "expected",
       "prev_date": "2013-07-05",
@@ -290,7 +292,7 @@
       "gap": 8,
       "out": "->",
       "plays": 2,
-      "recent_plays": 0,
+      "recent_plays": 1,
       "gap_median": null,
       "gap_mean": null,
       "gap_low": null,

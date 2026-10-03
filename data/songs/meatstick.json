@@ -30,7 +30,7 @@
  ],
  "performances": [
   {"date": "1997-06-25", "venue": "L\u2019Aeronef", "city": "Lille", "state": "Hauts-de-France", "gap": 1122, "set": "2", "jamchart": true, "jam": "Short debut version is essentially the \"Meatstick\" lyrics being sung over the jam out of \"DwD\". -> to \"McGrupp\".", "note": "Debut.", "out": "->", "nb": 1, "prev": "Down with Disease", "in": "->", "next": "McGrupp and the Watchful Hosemasters"},
-  {"date": "1999-06-24", "venue": "The Barn", "city": "Outer Burlington", "state": "VT", "gap": 0, "set": "1", "out": ">", "nb": 1, "prev": "Hey You", "next": "Come Together"},
+  {"date": "1999-06-24", "venue": "The Barn", "city": "Outer Burlington", "state": "VT", "gap": null, "set": "1", "out": ">", "nb": 1, "prev": "Hey You", "next": "Come Together"},
   {"date": "1999-07-03", "venue": "Lakewood Amphitheatre", "city": "Atlanta", "state": "GA", "gap": 124, "set": "1", "nb": 1, "prev": "Waste", "xnext": "Twist"},
   {"date": "1999-07-04", "venue": "Lakewood Amphitheatre", "city": "Atlanta", "state": "GA", "gap": 1, "set": "e", "nb": 1, "prev": "Carini", "in": ">", "xnext": "The Star-Spangled Banner"},
   {"date": "1999-07-08", "venue": "GTE Virginia Beach Amphitheater", "city": "Virginia Beach", "state": "VA", "gap": 2, "set": "2", "nb": 1, "prev": "Sleep", "next": "Tube"},

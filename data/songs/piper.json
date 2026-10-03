@@ -30,7 +30,7 @@
   {"date": "2025-07-09", "score": 82, "venue": "Jerome Schottenstein Center", "city": "Columbus", "state": "OH", "link": "https://fouldomain.com/tracks/39544"}
  ],
  "performances": [
-  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": 0, "set": "1", "times": 2, "nb": 1, "prev": "Twist", "next": "Wading in the Velvet Sea"},
+  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": null, "set": "1", "times": 2, "nb": 1, "prev": "Twist", "next": "Wading in the Velvet Sea"},
   {"date": "1997-06-14", "venue": "The S.F.X. Centre", "city": "Dublin", "state": "County Dublin", "gap": 1115, "set": "2", "jamchart": true, "jam": "Debut in Dublin.  Many '97 - '99 versions follow this format, that involves (1) a long, harmonic, building intro, (2) a high energy lyrics and \"Type I\" jamming section, and (3) a short settling coda, but no exploratory jamming or improvisation.", "note": "Debut.", "nb": 1, "prev": "Twist", "next": "Saw It Again"},
   {"date": "1997-06-19", "venue": "Arena Wien", "city": "Vienna", "state": "Vienna", "gap": 2, "set": "2", "nb": 1, "prev": "Wading in the Velvet Sea", "next": "Jesus Just Left Chicago"},
   {"date": "1997-06-24", "venue": "La Laiterie", "city": "Strasbourg", "state": "Grand Est", "gap": 4, "set": "2", "nb": 1, "prev": "Twist", "in": ">", "next": "Wading in the Velvet Sea"},

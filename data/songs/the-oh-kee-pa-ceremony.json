@@ -86,7 +86,7 @@
   {"date": "1990-09-28", "venue": "The Chance", "city": "Poughkeepsie", "state": "NY", "gap": 2, "set": "1", "out": ">", "nb": 1, "prev": "Bouncing Around the Room", "next": "Suzy Greenberg"},
   {"date": "1990-10-01", "venue": "The Haunt", "city": "Ithaca", "state": "NY", "gap": 3, "set": "1", "out": ">", "nb": 1, "prev": "Tweezer", "in": ">", "next": "Suzy Greenberg"},
   {"date": "1990-10-05", "venue": "Skidmore Gymnasium, Skidmore College", "city": "Saratoga Springs", "state": "NY", "gap": 3, "set": "1", "out": ">", "nb": 1, "prev": "Tela", "in": ">", "next": "Suzy Greenberg"},
-  {"date": "1990-10-06", "venue": "The Capitol Theatre", "city": "Port Chester", "state": "NY", "gap": 0, "set": "1", "out": ">", "nb": 1, "prev": "You Enjoy Myself", "in": ">", "next": "Suzy Greenberg"},
+  {"date": "1990-10-06", "venue": "The Capitol Theatre", "city": "Port Chester", "state": "NY", "gap": null, "set": "1", "out": ">", "nb": 1, "prev": "You Enjoy Myself", "in": ">", "next": "Suzy Greenberg"},
   {"date": "1990-10-08", "venue": "The Bayou", "city": "Washington", "state": "DC", "gap": 1, "set": "1", "out": ">", "nb": 1, "prev": "You Enjoy Myself", "in": ">", "next": "Possum"},
   {"date": "1990-10-10", "venue": "Trax", "city": "Charlottesville", "state": "VA", "gap": 1, "set": "1", "out": ">", "nb": 1, "prev": "Cavern", "next": "Suzy Greenberg"},
   {"date": "1990-10-11", "venue": "The Jade Elephant", "city": "Richmond", "state": "VA", "gap": 1, "set": "2", "out": ">", "nb": 1, "prev": "You Enjoy Myself", "next": "AC/DC Bag"},

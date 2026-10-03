@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2025-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 0, "set": "e", "note": "Phish debut.", "nb": 1, "xprev": "Say It To Me S.A.N.T.O.S.", "next": "Spock's Brain"}
+  {"date": "2025-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": null, "set": "e", "note": "Phish debut.", "nb": 1, "xprev": "Say It To Me S.A.N.T.O.S.", "next": "Spock's Brain"}
  ]
 }

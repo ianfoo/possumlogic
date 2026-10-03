@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2010-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 0, "set": "2", "note": "Phish debut; Giovanni Hidalgo on percussion.", "nb": 1, "prev": "A Apolitical Blues", "next": "Feats Don't Fail Me Now"}
+  {"date": "2010-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "note": "Phish debut; Giovanni Hidalgo on percussion.", "nb": 1, "prev": "A Apolitical Blues", "next": "Feats Don't Fail Me Now"}
  ]
 }

@@ -30,7 +30,7 @@
   {"date": "2000-10-07", "score": 65, "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "link": "https://fouldomain.com/tracks/25042"}
  ],
  "performances": [
-  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": 0, "set": "1", "times": 2, "prev": "Piper", "next": "Olivia's Pool", "nb": 1},
+  {"date": "1997-06-06", "venue": "Brad Sands's and Pete Carini's House", "city": "Charlotte", "state": "VT", "gap": null, "set": "1", "times": 2, "prev": "Piper", "next": "Olivia's Pool", "nb": 1},
   {"date": "1997-06-13", "venue": "The S.F.X. Centre", "city": "Dublin", "state": "County Dublin", "gap": 1114, "set": "1", "note": "Debut.", "out": ">", "prev": "Wolfman's Brother", "in": ">", "next": "Taste", "nb": 1},
   {"date": "1997-06-16", "venue": "Royal Albert Hall", "city": "London", "state": "England", "gap": 2, "set": "2", "prev": "Reba", "next": "Dirt", "nb": 1},
   {"date": "1997-06-19", "venue": "Arena Wien", "city": "Vienna", "state": "Vienna", "gap": 1, "set": "2", "prev": "Saw It Again", "in": ">", "next": "Piper", "nb": 1},
@@ -47,7 +47,7 @@
   {"date": "1998-10-17", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 1, "set": "1", "note": "Acoustic.", "prev": "Driver", "next": "Harry Hood", "nb": 1},
   {"date": "1998-10-20", "venue": "Sony Music Studios", "city": "New York", "state": "NY", "gap": 2, "set": "1", "prev": "Guyute", "next": "Driver", "nb": 1},
   {"date": "1998-11-02", "venue": "The \u201cE\u201d Center", "city": "West Valley City", "state": "UT", "gap": 4, "set": "1", "out": ">", "prev": "Limb By Limb", "next": "Sample in a Jar", "nb": 1},
-  {"date": "1998-11-03", "venue": "KBCO Studio C", "city": "Boulder", "state": "CO", "gap": 0, "set": "1", "prev": "Driver", "next": "Possum", "nb": 1},
+  {"date": "1998-11-03", "venue": "KBCO Studio C", "city": "Boulder", "state": "CO", "gap": null, "set": "1", "prev": "Driver", "next": "Possum", "nb": 1},
   {"date": "1998-11-08", "venue": "UIC Pavilion, University of Illinois", "city": "Chicago", "state": "IL", "gap": 4, "set": "2", "prev": "Piper", "in": ">", "next": "Run Like an Antelope", "nb": 1},
   {"date": "1998-11-15", "venue": "Murphy Center, Middle Tennessee State University", "city": "Murfreesboro", "state": "TN", "gap": 5, "set": "2", "jamchart": true, "jam": "Has a superb, serene and delicate outro jam which @ucpete notes sounds similar to the ending of the &quot;Waves&quot; soundcheck from 5/26/11 (and he's right about this).", "out": ">", "prev": "Simple", "in": ">", "next": "Loving Cup", "nb": 1},
   {"date": "1998-11-21", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 4, "set": "1", "prev": "Foam", "next": "Guyute", "nb": 1},
@@ -143,6 +143,6 @@
   {"date": "2025-07-26", "venue": "Broadview Stage at SPAC", "city": "Saratoga Springs", "state": "NY", "gap": 25, "set": "1", "out": ">", "prev": "Mike's Song", "in": ">", "next": "Weekapaug Groove", "nb": 1},
   {"date": "2026-05-02", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 25, "set": "e", "next": "Fluffhead", "xprev": "Character Zero", "nb": 1},
   {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 17, "set": "e", "next": "Character Zero", "xprev": "Possum", "nb": 1},
-  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 0, "set": "e", "nb": 1, "xprev": "Character Zero", "next": "Harry Hood"}
+  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": null, "set": "e", "nb": 1, "xprev": "Character Zero", "next": "Harry Hood"}
  ]
 }

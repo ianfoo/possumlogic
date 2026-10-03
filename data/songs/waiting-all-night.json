@@ -35,7 +35,7 @@
   {"date": "2014-07-01", "venue": "Xfinity Center", "city": "Mansfield", "state": "MA", "gap": 6, "set": "2", "out": ">", "nb": 1, "prev": "Free", "next": "Ghost"},
   {"date": "2014-07-04", "venue": "Saratoga Performing Arts Center", "city": "Saratoga Springs", "state": "NY", "gap": 2, "set": "1", "nb": 1, "prev": "Reba", "next": "Runaway Jim"},
   {"date": "2014-07-11", "venue": "Randall's Island", "city": "New York", "state": "NY", "gap": 4, "set": "1", "nb": 1, "prev": "The Wedge", "next": "Stash"},
-  {"date": "2014-07-14", "venue": "NBC Studios", "city": "New York", "state": "NY", "gap": 0, "set": "1", "nb": 1, "first": 1, "next": "Fuego"},
+  {"date": "2014-07-14", "venue": "NBC Studios", "city": "New York", "state": "NY", "gap": null, "set": "1", "nb": 1, "first": 1, "next": "Fuego"},
   {"date": "2014-07-16", "venue": "DTE Energy Music Theatre", "city": "Clarkston", "state": "MI", "gap": 4, "set": "2", "out": ">", "nb": 1, "prev": "Piper", "in": ">", "next": "Tweezer"},
   {"date": "2014-07-18", "venue": "FirstMerit Bank Pavilion at Northerly Island", "city": "Chicago", "state": "IL", "gap": 1, "set": "1", "nb": 1, "prev": "Reba", "next": "Birds of a Feather"},
   {"date": "2014-07-25", "venue": "PNC Music Pavilion", "city": "Charlotte", "state": "NC", "gap": 3, "set": "2", "out": ">", "nb": 1, "prev": "Rift", "next": "Reba"},

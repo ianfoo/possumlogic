@@ -24,7 +24,8 @@
       "gap_high": 9.60359613081278,
       "gap_away": [
         3,
-        17
+        17,
+        28
       ],
       "verdict": "expected",
       "prev_date": "2009-06-14",
@@ -79,9 +80,9 @@
       "plays": 190,
       "recent_plays": 26,
       "gap_median": 7.5,
-      "gap_mean": 7.730769230769231,
-      "gap_low": 3.9218928943687423,
-      "gap_high": 11.934208128080172,
+      "gap_mean": 7.6923076923076925,
+      "gap_low": 3.8251295036542414,
+      "gap_high": 11.969057428166897,
       "gap_away": null,
       "verdict": "premature",
       "prev_date": "2009-06-16",
@@ -115,7 +116,7 @@
       "gap": 2,
       "out": "",
       "plays": 6,
-      "recent_plays": 4,
+      "recent_plays": 5,
       "gap_median": null,
       "gap_mean": null,
       "gap_low": null,
@@ -160,7 +161,8 @@
       "gap_high": 9.765903166291404,
       "gap_away": [
         3,
-        21
+        21,
+        32
       ],
       "verdict": "expected",
       "prev_date": "2009-06-14",
@@ -213,7 +215,7 @@
       "gap": 6,
       "out": ">",
       "plays": 17,
-      "recent_plays": 15,
+      "recent_plays": 16,
       "gap_median": 4,
       "gap_mean": 4.866666666666666,
       "gap_low": 1.9029756552207506,
@@ -328,12 +330,12 @@
       "out": "->",
       "plays": 522,
       "recent_plays": 50,
-      "gap_median": 2.5,
-      "gap_mean": 2.96,
-      "gap_low": 0.9603184477072877,
-      "gap_high": 5.126893896639566,
+      "gap_median": 3.0,
+      "gap_mean": 3.217391304347826,
+      "gap_low": 1.4879047682170445,
+      "gap_high": 4.992508020754776,
       "gap_away": null,
-      "verdict": "expected",
+      "verdict": "premature",
       "prev_date": "2009-06-18",
       "prev_venue": "Post-Gazette Pavilion",
       "prev_place": "Burgettstown, PA"

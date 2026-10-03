@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2023-07-16", "venue": "Ameris Bank Amphitheatre", "city": "Alpharetta", "state": "GA", "gap": 0, "set": "e", "note": "Phish debut; Fish on guitar.", "out": ">", "nb": 1, "xprev": "More", "next": "Hold Your Head Up"}
+  {"date": "2023-07-16", "venue": "Ameris Bank Amphitheatre", "city": "Alpharetta", "state": "GA", "gap": null, "set": "e", "note": "Phish debut; Fish on guitar.", "out": ">", "nb": 1, "xprev": "More", "next": "Hold Your Head Up"}
  ]
 }

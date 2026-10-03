@@ -18,7 +18,7 @@
   {"date": "1998-12-28", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "2", "out": "->", "nb": 1, "prev": "When the Circus Comes", "next": "David Bowie"},
   {"date": "1999-07-18", "venue": "Oswego County Airport", "city": "Volney", "state": "NY", "gap": 17, "set": "3", "out": ">", "nb": 1, "prev": "Icculus", "next": "Fluffhead"},
   {"date": "1999-10-02", "venue": "Target Center", "city": "Minneapolis", "state": "MN", "gap": 28, "set": "1", "nb": 1, "prev": "Punch You in the Eye", "in": ">", "next": "Poor Heart"},
-  {"date": "1999-12-29", "venue": "Big Cypress Seminole Indian Reservation", "city": "Big Cypress", "state": "FL", "gap": 0, "set": "1", "nb": 1, "prev": "The Ballad of Curtis Loew", "next": "Timber (Jerry the Mule)"},
+  {"date": "1999-12-29", "venue": "Big Cypress Seminole Indian Reservation", "city": "Big Cypress", "state": "FL", "gap": null, "set": "1", "nb": 1, "prev": "The Ballad of Curtis Loew", "next": "Timber (Jerry the Mule)"},
   {"date": "2010-08-09", "venue": "Telluride Town Park", "city": "Telluride", "state": "CO", "gap": 211, "set": "e", "out": ">", "nb": 1, "xprev": "A Day in the Life", "next": "Tweezer Reprise"},
   {"date": "2010-08-14", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 4, "set": "e", "nb": 1, "xprev": "Bug", "last": 1},
   {"date": "2010-10-16", "venue": "North Charleston Coliseum", "city": "North Charleston", "state": "SC", "gap": 9, "set": "e", "out": ">", "nb": 1, "prev": "I Been Around", "next": "Tweezer Reprise"},

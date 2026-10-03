@@ -58,7 +58,7 @@
   {"date": "1997-02-22", "venue": "Teatro Olimpico", "city": "Rome", "state": "Lazio", "gap": 1, "set": "1", "prev": "I Didn't Know", "xnext": "Chalk Dust Torture", "nb": 1},
   {"date": "1997-02-28", "venue": "Huxley\u2019s Neue Welt", "city": "Berlin", "state": "Berlin", "gap": 4, "set": "1", "prev": "Ya Mar", "xnext": "Taste", "nb": 1},
   {"date": "1997-03-02", "venue": "Pumpehuset", "city": "Copenhagen", "state": "Capital Region", "gap": 2, "set": "2", "out": ">", "prev": "Waste", "next": "Slave to the Traffic Light", "nb": 1},
-  {"date": "1997-03-05", "venue": "Ed Sullivan Theater", "city": "New York", "state": "NY", "gap": 0, "set": "1", "first": 1, "last": 1, "nb": 1},
+  {"date": "1997-03-05", "venue": "Ed Sullivan Theater", "city": "New York", "state": "NY", "gap": null, "set": "1", "first": 1, "last": 1, "nb": 1},
   {"date": "1997-03-18", "venue": "The Flynn Theatre", "city": "Burlington", "state": "VT", "gap": 1, "set": "1", "note": "Dave Grippo on alto sax and James Harvey on trombone.", "prev": "Suzy Greenberg", "in": ">", "xnext": "Taste", "nb": 1},
   {"date": "1997-06-13", "venue": "The S.F.X. Centre", "city": "Dublin", "state": "County Dublin", "gap": 1, "set": "2", "prev": "Olivia's Pool", "in": ">", "xnext": "Stand!", "nb": 1},
   {"date": "1997-06-19", "venue": "Arena Wien", "city": "Vienna", "state": "Vienna", "gap": 3, "set": "e", "prev": "Beauty of My Dreams", "in": ">", "next": "Hello My Baby", "nb": 1},
@@ -293,10 +293,10 @@
   {"date": "2025-12-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 9, "set": "2", "prev": "Golden Age", "in": ">", "xnext": "The Lizards", "nb": 1},
   {"date": "2026-01-28", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 3, "set": "2", "prev": "Backwards Down the Number Line", "in": ">", "xnext": "Dog Faced Boy", "nb": 1},
   {"date": "2026-05-02", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 11, "set": "2", "prev": "A Life Beyond The Dream", "xnext": "Wading in the Velvet Sea", "nb": 1},
-  {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 0, "set": "1", "prev": "A Wave of Hope", "in": ">", "xnext": "Run Like an Antelope", "nb": 1},
+  {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": null, "set": "1", "prev": "A Wave of Hope", "in": ">", "xnext": "Run Like an Antelope", "nb": 1},
   {"date": "2026-07-17", "venue": "Coastal Credit Union Music Park at Walnut Creek", "city": "Raleigh", "state": "NC", "gap": 6, "set": "1", "prev": "Buried Alive", "in": ">", "next": "Llama", "nb": 1},
   {"date": "2026-07-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "2", "prev": "Crosseyed and Painless", "in": ">", "xnext": "A Day in the Life", "nb": 1},
   {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 1, "set": "e", "out": ">", "prev": "Wading in the Velvet Sea", "next": "Tweezer Reprise", "nb": 1},
-  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 0, "set": "2", "nb": 1, "prev": "Run Like an Antelope", "in": ">", "xnext": "Wading in the Velvet Sea"}
+  {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": null, "set": "2", "nb": 1, "prev": "Run Like an Antelope", "in": ">", "xnext": "Wading in the Velvet Sea"}
  ]
 }

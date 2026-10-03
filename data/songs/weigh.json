@@ -30,7 +30,7 @@
   {"date": "1993-03-22", "score": 42, "venue": "Crest Theatre", "city": "Sacramento", "state": "CA", "link": "https://fouldomain.com/tracks/12946"}
  ],
  "performances": [
-  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": 0, "set": "1", "nb": 1, "prev": "Maze", "next": "My Friend, My Friend"},
+  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": null, "set": "1", "nb": 1, "prev": "Maze", "next": "My Friend, My Friend"},
   {"date": "1992-03-07", "venue": "The Music Hall", "city": "Portsmouth", "state": "NH", "gap": 590, "set": "2", "note": "Debut.", "out": ">", "nb": 1, "prev": "The Squirming Coil", "next": "Chalk Dust Torture"},
   {"date": "1992-03-12", "venue": "The Flynn Theatre", "city": "Burlington", "state": "VT", "gap": 2, "set": "e", "out": ">", "nb": 1, "prev": "Sweet Adeline", "next": "Tweezer Reprise"},
   {"date": "1992-03-21", "venue": "Chestnut Cabaret", "city": "Philadelphia", "state": "PA", "gap": 6, "set": "2", "out": ">", "nb": 1, "prev": "David Bowie", "next": "Cold as Ice"},

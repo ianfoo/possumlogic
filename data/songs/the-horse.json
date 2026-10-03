@@ -30,7 +30,7 @@
   {"date": "2017-09-01", "score": 59, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/34019"}
  ],
  "performances": [
-  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": 0, "set": "1", "out": ">", "nb": 1, "prev": "Cold as Ice", "next": "Silent in the Morning"},
+  {"date": "1992-01-14", "venue": "The Band House", "city": "Winooski", "state": "VT", "gap": null, "set": "1", "out": ">", "nb": 1, "prev": "Cold as Ice", "next": "Silent in the Morning"},
   {"date": "1992-03-07", "venue": "The Music Hall", "city": "Portsmouth", "state": "NH", "gap": 591, "set": "1", "note": "Debut.", "out": ">", "nb": 1, "prev": "Runaway Jim", "next": "Silent in the Morning"},
   {"date": "1992-03-13", "venue": "Campus Club", "city": "Providence", "state": "RI", "gap": 3, "set": "2", "out": ">", "nb": 1, "prev": "Brother", "next": "Silent in the Morning"},
   {"date": "1992-03-19", "venue": "Palace Theatre", "city": "New Haven", "state": "CT", "gap": 3, "set": "1", "out": ">", "nb": 1, "prev": "Golgi Apparatus", "next": "Silent in the Morning"},

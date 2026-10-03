@@ -38,9 +38,9 @@
       "plays": 552,
       "recent_plays": 52,
       "gap_median": 2.0,
-      "gap_mean": 2.673076923076923,
-      "gap_low": 1.1122048594561833,
-      "gap_high": 4.307380935306986,
+      "gap_mean": 2.78,
+      "gap_low": 1.3724776964668841,
+      "gap_high": 4.2047372633060265,
       "gap_away": null,
       "verdict": "overdue",
       "prev_date": "2011-08-16",
@@ -100,7 +100,8 @@
       "gap_high": 13.032722320868183,
       "gap_away": [
         4,
-        19
+        19,
+        26
       ],
       "verdict": "expected",
       "prev_date": "2011-09-14",
@@ -141,7 +142,8 @@
       "gap_high": 22.445482959111796,
       "gap_away": [
         3,
-        29
+        29,
+        15
       ],
       "verdict": "expected",
       "prev_date": "2011-09-04",
@@ -346,7 +348,7 @@
       "gap": 6,
       "out": ">",
       "plays": 15,
-      "recent_plays": 13,
+      "recent_plays": 14,
       "gap_median": 6,
       "gap_mean": 6.0,
       "gap_low": 3.4571828828210087,

@@ -14,7 +14,7 @@
       "song": "Evolve",
       "slug": "evolve",
       "jamchart": false,
-      "gap": 0,
+      "gap": null,
       "out": "",
       "verdict": null,
       "prev_date": "2024-04-21",

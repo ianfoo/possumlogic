@@ -39,7 +39,7 @@
   {"date": "1993-03-14", "venue": "Paul Wright Gym, Western State College", "city": "Gunnison", "state": "CO", "gap": 302, "set": "2", "out": ">", "nb": 1, "prev": "David Bowie", "next": "You Enjoy Myself"},
   {"date": "1993-04-23", "venue": "Cotterell Court, Reid Athletic Center, Colgate University", "city": "Hamilton", "state": "NY", "gap": 30, "set": "2", "nb": 1, "prev": "Maze", "next": "It's Ice"},
   {"date": "1993-08-02", "venue": "Ritz Theatre", "city": "Tampa", "state": "FL", "gap": 28, "set": "2", "out": ">", "nb": 1, "prev": "Sparks", "in": ">", "next": "Rift"},
-  {"date": "1999-12-29", "venue": "Big Cypress Seminole Indian Reservation", "city": "Big Cypress", "state": "FL", "gap": 0, "set": "1", "nb": 1, "prev": "Ginseng Sullivan", "next": "Quinn the Eskimo (The Mighty Quinn)"},
+  {"date": "1999-12-29", "venue": "Big Cypress Seminole Indian Reservation", "city": "Big Cypress", "state": "FL", "gap": null, "set": "1", "nb": 1, "prev": "Ginseng Sullivan", "next": "Quinn the Eskimo (The Mighty Quinn)"},
   {"date": "2009-05-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 628, "set": "2", "nb": 1, "prev": "Free", "next": "You Enjoy Myself"},
   {"date": "2010-06-12", "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "gap": 48, "set": "1", "nb": 1, "prev": "Stash", "next": "Sample in a Jar"},
   {"date": "2010-06-29", "venue": "CMAC Performing Arts Center", "city": "Canandaigua", "state": "NY", "gap": 12, "set": "1", "nb": 1, "prev": "Undermind", "next": "David Bowie"},

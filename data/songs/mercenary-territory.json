@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2010-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 0, "set": "2", "note": "Phish debut; Giovanni Hidalgo on percussion, Aaron Johnson on trombone, Stuart Bogie on saxophone, Ian Hendrickson-Smith on saxophone, Michael Leonhart on trumpet, and Eric Biondo on trumpet.", "nb": 1, "prev": "Day or Night", "next": "Spanish Moon"}
+  {"date": "2010-10-31", "venue": "Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": null, "set": "2", "note": "Phish debut; Giovanni Hidalgo on percussion, Aaron Johnson on trombone, Stuart Bogie on saxophone, Ian Hendrickson-Smith on saxophone, Michael Leonhart on trumpet, and Eric Biondo on trumpet.", "nb": 1, "prev": "Day or Night", "next": "Spanish Moon"}
  ]
 }

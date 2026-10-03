@@ -203,7 +203,7 @@
   {"date": "1991-05-10", "venue": "Page Commons Room, Student Center, Colby College", "city": "Waterville", "state": "ME", "gap": 2, "set": "2", "nb": 1, "xprev": "Possum", "next": "Harry Hood"},
   {"date": "1991-05-11", "venue": "The Front", "city": "Burlington", "state": "VT", "gap": 1, "set": "1", "nb": 1, "prev": "Tweezer", "xnext": "Chalk Dust Torture"},
   {"date": "1991-05-12", "venue": "The Front", "city": "Burlington", "state": "VT", "gap": 1, "set": "2", "nb": 1, "prev": "The Curtain", "in": ">", "next": "Magilla"},
-  {"date": "1991-05-16", "venue": "The Sting", "city": "New Britain", "state": "CT", "gap": 0, "set": "1", "nb": 1, "prev": "Buried Alive", "in": ">", "next": "Foam"},
+  {"date": "1991-05-16", "venue": "The Sting", "city": "New Britain", "state": "CT", "gap": null, "set": "1", "nb": 1, "prev": "Buried Alive", "in": ">", "next": "Foam"},
   {"date": "1991-05-17", "venue": "Campus Club", "city": "Providence", "state": "RI", "gap": 1, "set": "e", "nb": 1, "prev": "Lawn Boy", "last": 1},
   {"date": "1991-05-18", "venue": "The Marquee", "city": "New York", "state": "NY", "gap": 1, "set": "1", "out": ">", "nb": 1, "prev": "Buried Alive", "in": ">", "next": "Chalk Dust Torture"},
   {"date": "1991-05-19", "venue": "Salisbury School", "city": "Salisbury", "state": "CT", "gap": 1, "set": "2", "nb": 1, "prev": "I Didn't Know", "xnext": "Possum"},

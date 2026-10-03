@@ -6,6 +6,6 @@
 
  ],
  "performances": [
-  {"date": "2014-10-29", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": 0, "set": "1", "out": ">", "nb": 1, "prev": "The Moma Dance", "in": ">", "next": "The Moma Dance"}
+  {"date": "2014-10-29", "venue": "Bill Graham Civic Auditorium", "city": "San Francisco", "state": "CA", "gap": null, "set": "1", "out": ">", "nb": 1, "prev": "The Moma Dance", "in": ">", "next": "The Moma Dance"}
  ]
 }
