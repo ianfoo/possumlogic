@@ -775,6 +775,8 @@ def remeasure(site_dir, artist="Phish"):
                               "gap_away"):
                         s.pop(k, None)
                     s["verdict"] = None
+                    # Nor is there a gap at an event that does not count.
+                    s["gap"] = None
                 skipped += 1
                 continue
             # The verdict fields are rewritten wholesale, so a song that should
@@ -815,6 +817,7 @@ def _finish_song(s, hist, date, counting=None):
     if counting:
         hist = [h for h in hist
                 if h["showdate"] in counting or h["showdate"] == date]
+        hist = true_gaps(hist, counting)
     idx = next((i for i, h in enumerate(hist) if h["showdate"] == date), None)
     if idx is not None:
         # by_show has already found the night's real gap, wherever among the
@@ -826,19 +829,6 @@ def _finish_song(s, hist, date, counting=None):
     # give -- see _gap -- would otherwise leave the key missing, where every
     # caller reads it by subscript.
     s.setdefault("gap", None)
-    # phish.net has not measured it yet -- it files a song entered during a
-    # show as 0 and gets round to it later -- so count it off the calendar
-    # instead: counting shows after the previous performance, up to and
-    # including this one. On 2026-10-02 that agreed with phish.net on all
-    # nine songs it *had* measured, and it is what a dash was standing in
-    # for: Mercury 14, Tweezer 2. The next fetch overwrites it with
-    # phish.net's own figure. Only between two counting shows, because
-    # anything else is not a gap the calendar can see.
-    if s["gap"] is None and idx and counting and date in counting \
-            and hist[idx - 1]["showdate"] in counting:
-        cal = sorted(counting)
-        s["gap"] = (bisect.bisect_right(cal, date)
-                    - bisect.bisect_right(cal, hist[idx - 1]["showdate"]))
     # What the song went into. phish.net files the mark on the earlier of the
     # two songs it joins, which is what makes it belong on this row: with a
     # band that segues as much as this one, "Tweezer ->" and "Tweezer" are
@@ -865,7 +855,7 @@ def _finish_song(s, hist, date, counting=None):
     # back at an event that does not count as an occasion. And "Jam" is not a
     # composition -- it cannot be overdue or bust out, because there is no
     # particular thing to have been waiting for.
-    judgeable = (not counting or date in counting) \
+    judgeable = (not counting or counts_toward(counting, date)) \
         and (s.get("slug") or "") not in NOT_A_SONG
     if judgeable:
         s.update(_classify(s["gap"], hist[1:idx if idx else 0], date,
@@ -5361,9 +5351,8 @@ SONG_JS = """
     box.querySelector('.num').textContent=n.toLocaleString();
     /* The same two thresholds the report pages apply, in the same order: the
        upper edge of the song's usual range where it has enough history to have
-       one, and the bustout line where it does not. Ours against ours -- this
-       is not a claim about phish.net's gap, which is not reproducible from a
-       show calendar. */
+       one, and the bustout line where it does not. Both are counted off the
+       same calendar as this figure, so they compare like with like. */
     var high=parseFloat(box.getAttribute('data-high')),
         bust=parseFloat(box.getAttribute('data-bustout')),
         mult=parseFloat(box.getAttribute('data-mult'))||2,
@@ -8323,8 +8312,9 @@ METHOD = (
 <p>The number beside a song is how many shows the band played between this
 performance and the one before it. A gap of <b class="num">0</b> means they
 played it again the very next night; <b class="num">485</b> means four hundred
-and eighty-five shows went by. The figure comes from Phish.net, which computes
-it; nothing here is counted a second time.</p>"""),
+and eighty-five shows went by. It is counted here from the show calendar, not
+taken from Phish.net, whose figure mostly counts the show itself and so reads
+one higher.</p>"""),
     ('the-median-and-why-ten-years', 'The median, and why ten years', """
 <p>Under each gap is that song's usual one &mdash; the median of its gaps over
 the <b>ten years</b> before the show, not over all of history. Forty years of a
@@ -8648,21 +8638,26 @@ FAQ = (
 <p>The number beside a song on a show page is how many shows the band played
 between that performance and the one before it. A gap of
 <b class="num">0</b> means they played it again the very next night;
-<b class="num">485</b> means four hundred and eighty-five shows went by. It is
-phish.net&rsquo;s own figure and nothing here recomputes it.</p>
+<b class="num">485</b> means four hundred and eighty-five shows went by. This
+site counts it from the show calendar rather than taking phish.net&rsquo;s.</p>
+<p>It used to take phish.net&rsquo;s, and phish.net&rsquo;s is a different
+number. Most of its gaps count the show itself, so a song played two nights
+running reads 1 there, and some do not; in the autumn of 2026 it renumbered
+figures it had already published, and a song entered during a show reads 0
+until it gets round to measuring it. Counted against the calendar, its gap
+was one too high on three performances in four. So the figure here is now
+simply the definition above, counted.</p>
 <p>A gap is not a length of time. A song with a gap of 30 in 1995 had been gone
 about five weeks; the same gap today is closer to a year.</p>"""),
 
     ("shows-since", "Why does a song page say &ldquo;shows since&rdquo; rather"
                     " than giving a current gap?", """
-<p>Because they are not the same number, and only one of them can be checked
-here. phish.net&rsquo;s gap is not reproducible from a show calendar &mdash;
-two songs spanning the same pair of shows can carry different gaps, so there is
-a per-song term in it that is not published. Printing a number that disagrees
-with theirs under their name would be worse than printing our own under
-ours.</p>
-<p>So the live figure counts shows the band has played since this song was last
-played, and calls it that. It is exact, because this site defines it.</p>"""),
+<p>Because a gap belongs to a performance &mdash; it is measured back from the
+night the song was played &mdash; and until the song is played again there is
+no performance to measure from. So the live figure counts the shows the band
+has played since this song was last played, and calls it that. It is counted
+off the same calendar as every gap on the site, so the day the song comes
+back, its gap is the number this page was showing the night before.</p>"""),
 
     ("segues", "What do <span class=\"num\">&gt;</span> and"
                " <span class=\"num\">&#8211;&gt;</span> mean, and how do they"
@@ -9775,24 +9770,74 @@ def archived(site_dir, date):
 # the weight, and all of it either reconstructible or already in the show's own
 # report. Trimmed, the archive's 165 songs come to 3.4 MB; untrimmed they would
 # not be worth the disk.
-def _gap(row):
-    """phish.net's gap for this row, or None where it has none to give.
+def counts_toward(counting, date):
+    """Whether a performance on `date` is at a show that counts toward a gap.
 
-    Below 1 is None. A gap counts the shows since the last performance, *this
-    one included*, so the smallest a real one can be is 1 -- played the show
-    before. phish.net files 0 in three places, and none of them is a gap: a
-    debut (since it revised its gaps in September 2026 -- before that, a
-    debut carried the band's whole show count, 1,684 for Mercury), a repeat
-    later in the same night, and a song entered during a show that it has not
-    measured yet. That last one printed "Gap 0 ... premature" against Mercury
-    on 2026-10-02, fourteen shows after it was last played, because a 0 is
-    a perfectly good number to every comparison downstream. None says "not
-    known" and every renderer already prints it as a dash.
+    The calendar, or a date newer than the whole calendar: fetch_calendar holds
+    back today's UTC date so a show is never *counted* before it is played, and
+    for the hour or two before 00:00 UTC that leaves the show being played
+    tonight off it. A performance on that date is the proof it happened.
+    """
+    return date in counting or (bool(counting) and date > max(counting))
+
+
+def true_gaps(rows, counting, key="showdate"):
+    """`rows`, oldest first, with each gap counted off the calendar. -> copies.
+
+    A gap is the number of counting shows strictly between a performance and
+    the one before it: 0 for back-to-back nights. That is what the FAQ has
+    always said it was. It was not what was printed. The figure came from
+    phish.net, and measured against the calendar on 2026-10-03, phish.net's gap
+    was one higher than that on 28,206 of 36,466 performance pairs, equal on
+    7,562, and higher still on 683 -- and at some point after 2026-09-07 it
+    renumbered rows it had already published, so Tweezer's 2026-09-05 went
+    from 1 to 2 with no new API version. It also files 0 for any song entered
+    during a show and leaves it there for hours. None of that is a gap.
+
+    So phish.net's number is kept on disk and never displayed. A performance at
+    an event that does not count gets None, and so does the first counting
+    performance, which has nothing before it to be absent from.
+    """
+    cal = _sorted_calendar(counting)
+    out, prev = [], None
+    for row in rows:
+        row = dict(row)
+        date = row[key]
+        if not counts_toward(counting, date):
+            row["gap"] = None
+            out.append(row)
+            continue
+        row["gap"] = (None if prev is None else
+                      bisect.bisect_left(cal, date) - bisect.bisect_right(cal, prev))
+        prev = date
+        out.append(row)
+    return out
+
+
+_CALENDAR_SORTED = {}
+
+
+def _sorted_calendar(counting):
+    # true_gaps runs once per song per report, and a remeasure is 40,000 of
+    # them over the same set.
+    k = (len(counting), max(counting) if counting else "")
+    if k not in _CALENDAR_SORTED:
+        _CALENDAR_SORTED.clear()
+        _CALENDAR_SORTED[k] = sorted(counting)
+    return _CALENDAR_SORTED[k]
+
+
+def _gap(row):
+    """The gap on this row as an int, or None. 0 is a real gap.
+
+    With a calendar to hand every gap is replaced by true_gaps before anyone
+    reads it, so this only ever sees phish.net's raw figure on the one path
+    without a site: a bare single-show report.
     """
     gap = row.get("gap")
     if not str(gap).lstrip("-").isdigit():
         return None
-    return int(gap) if int(gap) >= 1 else None
+    return int(gap) if int(gap) >= 0 else None
 
 
 def by_show(rows):
@@ -10089,11 +10134,12 @@ def song_history(site_dir, slug):
             log("warning: skipping unreadable %s", path)
             return None
     # Every reader takes a gap off a performance by subscript, so this is the
-    # one place to stop a 0 reaching them -- see _gap. Histories saved before
-    # that rule still hold 1,043 of them.
-    for p in doc.get("performances") or []:
-        if "gap" in p:
-            p["gap"] = _gap(p)
+    # one place to put them on the calendar -- see true_gaps. The file keeps
+    # phish.net's figure; nothing reads it.
+    counting = set(load_calendar(site_dir))
+    if counting:
+        doc["performances"] = true_gaps(doc.get("performances") or [],
+                                        counting, key="date")
     return doc
 
 
@@ -10438,12 +10484,21 @@ def load_calendar(site_dir):
     path = calendar_path(site_dir)
     if not os.path.isfile(path):
         return []
-    with open(path, encoding="utf-8") as fh:
-        try:
-            return json.load(fh).get("shows") or []
-        except ValueError:
-            log("warning: skipping unreadable %s", path)
-            return []
+    # Read on every song_history call now that gaps are counted off it, so
+    # cached against the file's mtime: a --calendar refresh mid-run is seen.
+    stamp = (path, os.path.getmtime(path))
+    if _CALENDAR_READ.get("stamp") != stamp:
+        with open(path, encoding="utf-8") as fh:
+            try:
+                shows = json.load(fh).get("shows") or []
+            except ValueError:
+                log("warning: skipping unreadable %s", path)
+                return []
+        _CALENDAR_READ.update(stamp=stamp, shows=shows)
+    return list(_CALENDAR_READ["shows"])
+
+
+_CALENDAR_READ = {}
 
 
 def fetch_calendar(site_dir, apikey, years, artist="Phish", **kw):
@@ -10503,12 +10558,9 @@ def write_current(site_dir, dates=None):
     catalog is nowhere near its full size. Here it is a single file of a few
     kilobytes that the pages read at load, so a show changes exactly one blob.
 
-    Deliberately not called a gap. phish.net's gap is not reproducible from
-    the show calendar -- two songs spanning the same pair of shows can carry
-    different gaps, so there is a per-song term in it we cannot see -- and
-    publishing a number that disagrees with theirs under their name would be
-    worse than publishing our own under ours. This counts shows since the last
-    performance, which is exact because we define it.
+    Not called a gap because there is no performance yet to hang one on, but
+    it is the same count true_gaps makes: the day the song is played again,
+    its gap is the figure this file held the night before.
     """
     if dates is None:
         dates = load_calendar(site_dir)

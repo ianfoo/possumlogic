@@ -14,7 +14,7 @@
       "song": "Jam",
       "slug": "jam",
       "jamchart": false,
-      "gap": 43,
+      "gap": null,
       "out": "",
       "verdict": null,
       "prev_date": "2014-07-27",

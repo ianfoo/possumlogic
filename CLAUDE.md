@@ -133,13 +133,24 @@ included soundchecks, so the index and the song page one click away disagreed
 about 127 songs. **A page that summarizes other pages must count the way they
 do** — the check that found it was reading both. `docs/TODO.md` §2k.
 
-**And phish.net's gaps themselves are sound — do not go looking for that bug.**
-Measured counted-performance to counted-performance, 0 of 36,378 exceed the
-shows actually between them. A first pass at the above found "95 impossible
-gaps" by comparing each gap with the previous row *in this archive's list*,
-which includes the performances phish.net deliberately does not count; every
-one of the 95 had an uncounted row before it, and 50 of them were the
-measurement being wrong rather than the data.
+**Every gap is counted here, off the calendar — phish.net's is never shown.**
+A gap is the counting shows strictly *between* two performances, 0 for
+back-to-back nights; `true_gaps` computes it, and `song_history` and
+`_finish_song` apply it, so the figure phish.net sent stays on disk unread.
+This replaced a note that said phish.net's gaps were sound and not to go
+looking. Measured on 2026-10-03 across 36,466 performance pairs, phish.net's
+figure was one *higher* than the shows between on 28,206, equal on 7,562 and
+higher still on 683 — a mix by song and era, so no constant offset fixes it —
+and sometime after 2026-09-07 it renumbered published rows (Tweezer's
+2026-09-05 went from 1 to 2) with no new API version. It also files 0 for a
+song entered mid-show and leaves it for hours. The FAQ had always defined a gap
+as shows between, with 0 for the next night, and said the number came from
+phish.net: the definition was right and three printed figures in four did not
+meet it. Ian caught it from one row he knew by heart. **A definition is only
+true of the data if something checks the data against it.** The same night,
+another session read phish.net's new scale off the API and rewrote `_gap`'s
+docstring to say a gap "cannot be below 1" — and this session then quoted that
+docstring to Ian as fact. A two-hour-old comment is still just a claim.
 
 **But a 0 is not a gap, and phish.net revises.** That check only asked whether
 a gap was too *large*. phish.net also files 0 (debuts since its September 2026
@@ -497,9 +508,7 @@ origin gh-pages && git show origin/gh-pages:<path>` is the ground truth for
 what was actually published.
 
 **This is a reference archive, so a wrong figure is worse than a missing one.**
-Where the data will not support a claim, the site says nothing — phish.net's
-gap is not reproducible from a show calendar, so this site computes its own
-"shows since" and says so; the 35 shows filed as "Not Part of a Tour" stay
+Where the data will not support a claim, the site says nothing — the 35 shows filed as "Not Part of a Tour" stay
 unnamed because their festival names exist only in freeform prose.
 
 ## Verifying a change
