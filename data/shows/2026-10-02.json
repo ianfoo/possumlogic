@@ -46,9 +46,28 @@
       "gap_high": 8.252271703433909,
       "gap_away": null,
       "verdict": "premature"
+    },
+    {
+      "set": "SET 1",
+      "song": "Slave to the Traffic Light",
+      "slug": "slave-to-the-traffic-light",
+      "gap": 9,
+      "jamchart": false,
+      "prev_date": "2026-07-24",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 300,
+      "recent_plays": 70,
+      "gap_median": 5.0,
+      "gap_mean": 5.357142857142857,
+      "gap_low": 2.9294732340618745,
+      "gap_high": 7.859412311241368,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-02T23:59:19+00:00",
+  "count_since": "2026-10-03T00:19:51+00:00",
   "encored": false,
   "provisional": true
 }
