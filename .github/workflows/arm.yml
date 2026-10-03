@@ -1,0 +1,91 @@
+name: arm the watcher
+
+# Waits for tonight's watch window and starts watch.yml the moment it opens.
+#
+# Why this exists: on 2026-10-02 the show at Atlantic City opened at 23:00 UTC
+# and nothing started a watcher until a person did, at 23:48. Both crons that
+# can start one -- watch.yml's and possumlogic.yml's sentinel -- were measured
+# that week landing about four times a day, *hours* off their schedule:
+# watch.yml's show-hours cron ran at 14:06 UTC, which is not one of its hours.
+# A sentinel for a cron is no backup when it is another cron. The one thing the
+# scheduler does reliably is land *sometime*, so every run of either workflow
+# now asks "does a window open in the next twelve hours?" and, if so, leaves
+# this run sleeping until it does. `workflow_dispatch` is not throttled, and the
+# repository is public, so a runner that sleeps for five hours costs nothing.
+#
+# A job lives at most six hours, so a window further off than that is reached
+# by this run dispatching its own successor, the same handoff watch.yml has
+# used between shifts since July.
+
+on:
+  workflow_dispatch:
+  # More chances, at minutes nobody else asks for, across the hours *before* a
+  # show. Not load-bearing on its own -- any run of the other two workflows
+  # arms as well -- but a cron that lands four times a day is four more tries.
+  schedule:
+    - cron: "11,41 12-21 * * *"
+
+permissions:
+  contents: read
+  actions: write
+
+# One armed run at a time. A second dispatch queues behind the first and, when
+# its turn comes, finds the window already open and a watcher already up.
+concurrency:
+  group: possumlogic-arm
+  cancel-in-progress: false
+
+jobs:
+  arm:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Wait for the window, then start a watcher
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -u
+          # Leave the job room to dispatch before the 350-minute ceiling.
+          deadline=$(( $(date +%s) + 330*60 ))
+          while :; do
+            # --lead 30 matches watch.yml's own gate, so the watcher this
+            # starts does not look at the window, find it shut, and exit.
+            out=$(python possumlogic.py --site site --watching --lead 30)
+            opens=$(echo "$out" | grep '^opens_in=' | cut -d= -f2)
+            if [ -z "$opens" ] || [ "$opens" -gt 720 ]; then
+              echo "no window opens in the next twelve hours ($opens); nothing to arm"
+              exit 0
+            fi
+            if [ "$opens" -eq 0 ]; then
+              live=$(gh run list --workflow watch.yml --status in_progress \
+                       --json databaseId --jq 'length' 2>/dev/null || echo 0)
+              queued=$(gh run list --workflow watch.yml --status queued \
+                         --json databaseId --jq 'length' 2>/dev/null || echo 0)
+              if [ "$live" = "0" ] && [ "$queued" = "0" ]; then
+                echo "window open -- dispatching watch.yml"
+                gh workflow run watch.yml --ref "$GITHUB_REF_NAME"
+              else
+                echo "window open and a watcher is already up"
+              fi
+              exit 0
+            fi
+            if [ $(( $(date +%s) + opens*60 )) -gt "$deadline" ]; then
+              echo "window opens in $opens min, past this job's life -- handing off"
+              gh workflow run arm.yml --ref "$GITHUB_REF_NAME"
+              exit 0
+            fi
+            # Sleep to the window rather than polling it, but never more than
+            # ten minutes at once, so a schedule.json change pushed meanwhile
+            # is picked up rather than slept through.
+            nap=$(( opens < 10 ? opens : 10 ))
+            [ "$nap" -lt 1 ] && nap=1
+            echo "window opens in $opens min; sleeping $nap"
+            sleep $(( nap * 60 ))
+            git pull -q --ff-only origin main || true
+          done
