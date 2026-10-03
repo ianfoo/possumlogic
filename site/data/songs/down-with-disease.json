@@ -358,6 +358,6 @@
   {"date": "2026-07-10", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 11, "set": "2", "note": "Unfinished.", "out": ">", "prev": "Oblivion", "in": ">", "next": "You Enjoy Myself", "nb": 1},
   {"date": "2026-07-25", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 11, "set": "2", "times": 2, "out": "->", "prev": "Highway to Hell", "next": "Tweezer", "nb": 1},
   {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 5, "set": "2", "note": "Unfinished. Trey on mini drum kit.", "out": ">", "prev": "46 Days", "in": ">", "next": "Life Saving Gun", "nb": 1},
-  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 3, "set": "2", "prev": "Oblivion", "in": ">"}
+  {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 3, "set": "2", "prev": "Oblivion", "in": ">", "next": "Tweezer"}
  ]
 }
