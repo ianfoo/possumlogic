@@ -208,7 +208,7 @@
       "prev_date": "2026-09-06",
       "prev_venue": "Dick's Sporting Goods Park",
       "prev_place": "Commerce City, CO",
-      "out": "",
+      "out": ">",
       "plays": 113,
       "recent_plays": 36,
       "gap_median": 7.0,
@@ -217,9 +217,28 @@
       "gap_high": 16.96593662097435,
       "gap_away": null,
       "verdict": "premature"
+    },
+    {
+      "set": "SET 2",
+      "song": "Weekapaug Groove",
+      "slug": "weekapaug-groove",
+      "gap": 4,
+      "jamchart": false,
+      "prev_date": "2026-08-01",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 523,
+      "recent_plays": 62,
+      "gap_median": 5.0,
+      "gap_mean": 5.112903225806452,
+      "gap_low": 2.114033726269881,
+      "gap_high": 8.31066499755399,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-04T02:23:31+00:00",
+  "count_since": "2026-10-04T02:28:45+00:00",
   "encored": false,
   "provisional": true
 }
