@@ -122,9 +122,28 @@
       "gap_high": 25.696270861231984,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "Bathtub Gin",
+      "slug": "bathtub-gin",
+      "gap": 9,
+      "jamchart": false,
+      "prev_date": "2026-07-24",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 322,
+      "recent_plays": 71,
+      "gap_median": 4,
+      "gap_mean": 4.267605633802817,
+      "gap_low": 1.7277606535541365,
+      "gap_high": 6.925691577808874,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-04T00:35:05+00:00",
+  "count_since": "2026-10-04T00:45:26+00:00",
   "encored": false,
   "provisional": true
 }
