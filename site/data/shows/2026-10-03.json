@@ -103,9 +103,28 @@
       "gap_high": 14.827363815264784,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 1",
+      "song": "Mountains in the Mist",
+      "slug": "mountains-in-the-mist",
+      "gap": 17,
+      "jamchart": false,
+      "prev_date": "2026-07-12",
+      "prev_venue": "Ruoff Music Center",
+      "prev_place": "Noblesville, IN",
+      "out": "",
+      "plays": 49,
+      "recent_plays": 27,
+      "gap_median": 8,
+      "gap_mean": 14.962962962962964,
+      "gap_low": 3.385482336615894,
+      "gap_high": 25.696270861231984,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-04T00:29:41+00:00",
+  "count_since": "2026-10-04T00:35:05+00:00",
   "encored": false,
   "provisional": true
 }
