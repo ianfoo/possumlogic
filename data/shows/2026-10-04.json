@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-04",
+  "venue": "Jim Whelan Boardwalk Hall, Atlantic City, NJ",
+  "venue_name": "Jim Whelan Boardwalk Hall",
+  "city": "Atlantic City",
+  "state": "NJ",
+  "artist": "Phish",
+  "tour": "2026 Fall Tour",
+  "notes": "",
+  "permalink": "https://phish.net/setlists/phish-october-04-2026-jim-whelan-boardwalk-hall-atlantic-city-nj-usa.html",
+  "songs": [
+    {
+      "set": "SET 1",
+      "song": "David Bowie",
+      "slug": "david-bowie",
+      "gap": 11,
+      "jamchart": false,
+      "prev_date": "2026-07-22",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 482,
+      "recent_plays": 40,
+      "gap_median": 8.0,
+      "gap_mean": 8.5,
+      "gap_low": 3.889914771677284,
+      "gap_high": 13.476183228852143,
+      "gap_away": null,
+      "verdict": "expected"
+    }
+  ],
+  "count_since": "2026-10-04T23:38:33+00:00",
+  "encored": false,
+  "provisional": true
+}
