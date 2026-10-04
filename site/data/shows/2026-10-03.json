@@ -274,9 +274,28 @@
       "gap_high": 6.174016139044562,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "ENCORE",
+      "song": "Character Zero",
+      "slug": "character-zero",
+      "gap": 3,
+      "jamchart": false,
+      "prev_date": "2026-09-04",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 269,
+      "recent_plays": 74,
+      "gap_median": 4.0,
+      "gap_mean": 4.135135135135135,
+      "gap_low": 1.4741342360975112,
+      "gap_high": 7.1280273543054395,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-04T02:39:07+00:00",
-  "encored": false,
+  "count_since": "2026-10-04T02:59:48+00:00",
+  "encored": true,
   "provisional": true
 }
