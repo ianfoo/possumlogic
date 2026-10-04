@@ -143,6 +143,6 @@
   {"date": "2026-07-08", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 7, "set": "e", "next": "First Tube", "xprev": "Harry Hood", "nb": 1},
   {"date": "2026-07-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 13, "set": "2", "prev": "You Enjoy Myself", "in": ">", "next": "I Didn't Know", "nb": 1},
   {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 4, "set": "e", "next": "First Tube", "xprev": "Everything's Right", "nb": 1},
-  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 1, "set": "2", "out": ">", "prev": "Mike's Song", "in": ">", "next": "Weekapaug Groove", "nb": 1}
+  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 1, "set": "2", "out": ">", "nb": 1, "prev": "Mike's Song", "in": ">", "next": "Weekapaug Groove"}
  ]
 }

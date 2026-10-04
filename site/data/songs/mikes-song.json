@@ -580,6 +580,6 @@
   {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 7, "set": "1", "prev": "Free", "next": "The Man Who Stepped Into Yesterday", "nb": 1},
   {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 10, "set": "2", "out": ">", "next": "I Am Hydrogen", "xprev": "David Bowie", "nb": 1},
   {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 5, "set": "2", "out": ">", "next": "Ruby Waves", "xprev": "Sand", "nb": 1},
-  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 4, "set": "2", "note": "\"Hallways inside your mind, mind, mind\" lyrics.", "prev": "What's Going Through Your Mind", "next": "Waste", "nb": 1}
+  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 4, "set": "2", "note": "\"Hallways inside your mind, mind, mind\" lyrics.", "nb": 1, "prev": "What's Going Through Your Mind", "next": "Waste"}
  ]
 }

@@ -298,6 +298,6 @@
   {"date": "2026-07-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "2", "prev": "Crosseyed and Painless", "in": ">", "xnext": "A Day in the Life", "nb": 1},
   {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 1, "set": "e", "out": ">", "prev": "Wading in the Velvet Sea", "next": "Tweezer Reprise", "nb": 1},
   {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 0, "set": "2", "prev": "Run Like an Antelope", "in": ">", "xnext": "Wading in the Velvet Sea", "nb": 1},
-  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 3, "set": "e", "xprev": "Harry Hood", "next": "Sleeping Monkey", "nb": 1}
+  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 3, "set": "e", "nb": 1, "xprev": "Harry Hood", "next": "Sleeping Monkey"}
  ]
 }

@@ -6,7 +6,7 @@
   "state": "NJ",
   "artist": "Phish",
   "tour": "2026 Fall Tour",
-  "notes": "<p>Trey teased \"Oye Como Va\" in Chalk Dust Torture. Trey played mini drums on WGTYM. Mike quoted WGTYM in Mike's Song.</p>",
+  "notes": "<p>Trey teased Oye Como Va in Chalk Dust Torture. What's Going Through Your Mind featured Trey on mini drum kit and was quoted by Mike in Mike's Song.</p>",
   "permalink": "https://phish.net/setlists/phish-october-03-2026-jim-whelan-boardwalk-hall-atlantic-city-nj-usa.html",
   "songs": [
     {
@@ -317,19 +317,20 @@
       "set": "ENCORE",
       "song": "Tweezer Reprise",
       "slug": "tweezer-reprise",
-      "gap": 2,
+      "gap": 1,
       "jamchart": false,
       "prev_date": "2026-09-06",
       "prev_venue": "Dick's Sporting Goods Park",
       "prev_place": "Commerce City, CO",
-      "plays": null,
-      "recent_plays": 0,
-      "gap_median": null,
-      "gap_mean": null,
-      "gap_low": null,
-      "gap_high": null,
+      "out": "",
+      "plays": 334,
+      "recent_plays": 68,
+      "gap_median": 4.0,
+      "gap_mean": 4.647058823529412,
+      "gap_low": 1.9611009944728353,
+      "gap_high": 7.5442343449444,
       "gap_away": null,
-      "verdict": null
+      "verdict": "premature"
     }
   ],
   "count_since": "2026-10-04T03:10:14+00:00",
