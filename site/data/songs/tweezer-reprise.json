@@ -25,7 +25,7 @@
   {"date": "2025-09-19", "score": 61, "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "link": "https://fouldomain.com/tracks/39902"}
  ],
  "performances": [
-  {"date": "1991-02-01", "venue": "Alumnae Hall, Brown University", "city": "Providence", "state": "RI", "gap": null, "set": "1", "note": "Debut.", "prev": "Tweezer", "next": "Magilla", "nb": 1},
+  {"date": "1991-02-01", "venue": "Alumnae Hall, Brown University", "city": "Providence", "state": "RI", "gap": 0, "set": "1", "note": "Debut.", "prev": "Tweezer", "next": "Magilla", "nb": 1},
   {"date": "1991-02-07", "venue": "Pickle Barrel Pub", "city": "Killington", "state": "VT", "gap": 4, "set": "2", "prev": "Tweezer", "next": "Guelah Papyrus", "nb": 1},
   {"date": "1991-03-29", "venue": "DNA Lounge", "city": "San Francisco", "state": "CA", "gap": 28, "set": "e", "prev": "Contact", "xnext": "Good Times Bad Times", "nb": 1},
   {"date": "1991-04-06", "venue": "The Library Building, Evergreen College", "city": "Olympia", "state": "WA", "gap": 6, "set": "1", "prev": "Fluffhead", "in": ">", "xnext": "Ya Mar", "nb": 1},
