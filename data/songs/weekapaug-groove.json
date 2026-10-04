@@ -553,6 +553,6 @@
   {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 7, "set": "1", "prev": "Avenu Malkenu", "next": "A Wave of Hope", "nb": 1},
   {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 10, "set": "2", "prev": "I Am Hydrogen", "in": ">", "next": "Bouncing Around the Room", "nb": 1},
   {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 5, "set": "2", "prev": "Light", "in": ">", "next": "Ghost", "nb": 1},
-  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 4, "set": "2", "prev": "Waste", "in": ">", "next": "Monsters"}
+  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 4, "set": "2", "prev": "Waste", "in": ">", "next": "Monsters", "nb": 1}
  ]
 }

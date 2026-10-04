@@ -79,6 +79,6 @@
   {"date": "2025-12-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "1", "prev": "Evolve", "next": "Fluffhead", "nb": 1},
   {"date": "2026-05-01", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 13, "set": "1", "prev": "Mound", "next": "Stealing Time From the Faulty Plan", "nb": 1},
   {"date": "2026-07-12", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 5, "set": "1", "prev": "Maze", "next": "Stash", "nb": 1},
-  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 17, "set": "1", "prev": "555", "next": "Bathtub Gin"}
+  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 17, "set": "1", "prev": "555", "next": "Bathtub Gin", "nb": 1}
  ]
 }

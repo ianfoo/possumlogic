@@ -493,6 +493,6 @@
   {"date": "2026-07-12", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 9, "set": "1", "prev": "Mountains in the Mist", "xnext": "Simple", "nb": 1},
   {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 6, "set": "1", "prev": "Axilla", "next": "Cold as Ice", "nb": 1},
   {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 5, "set": "1", "note": "Unfinished.", "out": "->", "prev": "Chalk Dust Torture", "in": ">", "next": "Tweezer", "nb": 1},
-  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 4, "set": "1", "prev": "Back on the Train", "next": "555"}
+  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 4, "set": "1", "prev": "Back on the Train", "next": "555", "nb": 1}
  ]
 }
