@@ -236,9 +236,47 @@
       "gap_high": 8.31066499755399,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Monsters",
+      "slug": "monsters",
+      "gap": 13,
+      "jamchart": false,
+      "prev_date": "2026-07-18",
+      "prev_venue": "Merriweather Post Pavilion",
+      "prev_place": "Columbia, MD",
+      "out": "",
+      "plays": 17,
+      "recent_plays": 16,
+      "gap_median": 7,
+      "gap_mean": 8.2,
+      "gap_low": 3.4107800205888212,
+      "gap_high": 13.448627339048537,
+      "gap_away": null,
+      "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Harry Hood",
+      "slug": "harry-hood",
+      "gap": 3,
+      "jamchart": false,
+      "prev_date": "2026-09-04",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 445,
+      "recent_plays": 83,
+      "gap_median": 3,
+      "gap_mean": 3.5903614457831323,
+      "gap_low": 1.2699826518902104,
+      "gap_high": 6.174016139044562,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-04T02:28:45+00:00",
+  "count_since": "2026-10-04T02:39:07+00:00",
   "encored": false,
   "provisional": true
 }
