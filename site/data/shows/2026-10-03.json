@@ -6,7 +6,7 @@
   "state": "NJ",
   "artist": "Phish",
   "tour": "2026 Fall Tour",
-  "notes": "<p>Trey teased \"Oye Como Va\" in Chalk Dust Torture. Trey played mini drums on WGTYM. Mike's Song had lyrics changed to \"the hallways inside your mind, mind, mind.\"</p>",
+  "notes": "<p>Trey teased \"Oye Como Va\" in Chalk Dust Torture. Trey played mini drums on WGTYM. Mike quoted WGTYM in Mike's Song.</p>",
   "permalink": "https://phish.net/setlists/phish-october-03-2026-jim-whelan-boardwalk-hall-atlantic-city-nj-usa.html",
   "songs": [
     {
@@ -198,9 +198,28 @@
       "gap_high": 8.831297408137365,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Waste",
+      "slug": "waste",
+      "gap": 1,
+      "jamchart": false,
+      "prev_date": "2026-09-06",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 113,
+      "recent_plays": 36,
+      "gap_median": 7.0,
+      "gap_mean": 9.944444444444445,
+      "gap_low": 2.882557477773847,
+      "gap_high": 16.96593662097435,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
-  "count_since": "2026-10-04T02:13:10+00:00",
+  "count_since": "2026-10-04T02:23:31+00:00",
   "encored": false,
   "provisional": true
 }
