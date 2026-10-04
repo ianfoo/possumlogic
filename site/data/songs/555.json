@@ -102,6 +102,6 @@
   {"date": "2025-09-16", "venue": "Ameris Bank Amphitheatre", "city": "Alpharetta", "state": "GA", "gap": 13, "set": "1", "out": ">", "prev": "Tube", "next": "My Soul", "nb": 1},
   {"date": "2026-04-30", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 18, "set": "1", "prev": "Leaves", "next": "Dirt", "nb": 1},
   {"date": "2026-07-11", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 5, "set": "1", "note": "Unfinished.", "out": ">", "prev": "Timber (Jerry the Mule)", "next": "Reba", "nb": 1},
-  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 18, "set": "1", "prev": "Stash", "next": "Mountains in the Mist"}
+  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 18, "set": "1", "prev": "Stash", "next": "Mountains in the Mist", "nb": 1}
  ]
 }

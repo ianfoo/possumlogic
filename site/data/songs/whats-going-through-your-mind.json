@@ -44,6 +44,6 @@
   {"date": "2026-07-18", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 5, "set": "1", "next": "Contact", "first": 1, "nb": 1},
   {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 7, "set": "2", "note": "Trey on mini drum kit.", "out": ">", "next": "Fuego", "xprev": "Harry Hood", "nb": 1},
   {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "2", "out": ">", "next": "A Wave of Hope", "xprev": "Most Events Aren't Planned", "nb": 1},
-  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 2, "set": "2", "prev": "Chalk Dust Torture", "next": "Mike's Song"}
+  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 2, "set": "2", "prev": "Chalk Dust Torture", "next": "Mike's Song", "nb": 1}
  ]
 }
