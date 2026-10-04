@@ -293,9 +293,28 @@
       "gap_high": 7.1280273543054395,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "ENCORE",
+      "song": "Sleeping Monkey",
+      "slug": "sleeping-monkey",
+      "gap": 76,
+      "jamchart": false,
+      "prev_date": "2025-04-19",
+      "prev_venue": "Climate Pledge Arena",
+      "prev_place": "Seattle, WA",
+      "out": "",
+      "plays": 97,
+      "recent_plays": 10,
+      "gap_median": 28.5,
+      "gap_mean": 30.2,
+      "gap_low": 7.878297832409364,
+      "gap_high": 55.3332931145113,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-04T02:59:48+00:00",
+  "count_since": "2026-10-04T03:05:01+00:00",
   "encored": true,
   "provisional": true
 }
