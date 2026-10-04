@@ -312,9 +312,27 @@
       "gap_high": 55.3332931145113,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "ENCORE",
+      "song": "Tweezer Reprise",
+      "slug": "tweezer-reprise",
+      "gap": 2,
+      "jamchart": false,
+      "prev_date": "2026-09-06",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "plays": null,
+      "recent_plays": 0,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": null
     }
   ],
-  "count_since": "2026-10-04T03:05:01+00:00",
+  "count_since": "2026-10-04T03:10:14+00:00",
   "encored": true,
   "provisional": true
 }
