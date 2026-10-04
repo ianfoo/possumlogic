@@ -37,6 +37,6 @@
   {"date": "2026-04-24", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 8, "set": "2", "prev": "Piper", "in": ">", "next": "Life Saving Gun", "nb": 1},
   {"date": "2026-07-08", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 5, "set": "2", "prev": "Possum", "next": "Harry Hood", "nb": 1},
   {"date": "2026-07-18", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 6, "set": "e", "next": "If I Could", "xprev": "Free", "nb": 1},
-  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 13, "set": "2", "prev": "Weekapaug Groove", "next": "Harry Hood", "nb": 1}
+  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 13, "set": "2", "nb": 1, "prev": "Weekapaug Groove", "next": "Harry Hood"}
  ]
 }

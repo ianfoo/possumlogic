@@ -127,6 +127,6 @@
   {"date": "2022-08-05", "venue": "Atlantic City Beach", "city": "Atlantic City", "state": "NJ", "gap": 28, "set": "e", "out": ">", "next": "Free", "xprev": "Harry Hood", "nb": 1},
   {"date": "2024-10-25", "venue": "MVP Arena", "city": "Albany", "state": "NY", "gap": 97, "set": "e", "out": ">", "next": "Ghost", "xprev": "Carini", "nb": 1},
   {"date": "2025-04-19", "venue": "Climate Pledge Arena", "city": "Seattle", "state": "WA", "gap": 11, "set": "e", "next": "My Friend, My Friend", "xprev": "Backwards Down the Number Line", "nb": 1},
-  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 76, "set": "e", "prev": "Character Zero", "in": ">", "next": "Tweezer Reprise", "nb": 1}
+  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 76, "set": "e", "nb": 1, "prev": "Character Zero", "in": ">", "next": "Tweezer Reprise"}
  ]
 }

@@ -350,6 +350,6 @@
   {"date": "2026-04-18", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 3, "set": "1", "prev": "Walk Away", "xnext": "Oblivion", "nb": 1},
   {"date": "2026-07-12", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 10, "set": "1", "prev": "Rift", "next": "Maze", "nb": 1},
   {"date": "2026-07-24", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "1", "prev": "Llama", "next": "Lengthwise", "nb": 1},
-  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 9, "set": "1", "prev": "Mountains in the Mist", "xnext": "Chalk Dust Torture", "nb": 1}
+  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 9, "set": "1", "nb": 1, "prev": "Mountains in the Mist", "xnext": "Chalk Dust Torture"}
  ]
 }
