@@ -141,9 +141,28 @@
       "gap_high": 6.925691577808874,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 2",
+      "song": "Chalk Dust Torture",
+      "slug": "chalk-dust-torture",
+      "gap": 2,
+      "jamchart": false,
+      "prev_date": "2026-09-05",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 530,
+      "recent_plays": 82,
+      "gap_median": 3.0,
+      "gap_mean": 3.6463414634146343,
+      "gap_low": 1.802419388728158,
+      "gap_high": 5.543356476214187,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-04T00:45:26+00:00",
+  "count_since": "2026-10-04T01:26:40+00:00",
   "encored": false,
   "provisional": true
 }
