@@ -27,9 +27,28 @@
       "gap_high": 13.476183228852143,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "The Moma Dance",
+      "slug": "the-moma-dance",
+      "gap": 3,
+      "jamchart": false,
+      "prev_date": "2026-09-05",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 217,
+      "recent_plays": 73,
+      "gap_median": 4,
+      "gap_mean": 4.219178082191781,
+      "gap_low": 1.6134938662057157,
+      "gap_high": 7.116814916729101,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-04T23:38:33+00:00",
+  "count_since": "2026-10-04T23:54:10+00:00",
   "encored": false,
   "provisional": true
 }
