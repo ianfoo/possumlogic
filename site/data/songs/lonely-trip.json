@@ -58,6 +58,6 @@
   {"date": "2026-01-29", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 5, "set": "2", "prev": "Ruby Waves", "in": ">", "next": "What's Going Through Your Mind", "nb": 1},
   {"date": "2026-04-30", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 8, "set": "2", "prev": "Prince Caspian", "in": ">", "next": "Runaway Jim", "nb": 1},
   {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 20, "set": "2", "prev": "Life Saving Gun", "next": "Run Like an Antelope", "nb": 1},
-  {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 4, "set": "2", "prev": "Simple", "next": "You Enjoy Myself", "nb": 1}
+  {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 4, "set": "2", "nb": 1, "prev": "Simple", "next": "You Enjoy Myself"}
  ]
 }

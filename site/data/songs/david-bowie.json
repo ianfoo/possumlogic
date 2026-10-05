@@ -511,6 +511,6 @@
   {"date": "2026-05-01", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 19, "set": "1", "prev": "Wingsuit", "xnext": "Wilson", "nb": 1},
   {"date": "2026-07-14", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 6, "set": "1", "next": "Gumbo", "first": 1, "nb": 1},
   {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 5, "set": "1", "times": 2, "out": "->", "prev": "Possum", "in": ">", "next": "The Vibration of Life", "nb": 1},
-  {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 11, "set": "1", "first": 1, "next": "The Moma Dance", "nb": 1}
+  {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 11, "set": "1", "nb": 1, "first": 1, "next": "The Moma Dance"}
  ]
 }

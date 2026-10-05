@@ -408,6 +408,6 @@
   {"date": "2026-04-30", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 18, "set": "e", "prev": "The Sloth", "last": 1, "nb": 1},
   {"date": "2026-07-14", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 7, "set": "e", "next": "Fire", "xprev": "Walls of the Cave", "nb": 1},
   {"date": "2026-07-25", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "2", "prev": "Tweezer", "in": ">", "xnext": "Purple Rain", "nb": 1},
-  {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 9, "set": "1", "note": "Page on pipe organ.", "prev": "Wilson", "xnext": "Split Open and Melt", "nb": 1}
+  {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 9, "set": "1", "note": "Page on pipe organ.", "nb": 1, "prev": "Wilson", "xnext": "Split Open and Melt"}
  ]
 }
