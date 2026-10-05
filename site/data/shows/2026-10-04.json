@@ -6,7 +6,7 @@
   "state": "NJ",
   "artist": "Phish",
   "tour": "2026 Fall Tour",
-  "notes": "<p>Trey played the mini drum kit in Sigma Oasis.</p>",
+  "notes": "<p>Sigma Oasis featured Trey on mini drum kit.</p>",
   "permalink": "https://phish.net/setlists/phish-october-04-2026-jim-whelan-boardwalk-hall-atlantic-city-nj-usa.html",
   "songs": [
     {
@@ -65,9 +65,28 @@
       "gap_high": 6.9557878272897655,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "Blaze On",
+      "slug": "blaze-on",
+      "gap": 2,
+      "jamchart": false,
+      "prev_date": "2026-09-06",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 101,
+      "recent_plays": 82,
+      "gap_median": 4.0,
+      "gap_mean": 3.6707317073170733,
+      "gap_low": 1.6579367079333869,
+      "gap_high": 5.799917449344713,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-05T00:09:43+00:00",
+  "count_since": "2026-10-05T00:30:17+00:00",
   "encored": false,
   "provisional": true
 }
