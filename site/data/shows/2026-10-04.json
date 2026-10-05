@@ -236,9 +236,28 @@
       "gap_high": 11.192548717590716,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "ENCORE",
+      "song": "Carini",
+      "slug": "carini",
+      "gap": 3,
+      "jamchart": false,
+      "prev_date": "2026-09-05",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 162,
+      "recent_plays": 76,
+      "gap_median": 4.0,
+      "gap_mean": 4.052631578947368,
+      "gap_low": 1.8605991305916434,
+      "gap_high": 6.422345828339061,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-05T02:39:02+00:00",
-  "encored": false,
+  "count_since": "2026-10-05T03:09:52+00:00",
+  "encored": true,
   "provisional": true
 }
