@@ -217,9 +217,28 @@
       "gap_high": 12.456271464277588,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "You Enjoy Myself",
+      "slug": "you-enjoy-myself",
+      "gap": 7,
+      "jamchart": false,
+      "prev_date": "2026-07-29",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 628,
+      "recent_plays": 49,
+      "gap_median": 6,
+      "gap_mean": 6.775510204081633,
+      "gap_low": 2.7107519912276703,
+      "gap_high": 11.192548717590716,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-05T02:33:50+00:00",
+  "count_since": "2026-10-05T02:39:02+00:00",
   "encored": false,
   "provisional": true
 }
