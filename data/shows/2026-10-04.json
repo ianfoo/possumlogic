@@ -6,7 +6,7 @@
   "state": "NJ",
   "artist": "Phish",
   "tour": "2026 Fall Tour",
-  "notes": "<p>Sigma Oasis featured Trey on mini drum kit.</p>",
+  "notes": "<p>Sigma Oasis featured Trey on mini drum kit. Squirming Coil featured Page on the Boardwalk Hall Pipe Organ,<a href=\"https://www.boardwalkhall.com/arena-info/pipe-organs\"> the largest and loudest musical instrument on Earth.</a></p>",
   "permalink": "https://phish.net/setlists/phish-october-04-2026-jim-whelan-boardwalk-hall-atlantic-city-nj-usa.html",
   "songs": [
     {
@@ -122,9 +122,28 @@
       "gap_high": 11.791283741822276,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "The Squirming Coil",
+      "slug": "the-squirming-coil",
+      "gap": 9,
+      "jamchart": false,
+      "prev_date": "2026-07-25",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 379,
+      "recent_plays": 31,
+      "gap_median": 10,
+      "gap_mean": 11.129032258064516,
+      "gap_low": 5.01054507189266,
+      "gap_high": 17.54748997384511,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-05T00:56:02+00:00",
+  "count_since": "2026-10-05T01:01:13+00:00",
   "encored": false,
   "provisional": true
 }

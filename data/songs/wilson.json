@@ -336,6 +336,6 @@
   {"date": "2026-05-01", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 18, "set": "2", "next": "Seven Below", "xprev": "David Bowie", "nb": 1},
   {"date": "2026-07-12", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 5, "set": "e", "out": ">", "next": "Fluffhead", "xprev": "More", "nb": 1},
   {"date": "2026-07-27", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 9, "set": "1", "out": ">", "next": "Timber (Jerry the Mule)", "first": 1, "nb": 1},
-  {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 8, "set": "1", "prev": "Halley's Comet"}
+  {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 8, "set": "1", "prev": "Halley's Comet", "next": "The Squirming Coil"}
  ]
 }
