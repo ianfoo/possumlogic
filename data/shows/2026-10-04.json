@@ -84,9 +84,28 @@
       "gap_high": 5.799917449344713,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "Halley's Comet",
+      "slug": "halleys-comet",
+      "gap": 8,
+      "jamchart": false,
+      "prev_date": "2026-07-27",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 162,
+      "recent_plays": 40,
+      "gap_median": 6.5,
+      "gap_mean": 8.475,
+      "gap_low": 3.5739492185197284,
+      "gap_high": 13.614321615473113,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-05T00:30:17+00:00",
+  "count_since": "2026-10-05T00:40:36+00:00",
   "encored": false,
   "provisional": true
 }
