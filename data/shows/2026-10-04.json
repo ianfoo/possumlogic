@@ -198,9 +198,28 @@
       "gap_high": 10.798400436268858,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Lonely Trip",
+      "slug": "lonely-trip",
+      "gap": 4,
+      "jamchart": false,
+      "prev_date": "2026-09-04",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 29,
+      "recent_plays": 28,
+      "gap_median": 7,
+      "gap_mean": 7.888888888888889,
+      "gap_low": 3.520490084701751,
+      "gap_high": 12.456271464277588,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-05T02:02:58+00:00",
+  "count_since": "2026-10-05T02:33:50+00:00",
   "encored": false,
   "provisional": true
 }
