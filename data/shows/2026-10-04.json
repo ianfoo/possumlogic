@@ -46,9 +46,28 @@
       "gap_high": 7.116814916729101,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "Sigma Oasis",
+      "slug": "sigma-oasis",
+      "gap": 3,
+      "jamchart": false,
+      "prev_date": "2026-09-05",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 53,
+      "recent_plays": 52,
+      "gap_median": 4,
+      "gap_mean": 4.098039215686274,
+      "gap_low": 1.5377856394324985,
+      "gap_high": 6.9557878272897655,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-04T23:54:10+00:00",
+  "count_since": "2026-10-05T00:09:43+00:00",
   "encored": false,
   "provisional": true
 }
