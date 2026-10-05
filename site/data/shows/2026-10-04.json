@@ -141,9 +141,28 @@
       "gap_high": 17.54748997384511,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Split Open and Melt",
+      "slug": "split-open-and-melt",
+      "gap": 2,
+      "jamchart": false,
+      "prev_date": "2026-09-06",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 357,
+      "recent_plays": 46,
+      "gap_median": 7.0,
+      "gap_mean": 7.304347826086956,
+      "gap_low": 3.265039246069753,
+      "gap_high": 11.751658680496499,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
-  "count_since": "2026-10-05T01:01:13+00:00",
+  "count_since": "2026-10-05T01:26:55+00:00",
   "encored": false,
   "provisional": true
 }
