@@ -83,6 +83,6 @@
   {"date": "2026-07-21", "venue": "Empower Federal Credit Union Amphitheater at Lakeview", "city": "Syracuse", "state": "NY", "gap": 8, "set": "1", "out": "->", "prev": "Mull", "next": "Ghost", "nb": 1},
   {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 6, "set": "1", "note": "Trey on mini drum kit.", "out": ">", "prev": "Tweezer", "in": "->", "next": "Tweezer", "nb": 1},
   {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1, "set": "1", "note": "Trey on mini drum kit.", "prev": "Sand", "next": "The Moma Dance", "nb": 1},
-  {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 3, "set": "1", "prev": "The Moma Dance", "next": "Blaze On"}
+  {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 3, "set": "1", "prev": "The Moma Dance", "next": "Blaze On", "nb": 1}
  ]
 }

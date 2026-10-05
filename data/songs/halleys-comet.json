@@ -191,6 +191,6 @@
   {"date": "2026-04-25", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 5, "set": "2", "jamchart": true, "jam": "Steps out of the box with low-key minor jamming which then becomes more mellow and dreamy as it transitions to major with synths and then > \"Blaze On\".", "out": ">", "next": "Blaze On", "xprev": "My Soul", "nb": 1},
   {"date": "2026-07-15", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 9, "set": "1", "prev": "Divided Sky", "next": "Drift While You're Sleeping", "nb": 1},
   {"date": "2026-07-27", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "1", "note": "Trey on mini drum kit.", "out": "->", "prev": "Theme from the Bottom", "next": "The Man Who Stepped Into Yesterday", "nb": 1},
-  {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 8, "set": "1", "prev": "Blaze On", "next": "Wilson"}
+  {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 8, "set": "1", "prev": "Blaze On", "next": "Wilson", "nb": 1}
  ]
 }

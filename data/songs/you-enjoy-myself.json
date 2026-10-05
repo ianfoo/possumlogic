@@ -659,6 +659,6 @@
   {"date": "2026-07-10", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 10, "set": "2", "out": ">", "prev": "Down with Disease", "in": ">", "next": "Backwards Down the Number Line", "nb": 1},
   {"date": "2026-07-18", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 5, "set": "1", "out": ">", "prev": "Contact", "next": "Axilla (Part II)", "nb": 1},
   {"date": "2026-07-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 6, "set": "2", "note": "Trey on mini drum kit.", "out": ">", "next": "Waste", "xprev": "Harpua", "nb": 1},
-  {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 7, "set": "2", "prev": "Lonely Trip", "xnext": "Carini"}
+  {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 7, "set": "2", "prev": "Lonely Trip", "xnext": "Carini", "nb": 1}
  ]
 }
