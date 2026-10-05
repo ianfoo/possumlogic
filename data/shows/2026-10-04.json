@@ -179,9 +179,28 @@
       "gap_high": 7.027781610024148,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Simple",
+      "slug": "simple",
+      "gap": 9,
+      "jamchart": false,
+      "prev_date": "2026-07-25",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 213,
+      "recent_plays": 54,
+      "gap_median": 6.0,
+      "gap_mean": 5.962962962962963,
+      "gap_low": 1.7998820547220413,
+      "gap_high": 10.798400436268858,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-05T01:42:22+00:00",
+  "count_since": "2026-10-05T02:02:58+00:00",
   "encored": false,
   "provisional": true
 }
