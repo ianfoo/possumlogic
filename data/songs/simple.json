@@ -242,6 +242,6 @@
   {"date": "2026-04-18", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 9, "set": "2", "jamchart": true, "jam": "Another latter-day jam that Stefon from SNL would be proud of, because, \u201cIt has everything.\u201d From emotive play to funk. From upbeat Fish-led rock with ebullient play from Trey, that eventually gives way to an ambient, dream-like outro.", "prev": "Oblivion", "next": "Tweezer", "nb": 1},
   {"date": "2026-07-12", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 10, "set": "2", "next": "Pillow Jets", "xprev": "Stash", "nb": 1},
   {"date": "2026-07-25", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 8, "set": "1", "prev": "Back in the U.S.S.R.", "next": "Rift", "nb": 1},
-  {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 9, "set": "2", "prev": "No Men In No Man's Land", "next": "Lonely Trip", "nb": 1}
+  {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 9, "set": "2", "nb": 1, "prev": "No Men In No Man's Land", "next": "Lonely Trip"}
  ]
 }

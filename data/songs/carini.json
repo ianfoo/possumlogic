@@ -191,6 +191,6 @@
   {"date": "2026-07-19", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 5, "set": "2", "next": "No Men In No Man's Land", "xprev": "Possum", "nb": 1},
   {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 6, "set": "1", "next": "Everything's Right", "first": 1, "nb": 1},
   {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "e", "prev": "When the Circus Comes", "last": 1, "nb": 1},
-  {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 3, "set": "e", "xprev": "You Enjoy Myself", "last": 1, "nb": 1}
+  {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 3, "set": "e", "nb": 1, "xprev": "You Enjoy Myself", "last": 1}
  ]
 }
