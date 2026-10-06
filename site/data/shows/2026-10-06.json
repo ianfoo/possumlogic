@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-06",
+  "venue": "Allianz Amphitheater at Riverfront, Richmond, VA",
+  "venue_name": "Allianz Amphitheater at Riverfront",
+  "city": "Richmond",
+  "state": "VA",
+  "artist": "Phish",
+  "tour": "2026 Fall Tour",
+  "notes": "",
+  "permalink": "https://phish.net/setlists/phish-october-06-2026-allianz-amphitheater-at-riverfront-richmond-va-usa.html",
+  "songs": [
+    {
+      "set": "SET 1",
+      "song": "Buried Alive",
+      "slug": "buried-alive",
+      "gap": 16,
+      "jamchart": false,
+      "prev_date": "2026-07-17",
+      "prev_venue": "Coastal Credit Union Music Park at Walnut Creek",
+      "prev_place": "Raleigh, NC",
+      "out": "",
+      "plays": 175,
+      "recent_plays": 24,
+      "gap_median": 13.0,
+      "gap_mean": 14.791666666666666,
+      "gap_low": 5.474752482423454,
+      "gap_high": 24.646124237782605,
+      "gap_away": null,
+      "verdict": "expected"
+    }
+  ],
+  "count_since": "2026-10-06T23:32:56+00:00",
+  "encored": false,
+  "provisional": true
+}
