@@ -27,9 +27,28 @@
       "gap_high": 24.646124237782605,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "Free",
+      "slug": "free",
+      "gap": 4,
+      "jamchart": false,
+      "prev_date": "2026-09-05",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 244,
+      "recent_plays": 78,
+      "gap_median": 4.0,
+      "gap_mean": 3.9358974358974357,
+      "gap_low": 1.5894044711621769,
+      "gap_high": 6.469856055189099,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-06T23:32:56+00:00",
+  "count_since": "2026-10-06T23:38:24+00:00",
   "encored": false,
   "provisional": true
 }
