@@ -65,9 +65,28 @@
       "gap_high": 7.925123524635964,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "Wolfman's Brother",
+      "slug": "wolfmans-brother",
+      "gap": 5,
+      "jamchart": false,
+      "prev_date": "2026-09-04",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 255,
+      "recent_plays": 72,
+      "gap_median": 4.0,
+      "gap_mean": 4.291666666666667,
+      "gap_low": 1.758601569105076,
+      "gap_high": 7.058823066437576,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-06T23:48:44+00:00",
+  "count_since": "2026-10-07T00:04:11+00:00",
   "encored": false,
   "provisional": true
 }
