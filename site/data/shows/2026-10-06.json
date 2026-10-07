@@ -255,9 +255,28 @@
       "gap_high": 13.455148609387354,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "More",
+      "slug": "more",
+      "gap": 13,
+      "jamchart": false,
+      "prev_date": "2026-07-21",
+      "prev_venue": "Empower Federal Credit Union Amphitheater at Lakeview",
+      "prev_place": "Syracuse, NY",
+      "out": "",
+      "plays": 57,
+      "recent_plays": 56,
+      "gap_median": 5,
+      "gap_mean": 5.745454545454545,
+      "gap_low": 2.604441229008175,
+      "gap_high": 8.946713627974711,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-07T02:39:08+00:00",
+  "count_since": "2026-10-07T02:44:20+00:00",
   "encored": false,
   "provisional": true
 }
