@@ -488,6 +488,6 @@
   {"date": "2026-04-17", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 10, "set": "1", "prev": "Limb By Limb", "xnext": "No Men In No Man's Land", "nb": 1},
   {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 7, "set": "2", "prev": "Ruby Waves", "in": ">", "xnext": "Slave to the Traffic Light", "nb": 1},
   {"date": "2026-07-24", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 11, "set": "2", "out": ">", "prev": "Kung", "in": ">", "next": "Golgi Apparatus", "nb": 1},
-  {"date": "2026-10-06", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 11, "set": "2", "prev": "Also Sprach Zarathustra", "in": ">", "next": "More", "nb": 1}
+  {"date": "2026-10-06", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 11, "set": "2", "nb": 1, "prev": "Also Sprach Zarathustra", "in": ">", "next": "More"}
  ]
 }
