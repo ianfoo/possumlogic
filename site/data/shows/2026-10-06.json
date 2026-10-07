@@ -227,7 +227,7 @@
       "prev_date": "2026-07-24",
       "prev_venue": "Madison Square Garden",
       "prev_place": "New York, NY",
-      "out": "",
+      "out": ">",
       "plays": 280,
       "recent_plays": 68,
       "gap_median": 4.0,
@@ -236,9 +236,28 @@
       "gap_high": 7.67985261035089,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 2",
+      "song": "Suzy Greenberg",
+      "slug": "suzy-greenberg",
+      "gap": 11,
+      "jamchart": false,
+      "prev_date": "2026-07-24",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 457,
+      "recent_plays": 41,
+      "gap_median": 6,
+      "gap_mean": 8.170731707317072,
+      "gap_low": 2.9364479462191473,
+      "gap_high": 13.455148609387354,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-07T02:33:56+00:00",
+  "count_since": "2026-10-07T02:39:08+00:00",
   "encored": false,
   "provisional": true
 }
