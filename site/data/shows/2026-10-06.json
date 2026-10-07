@@ -179,9 +179,28 @@
       "gap_high": 8.826710100279168,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Light",
+      "slug": "light",
+      "gap": 3,
+      "jamchart": false,
+      "prev_date": "2026-09-06",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 140,
+      "recent_plays": 60,
+      "gap_median": 5.0,
+      "gap_mean": 5.366666666666666,
+      "gap_low": 1.8088060110726834,
+      "gap_high": 9.235834513333979,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-07T01:21:43+00:00",
+  "count_since": "2026-10-07T02:02:57+00:00",
   "encored": false,
   "provisional": true
 }
