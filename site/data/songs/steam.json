@@ -98,6 +98,6 @@
   {"date": "2025-09-17", "venue": "Ameris Bank Amphitheatre", "city": "Alpharetta", "state": "GA", "gap": 10, "set": "1", "out": ">", "prev": "Hey Stranger", "next": "Wilson", "nb": 1},
   {"date": "2026-04-16", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 11, "set": "1", "prev": "Scents and Subtle Sounds", "in": ">", "next": "Split Open and Melt", "nb": 1},
   {"date": "2026-07-14", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 13, "set": "1", "prev": "The Old Home Place", "next": "The Curtain With", "nb": 1},
-  {"date": "2026-10-06", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 18, "set": "1", "prev": "Wolfman's Brother"}
+  {"date": "2026-10-06", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 18, "set": "1", "prev": "Wolfman's Brother", "next": "Axilla (Part II)"}
  ]
 }

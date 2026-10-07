@@ -103,9 +103,28 @@
       "gap_high": 11.173943275509334,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 1",
+      "song": "Axilla (Part II)",
+      "slug": "axilla-part-ii",
+      "gap": 3,
+      "jamchart": false,
+      "prev_date": "2026-09-06",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 68,
+      "recent_plays": 29,
+      "gap_median": 6,
+      "gap_mean": 36.62068965517241,
+      "gap_low": 2.3146595936763634,
+      "gap_high": 23.623975790754862,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-07T00:19:43+00:00",
+  "count_since": "2026-10-07T00:30:05+00:00",
   "encored": false,
   "provisional": true
 }
