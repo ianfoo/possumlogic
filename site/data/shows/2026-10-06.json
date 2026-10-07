@@ -198,9 +198,28 @@
       "gap_high": 9.235834513333979,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Possum",
+      "slug": "possum",
+      "gap": 4,
+      "jamchart": false,
+      "prev_date": "2026-09-05",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 584,
+      "recent_plays": 73,
+      "gap_median": 4,
+      "gap_mean": 4.260273972602739,
+      "gap_low": 1.5918549458222104,
+      "gap_high": 7.24256099659806,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-07T02:02:57+00:00",
+  "count_since": "2026-10-07T02:23:35+00:00",
   "encored": false,
   "provisional": true
 }
