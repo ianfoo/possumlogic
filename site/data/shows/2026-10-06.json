@@ -122,9 +122,28 @@
       "gap_high": 23.623975790754862,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "Divided Sky",
+      "slug": "divided-sky",
+      "gap": 11,
+      "jamchart": false,
+      "prev_date": "2026-07-24",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 448,
+      "recent_plays": 38,
+      "gap_median": 7.0,
+      "gap_mean": 8.868421052631579,
+      "gap_low": 4.890755043602555,
+      "gap_high": 12.963850416862641,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-07T00:30:05+00:00",
+  "count_since": "2026-10-07T00:40:26+00:00",
   "encored": false,
   "provisional": true
 }
