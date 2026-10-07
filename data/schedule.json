@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-06",
+ "fetched": "2026-10-07",
  "shows": [
   {
    "date": "2026-10-06",
@@ -40,6 +40,38 @@
    "state": "AL",
    "country": "USA",
    "tz": "America/Chicago"
+  },
+  {
+   "date": "2026-12-30",
+   "venue": "Madison Square Garden",
+   "city": "New York",
+   "state": "NY",
+   "country": "USA",
+   "tz": "America/New_York"
+  },
+  {
+   "date": "2026-12-31",
+   "venue": "Madison Square Garden",
+   "city": "New York",
+   "state": "NY",
+   "country": "USA",
+   "tz": "America/New_York"
+  },
+  {
+   "date": "2027-01-01",
+   "venue": "Madison Square Garden",
+   "city": "New York",
+   "state": "NY",
+   "country": "USA",
+   "tz": "America/New_York"
+  },
+  {
+   "date": "2027-01-02",
+   "venue": "Madison Square Garden",
+   "city": "New York",
+   "state": "NY",
+   "country": "USA",
+   "tz": "America/New_York"
   },
   {
    "date": "2027-01-27",

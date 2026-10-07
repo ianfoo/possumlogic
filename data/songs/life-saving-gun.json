@@ -49,6 +49,6 @@
   {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 4, "set": "2", "note": "Unfinished.", "out": ">", "prev": "Fuego", "in": ">", "next": "Sand", "nb": 1},
   {"date": "2026-07-18", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 7, "set": "2", "out": ">", "next": "Gotta Jibboo", "xprev": "Runaway Jim", "nb": 1},
   {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 9, "set": "2", "note": "Trey on mini drum kit.", "prev": "Down with Disease", "in": ">", "next": "Lonely Trip", "nb": 1},
-  {"date": "2026-10-06", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 5, "set": "2", "xprev": "46 Days", "next": "Light", "nb": 1}
+  {"date": "2026-10-06", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 5, "set": "2", "nb": 1, "xprev": "46 Days", "next": "Light"}
  ]
 }
