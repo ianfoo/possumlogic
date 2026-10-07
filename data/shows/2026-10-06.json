@@ -160,9 +160,28 @@
       "gap_high": 6.474603948130052,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Life Saving Gun",
+      "slug": "life-saving-gun",
+      "gap": 5,
+      "jamchart": false,
+      "prev_date": "2026-09-04",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 24,
+      "recent_plays": 23,
+      "gap_median": 5.5,
+      "gap_mean": 5.454545454545454,
+      "gap_low": 2.402621236308534,
+      "gap_high": 8.826710100279168,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-07T00:55:55+00:00",
+  "count_since": "2026-10-07T01:21:43+00:00",
   "encored": false,
   "provisional": true
 }
