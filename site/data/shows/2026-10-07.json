@@ -26,9 +26,28 @@
       "gap_high": null,
       "gap_away": null,
       "verdict": null
+    },
+    {
+      "set": "SET 1",
+      "song": "The Curtain",
+      "slug": "the-curtain",
+      "gap": 196,
+      "jamchart": false,
+      "prev_date": "2022-07-26",
+      "prev_venue": "Northwell Health at Jones Beach Theater",
+      "prev_place": "Wantagh, NY",
+      "out": "",
+      "plays": 124,
+      "recent_plays": 3,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": "bustout"
     }
   ],
-  "count_since": "2026-10-07T23:33:47+00:00",
+  "count_since": "2026-10-07T23:54:20+00:00",
   "encored": false,
   "provisional": true
 }
