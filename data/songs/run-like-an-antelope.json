@@ -527,6 +527,6 @@
   {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 2, "set": "e", "prev": "Big Black Furry Creature from Mars", "last": 1, "nb": 1},
   {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 4, "set": "2", "prev": "Golden Age", "in": "->", "xnext": "A Life Beyond The Dream", "nb": 1},
   {"date": "2026-09-04", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1, "set": "2", "out": ">", "prev": "Lonely Trip", "next": "Character Zero", "nb": 1},
-  {"date": "2026-10-06", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 5, "set": "1", "prev": "Free"}
+  {"date": "2026-10-06", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 5, "set": "1", "prev": "Free", "next": "Wolfman's Brother"}
  ]
 }
