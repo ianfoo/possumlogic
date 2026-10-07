@@ -30,9 +30,9 @@
   {"date": "2026-04-23", "score": 76, "venue": "Sphere", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/53579"}
  ],
  "performances": [
-  {"date": "1990-09-28", "venue": "The Chance", "city": "Poughkeepsie", "state": "NY", "gap": null, "set": "2", "jamchart": true, "jam": "Debut. Drawn-out intro, and it ends kinda suddenly midst the jam. Work in progress.", "note": "Debut.", "prev": "Esther", "in": ">", "next": "Dinner and a Movie", "nb": 1},
+  {"date": "1990-09-28", "venue": "The Chance", "city": "Poughkeepsie", "state": "NY", "gap": 0, "set": "2", "jamchart": true, "jam": "Debut. Drawn-out intro, and it ends kinda suddenly midst the jam. Work in progress.", "note": "Debut.", "prev": "Esther", "in": ">", "next": "Dinner and a Movie", "nb": 1},
   {"date": "1990-09-29", "venue": "23 East Cabaret", "city": "Ardmore", "state": "PA", "gap": 1, "set": "2", "prev": "Tweezer", "next": "Uncle Pen", "nb": 1},
-  {"date": "1990-10-01", "venue": "The Haunt", "city": "Ithaca", "state": "NY", "gap": null, "set": "2", "prev": "Fee", "in": ">", "next": "Golgi Apparatus", "nb": 1},
+  {"date": "1990-10-01", "venue": "The Haunt", "city": "Ithaca", "state": "NY", "gap": 0, "set": "2", "prev": "Fee", "in": ">", "next": "Golgi Apparatus", "nb": 1},
   {"date": "1990-10-03", "venue": "Thunderbird's", "city": "Portland", "state": "ME", "gap": 1, "set": "2", "prev": "My Sweet One", "next": "Good Times Bad Times", "nb": 1},
   {"date": "1990-10-11", "venue": "The Jade Elephant", "city": "Richmond", "state": "VA", "gap": 7, "set": "2", "prev": "The Landlady", "next": "You Enjoy Myself", "nb": 1},
   {"date": "1990-11-30", "venue": "The Colonial Theatre", "city": "Keene", "state": "NH", "gap": 27, "set": "2", "note": "Fish on trombone.", "prev": "The Lizards", "next": "Divided Sky", "nb": 1},
