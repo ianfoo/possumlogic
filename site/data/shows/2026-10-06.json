@@ -6,7 +6,7 @@
   "state": "VA",
   "artist": "Phish",
   "tour": "2026 Fall Tour",
-  "notes": "<p>Wolfman's Brother featured Trey on mini drum kit.</p>",
+  "notes": "<p>Wolfman's Brother featured Trey on mini drum kit.&nbsp;</p>",
   "permalink": "https://phish.net/setlists/phish-october-06-2026-allianz-amphitheater-at-riverfront-richmond-va-usa.html",
   "songs": [
     {
@@ -141,9 +141,28 @@
       "gap_high": 12.963850416862641,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "46 Days",
+      "slug": "46-days",
+      "gap": 5,
+      "jamchart": false,
+      "prev_date": "2026-09-04",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 160,
+      "recent_plays": 77,
+      "gap_median": 3,
+      "gap_mean": 3.961038961038961,
+      "gap_low": 1.568211006643578,
+      "gap_high": 6.474603948130052,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-07T00:40:26+00:00",
+  "count_since": "2026-10-07T00:55:55+00:00",
   "encored": false,
   "provisional": true
 }
