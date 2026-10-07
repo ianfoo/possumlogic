@@ -217,9 +217,28 @@
       "gap_high": 7.24256099659806,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Also Sprach Zarathustra",
+      "slug": "also-sprach-zarathustra",
+      "gap": 11,
+      "jamchart": false,
+      "prev_date": "2026-07-24",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 280,
+      "recent_plays": 68,
+      "gap_median": 4.0,
+      "gap_mean": 4.514705882352941,
+      "gap_low": 1.623748862515415,
+      "gap_high": 7.67985261035089,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-07T02:23:35+00:00",
+  "count_since": "2026-10-07T02:33:56+00:00",
   "encored": false,
   "provisional": true
 }

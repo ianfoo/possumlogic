@@ -616,6 +616,6 @@
   {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 1, "set": "1", "out": ">", "prev": "Reba", "in": ">", "next": "David Bowie", "nb": 1},
   {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 5, "set": "2", "prev": "Ghost", "in": ">", "xnext": "Wading in the Velvet Sea", "nb": 1},
   {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1, "set": "1", "next": "Sand", "first": 1, "nb": 1},
-  {"date": "2026-10-06", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 4, "set": "2", "prev": "Light", "in": "->"}
+  {"date": "2026-10-06", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 4, "set": "2", "prev": "Light", "in": "->", "next": "Also Sprach Zarathustra"}
  ]
 }
