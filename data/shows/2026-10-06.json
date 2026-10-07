@@ -84,9 +84,28 @@
       "gap_high": 7.058823066437576,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "Steam",
+      "slug": "steam",
+      "gap": 18,
+      "jamchart": false,
+      "prev_date": "2026-07-14",
+      "prev_venue": "Enmarket Arena",
+      "prev_place": "Savannah, GA",
+      "out": "",
+      "plays": 70,
+      "recent_plays": 48,
+      "gap_median": 5.5,
+      "gap_mean": 6.645833333333333,
+      "gap_low": 2.1917572186595717,
+      "gap_high": 11.173943275509334,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-07T00:04:11+00:00",
+  "count_since": "2026-10-07T00:19:43+00:00",
   "encored": false,
   "provisional": true
 }
