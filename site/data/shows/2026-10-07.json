@@ -64,9 +64,28 @@
       "gap_high": 13.359421067684679,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 1",
+      "song": "Llama",
+      "slug": "llama",
+      "gap": 12,
+      "jamchart": false,
+      "prev_date": "2026-07-24",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 329,
+      "recent_plays": 27,
+      "gap_median": 10,
+      "gap_mean": 13.555555555555555,
+      "gap_low": 4.120903975760928,
+      "gap_high": 23.19786262899765,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-08T00:04:40+00:00",
+  "count_since": "2026-10-08T00:09:50+00:00",
   "encored": false,
   "provisional": true
 }
