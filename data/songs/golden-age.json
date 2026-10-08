@@ -121,6 +121,6 @@
   {"date": "2026-04-23", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 3, "set": "2", "jamchart": true, "jam": "Moving into a familiar hypnotic groove space we shift at 9:15 to a deeper groove which thus opens the space for the jam to blossom. Mike and Fish dominate here before Trey shifts the band into Fuego.", "out": "->", "prev": "Dark Puddle", "in": ">", "next": "Fuego", "nb": 1},
   {"date": "2026-07-11", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 8, "set": "2", "out": ">", "prev": "Tweezer", "in": "->", "next": "My Friend, My Friend", "nb": 1},
   {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 12, "set": "2", "out": "->", "prev": "A Wave of Hope", "in": ">", "next": "Run Like an Antelope", "nb": 1},
-  {"date": "2026-10-07", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 8, "set": "2", "prev": "Ruby Waves", "in": ">", "next": "Meatstick"}
+  {"date": "2026-10-07", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 8, "set": "2", "prev": "Ruby Waves", "in": ">", "next": "Meatstick", "nb": 1}
  ]
 }

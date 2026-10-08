@@ -77,6 +77,6 @@
   {"date": "2026-04-23", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 9, "set": "2", "next": "Fuego", "xprev": "Moonage Daydream", "nb": 1},
   {"date": "2026-07-14", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 10, "set": "1", "out": ">", "prev": "Steam", "next": "Horn", "nb": 1},
   {"date": "2026-07-27", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 8, "set": "2", "out": ">", "next": "Prince Caspian", "xprev": "Taste", "nb": 1},
-  {"date": "2026-10-07", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 10, "set": "1", "prev": "Gumbo", "next": "Hey Stranger"}
+  {"date": "2026-10-07", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 10, "set": "1", "prev": "Gumbo", "next": "Hey Stranger", "nb": 1}
  ]
 }

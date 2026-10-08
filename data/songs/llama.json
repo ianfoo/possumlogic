@@ -357,6 +357,6 @@
   {"date": "2026-05-02", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 19, "set": "1", "prev": "Ether Edge", "in": ">", "next": "The Horse", "nb": 1},
   {"date": "2026-07-17", "venue": "Coastal Credit Union Music Park at Walnut Creek", "city": "Raleigh", "state": "NC", "gap": 7, "set": "1", "prev": "Character Zero", "next": "Mercury", "nb": 1},
   {"date": "2026-07-24", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 4, "set": "1", "next": "Bathtub Gin", "first": 1, "nb": 1},
-  {"date": "2026-10-07", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 12, "set": "1", "prev": "Hey Stranger", "next": "Roggae"}
+  {"date": "2026-10-07", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 12, "set": "1", "prev": "Hey Stranger", "next": "Roggae", "nb": 1}
  ]
 }
