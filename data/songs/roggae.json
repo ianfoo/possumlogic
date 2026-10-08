@@ -30,8 +30,8 @@
   {"date": "2000-09-30", "score": 78, "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "link": "https://fouldomain.com/tracks/24944"}
  ],
  "performances": [
-  {"date": "1998-06-29", "venue": "The Grey Hall", "city": "Copenhagen", "state": "Capital Region", "gap": null, "set": "1", "next": "The Moma Dance", "first": 1, "nb": 1},
-  {"date": "1998-06-30", "venue": "The Grey Hall", "city": "Copenhagen", "state": "Capital Region", "gap": null, "set": "1", "jamchart": true, "jam": "Debut.", "note": "Debut.", "prev": "Cities", "next": "Guyute", "nb": 1},
+  {"date": "1998-06-29", "venue": "The Grey Hall", "city": "Copenhagen", "state": "Capital Region", "gap": 0, "set": "1", "next": "The Moma Dance", "first": 1, "nb": 1},
+  {"date": "1998-06-30", "venue": "The Grey Hall", "city": "Copenhagen", "state": "Capital Region", "gap": 0, "set": "1", "jamchart": true, "jam": "Debut.", "note": "Debut.", "prev": "Cities", "next": "Guyute", "nb": 1},
   {"date": "1998-07-06", "venue": "Lucerna Theatre", "city": "Prague", "state": "Prague", "gap": 5, "set": "1", "jamchart": true, "jam": "A more rhythmic and energized jam section than later versions. Great Fish and Trey.", "prev": "Train Song", "next": "Maze", "nb": 1},
   {"date": "1998-07-10", "venue": "Zeleste", "city": "Barcelona", "state": "Catalonia", "gap": 3, "set": "2", "out": ">", "prev": "Halley's Comet", "next": "Sparkle", "nb": 1},
   {"date": "1998-07-15", "venue": "Portland Meadows", "city": "Portland", "state": "OR", "gap": 1, "set": "1", "prev": "Cars Trucks Buses", "next": "Birds of a Feather", "nb": 1},
@@ -49,7 +49,7 @@
   {"date": "1998-10-20", "venue": "Sony Music Studios", "city": "New York", "state": "NY", "gap": 1, "set": "1", "prev": "Ghost", "next": "Guyute", "nb": 1},
   {"date": "1998-10-29", "venue": "Greek Theatre", "city": "Los Angeles", "state": "CA", "gap": 1, "set": "1", "prev": "Julius", "next": "Llama", "nb": 1},
   {"date": "1998-10-31", "venue": "Thomas & Mack Center", "city": "Las Vegas", "state": "NV", "gap": 2, "set": "1", "prev": "Punch You in the Eye", "in": ">", "next": "Birds of a Feather", "nb": 1},
-  {"date": "1998-11-03", "venue": "KBCO Studio C", "city": "Boulder", "state": "CO", "gap": null, "set": "1", "prev": "Possum", "last": 1, "nb": 1},
+  {"date": "1998-11-03", "venue": "KBCO Studio C", "city": "Boulder", "state": "CO", "gap": 0, "set": "1", "prev": "Possum", "last": 1, "nb": 1},
   {"date": "1998-11-06", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 3, "set": "1", "prev": "Wilson", "in": ">", "next": "Maze", "nb": 1},
   {"date": "1998-11-08", "venue": "UIC Pavilion, University of Illinois", "city": "Chicago", "state": "IL", "gap": 2, "set": "1", "prev": "Paul and Silas", "next": "Water in the Sky", "nb": 1},
   {"date": "1998-11-13", "venue": "CSU Convocation Center", "city": "Cleveland", "state": "OH", "gap": 3, "set": "1", "prev": "Wolfman's Brother", "next": "Ginseng Sullivan", "nb": 1},
