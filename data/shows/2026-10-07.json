@@ -119,9 +119,28 @@
       "gap_high": null,
       "gap_away": null,
       "verdict": null
+    },
+    {
+      "set": "SET 1",
+      "song": "Timber (Jerry the Mule)",
+      "slug": "timber-jerry-the-mule",
+      "gap": 10,
+      "jamchart": false,
+      "prev_date": "2026-07-27",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 111,
+      "recent_plays": 26,
+      "gap_median": 10.0,
+      "gap_mean": 13.923076923076923,
+      "gap_low": 5.410515538769406,
+      "gap_high": 22.90818703008785,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-08T00:25:18+00:00",
+  "count_since": "2026-10-08T00:35:36+00:00",
   "encored": false,
   "provisional": true
 }
