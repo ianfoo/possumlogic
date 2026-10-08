@@ -223,7 +223,7 @@
       "prev_date": "2026-07-17",
       "prev_venue": "Coastal Credit Union Music Park at Walnut Creek",
       "prev_place": "Raleigh, NC",
-      "out": "",
+      "out": ">",
       "plays": 80,
       "recent_plays": 26,
       "gap_median": 10.0,
@@ -232,9 +232,28 @@
       "gap_high": 23.6307526133945,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Backwards Down the Number Line",
+      "slug": "backwards-down-the-number-line",
+      "gap": 4,
+      "jamchart": false,
+      "prev_date": "2026-09-06",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 153,
+      "recent_plays": 54,
+      "gap_median": 5.5,
+      "gap_mean": 6.148148148148148,
+      "gap_low": 2.886202444034908,
+      "gap_high": 9.587832555345711,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-08T02:28:18+00:00",
+  "count_since": "2026-10-08T02:33:28+00:00",
   "encored": false,
   "provisional": true
 }
