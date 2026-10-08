@@ -141,6 +141,6 @@
   {"date": "2026-04-25", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 20, "set": "1", "next": "The Moma Dance", "first": 1, "nb": 1},
   {"date": "2026-07-11", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 6, "set": "1", "prev": "Theme from the Bottom", "in": "->", "next": "555", "nb": 1},
   {"date": "2026-07-27", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 10, "set": "1", "note": "Trey on mini drum kit.", "prev": "Wilson", "in": ">", "next": "Ha Ha Ha", "nb": 1},
-  {"date": "2026-10-07", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 10, "set": "1", "prev": "Tube", "in": ">"}
+  {"date": "2026-10-07", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 10, "set": "1", "prev": "Tube", "in": ">", "next": "Most Events Aren't Planned"}
  ]
 }

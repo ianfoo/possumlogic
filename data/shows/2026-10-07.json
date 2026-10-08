@@ -138,9 +138,27 @@
       "gap_high": 22.90818703008785,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "Most Events Aren't Planned",
+      "slug": "most-events-arent-planned",
+      "gap": 6,
+      "jamchart": false,
+      "prev_date": "2026-09-05",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "plays": null,
+      "recent_plays": 0,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": null
     }
   ],
-  "count_since": "2026-10-08T00:35:36+00:00",
+  "count_since": "2026-10-08T00:40:47+00:00",
   "encored": false,
   "provisional": true
 }
