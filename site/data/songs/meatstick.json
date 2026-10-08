@@ -109,6 +109,6 @@
   {"date": "2026-01-31", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 10, "set": "2", "out": ">", "prev": "Beneath a Sea of Stars Part 1", "in": ">", "next": "Golden Age", "nb": 1},
   {"date": "2026-05-02", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 8, "set": "2", "prev": "Ruby Waves", "next": "My Friend, My Friend", "nb": 1},
   {"date": "2026-07-17", "venue": "Coastal Credit Union Music Park at Walnut Creek", "city": "Raleigh", "state": "NC", "gap": 7, "set": "e", "out": ">", "prev": "Fee", "next": "The Mango Song", "nb": 1},
-  {"date": "2026-10-07", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 17, "set": "2", "out": ">", "prev": "Golden Age", "in": ">"}
+  {"date": "2026-10-07", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 17, "set": "2", "out": ">", "prev": "Golden Age", "in": ">", "next": "Backwards Down the Number Line"}
  ]
 }
