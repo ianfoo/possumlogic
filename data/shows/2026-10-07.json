@@ -194,9 +194,28 @@
       "gap_high": 9.037381318285808,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Golden Age",
+      "slug": "golden-age",
+      "gap": 8,
+      "jamchart": false,
+      "prev_date": "2026-07-31",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 92,
+      "recent_plays": 52,
+      "gap_median": 6.0,
+      "gap_mean": 6.4423076923076925,
+      "gap_low": 2.589622316677503,
+      "gap_high": 10.665727113554986,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-08T01:37:02+00:00",
+  "count_since": "2026-10-08T01:57:32+00:00",
   "encored": false,
   "provisional": true
 }
