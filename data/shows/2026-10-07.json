@@ -251,9 +251,27 @@
       "gap_high": 9.587832555345711,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Loving Cup",
+      "slug": "loving-cup",
+      "gap": 11,
+      "jamchart": false,
+      "prev_date": "2026-07-27",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "plays": null,
+      "recent_plays": 0,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": null
     }
   ],
-  "count_since": "2026-10-08T02:33:28+00:00",
+  "count_since": "2026-10-08T02:38:38+00:00",
   "encored": false,
   "provisional": true
 }

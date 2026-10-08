@@ -182,6 +182,6 @@
   {"date": "2026-07-19", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 6, "set": "2", "prev": "Ruby Waves", "in": ">", "xnext": "I Am the Walrus", "nb": 1},
   {"date": "2026-07-29", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 5, "set": "e", "prev": "A Day in the Life", "last": 1, "nb": 1},
   {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 4, "set": "1", "out": ">", "prev": "Blaze On", "in": ">", "next": "Axilla (Part II)", "nb": 1},
-  {"date": "2026-10-07", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 4, "set": "2", "prev": "Meatstick", "in": ">"}
+  {"date": "2026-10-07", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 4, "set": "2", "prev": "Meatstick", "in": ">", "next": "Loving Cup"}
  ]
 }

@@ -30,7 +30,7 @@
   {"date": "2024-08-31", "score": 61, "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "link": "https://fouldomain.com/tracks/38991"}
  ],
  "performances": [
-  {"date": "1993-02-03", "venue": "Portland Expo", "city": "Portland", "state": "ME", "gap": null, "set": "1", "note": "Phish debut.", "next": "Rift", "first": 1, "nb": 1},
+  {"date": "1993-02-03", "venue": "Portland Expo", "city": "Portland", "state": "ME", "gap": 0, "set": "1", "note": "Phish debut.", "next": "Rift", "first": 1, "nb": 1},
   {"date": "1993-02-05", "venue": "Roseland Ballroom", "city": "New York", "state": "NY", "gap": 2, "set": "e", "prev": "Amazing Grace", "last": 1, "nb": 1},
   {"date": "1993-02-10", "venue": "Smith Opera House", "city": "Geneva", "state": "NY", "gap": 4, "set": "1", "out": ">", "next": "Foam", "first": 1, "nb": 1},
   {"date": "1993-02-19", "venue": "Roxy Theatre", "city": "Atlanta", "state": "GA", "gap": 7, "set": "1", "next": "Rift", "first": 1, "nb": 1},
@@ -101,7 +101,7 @@
   {"date": "2000-09-14", "venue": "Darien Lake Performing Arts Center", "city": "Darien Center", "state": "NY", "gap": 6, "set": "2", "jamchart": true, "jam": "Incredible show of force! Bonus outro-jam taboot!", "prev": "Prince Caspian", "in": ">", "xnext": "Driver", "nb": 1},
   {"date": "2000-09-27", "venue": "Fiddler's Green", "city": "Englewood", "state": "CO", "gap": 9, "set": "e", "xprev": "You Enjoy Myself", "last": 1, "nb": 1},
   {"date": "2000-10-04", "venue": "Coors Amphitheatre", "city": "Chula Vista", "state": "CA", "gap": 4, "set": "e", "xprev": "Cavern", "last": 1, "nb": 1},
-  {"date": "2001-12-01", "venue": "Reception Hall, Swiss\u00f4tel", "city": "Boston", "state": "MA", "gap": null, "set": "1", "prev": "Boogie On Reggae Woman", "last": 1, "nb": 1},
+  {"date": "2001-12-01", "venue": "Reception Hall, Swiss\u00f4tel", "city": "Boston", "state": "MA", "gap": 0, "set": "1", "prev": "Boogie On Reggae Woman", "last": 1, "nb": 1},
   {"date": "2003-02-14", "venue": "Great Western Forum", "city": "Inglewood", "state": "CA", "gap": 8, "set": "e", "xprev": "Prince Caspian", "last": 1, "nb": 1},
   {"date": "2003-02-26", "venue": "Worcester Centrum Centre", "city": "Worcester", "state": "MA", "gap": 9, "set": "e", "jamchart": true, "jam": "Magnificent, must-hear, blisteringly-intense, shredfest with a drawn-out ending!", "xprev": "Golgi Apparatus", "last": 1, "nb": 1},
   {"date": "2003-07-09", "venue": "Shoreline Amphitheatre", "city": "Mountain View", "state": "CA", "gap": 5, "set": "e", "xprev": "Weekapaug Groove", "last": 1, "nb": 1},
@@ -120,7 +120,7 @@
   {"date": "2009-10-31", "venue": "Empire Polo Club", "city": "Indio", "state": "CA", "gap": 6, "set": "2", "jamchart": true, "jam": "This version is FIERCE, what with horns and soulful backup vocals!", "note": "Sharon Jones and Saundra Williams on backup vocals, Dave Guy on trumpet, David Smith on trombone, and Tony Jarvis on saxophone.", "prev": "Sweet Black Angel", "next": "Happy", "nb": 1},
   {"date": "2009-12-05", "venue": "John Paul Jones Arena", "city": "Charlottesville", "state": "VA", "gap": 14, "set": "e", "out": ">", "next": "Tweezer Reprise", "xprev": "Run Like an Antelope", "nb": 1},
   {"date": "2009-12-31", "venue": "American Airlines Arena", "city": "Miami", "state": "FL", "gap": 4, "set": "e", "prev": "Blue Moon", "last": 1, "nb": 1},
-  {"date": "2010-05-13", "venue": "NBC Television Studios, Studio 6B", "city": "New York", "state": "NY", "gap": null, "set": "1", "next": "Kill Devil Falls", "first": 1, "nb": 1},
+  {"date": "2010-05-13", "venue": "NBC Television Studios, Studio 6B", "city": "New York", "state": "NY", "gap": 0, "set": "1", "next": "Kill Devil Falls", "first": 1, "nb": 1},
   {"date": "2010-06-22", "venue": "Comcast Center", "city": "Mansfield", "state": "MA", "gap": 9, "set": "2", "prev": "Slave to the Traffic Light", "xnext": "First Tube", "nb": 1},
   {"date": "2010-07-03", "venue": "Verizon Wireless Amphitheatre at Encore Park", "city": "Alpharetta", "state": "GA", "gap": 8, "set": "2", "prev": "Harry Hood", "in": ">", "xnext": "Sleeping Monkey", "nb": 1},
   {"date": "2010-08-05", "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ", "city": "Berkeley", "state": "CA", "gap": 2, "set": "e", "next": "Tweezer Reprise", "xprev": "Fluffhead", "nb": 1},
