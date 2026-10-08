@@ -45,9 +45,28 @@
       "gap_high": 41.82037718179341,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "Hey Stranger",
+      "slug": "hey-stranger",
+      "gap": 22,
+      "jamchart": false,
+      "prev_date": "2026-07-10",
+      "prev_venue": "Ruoff Music Center",
+      "prev_place": "Noblesville, IN",
+      "out": "",
+      "plays": 20,
+      "recent_plays": 19,
+      "gap_median": 6.0,
+      "gap_mean": 7.611111111111111,
+      "gap_low": 2.6246932877565174,
+      "gap_high": 13.359421067684679,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-07T23:54:20+00:00",
+  "count_since": "2026-10-08T00:04:40+00:00",
   "encored": false,
   "provisional": true
 }
