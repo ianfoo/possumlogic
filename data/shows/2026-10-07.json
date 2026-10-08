@@ -6,7 +6,7 @@
   "state": "VA",
   "artist": "Phish",
   "tour": "2026 Fall Tour",
-  "notes": "<p>Tube and Golden Age featured Trey on mini drum kit. Trey teased No Quarter in Golden Age.</p>",
+  "notes": "<p>Tube and Golden Age featured Trey on mini drum kit. Ruby Waves was unfinished. Trey teased No Quarter in Golden Age. Trey and Mike teased No Quarter at the start of Meatstick.</p>",
   "permalink": "https://phish.net/setlists/phish-october-07-2026-allianz-amphitheater-at-riverfront-richmond-va-usa.html",
   "songs": [
     {
@@ -213,9 +213,28 @@
       "gap_high": 10.665727113554986,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Meatstick",
+      "slug": "meatstick",
+      "gap": 17,
+      "jamchart": false,
+      "prev_date": "2026-07-17",
+      "prev_venue": "Coastal Credit Union Music Park at Walnut Creek",
+      "prev_place": "Raleigh, NC",
+      "out": "",
+      "plays": 80,
+      "recent_plays": 26,
+      "gap_median": 10.0,
+      "gap_mean": 13.615384615384615,
+      "gap_low": 4.239628866114722,
+      "gap_high": 23.6307526133945,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-08T01:57:32+00:00",
+  "count_since": "2026-10-08T02:28:18+00:00",
   "encored": false,
   "provisional": true
 }
