@@ -175,9 +175,28 @@
       "gap_high": 12.06799894310261,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Ruby Waves",
+      "slug": "ruby-waves",
+      "gap": 7,
+      "jamchart": false,
+      "prev_date": "2026-08-01",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 46,
+      "recent_plays": 45,
+      "gap_median": 5.0,
+      "gap_mean": 5.5227272727272725,
+      "gap_low": 2.171600752368368,
+      "gap_high": 9.037381318285808,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-08T01:21:40+00:00",
+  "count_since": "2026-10-08T01:37:02+00:00",
   "encored": false,
   "provisional": true
 }
