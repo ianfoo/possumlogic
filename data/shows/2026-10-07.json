@@ -288,9 +288,28 @@
       "gap_high": 21.849389763138323,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "ENCORE",
+      "song": "Julius",
+      "slug": "julius",
+      "gap": 11,
+      "jamchart": false,
+      "prev_date": "2026-07-25",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 244,
+      "recent_plays": 32,
+      "gap_median": 9.5,
+      "gap_mean": 10.9375,
+      "gap_low": 3.713334604972224,
+      "gap_high": 18.48937274214705,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-08T02:48:53+00:00",
+  "count_since": "2026-10-08T02:59:09+00:00",
   "encored": true,
   "provisional": true
 }
