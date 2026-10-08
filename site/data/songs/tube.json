@@ -30,7 +30,7 @@
   {"date": "2025-07-03", "score": 80, "venue": "Folsom Field", "city": "Boulder", "state": "CO", "link": "https://fouldomain.com/tracks/39477"}
  ],
  "performances": [
-  {"date": "1990-09-13", "venue": "The Wetlands Preserve", "city": "New York", "state": "NY", "gap": null, "set": "1", "jamchart": true, "jam": "Debut. Like other 1990 versions, the jam includes some building tension which is largely absent in later versions and does not include a guitar solo to end the jam.", "note": "Debut.", "prev": "Foam", "next": "The Asse Festival", "nb": 1},
+  {"date": "1990-09-13", "venue": "The Wetlands Preserve", "city": "New York", "state": "NY", "gap": 0, "set": "1", "jamchart": true, "jam": "Debut. Like other 1990 versions, the jam includes some building tension which is largely absent in later versions and does not include a guitar solo to end the jam.", "note": "Debut.", "prev": "Foam", "next": "The Asse Festival", "nb": 1},
   {"date": "1990-09-15", "venue": "The Colonial Theatre", "city": "Keene", "state": "NH", "gap": 2, "set": "1", "out": ">", "prev": "Fee", "next": "The Oh Kee Pa Ceremony", "nb": 1},
   {"date": "1990-09-16", "venue": "Wesleyan University", "city": "Middletown", "state": "CT", "gap": 1, "set": "1", "prev": "Ya Mar", "next": "Tweezer", "nb": 1},
   {"date": "1990-09-20", "venue": "Somerville Theatre", "city": "Somerville", "state": "MA", "gap": 3, "set": "2", "prev": "Uncle Pen", "next": "Lawn Boy", "nb": 1},

@@ -101,9 +101,27 @@
       "gap_high": null,
       "gap_away": null,
       "verdict": null
+    },
+    {
+      "set": "SET 1",
+      "song": "Tube",
+      "slug": "tube",
+      "gap": 7,
+      "jamchart": false,
+      "prev_date": "2026-09-04",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "plays": null,
+      "recent_plays": 0,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": null
     }
   ],
-  "count_since": "2026-10-08T00:15:01+00:00",
+  "count_since": "2026-10-08T00:25:18+00:00",
   "encored": false,
   "provisional": true
 }
