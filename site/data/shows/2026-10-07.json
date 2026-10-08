@@ -83,9 +83,27 @@
       "gap_high": 23.19786262899765,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "Roggae",
+      "slug": "roggae",
+      "gap": 5,
+      "jamchart": false,
+      "prev_date": "2026-09-06",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "plays": null,
+      "recent_plays": 0,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": null
     }
   ],
-  "count_since": "2026-10-08T00:09:50+00:00",
+  "count_since": "2026-10-08T00:15:01+00:00",
   "encored": false,
   "provisional": true
 }
