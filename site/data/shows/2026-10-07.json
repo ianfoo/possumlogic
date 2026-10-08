@@ -269,9 +269,28 @@
       "gap_high": null,
       "gap_away": null,
       "verdict": null
+    },
+    {
+      "set": "ENCORE",
+      "song": "The Lizards",
+      "slug": "the-lizards",
+      "gap": 13,
+      "jamchart": false,
+      "prev_date": "2026-07-22",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 337,
+      "recent_plays": 27,
+      "gap_median": 11,
+      "gap_mean": 12.814814814814815,
+      "gap_low": 4.2790120525076105,
+      "gap_high": 21.849389763138323,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-08T02:38:38+00:00",
-  "encored": false,
+  "count_since": "2026-10-08T02:48:53+00:00",
+  "encored": true,
   "provisional": true
 }
