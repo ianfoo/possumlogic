@@ -156,9 +156,28 @@
       "gap_high": null,
       "gap_away": null,
       "verdict": null
+    },
+    {
+      "set": "SET 2",
+      "song": "Kill Devil Falls",
+      "slug": "kill-devil-falls",
+      "gap": 4,
+      "jamchart": false,
+      "prev_date": "2026-09-06",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 128,
+      "recent_plays": 47,
+      "gap_median": 6,
+      "gap_mean": 7.25531914893617,
+      "gap_low": 2.6730884195687654,
+      "gap_high": 12.06799894310261,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-08T00:40:47+00:00",
+  "count_since": "2026-10-08T01:21:40+00:00",
   "encored": false,
   "provisional": true
 }
