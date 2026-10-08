@@ -42,6 +42,6 @@
   {"date": "2026-01-28", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 7, "set": "1", "next": "The Moma Dance", "first": 1, "nb": 1},
   {"date": "2026-04-17", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 4, "set": "1", "prev": "Divided Sky", "next": "Mull", "nb": 1},
   {"date": "2026-07-10", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 9, "set": "1", "prev": "Limb By Limb", "next": "Bouncing Around the Room", "nb": 1},
-  {"date": "2026-10-07", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 22, "set": "1", "prev": "The Curtain With", "next": "Llama"}
+  {"date": "2026-10-07", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 22, "set": "1", "prev": "The Curtain With", "next": "Llama", "nb": 1}
  ]
 }
