@@ -159,6 +159,6 @@
   {"date": "2026-04-23", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 5, "set": "1", "jamchart": true, "jam": "Momentarily bordering on plinko to kick things off, the jam becomes echo laden and accented with a dark groove as Trey briefly plays on the low end and Mike\u2019s effects cast a shadow that serves as contrast to what follows. Trey\u2019s lead becomes more linear and Page responds in lockstep. The whole affair is held together by Fishman\u2019s stutter step consistency giving rise to a flash point and leading to satisfying consummation.", "prev": "Esther", "next": "Brian and Robert", "nb": 1},
   {"date": "2026-07-14", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 10, "set": "1", "out": ">", "prev": "David Bowie", "next": "Birds of a Feather", "nb": 1},
   {"date": "2026-07-24", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 6, "set": "1", "out": ">", "prev": "Maze", "next": "Daniel Saw the Stone", "nb": 1},
-  {"date": "2026-10-07", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 12, "set": "1", "note": "Trey on mini drum kit during end.", "first": 1, "next": "The Curtain With", "nb": 1}
+  {"date": "2026-10-07", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 12, "set": "1", "note": "Trey on mini drum kit during end.", "nb": 1, "first": 1, "next": "The Curtain With"}
  ]
 }

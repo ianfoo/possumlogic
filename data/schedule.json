@@ -1,14 +1,6 @@
 {
- "fetched": "2026-10-08",
+ "fetched": "2026-10-09",
  "shows": [
-  {
-   "date": "2026-10-07",
-   "venue": "Allianz Amphitheater at Riverfront",
-   "city": "Richmond",
-   "state": "VA",
-   "country": "USA",
-   "tz": "America/New_York"
-  },
   {
    "date": "2026-10-09",
    "venue": "VyStar Veterans Memorial Arena",
@@ -27,6 +19,14 @@
   },
   {
    "date": "2026-10-11",
+   "venue": "Orion Amphitheater",
+   "city": "Huntsville",
+   "state": "AL",
+   "country": "USA",
+   "tz": "America/Chicago"
+  },
+  {
+   "date": "2026-10-12",
    "venue": "Orion Amphitheater",
    "city": "Huntsville",
    "state": "AL",

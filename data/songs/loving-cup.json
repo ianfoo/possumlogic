@@ -188,6 +188,6 @@
   {"date": "2026-01-31", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 17, "set": "e", "out": ">", "next": "Harry Hood", "xprev": "Slave to the Traffic Light", "nb": 1},
   {"date": "2026-07-10", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 11, "set": "2", "prev": "Backwards Down the Number Line", "in": ">", "xnext": "What's Going Through Your Mind", "nb": 1},
   {"date": "2026-07-27", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 11, "set": "e", "prev": "Strange Design", "last": 1, "nb": 1},
-  {"date": "2026-10-07", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 10, "set": "2", "prev": "Backwards Down the Number Line", "in": ">", "xnext": "The Lizards", "nb": 1}
+  {"date": "2026-10-07", "venue": "Allianz Amphitheater at Riverfront", "city": "Richmond", "state": "VA", "gap": 10, "set": "2", "nb": 1, "prev": "Backwards Down the Number Line", "in": ">", "xnext": "The Lizards"}
  ]
 }
