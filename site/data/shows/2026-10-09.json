@@ -46,9 +46,28 @@
       "gap_high": 13.755371149380675,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 1",
+      "song": "Reba",
+      "slug": "reba",
+      "gap": 14,
+      "jamchart": false,
+      "prev_date": "2026-07-22",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 421,
+      "recent_plays": 44,
+      "gap_median": 7.0,
+      "gap_mean": 7.590909090909091,
+      "gap_low": 3.502561347893777,
+      "gap_high": 11.741952331957084,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-09T23:47:30+00:00",
+  "count_since": "2026-10-09T23:57:50+00:00",
   "encored": false,
   "provisional": true
 }
