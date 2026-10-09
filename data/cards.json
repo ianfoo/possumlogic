@@ -721,10 +721,11 @@
  "2026-10-04": "2fc1bd2700468f76",
  "2026-10-06": "01451f8ec8f729be",
  "2026-10-07": "15dafe9627b14f23",
+ "2026-10-09": "0ef8bcd9fb0fa282",
  "due": "26ae23567b4ec53a",
- "faq": "04c39025074a2867",
- "index": "fe3ad2e36d9d5d0a",
- "method": "e2b580330787fd1d",
+ "faq": "68f07014709e2af6",
+ "index": "00c845be5dd3cef5",
+ "method": "8c0907a4fd51d7ef",
  "not-a-show": "c06ba1111fb9e63c",
  "out-of-rotation": "de15e8ed7f55f546",
  "song-1999": "34dfc6a8caea0b5f",
@@ -1318,6 +1319,6 @@
  "song-your-pet-cat": "531dbf3c94c77a1d",
  "song-ziggy-stardust": "5e0c4d1c946d1fcb",
  "songs": "8da10470e627a572",
- "venues": "874c524b06524ab8",
+ "venues": "3f9ae6d51b1328fa",
  "years": "b61c4d6017bb3992"
 }
