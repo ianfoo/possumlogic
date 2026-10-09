@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-09",
+  "venue": "VyStar Veterans Memorial Arena, Jacksonville, FL",
+  "venue_name": "VyStar Veterans Memorial Arena",
+  "city": "Jacksonville",
+  "state": "FL",
+  "artist": "Phish",
+  "tour": "2026 Fall Tour",
+  "notes": "",
+  "permalink": "https://phish.net/setlists/phish-october-09-2026-vystar-veterans-memorial-arena-jacksonville-fl-usa.html",
+  "songs": [
+    {
+      "set": "SET 1",
+      "song": "Tweezer",
+      "slug": "tweezer",
+      "gap": 4,
+      "jamchart": false,
+      "prev_date": "2026-10-02",
+      "prev_venue": "Jim Whelan Boardwalk Hall",
+      "prev_place": "Atlantic City, NJ",
+      "out": "",
+      "plays": 421,
+      "recent_plays": 68,
+      "gap_median": 4.0,
+      "gap_mean": 4.661764705882353,
+      "gap_low": 2.1712272516712585,
+      "gap_high": 7.290664880292686,
+      "gap_away": null,
+      "verdict": "expected"
+    }
+  ],
+  "count_since": "2026-10-09T23:31:52+00:00",
+  "encored": false,
+  "provisional": true
+}
