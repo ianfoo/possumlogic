@@ -27,9 +27,28 @@
       "gap_high": 7.290664880292686,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "Runaway Jim",
+      "slug": "runaway-jim",
+      "gap": 14,
+      "jamchart": false,
+      "prev_date": "2026-07-22",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 413,
+      "recent_plays": 39,
+      "gap_median": 8,
+      "gap_mean": 8.615384615384615,
+      "gap_low": 3.709762475125987,
+      "gap_high": 13.755371149380675,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-09T23:31:52+00:00",
+  "count_since": "2026-10-09T23:47:30+00:00",
   "encored": false,
   "provisional": true
 }
