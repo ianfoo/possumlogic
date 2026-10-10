@@ -562,6 +562,7 @@
   {"date": "2026-07-24", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 11, "set": "2", "out": ">", "prev": "Also Sprach Zarathustra", "in": ">", "next": "Sparks", "nb": 1},
   {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 4, "set": "1", "note": "Unfinished.", "out": ">", "prev": "Tweezer", "in": ">", "next": "Stash", "nb": 1},
   {"date": "2026-09-05", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 1, "set": "2", "prev": "Tweezer", "in": ">", "xnext": "When the Circus Comes", "nb": 1},
-  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 2, "set": "2", "nb": 1, "xprev": "Bathtub Gin", "next": "What's Going Through Your Mind"}
+  {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 2, "set": "2", "next": "What's Going Through Your Mind", "xprev": "Bathtub Gin", "nb": 1},
+  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 3, "set": "1", "prev": "Dirt", "in": ">"}
  ]
 }

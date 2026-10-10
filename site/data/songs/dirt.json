@@ -112,6 +112,6 @@
   {"date": "2025-06-27", "venue": "Moody Center", "city": "Austin", "state": "TX", "gap": 22, "set": "1", "prev": "Taste", "next": "Weekapaug Groove", "nb": 1},
   {"date": "2026-04-30", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 40, "set": "1", "prev": "555", "next": "Punch You in the Eye", "nb": 1},
   {"date": "2026-07-11", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 5, "set": "1", "prev": "Reba", "next": "Most Events Aren't Planned", "nb": 1},
-  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 22, "set": "1", "prev": "Pebbles and Marbles"}
+  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 22, "set": "1", "prev": "Pebbles and Marbles", "next": "Chalk Dust Torture"}
  ]
 }
