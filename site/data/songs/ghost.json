@@ -270,6 +270,6 @@
   {"date": "2026-08-01", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 6, "set": "2", "out": ">", "prev": "Weekapaug Groove", "next": "Possum", "nb": 1},
   {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 2, "set": "1", "next": "Kill Devil Falls", "first": 1, "nb": 1},
   {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 0, "set": "1", "prev": "It's Ice", "in": ">", "xnext": "Oblivion", "nb": 1},
-  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 4, "set": "e", "prev": "Sleeping Monkey"}
+  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 4, "set": "e", "prev": "Sleeping Monkey", "next": "Tweezer Reprise"}
  ]
 }
