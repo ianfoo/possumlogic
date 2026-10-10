@@ -6,7 +6,7 @@
   "state": "FL",
   "artist": "Phish",
   "tour": "2026 Fall Tour",
-  "notes": "",
+  "notes": "<p>Reba did not contain the whistling ending. Trey teased the Reba whistling ending in Tweezer.</p>",
   "permalink": "https://phish.net/setlists/phish-october-09-2026-vystar-veterans-memorial-arena-jacksonville-fl-usa.html",
   "songs": [
     {
@@ -65,9 +65,27 @@
       "gap_high": 11.741952331957084,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 1",
+      "song": "Plasma",
+      "slug": "plasma",
+      "gap": 8,
+      "jamchart": false,
+      "prev_date": "2026-09-04",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "plays": null,
+      "recent_plays": 0,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": null
     }
   ],
-  "count_since": "2026-10-09T23:57:50+00:00",
+  "count_since": "2026-10-10T00:13:24+00:00",
   "encored": false,
   "provisional": true
 }
