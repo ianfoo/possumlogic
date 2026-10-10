@@ -252,9 +252,27 @@
       "gap_high": null,
       "gap_away": null,
       "verdict": null
+    },
+    {
+      "set": "SET 2",
+      "song": "Carini",
+      "slug": "carini",
+      "gap": 3,
+      "jamchart": false,
+      "prev_date": "2026-10-04",
+      "prev_venue": "Jim Whelan Boardwalk Hall",
+      "prev_place": "Atlantic City, NJ",
+      "plays": null,
+      "recent_plays": 0,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": null
     }
   ],
-  "count_since": "2026-10-10T02:22:51+00:00",
+  "count_since": "2026-10-10T02:38:21+00:00",
   "encored": false,
   "provisional": true
 }
