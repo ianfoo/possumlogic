@@ -102,9 +102,28 @@
       "gap_high": 41.58994880524828,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "Dirt",
+      "slug": "dirt",
+      "gap": 22,
+      "jamchart": false,
+      "prev_date": "2026-07-11",
+      "prev_venue": "Ruoff Music Center",
+      "prev_place": "Noblesville, IN",
+      "out": "",
+      "plays": 81,
+      "recent_plays": 16,
+      "gap_median": 18.0,
+      "gap_mean": 23.625,
+      "gap_low": 7.851758333391709,
+      "gap_high": 41.14256615736352,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-10T00:28:57+00:00",
+  "count_since": "2026-10-10T00:34:09+00:00",
   "encored": false,
   "provisional": true
 }
