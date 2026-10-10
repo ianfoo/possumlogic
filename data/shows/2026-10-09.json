@@ -140,9 +140,28 @@
       "gap_high": 5.511109108963299,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Punch You in the Eye",
+      "slug": "punch-you-in-the-eye",
+      "gap": 12,
+      "jamchart": false,
+      "prev_date": "2026-07-25",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 174,
+      "recent_plays": 24,
+      "gap_median": 12.0,
+      "gap_mean": 14.791666666666666,
+      "gap_low": 6.181055598541627,
+      "gap_high": 23.2813094947749,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-10T00:39:22+00:00",
+  "count_since": "2026-10-10T01:20:41+00:00",
   "encored": false,
   "provisional": true
 }
