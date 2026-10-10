@@ -450,6 +450,6 @@
   {"date": "2026-04-18", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 7, "set": "1", "prev": "AC/DC Bag", "next": "Colonel Forbin's Ascent", "nb": 1},
   {"date": "2026-07-11", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 9, "set": "1", "note": "No whistling.", "prev": "555", "in": ">", "next": "Dirt", "nb": 1},
   {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "1", "note": "No whistling.", "out": ">", "prev": "AC/DC Bag", "in": ">", "next": "Possum", "nb": 1},
-  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 14, "set": "1", "prev": "Runaway Jim", "next": "Tweezer"}
+  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 14, "set": "1", "prev": "Runaway Jim", "next": "Tweezer", "nb": 1}
  ]
 }

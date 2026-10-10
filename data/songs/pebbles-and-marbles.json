@@ -65,6 +65,6 @@
   {"date": "2025-09-19", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 13, "set": "1", "prev": "Gumbo", "next": "Army of One", "nb": 1},
   {"date": "2026-04-24", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 14, "set": "2", "next": "What's Going Through Your Mind", "xprev": "Walls of the Cave", "nb": 1},
   {"date": "2026-07-15", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 10, "set": "1", "prev": "The Wedge", "in": ">", "next": "Divided Sky", "nb": 1},
-  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 19, "set": "1", "prev": "Plasma", "next": "Dirt"}
+  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 19, "set": "1", "prev": "Plasma", "next": "Dirt", "nb": 1}
  ]
 }

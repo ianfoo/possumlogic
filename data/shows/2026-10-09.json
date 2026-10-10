@@ -75,7 +75,7 @@
       "prev_date": "2026-09-04",
       "prev_venue": "Dick's Sporting Goods Park",
       "prev_place": "Commerce City, CO",
-      "out": "",
+      "out": "->",
       "plays": 40,
       "recent_plays": 36,
       "gap_median": 7.0,
@@ -189,7 +189,7 @@
       "prev_date": "2024-08-16",
       "prev_venue": "The Woodlands",
       "prev_place": "Dover, DE",
-      "out": "",
+      "out": "->",
       "plays": 21,
       "recent_plays": 15,
       "gap_median": 13,
@@ -246,7 +246,7 @@
       "prev_date": "2026-10-03",
       "prev_venue": "Jim Whelan Boardwalk Hall",
       "prev_place": "Atlantic City, NJ",
-      "out": "",
+      "out": ">",
       "plays": 446,
       "recent_plays": 84,
       "gap_median": 3.0,
@@ -354,5 +354,5 @@
   ],
   "count_since": "2026-10-10T03:09:28+00:00",
   "encored": true,
-  "provisional": true
+  "provisional": false
 }

@@ -45,6 +45,6 @@
   {"date": "2016-06-25", "venue": "Wrigley Field", "city": "Chicago", "state": "IL", "gap": 7, "set": "1", "prev": "Heavy Things", "next": "46 Days", "nb": 1},
   {"date": "2023-07-18", "venue": "Live Oak Bank Pavilion at Riverfront Park", "city": "Wilmington", "state": "NC", "gap": 250, "set": "1", "next": "Simple", "first": 1, "nb": 1},
   {"date": "2023-07-23", "venue": "St. Joseph's Health Amphitheater at Lakeview", "city": "Syracuse", "state": "NY", "gap": 3, "set": "1", "out": ">", "next": "Free", "first": 1, "nb": 1},
-  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 154, "set": "e", "out": "->", "prev": "Sleeping Monkey", "in": "->", "next": "Sleeping Monkey"}
+  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 154, "set": "e", "out": "->", "prev": "Sleeping Monkey", "in": "->", "next": "Sleeping Monkey", "nb": 1}
  ]
 }
