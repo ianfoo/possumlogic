@@ -6,7 +6,7 @@
   "state": "FL",
   "artist": "Phish",
   "tour": "2026 Fall Tour",
-  "notes": "<p>Reba did not contain the whistling ending. Mike teased the Reba whistling ending in the second Tweezer. Chalk Dust Torture featured Trey on mini drum kit. Trey teased the theme from <i>The Twilight Zone</i> in Crosseyed. Your Pet Cat was last performed <a class=\"show-date-link\" href=\"https://phish.net/setlists/phish-august-16-2024-the-woodlands-dover-de-usa.html\" data-showdate=\"2024-08-16\">August 16, 2024</a> (100 shows).</p>",
+  "notes": "<p>Reba did not contain the whistling ending. Mike teased the Reba whistling ending in the second Tweezer. Chalk Dust Torture featured Trey on mini drum kit. Trey teased the theme from <i>The Twilight Zone</i> in Crosseyed. Your Pet Cat was last performed <a class=\"show-date-link\" href=\"https://phish.net/setlists/phish-august-16-2024-the-woodlands-dover-de-usa.html\" data-showdate=\"2024-08-16\">August 16, 2024</a> (100 shows). Fish quoted Crosseyed in Your Pet Cat. Page teased The Dogs and Your Pet Cat in the second Crosseyed.</p>",
   "permalink": "https://phish.net/setlists/phish-october-09-2026-vystar-veterans-memorial-arena-jacksonville-fl-usa.html",
   "songs": [
     {
@@ -196,9 +196,28 @@
       "gap_high": null,
       "gap_away": null,
       "verdict": "bustout"
+    },
+    {
+      "set": "SET 2",
+      "song": "Twist",
+      "slug": "twist",
+      "gap": 24,
+      "jamchart": false,
+      "prev_date": "2026-07-08",
+      "prev_venue": "Kohl Center",
+      "prev_place": "Madison, WI",
+      "out": "",
+      "plays": 190,
+      "recent_plays": 68,
+      "gap_median": 4.0,
+      "gap_mean": 4.352941176470588,
+      "gap_low": 1.428289667915585,
+      "gap_high": 7.622129406715306,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-10T01:46:36+00:00",
+  "count_since": "2026-10-10T01:51:48+00:00",
   "encored": false,
   "provisional": true
 }
