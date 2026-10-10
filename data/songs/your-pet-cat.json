@@ -25,7 +25,7 @@
   {"date": "2019-06-19", "score": 34, "venue": "Blossom Music Center", "city": "Cuyahoga Falls", "state": "OH", "link": "https://fouldomain.com/tracks/35038"}
  ],
  "performances": [
-  {"date": "2014-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": null, "set": "2", "jamchart": true, "jam": "Debut.  Following Laura Olsher's narration and \"screaming\" sound effects, a plucky Trey leads the band into a jam that, prior to \"Tube's\" resurgence, would not have sounded out of place in a, well, \"Tube\" jam.", "note": "Debut.", "prev": "Timber", "next": "Shipwreck", "nb": 1},
+  {"date": "2014-10-31", "venue": "MGM Grand Garden Arena", "city": "Las Vegas", "state": "NV", "gap": 0, "set": "2", "jamchart": true, "jam": "Debut.  Following Laura Olsher's narration and \"screaming\" sound effects, a plucky Trey leads the band into a jam that, prior to \"Tube's\" resurgence, would not have sounded out of place in a, well, \"Tube\" jam.", "note": "Debut.", "prev": "Timber", "next": "Shipwreck", "nb": 1},
   {"date": "2015-08-15", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 24, "set": "1", "out": ">", "prev": "Big Black Furry Creature from Mars", "in": ">", "next": "Big Black Furry Creature from Mars", "nb": 1},
   {"date": "2015-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 7, "set": "e", "note": "Contained Harpua narration from Mike about eating Poster Nutbag.", "out": ">", "prev": "Keyboard Army", "in": ">", "next": "Once in a Lifetime", "nb": 1},
   {"date": "2016-01-02", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 4, "set": "1", "next": "AC/DC Bag", "first": 1, "nb": 1},
