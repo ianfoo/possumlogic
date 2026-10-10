@@ -121,9 +121,28 @@
       "gap_high": 41.14256615736352,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "Chalk Dust Torture",
+      "slug": "chalk-dust-torture",
+      "gap": 3,
+      "jamchart": false,
+      "prev_date": "2026-10-03",
+      "prev_venue": "Jim Whelan Boardwalk Hall",
+      "prev_place": "Atlantic City, NJ",
+      "out": "",
+      "plays": 531,
+      "recent_plays": 83,
+      "gap_median": 3,
+      "gap_mean": 3.6265060240963853,
+      "gap_low": 1.7922528734389913,
+      "gap_high": 5.511109108963299,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-10T00:34:09+00:00",
+  "count_since": "2026-10-10T00:39:22+00:00",
   "encored": false,
   "provisional": true
 }
