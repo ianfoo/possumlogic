@@ -215,9 +215,28 @@
       "gap_high": 7.622129406715306,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 2",
+      "song": "Waves",
+      "slug": "waves",
+      "gap": 29,
+      "jamchart": false,
+      "prev_date": "2026-04-25",
+      "prev_venue": "Sphere",
+      "prev_place": "Las Vegas, NV",
+      "out": "",
+      "plays": 58,
+      "recent_plays": 20,
+      "gap_median": 13.0,
+      "gap_mean": 17.2,
+      "gap_low": 6.031670353292523,
+      "gap_high": 28.428553793789526,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-10T01:51:48+00:00",
+  "count_since": "2026-10-10T02:02:11+00:00",
   "encored": false,
   "provisional": true
 }
