@@ -6,7 +6,7 @@
   "state": "FL",
   "artist": "Phish",
   "tour": "2026 Fall Tour",
-  "notes": "<p>Reba did not contain the whistling ending. Mike teased the Reba whistling ending in Tweezer.</p>",
+  "notes": "<p>Reba did not contain the whistling ending. Mike teased the Reba whistling ending in the second Tweezer.</p>",
   "permalink": "https://phish.net/setlists/phish-october-09-2026-vystar-veterans-memorial-arena-jacksonville-fl-usa.html",
   "songs": [
     {
@@ -83,9 +83,28 @@
       "gap_high": null,
       "gap_away": null,
       "verdict": null
+    },
+    {
+      "set": "SET 1",
+      "song": "Pebbles and Marbles",
+      "slug": "pebbles-and-marbles",
+      "gap": 19,
+      "jamchart": false,
+      "prev_date": "2026-07-15",
+      "prev_venue": "Enmarket Arena",
+      "prev_place": "Savannah, GA",
+      "out": "",
+      "plays": 36,
+      "recent_plays": 17,
+      "gap_median": 14,
+      "gap_mean": 25.11764705882353,
+      "gap_low": 7.113865607631855,
+      "gap_high": 41.58994880524828,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-10T00:13:24+00:00",
+  "count_since": "2026-10-10T00:28:57+00:00",
   "encored": false,
   "provisional": true
 }
