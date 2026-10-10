@@ -443,6 +443,6 @@
   {"date": "2026-07-08", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 3, "set": "1", "prev": "The Moma Dance", "in": ">", "next": "Cities", "nb": 1},
   {"date": "2026-07-18", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 6, "set": "1", "prev": "Shade", "xnext": "Life Saving Gun", "nb": 1},
   {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 2, "set": "1", "prev": "Glide", "next": "Foam", "nb": 1},
-  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 14, "set": "1", "prev": "Tweezer", "in": ">", "next": "Reba"}
+  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 14, "set": "1", "prev": "Tweezer", "in": ">", "next": "Reba", "nb": 1}
  ]
 }

@@ -221,6 +221,6 @@
   {"date": "2025-12-30", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "2", "prev": "Crosseyed and Painless", "in": "->", "next": "Cavern", "nb": 1},
   {"date": "2026-04-18", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 7, "set": "2", "prev": "Waste", "next": "Run Like an Antelope", "nb": 1},
   {"date": "2026-07-08", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 7, "set": "2", "prev": "Prince Caspian", "in": "->", "next": "No Men In No Man's Land", "nb": 1},
-  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 24, "set": "2", "prev": "Crosseyed and Painless", "in": ">", "next": "Waves"}
+  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 24, "set": "2", "prev": "Crosseyed and Painless", "in": ">", "next": "Waves", "nb": 1}
  ]
 }

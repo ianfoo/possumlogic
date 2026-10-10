@@ -88,6 +88,6 @@
   {"date": "2024-08-10", "venue": "Bethel Woods Center for the Arts", "city": "Bethel", "state": "NY", "gap": 30, "set": "2", "out": ">", "prev": "Down with Disease", "in": "->", "next": "Twist", "nb": 1},
   {"date": "2026-01-28", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 63, "set": "2", "out": ">", "next": "Fuego", "xprev": "Chalk Dust Torture", "nb": 1},
   {"date": "2026-04-25", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 8, "set": "2", "out": ">", "prev": "Mercury", "in": ">", "next": "About to Run", "nb": 1},
-  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 29, "set": "2", "prev": "Twist", "in": ">", "next": "Tweezer"}
+  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 29, "set": "2", "prev": "Twist", "in": ">", "next": "Tweezer", "nb": 1}
  ]
 }
