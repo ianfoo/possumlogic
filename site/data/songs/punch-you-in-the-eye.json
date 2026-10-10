@@ -203,6 +203,6 @@
   {"date": "2026-04-30", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 13, "set": "1", "jamchart": true, "jam": "2026 picks up where \u201825 left off in regards to the extended intro section of this classic rocker. The band remains committed to \u2018punching up\u2019 the play here with synth effects as well as some additional clean leads from Trey to guide the affair into the song proper. The \u201cLandlady\u201d section still sadly suffers from some minor pacing and performance issues.", "prev": "Dirt", "next": "Golgi Apparatus", "nb": 1},
   {"date": "2026-07-11", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 5, "set": "1", "out": ">", "prev": "AC/DC Bag", "next": "Theme from the Bottom", "nb": 1},
   {"date": "2026-07-25", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 9, "set": "1", "out": ">", "prev": "Rift", "next": "Wolfman's Brother", "nb": 1},
-  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 12, "set": "2", "xprev": "Chalk Dust Torture"}
+  {"date": "2026-10-09", "venue": "VyStar Veterans Memorial Arena", "city": "Jacksonville", "state": "FL", "gap": 12, "set": "2", "xprev": "Chalk Dust Torture", "next": "Crosseyed and Painless"}
  ]
 }
