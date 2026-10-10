@@ -159,9 +159,28 @@
       "gap_high": 23.2813094947749,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Crosseyed and Painless",
+      "slug": "crosseyed-and-painless",
+      "gap": 10,
+      "jamchart": false,
+      "prev_date": "2026-07-29",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 74,
+      "recent_plays": 34,
+      "gap_median": 8.0,
+      "gap_mean": 10.088235294117647,
+      "gap_low": 4.289820707355034,
+      "gap_high": 16.18755479773254,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-10T01:20:41+00:00",
+  "count_since": "2026-10-10T01:31:03+00:00",
   "encored": false,
   "provisional": true
 }
