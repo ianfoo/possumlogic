@@ -6,7 +6,7 @@
   "state": "FL",
   "artist": "Phish",
   "tour": "2026 Fall Tour",
-  "notes": "<p>Reba did not contain the whistling ending. Your Pet Cat was last performed <a class=\"show-date-link\" href=\"https://phish.net/setlists/phish-august-16-2024-the-woodlands-dover-de-usa.html\" data-showdate=\"2024-08-16\">August 16, 2024</a> (100 shows). Happy Birthday to You was last performed <a class=\"show-date-link\" href=\"https://phish.net/setlists/phish-july-23-2023-st-josephs-health-amphitheater-at-lakeview-syracuse-ny-usa.html\" data-showdate=\"2023-07-23\">July 23, 2023</a> (155 shows). Mike teased the Reba whistling ending in Tweezer<sub>2</sub>. Trey teased the theme from <i>The Twilight Zone</i> in Crosseyed<sub>1</sub>. Fish quoted Crosseyed in Your Pet Cat. Page teased The Dogs and Your Pet Cat in Crosseyed<sub>2</sub>. Carini contained a Crosseyed tease from Trey (with lyrics from the band.) Chalk Dust Torture and Tweezer<sub>4</sub> featured Trey on mini drum kit.&nbsp;</p>",
+  "notes": "<p>Reba did not contain the whistling ending. Your Pet Cat was last performed <a class=\"show-date-link\" href=\"https://phish.net/setlists/phish-august-16-2024-the-woodlands-dover-de-usa.html\" data-showdate=\"2024-08-16\">August 16, 2024</a> (100 shows). Happy Birthday to You was last performed <a class=\"show-date-link\" href=\"https://phish.net/setlists/phish-july-23-2023-st-josephs-health-amphitheater-at-lakeview-syracuse-ny-usa.html\" data-showdate=\"2023-07-23\">July 23, 2023</a> (155 shows). Mike teased the Reba whistling ending in the second Tweezer. Trey teased the theme from <i>The Twilight Zone</i> in Crosseyed. Fish quoted Crosseyed in Your Pet Cat. Page teased The Dogs and Your Pet Cat in the second Crosseyed. Carini contained a Crosseyed tease from Trey (with lyrics from the band.) Chalk Dust Torture and the fourth Tweezer featured Trey on mini drum kit.&nbsp;</p>",
   "permalink": "https://phish.net/setlists/phish-october-09-2026-vystar-veterans-memorial-arena-jacksonville-fl-usa.html",
   "songs": [
     {
@@ -327,9 +327,28 @@
       "gap_high": 5.589649248487978,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "ENCORE",
+      "song": "Tweezer Reprise",
+      "slug": "tweezer-reprise",
+      "gap": 3,
+      "jamchart": false,
+      "prev_date": "2026-10-03",
+      "prev_venue": "Jim Whelan Boardwalk Hall",
+      "prev_place": "Atlantic City, NJ",
+      "out": "",
+      "plays": 335,
+      "recent_plays": 69,
+      "gap_median": 4,
+      "gap_mean": 4.594202898550725,
+      "gap_low": 1.8969659124873388,
+      "gap_high": 7.503022509781617,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-10T02:59:07+00:00",
+  "count_since": "2026-10-10T03:09:28+00:00",
   "encored": true,
   "provisional": true
 }
