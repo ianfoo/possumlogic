@@ -46,9 +46,28 @@
       "gap_high": 6.4581360830855825,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "Maze",
+      "slug": "maze",
+      "gap": 14,
+      "jamchart": false,
+      "prev_date": "2026-07-24",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 350,
+      "recent_plays": 50,
+      "gap_median": 6.0,
+      "gap_mean": 6.5,
+      "gap_low": 3.2566765533032838,
+      "gap_high": 9.936881482243479,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-12T00:39:34+00:00",
+  "count_since": "2026-10-12T01:00:09+00:00",
   "encored": false,
   "provisional": true
 }
