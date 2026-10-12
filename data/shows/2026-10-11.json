@@ -195,9 +195,28 @@
       "gap_high": 23.94176852155028,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 2",
+      "song": "Possum",
+      "slug": "possum",
+      "gap": 2,
+      "jamchart": false,
+      "prev_date": "2026-10-06",
+      "prev_venue": "Allianz Amphitheater at Riverfront",
+      "prev_place": "Richmond, VA",
+      "out": "",
+      "plays": 585,
+      "recent_plays": 74,
+      "gap_median": 4.0,
+      "gap_mean": 4.256756756756757,
+      "gap_low": 1.6047420646401065,
+      "gap_high": 7.219221179715236,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-12T03:18:49+00:00",
+  "count_since": "2026-10-12T03:34:17+00:00",
   "encored": false,
   "provisional": true
 }
