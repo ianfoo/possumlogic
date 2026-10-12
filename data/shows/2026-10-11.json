@@ -309,9 +309,28 @@
       "gap_high": 14.512317905113736,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "ENCORE",
+      "song": "Slave to the Traffic Light",
+      "slug": "slave-to-the-traffic-light",
+      "gap": 5,
+      "jamchart": false,
+      "prev_date": "2026-10-02",
+      "prev_venue": "Jim Whelan Boardwalk Hall",
+      "prev_place": "Atlantic City, NJ",
+      "out": "",
+      "plays": 301,
+      "recent_plays": 71,
+      "gap_median": 4,
+      "gap_mean": 4.408450704225352,
+      "gap_low": 1.9267494915827803,
+      "gap_high": 7.015466850442579,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-12T04:20:42+00:00",
+  "count_since": "2026-10-12T04:31:01+00:00",
   "encored": true,
   "provisional": true
 }
