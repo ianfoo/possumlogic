@@ -271,9 +271,28 @@
       "gap_high": 8.695005389209769,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 2",
+      "song": "Rock and Roll",
+      "slug": "rock-and-roll",
+      "gap": 20,
+      "jamchart": false,
+      "prev_date": "2026-07-15",
+      "prev_venue": "Enmarket Arena",
+      "prev_place": "Savannah, GA",
+      "out": "",
+      "plays": 99,
+      "recent_plays": 19,
+      "gap_median": 15,
+      "gap_mean": 18.42105263157895,
+      "gap_low": 8.120432804706311,
+      "gap_high": 29.113886129854063,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-12T04:05:13+00:00",
+  "count_since": "2026-10-12T04:10:24+00:00",
   "encored": false,
   "provisional": true
 }
