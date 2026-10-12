@@ -355,6 +355,6 @@
   {"date": "2026-04-16", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 7, "set": "1", "prev": "Theme from the Bottom", "next": "Scents and Subtle Sounds", "nb": 1},
   {"date": "2026-07-12", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 12, "set": "1", "prev": "Evolve", "in": "->", "next": "Bathtub Gin", "nb": 1},
   {"date": "2026-07-25", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 8, "set": "1", "prev": "Simple", "next": "Punch You in the Eye", "nb": 1},
-  {"date": "2026-10-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 13, "set": "1", "first": 1, "next": "Free", "nb": 1}
+  {"date": "2026-10-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 13, "set": "1", "nb": 1, "first": 1, "next": "Free"}
  ]
 }

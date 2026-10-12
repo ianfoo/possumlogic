@@ -108,6 +108,6 @@
   {"date": "2026-07-31", "venue": "Fenway Park", "city": "Boston", "state": "MA", "gap": 5, "set": "1", "out": "->", "prev": "Carini", "next": "Back on the Train", "nb": 1},
   {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 3, "set": "2", "prev": "Light", "in": ">", "xnext": "Waste", "nb": 1},
   {"date": "2026-10-03", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 1, "set": "1", "prev": "Sand", "next": "Back on the Train", "nb": 1},
-  {"date": "2026-10-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 4, "set": "2", "xprev": "Drift While You're Sleeping", "next": "Fuego", "nb": 1}
+  {"date": "2026-10-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 4, "set": "2", "nb": 1, "xprev": "Drift While You're Sleeping", "next": "Fuego"}
  ]
 }

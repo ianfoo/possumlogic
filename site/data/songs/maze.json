@@ -380,6 +380,6 @@
   {"date": "2026-04-23", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 15, "set": "1", "prev": "Guyute", "next": "Esther", "nb": 1},
   {"date": "2026-07-12", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 9, "set": "1", "prev": "Bathtub Gin", "next": "Mountains in the Mist", "nb": 1},
   {"date": "2026-07-24", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "1", "prev": "Lengthwise", "in": "->", "next": "Gumbo", "nb": 1},
-  {"date": "2026-10-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 14, "set": "1", "prev": "Free", "next": "Theme from the Bottom", "nb": 1}
+  {"date": "2026-10-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 14, "set": "1", "nb": 1, "prev": "Free", "next": "Theme from the Bottom"}
  ]
 }
