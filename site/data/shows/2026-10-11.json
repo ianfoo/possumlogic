@@ -176,9 +176,28 @@
       "gap_high": 8.455547490410886,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Twenty Years Later",
+      "slug": "twenty-years-later",
+      "gap": 35,
+      "jamchart": false,
+      "prev_date": "2026-04-16",
+      "prev_venue": "Sphere",
+      "prev_place": "Las Vegas, NV",
+      "out": "",
+      "plays": 50,
+      "recent_plays": 25,
+      "gap_median": 11,
+      "gap_mean": 13.64,
+      "gap_low": 4.241625091889745,
+      "gap_high": 23.94176852155028,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-12T02:53:09+00:00",
+  "count_since": "2026-10-12T03:18:49+00:00",
   "encored": false,
   "provisional": true
 }
