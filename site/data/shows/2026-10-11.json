@@ -27,9 +27,28 @@
       "gap_high": 13.87139768365817,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 1",
+      "song": "Free",
+      "slug": "free",
+      "gap": 2,
+      "jamchart": false,
+      "prev_date": "2026-10-06",
+      "prev_venue": "Allianz Amphitheater at Riverfront",
+      "prev_place": "Richmond, VA",
+      "out": "",
+      "plays": 245,
+      "recent_plays": 79,
+      "gap_median": 4,
+      "gap_mean": 3.9367088607594938,
+      "gap_low": 1.6019101946689864,
+      "gap_high": 6.4581360830855825,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-12T00:29:15+00:00",
+  "count_since": "2026-10-12T00:39:34+00:00",
   "encored": false,
   "provisional": true
 }
