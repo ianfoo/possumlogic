@@ -102,9 +102,27 @@
       "gap_high": null,
       "gap_away": null,
       "verdict": null
+    },
+    {
+      "set": "SET 1",
+      "song": "Ether Edge",
+      "slug": "ether-edge",
+      "gap": 19,
+      "jamchart": false,
+      "prev_date": "2026-07-18",
+      "prev_venue": "Merriweather Post Pavilion",
+      "prev_place": "Columbia, MD",
+      "plays": null,
+      "recent_plays": 0,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": null
     }
   ],
-  "count_since": "2026-10-12T01:20:45+00:00",
+  "count_since": "2026-10-12T01:36:10+00:00",
   "encored": false,
   "provisional": true
 }

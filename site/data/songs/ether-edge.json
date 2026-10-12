@@ -19,7 +19,7 @@
   {"date": "2025-07-16", "score": 37, "venue": "TD Pavilion at the Mann", "city": "Philadelphia", "state": "PA", "link": "https://fouldomain.com/tracks/39638"}
  ],
  "performances": [
-  {"date": "2023-07-12", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": null, "set": "2", "note": "Phish debut.", "prev": "Piper", "in": ">", "next": "Mercury", "nb": 1},
+  {"date": "2023-07-12", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 0, "set": "2", "note": "Phish debut.", "prev": "Piper", "in": ">", "next": "Mercury", "nb": 1},
   {"date": "2023-09-02", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 22, "set": "2", "out": "->", "prev": "Chalk Dust Torture", "in": ">", "next": "46 Days", "nb": 1},
   {"date": "2023-10-07", "venue": "Bridgestone Arena", "city": "Nashville", "state": "TN", "gap": 3, "set": "1", "prev": "Stash", "next": "About to Run", "nb": 1},
   {"date": "2023-12-31", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 10, "set": "1", "out": ">", "prev": "Tube", "next": "Reba", "nb": 1},
