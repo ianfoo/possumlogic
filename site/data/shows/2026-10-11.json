@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-11",
+  "venue": "Orion Amphitheater, Huntsville, AL",
+  "venue_name": "Orion Amphitheater",
+  "city": "Huntsville",
+  "state": "AL",
+  "artist": "Phish",
+  "tour": "2026 Fall Tour",
+  "notes": "",
+  "permalink": "https://phish.net/setlists/phish-october-11-2026-orion-amphitheater-huntsville-al-usa.html",
+  "songs": [
+    {
+      "set": "SET 1",
+      "song": "Rift",
+      "slug": "rift",
+      "gap": 13,
+      "jamchart": false,
+      "prev_date": "2026-07-25",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 322,
+      "recent_plays": 41,
+      "gap_median": 7,
+      "gap_mean": 8.414634146341463,
+      "gap_low": 3.174468413406494,
+      "gap_high": 13.87139768365817,
+      "gap_away": null,
+      "verdict": "expected"
+    }
+  ],
+  "count_since": "2026-10-12T00:29:15+00:00",
+  "encored": false,
+  "provisional": true
+}
