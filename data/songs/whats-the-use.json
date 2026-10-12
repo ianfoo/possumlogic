@@ -105,6 +105,6 @@
   {"date": "2025-09-14", "venue": "Coca-Cola Amphitheater", "city": "Birmingham", "state": "AL", "gap": 5, "set": "2", "out": ">", "prev": "Golden Age", "in": ">", "next": "Good Times Bad Times", "nb": 1},
   {"date": "2026-04-24", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 17, "set": "2", "prev": "Life Saving Gun", "next": "Vultures", "nb": 1},
   {"date": "2026-07-21", "venue": "Empower Federal Credit Union Amphitheater at Lakeview", "city": "Syracuse", "state": "NY", "gap": 14, "set": "2", "out": ">", "prev": "Everything's Right", "in": ">", "next": "Light", "nb": 1},
-  {"date": "2026-10-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 16, "set": "2", "out": ">", "prev": "Possum", "next": "Piper"}
+  {"date": "2026-10-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 16, "set": "2", "out": ">", "prev": "Possum", "next": "Piper", "nb": 1}
  ]
 }

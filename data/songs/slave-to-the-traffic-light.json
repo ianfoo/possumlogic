@@ -330,6 +330,6 @@
   {"date": "2026-07-07", "venue": "Kohl Center", "city": "Madison", "state": "WI", "gap": 4, "set": "e", "next": "Say It To Me S.A.N.T.O.S.", "xprev": "Suzy Greenberg", "nb": 1},
   {"date": "2026-07-24", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 11, "set": "2", "prev": "Sparks", "in": ">", "next": "The Wedge", "nb": 1},
   {"date": "2026-10-02", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 8, "set": "1", "prev": "A Wave of Hope", "next": "Pillow Jets", "nb": 1},
-  {"date": "2026-10-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 5, "set": "e", "prev": "About to Run"}
+  {"date": "2026-10-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 5, "set": "e", "prev": "About to Run", "last": 1, "nb": 1}
  ]
 }
