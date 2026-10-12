@@ -252,9 +252,28 @@
       "gap_high": 8.716137779240833,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 2",
+      "song": "A Life Beyond The Dream",
+      "slug": "a-life-beyond-the-dream",
+      "gap": 10,
+      "jamchart": false,
+      "prev_date": "2026-07-31",
+      "prev_venue": "Fenway Park",
+      "prev_place": "Boston, MA",
+      "out": "",
+      "plays": 46,
+      "recent_plays": 45,
+      "gap_median": 5.0,
+      "gap_mean": 5.4772727272727275,
+      "gap_low": 2.4200812433648635,
+      "gap_high": 8.695005389209769,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-12T03:49:47+00:00",
+  "count_since": "2026-10-12T04:05:13+00:00",
   "encored": false,
   "provisional": true
 }
