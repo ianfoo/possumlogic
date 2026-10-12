@@ -233,6 +233,6 @@
   {"date": "2026-04-16", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 7, "set": "1", "prev": "Foam", "next": "Rift", "nb": 1},
   {"date": "2026-07-11", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 11, "set": "1", "note": "Unfinished.", "out": "->", "prev": "Punch You in the Eye", "in": ">", "next": "Timber (Jerry the Mule)", "nb": 1},
   {"date": "2026-07-27", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 10, "set": "1", "prev": "Scent of a Mule", "next": "Halley's Comet", "nb": 1},
-  {"date": "2026-10-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 12, "set": "1", "prev": "Maze", "next": "Sand", "nb": 1}
+  {"date": "2026-10-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 12, "set": "1", "nb": 1, "prev": "Maze", "next": "Sand"}
  ]
 }
