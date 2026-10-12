@@ -224,7 +224,7 @@
       "prev_date": "2026-07-21",
       "prev_venue": "Empower Federal Credit Union Amphitheater at Lakeview",
       "prev_place": "Syracuse, NY",
-      "out": "",
+      "out": ">",
       "plays": 75,
       "recent_plays": 46,
       "gap_median": 6.0,
@@ -233,9 +233,28 @@
       "gap_high": 11.553683526574861,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 2",
+      "song": "Piper",
+      "slug": "piper",
+      "gap": 21,
+      "jamchart": false,
+      "prev_date": "2026-07-14",
+      "prev_venue": "Enmarket Arena",
+      "prev_place": "Savannah, GA",
+      "out": "",
+      "plays": 212,
+      "recent_plays": 56,
+      "gap_median": 5.0,
+      "gap_mean": 5.553571428571429,
+      "gap_low": 2.534896862185378,
+      "gap_high": 8.716137779240833,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-12T03:44:36+00:00",
+  "count_since": "2026-10-12T03:49:47+00:00",
   "encored": false,
   "provisional": true
 }
