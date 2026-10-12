@@ -84,9 +84,27 @@
       "gap_high": 8.964993020539701,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 1",
+      "song": "Sand",
+      "slug": "sand",
+      "gap": 5,
+      "jamchart": false,
+      "prev_date": "2026-10-03",
+      "prev_venue": "Jim Whelan Boardwalk Hall",
+      "prev_place": "Atlantic City, NJ",
+      "plays": null,
+      "recent_plays": 0,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": null
     }
   ],
-  "count_since": "2026-10-12T01:10:27+00:00",
+  "count_since": "2026-10-12T01:20:45+00:00",
   "encored": false,
   "provisional": true
 }
