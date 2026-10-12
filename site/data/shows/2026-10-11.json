@@ -65,9 +65,28 @@
       "gap_high": 9.936881482243479,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 1",
+      "song": "Theme from the Bottom",
+      "slug": "theme-from-the-bottom",
+      "gap": 12,
+      "jamchart": false,
+      "prev_date": "2026-07-27",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 202,
+      "recent_plays": 56,
+      "gap_median": 5.0,
+      "gap_mean": 5.732142857142857,
+      "gap_low": 2.3819263208250487,
+      "gap_high": 8.964993020539701,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-12T01:00:09+00:00",
+  "count_since": "2026-10-12T01:10:27+00:00",
   "encored": false,
   "provisional": true
 }
