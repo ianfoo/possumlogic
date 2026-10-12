@@ -128,6 +128,6 @@
   {"date": "2025-09-19", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 6, "set": "2", "prev": "Waste", "in": ">", "xnext": "Prince Caspian", "nb": 1},
   {"date": "2026-05-01", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 17, "set": "e", "prev": "Saw It Again", "last": 1, "nb": 1},
   {"date": "2026-07-15", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 7, "set": "e", "xprev": "Ghost", "last": 1, "nb": 1},
-  {"date": "2026-10-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 20, "set": "2", "prev": "A Life Beyond The Dream"}
+  {"date": "2026-10-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 20, "set": "2", "prev": "A Life Beyond The Dream", "xnext": "About to Run"}
  ]
 }

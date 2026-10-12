@@ -290,9 +290,28 @@
       "gap_high": 29.113886129854063,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "ENCORE",
+      "song": "About to Run",
+      "slug": "about-to-run",
+      "gap": 21,
+      "jamchart": false,
+      "prev_date": "2026-07-14",
+      "prev_venue": "Enmarket Arena",
+      "prev_place": "Savannah, GA",
+      "out": "",
+      "plays": 31,
+      "recent_plays": 30,
+      "gap_median": 8,
+      "gap_mean": 8.586206896551724,
+      "gap_low": 3.072244838809538,
+      "gap_high": 14.512317905113736,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-12T04:10:24+00:00",
-  "encored": false,
+  "count_since": "2026-10-12T04:20:42+00:00",
+  "encored": true,
   "provisional": true
 }
