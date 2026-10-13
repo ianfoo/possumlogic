@@ -349,9 +349,28 @@
       "gap_high": null,
       "gap_away": null,
       "verdict": null
+    },
+    {
+      "set": "ENCORE",
+      "song": "Backwards Down the Number Line",
+      "slug": "backwards-down-the-number-line",
+      "gap": 2,
+      "jamchart": false,
+      "prev_date": "2026-10-07",
+      "prev_venue": "Allianz Amphitheater at Riverfront",
+      "prev_place": "Richmond, VA",
+      "out": "",
+      "plays": 154,
+      "recent_plays": 55,
+      "gap_median": 5,
+      "gap_mean": 6.109090909090909,
+      "gap_low": 2.8819799187289195,
+      "gap_high": 9.503760043710805,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
-  "count_since": "2026-10-13T03:50:35+00:00",
+  "count_since": "2026-10-13T03:55:47+00:00",
   "encored": true,
   "provisional": true
 }
