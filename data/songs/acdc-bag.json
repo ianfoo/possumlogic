@@ -374,6 +374,6 @@
   {"date": "2026-04-18", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 9, "set": "1", "prev": "Buried Alive", "next": "Reba", "nb": 1},
   {"date": "2026-07-11", "venue": "Ruoff Music Center", "city": "Noblesville", "state": "IN", "gap": 9, "set": "1", "next": "Punch You in the Eye", "first": 1, "nb": 1},
   {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 7, "set": "1", "out": ">", "prev": "Sparkle", "next": "Reba", "nb": 1},
-  {"date": "2026-10-12", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 16, "set": "1", "out": ">", "prev": "Weekapaug Groove", "next": "Wolfman's Brother"}
+  {"date": "2026-10-12", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 16, "set": "1", "out": ">", "prev": "Weekapaug Groove", "next": "Wolfman's Brother", "nb": 1}
  ]
 }
