@@ -262,6 +262,6 @@
   {"date": "2024-07-26", "venue": "Alpine Valley Music Theatre", "city": "East Troy", "state": "WI", "gap": 37, "set": "2", "prev": "Silent in the Morning", "xnext": "Contact", "nb": 1},
   {"date": "2025-09-14", "venue": "Coca-Cola Amphitheater", "city": "Birmingham", "state": "AL", "gap": 64, "set": "2", "prev": "What's the Use?", "in": ">", "xnext": "Fee", "nb": 1},
   {"date": "2026-07-24", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 34, "set": "2", "prev": "Golgi Apparatus", "in": ">", "xnext": "Sweet Adeline", "nb": 1},
-  {"date": "2026-10-12", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 15, "set": "2", "prev": "Scents and Subtle Sounds", "in": ">", "next": "Taste", "nb": 1}
+  {"date": "2026-10-12", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 15, "set": "2", "nb": 1, "prev": "Scents and Subtle Sounds", "in": ">", "next": "Taste"}
  ]
 }
