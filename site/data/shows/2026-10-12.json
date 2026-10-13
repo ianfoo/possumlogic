@@ -274,9 +274,28 @@
       "gap_high": 48.33812605363544,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Taste",
+      "slug": "taste",
+      "gap": 7,
+      "jamchart": false,
+      "prev_date": "2026-09-06",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "out": "",
+      "plays": 157,
+      "recent_plays": 29,
+      "gap_median": 8,
+      "gap_mean": 12.758620689655173,
+      "gap_low": 3.868639459972006,
+      "gap_high": 21.47386586279494,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-13T03:19:29+00:00",
+  "count_since": "2026-10-13T03:24:41+00:00",
   "encored": false,
   "provisional": true
 }
