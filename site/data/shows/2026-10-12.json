@@ -236,9 +236,28 @@
       "gap_high": 59.010354211809336,
       "gap_away": null,
       "verdict": "premature"
+    },
+    {
+      "set": "SET 2",
+      "song": "Scents and Subtle Sounds",
+      "slug": "scents-and-subtle-sounds",
+      "gap": 21,
+      "jamchart": false,
+      "prev_date": "2026-07-15",
+      "prev_venue": "Enmarket Arena",
+      "prev_place": "Savannah, GA",
+      "out": "",
+      "plays": 51,
+      "recent_plays": 31,
+      "gap_median": 10,
+      "gap_mean": 11.129032258064516,
+      "gap_low": 3.0063628493227643,
+      "gap_high": 21.384099649052295,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-13T03:03:55+00:00",
+  "count_since": "2026-10-13T03:09:07+00:00",
   "encored": false,
   "provisional": true
 }
