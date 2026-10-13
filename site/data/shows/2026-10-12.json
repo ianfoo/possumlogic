@@ -293,9 +293,28 @@
       "gap_high": 21.47386586279494,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "The Wedge",
+      "slug": "the-wedge",
+      "gap": 15,
+      "jamchart": false,
+      "prev_date": "2026-07-24",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 137,
+      "recent_plays": 45,
+      "gap_median": 6,
+      "gap_mean": 7.355555555555555,
+      "gap_low": 2.4344927271691055,
+      "gap_high": 12.425638706541253,
+      "gap_away": null,
+      "verdict": "overdue"
     }
   ],
-  "count_since": "2026-10-13T03:24:41+00:00",
+  "count_since": "2026-10-13T03:35:02+00:00",
   "encored": false,
   "provisional": true
 }
