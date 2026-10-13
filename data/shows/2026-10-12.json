@@ -217,9 +217,28 @@
       "gap_high": 7.360484386910375,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Big Black Furry Creature from Mars",
+      "slug": "big-black-furry-creature-from-mars",
+      "gap": 16,
+      "jamchart": false,
+      "prev_date": "2026-07-22",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 135,
+      "recent_plays": 10,
+      "gap_median": 31.0,
+      "gap_mean": 37.0,
+      "gap_low": 16.694086446969003,
+      "gap_high": 59.010354211809336,
+      "gap_away": null,
+      "verdict": "premature"
     }
   ],
-  "count_since": "2026-10-13T02:53:34+00:00",
+  "count_since": "2026-10-13T03:03:55+00:00",
   "encored": false,
   "provisional": true
 }
