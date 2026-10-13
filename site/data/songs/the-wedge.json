@@ -166,6 +166,6 @@
   {"date": "2026-04-30", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 16, "set": "1", "next": "NICU", "first": 1, "nb": 1},
   {"date": "2026-07-15", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 8, "set": "1", "note": "Unfinished.", "out": ">", "prev": "Taste", "next": "Pebbles and Marbles", "nb": 1},
   {"date": "2026-07-24", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 5, "set": "2", "out": ">", "prev": "Slave to the Traffic Light", "next": "Makisupa Policeman", "nb": 1},
-  {"date": "2026-10-12", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 15, "set": "2", "prev": "Taste"}
+  {"date": "2026-10-12", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 15, "set": "2", "prev": "Taste", "next": "Character Zero"}
  ]
 }

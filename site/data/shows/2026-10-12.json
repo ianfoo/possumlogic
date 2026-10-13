@@ -312,9 +312,28 @@
       "gap_high": 12.425638706541253,
       "gap_away": null,
       "verdict": "overdue"
+    },
+    {
+      "set": "SET 2",
+      "song": "Character Zero",
+      "slug": "character-zero",
+      "gap": 5,
+      "jamchart": false,
+      "prev_date": "2026-10-03",
+      "prev_venue": "Jim Whelan Boardwalk Hall",
+      "prev_place": "Atlantic City, NJ",
+      "out": "",
+      "plays": 270,
+      "recent_plays": 75,
+      "gap_median": 4,
+      "gap_mean": 4.12,
+      "gap_low": 1.4799539831461317,
+      "gap_high": 7.084272561503708,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-13T03:35:02+00:00",
+  "count_since": "2026-10-13T03:40:14+00:00",
   "encored": false,
   "provisional": true
 }
