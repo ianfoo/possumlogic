@@ -331,9 +331,27 @@
       "gap_high": 7.084272561503708,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "ENCORE",
+      "song": "Wading in the Velvet Sea",
+      "slug": "wading-in-the-velvet-sea",
+      "gap": 10,
+      "jamchart": false,
+      "prev_date": "2026-09-04",
+      "prev_venue": "Dick's Sporting Goods Park",
+      "prev_place": "Commerce City, CO",
+      "plays": null,
+      "recent_plays": 0,
+      "gap_median": null,
+      "gap_mean": null,
+      "gap_low": null,
+      "gap_high": null,
+      "gap_away": null,
+      "verdict": null
     }
   ],
-  "count_since": "2026-10-13T03:40:14+00:00",
-  "encored": false,
+  "count_since": "2026-10-13T03:50:35+00:00",
+  "encored": true,
   "provisional": true
 }
