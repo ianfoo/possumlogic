@@ -368,9 +368,28 @@
       "gap_high": 9.503760043710805,
       "gap_away": null,
       "verdict": "premature"
+    },
+    {
+      "set": "ENCORE",
+      "song": "Run Like an Antelope",
+      "slug": "run-like-an-antelope",
+      "gap": 3,
+      "jamchart": false,
+      "prev_date": "2026-10-06",
+      "prev_venue": "Allianz Amphitheater at Riverfront",
+      "prev_place": "Richmond, VA",
+      "out": "",
+      "plays": 498,
+      "recent_plays": 62,
+      "gap_median": 5.0,
+      "gap_mean": 5.258064516129032,
+      "gap_low": 2.626489593105603,
+      "gap_high": 7.900426864988747,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-13T03:55:47+00:00",
+  "count_since": "2026-10-13T04:01:00+00:00",
   "encored": true,
   "provisional": true
 }
