@@ -255,9 +255,28 @@
       "gap_high": 21.384099649052295,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Good Times Bad Times",
+      "slug": "good-times-bad-times",
+      "gap": 15,
+      "jamchart": false,
+      "prev_date": "2026-07-24",
+      "prev_venue": "Madison Square Garden",
+      "prev_place": "New York, NY",
+      "out": "",
+      "plays": 233,
+      "recent_plays": 14,
+      "gap_median": 25.5,
+      "gap_mean": 26.5,
+      "gap_low": 7.418440564253334,
+      "gap_high": 48.33812605363544,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-13T03:09:07+00:00",
+  "count_since": "2026-10-13T03:19:29+00:00",
   "encored": false,
   "provisional": true
 }
