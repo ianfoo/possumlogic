@@ -6,7 +6,7 @@
   "state": "AL",
   "artist": "Phish",
   "tour": "2026 Fall Tour",
-  "notes": "<p>This was the rescheduled date from the show that had been postponed due to <span>expected severe weather</span> from Hurricane Isaias in Alabama on <a class=\"show-date-link\" href=\"https://phish.net/setlists/phish-october-10-2026-orion-amphitheater-huntsville-al-usa.html\" data-showdate=\"2026-10-10\">October 10, 2026</a>. Trey and Mike teased Nellie Kane in Weekapaug Groove. Wolfman's Brother and Blaze On featured Trey on mini drum kit. My Friend, My Friend did not contain the \"Myfe\" ending.</p>",
+  "notes": "<p>This was the rescheduled date from the show that had been postponed due to <span>expected severe weather</span> from Hurricane Isaias in Alabama on <a class=\"show-date-link\" href=\"https://phish.net/setlists/phish-october-10-2026-orion-amphitheater-huntsville-al-usa.html\" data-showdate=\"2026-10-10\">October 10, 2026</a>. Trey and Mike teased Nellie Kane in Weekapaug Groove. Mike teased Mike's Song in Blaze On. Wolfman's Brother and Blaze On featured Trey on mini drum kit. My Friend, My Friend did not contain the \"Myfe\" ending.&nbsp;</p>",
   "permalink": "https://phish.net/setlists/phish-october-12-2026-orion-amphitheater-huntsville-al-usa.html",
   "songs": [
     {
@@ -198,9 +198,28 @@
       "gap_high": 5.76335650799519,
       "gap_away": null,
       "verdict": "expected"
+    },
+    {
+      "set": "SET 2",
+      "song": "Down with Disease",
+      "slug": "down-with-disease",
+      "gap": 6,
+      "jamchart": false,
+      "prev_date": "2026-10-02",
+      "prev_venue": "Jim Whelan Boardwalk Hall",
+      "prev_place": "Atlantic City, NJ",
+      "out": "",
+      "plays": 330,
+      "recent_plays": 70,
+      "gap_median": 4.0,
+      "gap_mean": 4.485714285714286,
+      "gap_low": 1.8370006712029796,
+      "gap_high": 7.360484386910375,
+      "gap_away": null,
+      "verdict": "expected"
     }
   ],
-  "count_since": "2026-10-13T02:42:58+00:00",
+  "count_since": "2026-10-13T02:53:34+00:00",
   "encored": false,
   "provisional": true
 }

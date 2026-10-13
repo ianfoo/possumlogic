@@ -131,6 +131,6 @@
   {"date": "2026-07-21", "venue": "Empower Federal Credit Union Amphitheater at Lakeview", "city": "Syracuse", "state": "NY", "gap": 7, "set": "2", "out": ">", "prev": "Also Sprach Zarathustra", "in": ">", "next": "Prince Caspian", "nb": 1},
   {"date": "2026-09-06", "venue": "Dick's Sporting Goods Park", "city": "Commerce City", "state": "CO", "gap": 9, "set": "1", "out": ">", "prev": "Roggae", "next": "Backwards Down the Number Line", "nb": 1},
   {"date": "2026-10-04", "venue": "Jim Whelan Boardwalk Hall", "city": "Atlantic City", "state": "NJ", "gap": 2, "set": "1", "prev": "Sigma Oasis", "next": "Halley's Comet", "nb": 1},
-  {"date": "2026-10-12", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 4, "set": "2", "note": "Trey on mini drum kit.", "prev": "Prince Caspian", "in": "->"}
+  {"date": "2026-10-12", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 4, "set": "2", "note": "Trey on mini drum kit.", "prev": "Prince Caspian", "in": "->", "next": "Down with Disease"}
  ]
 }
