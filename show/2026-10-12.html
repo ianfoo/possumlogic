@@ -1,0 +1,1229 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>(10) 2026-10-12 &mdash; Possum Logic</title>
+<meta property="og:type" content="article"><link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20viewBox=%270%200%2032%2032%27%3E%3Ccircle%20cx=%2716%27%20cy=%2716%27%20r=%2710.5%27%20fill=%27none%27%20stroke=%27%23c8371b%27%20stroke-width=%278%27%20stroke-dasharray=%2744%2022%27%20transform=%27rotate%28-42%2016%2016%29%27/%3E%3C/svg%3E"><meta name="theme-color" content="#c8371b"><meta name="description" content="Orion Amphitheater, Huntsville, AL · being played now, setlist still coming in"><meta property="og:site_name" content="Possum Logic"><meta property="og:title" content="Live: 2026-10-12 &mdash; Possum Logic"><meta property="og:description" content="Orion Amphitheater, Huntsville, AL · being played now, setlist still coming in"><meta property="og:url" content="https://possumlogic.com/show/2026-10-12.html"><meta property="og:image" content="https://possumlogic.com/card/2026-10-12.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="Orion Amphitheater, Huntsville, AL · being played now, setlist still coming in"><meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Literata:opsz,wght@7..72,400..500&display=swap" rel="stylesheet">
+<link rel="preload" href="../static/font/Bagnard.otf" as="font" type="font/otf" crossorigin>
+<link href="../static/site.css" rel="stylesheet">
+<style>:root{color-scheme:light dark;--paper:#f2ece0;--ink:#17150f;--ink-soft:#413c31;--rule:#c9bfa9;--rule-soft:rgba(201,191,169,.45);--hot:#c8371b;--cool:#4f6046;--dim:#6b6456;--hot-text:#a92e14;--track:rgba(23,21,15,.085);--band:#7d7360;--band-opacity:.85;--hover:rgba(200,55,27,.055);--edge:#8d8676;--grain:url(grain-light.png);}
+:root[data-theme="light"]{color-scheme:only light}
+:root[data-theme="dark"]{color-scheme:only dark}
+@media screen and (prefers-color-scheme:dark){
+:root:not([data-theme="light"]){--paper:#131210;--ink:#ece5d5;--ink-soft:#c4bcaa;--rule:#413a30;--rule-soft:rgba(236,229,213,.13);--hot:#ff6b45;--cool:#93b184;--dim:#9b9384;--hot-text:#ff6b45;--track:rgba(236,229,213,.1);--band:#a89c85;--band-opacity:.58;--hover:rgba(255,107,69,.07);--edge:#6b5f4f;--grain:url(grain-dark.png);}
+:root:not([data-theme="light"]) .badge img.flip{filter:invert(1)}
+:root:not([data-theme="light"]) .ext.i-pin::after{filter:invert(1)}
+}
+@media screen{
+:root[data-theme="dark"]{--paper:#131210;--ink:#ece5d5;--ink-soft:#c4bcaa;--rule:#413a30;--rule-soft:rgba(236,229,213,.13);--hot:#ff6b45;--cool:#93b184;--dim:#9b9384;--hot-text:#ff6b45;--track:rgba(236,229,213,.1);--band:#a89c85;--band-opacity:.58;--hover:rgba(255,107,69,.07);--edge:#6b5f4f;--grain:url(grain-dark.png);}
+:root[data-theme="dark"] .badge img.flip{filter:invert(1)}
+:root[data-theme="dark"] .ext.i-pin::after{filter:invert(1)}
+}
+
+.theme{display:inline-flex;gap:.3rem;align-items:center}
+.theme button{font:inherit;font-size:.625rem;letter-spacing:.14em;
+   text-transform:uppercase;padding:.28rem .45rem;border:1px solid var(--edge);
+   background:transparent;color:var(--dim);cursor:pointer;border-radius:0}
+.theme button:hover:not(:disabled):not(.on){color:var(--ink);
+   border-color:var(--ink)}
+.theme button.on{background:var(--ink);color:var(--paper);
+   border-color:var(--ink)}
+/* The selected one is already ink-on-paper reversed, so hovering it must not
+   set the text to the color it is sitting on. It brightens its edge instead. */
+.theme button.on:hover:not(:disabled){color:var(--paper);
+   box-shadow:0 0 0 2px var(--hot)}
+.theme button:disabled{opacity:.45;cursor:default}
+.theme button:focus-visible{outline:2px solid var(--hot);outline-offset:1px}
+@media print{.theme{display:none}}
+
+/* Off-screen until it is focused, then a real control in the corner. The
+   index puts 691 rows between the search box and the footer, and a keyboard
+   arriving on any page had to walk the whole navigation first. */
+.skip{position:absolute;left:-9999px;top:0;z-index:10}
+.skip:focus{left:.5rem;top:.5rem;background:var(--paper);color:var(--ink);
+   padding:.5rem .7rem;border:2px solid var(--hot);font-size:.75rem;
+   letter-spacing:.06em;text-transform:uppercase;text-decoration:none}
+/* One focus ring for everything that takes focus, in the site's own accent.
+   The controls -- search, sort, chips -- already had this; links, rows and
+   hero cards fell through to the browser default, which is a 1px ring in
+   Chrome blue. On cream paper and on charcoal that is both off-palette and
+   thin, and rows and cards are the things a keyboard actually travels
+   between. :focus-visible, so a pointer click does not draw it. */
+a:focus-visible,button:focus-visible,select:focus-visible,input:focus-visible,
+summary:focus-visible,[tabindex]:not([tabindex="-1"]):focus-visible{
+  outline:2px solid var(--hot);outline-offset:2px}
+/* The identity line under every h1, and any link inside it. It carried no link
+   at all until the song page's debut date moved up into it on 2026-07-30, and
+   there was no rule to catch it: it rendered #9E9EFF and underlined on all 589
+   song pages, measured, while the best-version link two lines below it was
+   site ink with no underline.
+   **The fifth time a link here has shipped in the browser's default blue**,
+   and the reason it is written into BASE_CSS rather than SONG_CSS is that
+   `.show` is on every page type. Putting it in the one sheet that needs it
+   today is precisely how the other four happened. */
+.show a{color:var(--ink-soft);text-decoration:none;
+   border-bottom:1px solid var(--rule)}
+.show a:hover{color:var(--hot-text);border-bottom-color:var(--hot-text)}
+/* The skip link's landing spot takes focus so the next Tab continues from
+   the content rather than from the top of the page again -- but it is a
+   place, not a control, so it does not wear the control's ring. */
+[tabindex="-1"]:focus{outline:none}
+/* A row is a wide, short target and the ring reads better tucked against it
+   than floating two pixels off a full-width band. */
+.reports a.row:focus-visible,.vn a.row:focus-visible,.due a.row:focus-visible,
+a.card:focus-visible{outline-offset:-2px}
+*{box-sizing:border-box}
+/* The whole scale, pitched one step up from where it started.
+   Ian: "the prose text feels small even by these standards... I feel this way
+   on iPhone and on desktop." He was right, and the figures said so: body was
+   .875rem against a 16px default, so running text set at 14px and the labels
+   -- the size used more than any other on the site, 101 declarations of it --
+   set at 10px.
+   It is stated once, here, rather than as 300 edited declarations. Everything
+   on this site is already sized in rem, so lifting the root lifts all of it in
+   proportion and no two sizes can change their relationship to each other. It
+   is also relative rather than absolute: a reader who has set their browser to
+   20px gets 22.5, not 18.
+   The top of the scale is held rather than lifted -- see the h1 clamps, whose
+   rem endpoints are pulled back by exactly this factor. A wordmark at 64px was
+   never the complaint; a scale should compress at the display end and open up
+   at the reading end, and this one now does both. */
+html{font-size:112.5%}
+/* Every figure on this site sits in a column beside another figure. Tabular
+   numerals are what makes that work. This lived in the show-page sheet only,
+   so the index, songs, due, venues and every song page were setting their
+   figures in proportional digits -- the fourth rule found in one sheet of
+   three (see docs/TODO.md 8c), and invisible until somebody asked why a
+   column of numbers with decimals in it would not line up. */
+body{font-variant-numeric:tabular-nums}
+/* The keyboard overlay and the button that opens it. In the block every sheet
+   shares, because it is page furniture like the skip link above it and there
+   is no page it does not belong on -- and because stating it three times is
+   how four rules on this site came to disagree with themselves. */
+.keyhint{font:inherit;font-size:.625rem;letter-spacing:.14em;
+   text-transform:uppercase;color:var(--dim);background:none;
+   border:0;border-bottom:1px solid var(--rule);padding:0 0 .1rem;
+   cursor:pointer;display:inline-flex;align-items:baseline;gap:.35rem}
+.keyhint:hover{color:var(--hot-text);border-bottom-color:var(--hot-text)}
+/* Not on a touch device. It is a discovery aid for keys, and a phone has
+   none -- so it sat in the footer of every page offering "[ and ] to step
+   between shows" to a reader with no way to press either, and "Keys ?" is
+   doubly meaningless when there is no ? to press. The footer is a flex row
+   with gap and no separator characters, so this leaves nothing stranded
+   behind it.
+
+   The `?` handler stays bound either way: this hides a button, it does not
+   remove the feature, so an iPad with a keyboard attached -- whose *primary*
+   pointer is still coarse -- can open the same list. */
+@media (hover:none) and (pointer:coarse){.keyhint{display:none}}
+dialog.keys{border:1px solid var(--ink);background:var(--paper);
+   color:var(--ink);padding:1.2rem 1.4rem 1rem;max-width:24rem;width:calc(100% - 2rem)}
+dialog.keys::backdrop{background:rgba(0,0,0,.5)}
+dialog.keys .cap{margin:0 0 .8rem;font-size:.625rem;letter-spacing:.14em;
+   text-transform:uppercase;color:var(--ink);font-weight:600}
+dialog.keys dl{margin:0;display:grid;grid-template-columns:max-content 1fr;
+   gap:.5rem .9rem}
+/* display:contents so the two cells of a row land in the outer grid's columns
+   -- otherwise every <div> is one grid item and the keys never form a column. */
+dialog.keys dl > div{display:contents}
+dialog.keys dt{margin:0}
+dialog.keys dd{margin:0;font-size:.75rem;color:var(--ink-soft)}
+dialog.keys .none{margin:.9rem 0 0;font-size:.75rem;color:var(--dim)}
+kbd{font-family:'IBM Plex Mono',ui-monospace,monospace;font-size:.6875rem;
+   line-height:1;padding:.25rem .4rem;border:1px solid var(--edge);
+   color:var(--ink);background:var(--hover);white-space:nowrap}
+dialog.keys form{margin:1rem 0 0;text-align:right}
+dialog.keys button{font:inherit;font-size:.625rem;letter-spacing:.14em;
+   text-transform:uppercase;color:var(--dim);background:none;
+   border:1px solid var(--rule);padding:.4rem .7rem;cursor:pointer}
+dialog.keys button:hover{color:var(--hot-text);border-color:var(--hot-text)}
+@media print{.keyhint,dialog.keys{display:none}}
+h1,h2,.title{text-wrap:balance}
+body{margin:0;padding:clamp(1.4rem,4vw,3.5rem) clamp(1rem,5vw,3rem);
+     background-color:var(--paper);color:var(--ink);
+     font-family:'IBM Plex Mono',ui-monospace,SFMono-Regular,monospace;
+     font-size:.875rem;line-height:1.55}
+/* The measure in rem rather than px, so it travels with the type. Stated as
+   960px it would have held still while the scale went up a step, which quietly
+   shortens every line and tightens every column -- the same page with less room
+   in it. 60rem is the 960px this has always been, at the root above. */
+.wrap{max-width:60rem;margin:0 auto}
+/* clip, not hidden, and the difference is the whole reason this is safe:
+   overflow:hidden would make the body a scroll container and break every
+   position:sticky header on the site, where clip does not.
+
+   It is here because a hidden thing was still taking up room. The show pages'
+   hover tooltip is position:absolute and white-space:nowrap, and it is hidden
+   with visibility:hidden -- which still lays out. That was found once and fixed
+   only for phones, by dropping the tooltip below 620px; above 620px every show
+   page has been scrollable sideways ever since. Measured on the live build at
+   1280px: 1,627px of scroll width, so the page slid 347px into nothing.
+   The general shape is what earns a rule rather than a patch -- an off-screen
+   or invisible decoration extends the scrollable area exactly as a visible one
+   does, and the page it does it to looks completely normal.
+
+   On html as well as body, and that is not belt and braces. An overflow set on
+   body alone is *propagated* to the viewport, and body is then treated as
+   visible -- so `body{overflow-x:clip}` by itself clips nothing, which is
+   exactly what the first attempt at this measured: the rule shipped, the page
+   still scrolled 347px. */
+html,body{overflow-x:clip}
+/* The header is a grid so the tour, which lives in the show line where there
+   is room for it, can be lifted out to ride the breadcrumb row where there is
+   not -- see the max-width block. One element either way. */
+header{padding-bottom:.9rem}
+.crumb{display:flex;flex-wrap:wrap;align-items:baseline;
+   gap:.55rem .9rem;margin-bottom:1.1rem;
+   letter-spacing:.14em;text-transform:uppercase}
+.crumb .lists,.crumb .meta{display:flex;flex-wrap:wrap;align-items:baseline;
+   gap:.55rem .9rem}
+.crumb .lists{font-size:.75rem}
+.crumb .meta{font-size:.625rem;margin-left:auto}
+/* Transparent rather than absent, so the strip does not move by a pixel when
+   an item is hovered or when it is the page you are on. The hairline under
+   every item went with it: seven of them under seven words set at 11px read
+   as a row of fine print rather than as the way around the site, and in a nav
+   landmark the underline is not carrying any meaning a body-text link needs
+   it for. What tells you where you are is now the one item drawn in full ink
+   with a rule under it. */
+.crumb a{color:var(--ink-soft);text-decoration:none;white-space:nowrap;
+   padding-bottom:.15rem;border-bottom:2px solid transparent}
+.crumb .meta a{color:var(--dim)}
+/* --hot-text, not --hot: these are 12px and 10px, so they want the 4.5 floor
+   and --hot is 4.44 on paper. See the palette note. */
+.crumb a:hover,.crumb a:focus-visible{color:var(--hot-text);
+   border-bottom-color:var(--hot-text)}
+.crumb a.here{color:var(--ink);border-bottom-color:var(--ink);cursor:default}
+/* The site's name, not a link. It used to go where "Shows" goes, so the strip
+   offered the same destination twice under two labels. */
+.crumb .mark{color:var(--ink);border-bottom:0;cursor:default}
+/* WCAG 2.5.8 asks for 24x24 and these measured 37x19, with "Due" only 22 wide.
+   Padding is the obvious fix and the wrong one here: the border-bottom *is*
+   the affordance, and padding-bottom would push that underline away from the
+   word it underlines. So the ink stays exactly where it is and only the hit
+   area grows -- a pseudo-element centered on the label, and never narrower
+   than it is tall. It sits inside the anchor, so it is the same target. */
+.crumb a{position:relative}
+.crumb a::before{content:"";position:absolute;left:50%;top:50%;
+   transform:translate(-50%,-50%);width:100%;min-width:24px;height:24px}
+/* On a phone the strip is the whole of the navigation and 24px is the floor,
+   not the target: Apple asks 44pt, Material 48dp, and WCAG's own AAA level
+   agrees at 44. So the six destinations get 44px targets here.
+
+   Which costs a row unless the labels are made to fit one, and they were not:
+   at .75rem and .14em the six of them are 310px of ink in the 336px a 390px
+   phone leaves, so "Venues" wrapped alone onto a second row and the strip came
+   to 184px -- 22% of the screen, to say six words. Measured across the
+   settings, .6875rem at .1em is 269px and fits, and it is still a size and a
+   half up on the 11.25px this strip used to be set at. Under about 340px it
+   goes back to two rows, which is why the row gap is what it is: 44px targets
+   need 44px between their centers, and the gap is the only thing providing it.
+
+   The meta pair keeps 24px, the AA floor. They are the two least-used links on
+   the site and buying them 44px each costs another 20px of every phone screen.
+   They also drop the auto margin and take a row of their own, rather than
+   being pushed to a right edge a few characters away. */
+@media (max-width:620px){
+  .crumb{row-gap:1.5rem}
+  .crumb .lists{font-size:.6875rem;letter-spacing:.1em;gap:1.5rem .7rem}
+  .crumb .meta{margin-left:0;flex-basis:100%}
+  .crumb .lists a::before{min-width:44px;height:44px}
+}
+/* The section a page sits in, which is not the page it is. A show page
+   belongs under Shows and a song page under Songs, but neither *is* that
+   page. Ian, 2026-07-30: "Considering 'show' part of 'shows' makes sense, but
+   if we highlight it, then it makes it look like we're already there, and
+   that definitely violates some sort of guideline." It does, and the
+   guideline is aria-current: "page" is a claim that this is the document you
+   are reading, and a show page saying it about the index is simply false --
+   it would also take away the link, stranding the one route back to the list.
+
+   So there are three states and not two: nothing, the section you are in
+   (still a link, ink instead of soft ink, a rule in the edge color), and the
+   page you are on (not a link, full ink, full rule). The markup says the same
+   thing to a screen reader -- aria-current="page" for the page, plain "true"
+   for the item in the set that contains it. */
+.crumb a.sect{color:var(--ink);border-bottom-color:var(--edge)}
+.crumb a.sect:hover,.crumb a.sect:focus-visible{color:var(--hot-text);
+   border-bottom-color:var(--hot-text)}
+@media print{.crumb .meta{display:none}}
+.crumb{margin:0 0 .5rem}
+/* Two cells, not three. The middle one held an "All reports" link that the
+   section row above already provides, and once that came out it was an empty
+   grid cell on every page in the archive.
+
+   The pager is its own strip and keeps the old size and the old hairline: it
+   is two dates, not a set of destinations, and it is the one place where an
+   underline is doing work -- the labels are bare dates, which do not read as
+   links on their own the way a word like "Venues" does. */
+.crumb.pager{display:grid;grid-template-columns:1fr 1fr;align-items:baseline;
+       gap:.5rem;margin:0 0 1rem;font-size:.625rem;letter-spacing:.14em;
+       text-transform:uppercase}
+.crumb.pager a{color:var(--dim);border-bottom:1px solid var(--rule)}
+.crumb.pager a:hover{border-bottom-color:var(--hot-text)}
+.crumb .prev{grid-column:1;justify-self:start}
+.crumb .next{grid-column:2;justify-self:end}
+/* The date, not the wordmark. A report is one night, and the night's name is
+   its date -- but the page led with the site's own name at 4rem while the date sat
+   small beside a tour and an ordinal, so the one thing that identified the
+   page was the least prominent thing on it. The wordmark is already in the nav
+   above as a small mark, which is where a wordmark belongs on a page that is
+   not the front door.
+   Tabular figures because a date is eight digits: without them the 1s pull the
+   whole string crooked at this size. */
+/* Plex Mono, not the display face. A show's masthead is a date -- eight
+   digits and two hyphens -- and the display face has no GSUB table at all, so
+   font-variant-numeric here did nothing and its digits run 254 to 1151 units.
+   Because the h1 sits in the grid's auto column, that spread moved the venue
+   column by up to 45px depending on which digits the date happened to contain.
+   The mono is already loaded, already tabular, and already sets every other
+   date on the site. The display face keeps the wordmark, the song titles and
+   the method page's headings -- words, which is what it is for. */
+h1{font-family:'IBM Plex Mono',ui-monospace,monospace;font-weight:600;
+   font-size:clamp(1.5111rem,5vw,2.4444rem);line-height:1.1;margin:0 0 .25rem;
+   letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+/* The day of the week, which the index has always shown and this page never
+   did. Set against the date rather than under it: the masthead is already
+   two blocks at width, and a third line would make it three. */
+h1 .dow{font-family:'IBM Plex Mono',ui-monospace,monospace;font-weight:400;
+   font-size:.75rem;letter-spacing:.14em;text-transform:uppercase;
+   color:var(--dim);margin-left:.7rem;vertical-align:.35em;
+   white-space:nowrap}
+/* Date and tour pair up: both short, so this line cannot wrap and the one
+   separator on the page can be neither orphaned nor widowed. The venue is the
+   variable-length part, so it gets a line to wrap inside, with no separator to
+   strand at the break. */
+.show{margin:0;display:flex;flex-wrap:wrap;align-items:baseline}
+.show .date{font-family:'IBM Plex Mono',ui-monospace,monospace;font-weight:600;font-size:1.5rem;
+   line-height:1;color:var(--ink)}
+.show .tour{font-size:1rem;font-weight:600;letter-spacing:0;
+   text-transform:uppercase;color:var(--dim)}
+/* Sits with the tour, not with the date: it is context for the night rather
+   than part of naming it. Absent for 1.0, where it cannot be said honestly,
+   and for anything phish.net does not count as a show. */
+.show .nth{font-size:.75rem;font-weight:400;letter-spacing:0;color:var(--dim);
+   text-transform:none;white-space:nowrap}
+/* A dim middot, not a second hot bullet: this is an aside about the night, and
+   a second hot bullet would give it the rank of the ones naming it.
+
+   It is an element rather than a ::before on the ordinal, and that is the
+   whole point. Attached to the ordinal it printed whenever the ordinal did --
+   including on the 35 shows phish.net files as "Not Part of a Tour", where
+   there is no tour for it to separate. Watkins Glen opened its masthead with
+   "· 119th show of 3.0": a separator joining one thing to nothing. Now it is
+   emitted only when there is something on each side of it. */
+.show .sep{color:var(--dim);margin:0 .45rem;font-size:.75rem}
+/* No leading bullet: the tour used to follow the date on this line and the
+   bullet joined them. It leads now, and a separator with nothing before it is
+   just a dot. The ordinal brings its own, which is the only join left. */
+.where{margin:0 0 .45rem;font-size:1.125rem;font-weight:600;letter-spacing:0;
+   text-transform:uppercase;color:var(--ink)}
+/* The venue and the tour are links now -- to the index filtered to that room
+   or that run -- and a masthead link is drawn differently from a link in
+   prose. It keeps its own color and weight, because demoting it to --dim
+   would demote the venue in the masthead, and takes only the hairline every
+   other link on this site wears. Without this rule both came out in the
+   browser's default blue with a browser underline, which is the fifth time
+   that has happened here: a new link in a sheet with no rule for it. */
+.where .v-name a,.show .tour a{color:inherit;text-decoration:none;
+   border-bottom:1px solid var(--rule)}
+.where .v-name a:hover,.show .tour a:hover{color:var(--hot-text);
+   border-bottom-color:var(--hot-text)}
+/* Two elements, so there is no separator to strand. The locality steps back
+   rather than being joined by punctuation that has nowhere safe to break. */
+.where .v-name{display:block}
+.where .v-place{display:block;font-size:.875rem;color:var(--ink-soft)}
+/* Below the stats rather than in the masthead: the header stays a tight block
+   of identity, and the links get their own air on the first screen. */
+.links{margin:1.1rem 0 0;display:flex;flex-wrap:wrap;gap:.4rem}
+.badge{display:inline-flex;align-items:center;gap:.35rem;line-height:1;
+   padding:.32rem .52rem;border:1px solid var(--rule);color:var(--dim);
+   font-size:.625rem;letter-spacing:.14em;text-transform:uppercase;
+   text-decoration:none;white-space:nowrap}
+.badge img{display:block;width:13px;height:13px}
+.badge:hover{color:var(--ink);border-color:var(--ink-soft);
+   background:var(--hover)}
+
+/* Letterpress: a thick rule with a hairline under it. Three to a page at most
+   -- a double rule that turns up six times is wallpaper. */
+.rule2{height:5px;margin:0 0 1rem;background:linear-gradient(to bottom,
+   var(--ink) 0 3px,transparent 3px 4px,var(--ink) 4px 5px)}
+/* The tear line between one set and the next. Never between rows. */
+.perf{height:1px;margin:1.5rem 0 .6rem;background:repeating-linear-gradient(
+   to right,var(--edge) 0 5px,transparent 5px 10px)}
+.hero{display:flex;flex-wrap:wrap;margin:.7rem 0 .3rem;
+      border-bottom:1px solid var(--ink)}
+.card{flex:1 1 0;padding:.85rem 1.1rem;border-left:1px solid var(--rule);
+   display:flex;flex-direction:column}
+.card:first-child{border-left:0;padding-left:0}
+.num{font-family:'IBM Plex Mono',ui-monospace,monospace;font-weight:600;font-size:2.25rem;line-height:1;
+     letter-spacing:0;margin-top:auto;color:var(--ink)}
+.num.hot{color:var(--hot)}
+.lbl{font-size:.625rem;text-transform:uppercase;letter-spacing:.14em;
+   color:var(--dim);margin-bottom:.35rem}
+/* A tab struck in reverse, hung on a rule that runs out to the margin. Lighter
+   on the page than slab caps, and it leaves the display face one job. */
+h2{display:flex;align-items:center;gap:.6rem;margin:1.5rem 0 .3rem;padding:0;
+   border:0;font-family:'IBM Plex Mono',ui-monospace,monospace;font-weight:600;
+   font-size:.625rem;letter-spacing:.14em;text-transform:uppercase}
+h2 .tab{background:var(--ink);color:var(--paper);padding:.25rem .55rem;
+   print-color-adjust:exact;-webkit-print-color-adjust:exact}
+h2::after{content:"";flex:1;border-bottom:1px solid var(--ink)}
+table{width:100%;border-collapse:collapse;table-layout:fixed}
+/* The gap column carries the number plus the song's typical figures under it,
+   so it is wider than the number alone would need. */
+/* Song, then where it last turned up, then the bar and the figure. The row
+   leads with what it is about; the gap is an attribute of it. */
+col.c-song{width:26%}
+/* The bar takes six points off the "last performed" column. At 16% it was
+   about 80px carrying a 32px band, so two rows whose numbers separate clearly
+   put their marks two pixels apart -- a scale too short to resolve what it is
+   drawing. The date and place it comes from wrap on their own terms and lose
+   nothing by it. */
+col.c-last{width:32%}
+col.c-bar{width:22%}
+col.c-gap{width:20%}
+table.no-last col.c-song{width:36%}
+table.no-last col.c-bar{width:44%}
+th{font-size:.625rem;text-transform:uppercase;letter-spacing:.14em;
+   color:var(--dim);font-weight:500;text-align:left;padding:.45rem .6rem;
+   border-bottom:1px solid var(--rule)}
+/* The column headers ride with their own set. Each table is its own containing
+   block, so a header can only stay stuck while its own set is on screen: set
+   1's is carried back off by the bottom edge of set 1's table just as set 2's
+   arrives, and set 1's header is never left standing over set 2's rows. The
+   hand-off is the containing block doing it, not script.
+
+   Stuck on the cells rather than on <thead>: under border-collapse:collapse a
+   border belongs to the table and not to the cell, so a stuck thead can leave
+   its rule behind on the way up. The inset shadow draws it either way, and the
+   border-bottom above still does the work when nothing is stuck. */
+thead th{position:sticky;top:0;z-index:3;background:var(--paper);
+   box-shadow:inset 0 -1px 0 var(--rule)}
+/* A sticky strip at the top of the viewport is what makes an anchor land
+   underneath one. Nothing on a show page is jumped to from inside it today
+   except #main, so this costs nothing now and is here so that the first
+   anchor somebody adds is not the one that discovers the problem. */
+[id]{scroll-margin-top:2.6rem}
+@media print{thead th{position:static;box-shadow:none}}
+th.n,td.n{text-align:right;padding-right:1.1rem;white-space:nowrap}
+.gap,.song,.last .date{line-height:1.35rem}
+td{padding:.5rem .6rem;border-bottom:1px solid var(--rule-soft);
+   vertical-align:middle;line-height:1.35rem}
+.song{font-weight:600;font-size:1rem}
+/* Outlined, not filled: a bustout is the headline of a night and gets the
+   solid stamp, while this is an invitation to read something elsewhere. Inside
+   the link, so the whole title-and-chip is one target and lights up together. */
+/* The segue mark, which is a fact about the night rather than about the song:
+   "Tweezer ->" and "Tweezer" are different entries in a setlist, and the report
+   was printing them identically. Quiet, because it qualifies the title rather
+   than competing with it. */
+/* Only the two-glyph mark is tightened, and only slightly. At full monospace
+   advance -> reads as a hyphen standing beside an angle bracket rather than as
+   one mark; -.06em closes that without breaking the fixed advance the rest of
+   the column depends on. A lone > has nothing to close up, so it is left on
+   the grid. */
+.seg.tight{letter-spacing:-.06em}
+.seg{margin-left:.3rem;font-family:'IBM Plex Mono',ui-monospace,monospace;
+   font-weight:600;color:var(--dim);white-space:nowrap}
+/* One colour, not two. The border was --hot while the text was --hot-text,
+   which is invisible at rest and becomes a lighter ring around a darker fill
+   the moment the chip reverses. */
+.jc-chip{display:inline-block;margin-left:.5rem;padding:.1rem .32rem;
+   border:1px solid var(--hot-text);color:var(--hot-text);font-size:.625rem;
+   font-weight:600;letter-spacing:.14em;text-transform:uppercase;
+   line-height:1.15;vertical-align:.12em;white-space:nowrap}
+a.jc-chip{text-decoration:none}
+/* The selector this replaces was `td.song a:hover .jc-chip,a.jc-chip:hover`,
+   and the first half of that was dead: the chip is a *sibling* of the title
+   link, never a descendant of it, so that half had never matched anything.
+   What it did do was make the hover look handled, while the half that does
+   match -- a.jc-chip:hover, 0-2-1 -- lost the colour to `td.song a:hover` at
+   0-2-2 further down this sheet. The chip therefore hovered to var(--hot) on
+   var(--hot): 1.00:1, a solid red block where a word had been. Ian caught it.
+   Fixed at the other end, by excluding the chip there rather than escalating
+   here -- see the note on that rule. Same shape as .live span:not(.since-you),
+   the sticky-header hide and .backtop: a modifier class losing to a descendant
+   selector, four times now.
+
+   The fill is --ink, not the accent, and that is a hierarchy decision rather
+   than a contrast one. A red block of reversed 10px caps is the bustout's
+   costume: it is the headline of a show and is struck twice and set two
+   degrees off true to say so. This chip is a pointer to a paragraph on
+   another page. Reversing it into the same red made the two marks read at the
+   same weight one row apart -- Ian caught that too.
+
+   It was never visible before. The chip has always been specified to fill on
+   hover, and always with the accent, but the rule above it painted the text
+   the colour of the fill, so what shipped was a featureless block. Making the
+   word legible is what exposed the collision underneath it.
+
+   Ink, specifically, because the site already reverses to ink for a state
+   rather than a claim -- .yr h2 .tab and the tooltip both do. Red says
+   something about the music; ink says the pointer is under your pointer.
+   15.5:1 light, 14.9:1 dark, and it leaves the red stamp to the bustout
+   alone, which is now the only filled red thing on a report. */
+a.jc-chip:hover{background:var(--ink);border-color:var(--ink);
+   color:var(--paper);
+   print-color-adjust:exact;-webkit-print-color-adjust:exact}
+.gap{font-family:'IBM Plex Mono',ui-monospace,monospace;font-weight:600;font-size:1.5rem;line-height:1;
+     white-space:nowrap}
+.gap.big{color:var(--hot-text)}
+.gap.small{color:var(--cool)}
+/* The number carries the gap; these carry how the song usually behaves. Sized
+   into the same family as the venue text under a date, which is the smallest
+   thing on the page that is comfortably readable. */
+.typ{display:block;margin-top:.25rem;font-size:.75rem;color:var(--dim);
+   white-space:nowrap}
+.typ .abbr{display:none}
+.verdict{display:inline-block;margin-left:.5rem;vertical-align:.05em;font-size:.625rem;letter-spacing:.14em;
+   text-transform:uppercase;white-space:nowrap}
+.verdict.overdue{color:var(--hot-text)}
+/* One of the pair shows at a time. Wide: under the figure, where the median
+   it is judged against already is. Narrow: beside the title, because the
+   gap column there is 3.7rem and the word is wider than that. */
+.verdict.at-gap{display:block;margin:.1rem 0 0}
+.verdict.premature{color:var(--cool)}
+/* A bustout is the headline of a show, not a footnote to it: stamped rather
+   than merely colored. print-color-adjust keeps the fill when a browser prints
+   it; WeasyPrint keeps backgrounds anyway. */
+/* A filled edge reads tighter than text does at the same distance, so the chip
+   needs more room above it than the plain tags to sit on the same rhythm. */
+/* Struck twice -- fill, a hairline of paper, then the outline again -- and set
+   two degrees off true. The right margin buys the rotation its clearance. This
+   is the only rotated thing on the site; the moment there are two, it reads as
+   a theme rather than a stamp. */
+/* --hot-text, like every other reversed stamp on the site. The palette note
+   names this case exactly -- "the 10px chips and verdicts it is also used on"
+   -- and this one had kept the display accent anyway: paper on --hot is
+   4.44:1, and this is 10px. --hot-text lands at 5.79. Dark is unaffected; the
+   two are the same colour there. */
+.verdict.bustout{display:inline-block;margin:0 .6rem .1rem .5rem;
+   background:var(--hot-text);color:var(--paper);padding:.16rem .4rem;
+   font-size:.625rem;font-weight:600;letter-spacing:.14em;line-height:1.15;
+   box-shadow:0 0 0 1.5px var(--paper),0 0 0 3px var(--hot-text);
+   transform:rotate(-2deg);transform-origin:left center;
+   print-color-adjust:exact;-webkit-print-color-adjust:exact}
+/* Our own tooltip, because the browser's waits about a second before showing
+   and this one exists to answer "what is that bar?" while the pointer is still
+   on it. No delay, no JavaScript; hidden from print, where nothing hovers. */
+@media screen{
+  td[data-tip]{position:relative}
+  /* max-content up to a limit, then wrap. It was nowrap, which is right for
+     "9 shows; usually 5 to 13" and hopeless for the sentence a song with no
+     range bar carries: 648px of unbreakable text hung off a cell four fifths
+     of the way across the table, so on every viewport narrower than about
+     1,600px the end of the explanation was somewhere off the side of the page.
+     Two lines of tooltip is not a problem; a tooltip you have to scroll to is.
+     line-height goes back to something a second line can live in. */
+  td[data-tip]::after{content:attr(data-tip);position:absolute;left:.25rem;
+    bottom:calc(100% - .35rem);z-index:5;
+    width:max-content;max-width:min(24rem,calc(100vw - 3rem));
+    padding:.3rem .5rem;background:var(--ink);color:var(--paper);
+    font-size:.75rem;letter-spacing:0;line-height:1.35;
+    opacity:0;visibility:hidden;transition:opacity .09s ease-out}
+  td[data-tip]:hover::after,td[data-tip]:focus-visible::after{
+    opacity:1;visibility:visible}
+  /* The two right-hand columns hang their tips the other way, or they run off
+     the edge -- and now that the page clips rather than scrolling, running off
+     the edge means the words are simply gone rather than merely awkward. */
+  td.bar[data-tip]::after,td.n[data-tip]::after{left:auto;right:1.2rem}
+}
+/* Visually hidden, still announced. Not display:none and not visibility:
+   hidden -- both remove it from the accessibility tree, which is the opposite
+   of the point. The 1px-clip form is the one that survives every screen
+   reader worth supporting. */
+.sr{position:absolute;width:1px;height:1px;margin:-1px;padding:0;
+   overflow:hidden;clip:rect(0 0 0 0);clip-path:inset(50%);white-space:nowrap;
+   border:0}
+.bar{padding-right:1.2rem}
+/* A position, not a length. The track is the whole range a gap can sit in for
+   this song; the shaded middle is where it usually sits, the hairline is its
+   median, and the mark is tonight. Nothing here is scaled to the show, so a
+   bustout somewhere else on the bill cannot flatten this row. */
+.bar .track{display:block;position:relative;width:100%;height:14px}
+/* The line the mark sits on. Faint, but a real line -- without it a mark near
+   the middle had nothing to be near. */
+.bar .track::before{content:"";position:absolute;left:0;right:0;top:6px;
+   height:2px;background:var(--rule)}
+/* No band to draw, so no scale is drawn. A dash where the mark would have
+   been, at the same height as the track, says the measurement was never
+   possible -- the ghost scale that used to sit here read as a bar that had
+   failed to render, and it was the emptiest graphic on the most interesting
+   rows. `.bare` is gone with it. */
+.bar .no-range{display:block;height:14px;line-height:14px;text-align:center;
+   color:var(--dim);opacity:.65;font-size:.75rem}
+/* Where this song usually lands, as a block rather than a tint. The previous
+   version used --track, which is a 10% alpha meant for the inside of a
+   progress bar, and against paper it was not there at all. */
+.bar .band{position:absolute;left:30%;right:30%;top:3px;bottom:3px;
+   background:var(--band);opacity:var(--band-opacity);border-radius:1px}
+.bar .mid{position:absolute;left:50%;top:1px;bottom:1px;width:2px;
+   background:var(--paper);opacity:.85}
+/* Tonight. Full height and full-strength ink, with a paper halo so it reads
+   wherever it lands -- including on top of the median line. This is the one
+   thing in the row the eye is meant to find. */
+.bar .at{position:absolute;left:50%;top:0;bottom:0;width:5px;
+   transform:translateX(-50%);background:var(--ink);border-radius:1px;
+   box-shadow:0 0 0 2px var(--paper)}
+.bar .at.late{background:var(--hot)}
+.bar .at.early{background:var(--cool)}
+/* Inside its own band is the ordinary case and gets no color at all -- ink,
+   like the figures. Two thirds of rows land here, and coloring them would
+   spend the palette on "nothing to report". */
+.bar .at.usual{background:var(--ink)}
+.last{font-size:.875rem;overflow-wrap:anywhere;vertical-align:top}
+.last .date{white-space:nowrap}
+/* Named only where the column header is not doing it -- on a wide screen the
+   thead says "Last performed" and a second label would be saying it twice. The
+   gap cell's own label works the same way and for the same reason. */
+.last .cap,td.n .cap{display:none}
+/* A hero card that is also a way down the page. The index sheet has these
+   rules for cards that lead to another page; this is the same affordance for a
+   card that leads to a row of this one, which is why the mark is a down arrow
+   rather than the index's right one. A right arrow inside a setlist is a claim
+   about the music -- see the note on td.last's label. */
+a.card{text-decoration:none;color:inherit}
+a.card:hover{background:var(--hover)}
+a.card:hover .lbl,a.card:hover .lbl::after{color:var(--hot-text)}
+a.card .lbl::after{content:" \2193";color:var(--dim);white-space:nowrap}
+/* Where you landed. A jump into the middle of a forty-row setlist puts the
+   reader somewhere with nothing to say they arrived, and the row they wanted
+   looks exactly like the thirty-nine around it. The way back from here is the
+   browser's, which a fragment navigation genuinely does restore -- unlike a
+   scroll, which is why the other jump targets on this site carry a link. */
+tbody tr:target td{background:var(--hover)}
+tbody tr:target td:first-child{box-shadow:inset 3px 0 0 var(--hot)}
+/* The date links when we hold that show. Underlined rather than colored, so
+   a column of them does not turn the right-hand side of the table orange. */
+.last .date a{color:inherit;text-decoration:none;
+   border-bottom:1px solid var(--rule)}
+.last .date a:hover{color:var(--hot-text);border-bottom-color:var(--hot-text)}
+/* Stacked on wide layouts, run together on narrow ones -- see the
+   max-width block, which puts these back inline with separators. */
+.last .date,.last .venue,.last .place{display:block}
+.venue{color:var(--dim);font-size:.75rem;line-height:1.2rem}
+.rating{margin:.45rem 0 0;font-size:.625rem;letter-spacing:.14em;
+   text-transform:uppercase;color:var(--dim)}
+.rating b{font-family:'IBM Plex Mono',ui-monospace,monospace;font-weight:600;
+   font-size:1rem;color:var(--ink);letter-spacing:0;margin-left:.15rem}
+.rating span{opacity:.75}
+/* A show that is still happening. Marked, not decorated: the same field
+   language as the rest of the masthead, with the state in the bold half and
+   the detail in the quiet one. */
+.live{margin:.7rem 0 0;display:flex;flex-wrap:wrap;align-items:baseline;
+   gap:.2rem .6rem;font-size:.75rem}
+/* A state, not a label. It used to be 10px tracked caps in the hot ink --
+   character for character the same specification as every field label, every
+   table head and every badge on the page -- so the one thing worth
+   interrupting for was delivered in the site's most generic voice. */
+.live{margin:.8rem 0 0;padding:.6rem 0 .6rem .9rem;
+   border-left:4px solid var(--hot);display:block;max-width:62ch}
+.live b{display:block;font-family:'Bagnard',Georgia,serif;font-weight:400;
+   font-size:1.25rem;line-height:1.2;letter-spacing:0;text-transform:none;
+   color:var(--ink)}
+/* :not() rather than a bigger selector on .since-you. That chip is a span
+   inside .live, so this rule reached it and won on specificity -- 0-1-1 over
+   the chip's 0-1-0 -- handing it color:var(--dim) on a var(--hot) background:
+   1.12:1 in the light palette, 1.08:1 in the dark, which is text you cannot
+   read at all. It took display:block with it, so the bar also spanned the
+   column instead of hugging its own text. Beating it back with .live
+   .since-you would only move the race one round on; excluding the chip here
+   means the two rules cannot both apply. Same shape as the sticky-header hide
+   and .backtop before it: a modifier class losing to a descendant selector.
+   The chip is an <a> now and this rule can no longer reach it either way; the
+   :not() stays as the guard against the next span that lands in here. */
+.live span:not(.since-you){display:block;margin-top:.15rem;font-size:.8125rem;
+   color:var(--dim)}
+.live span b.n{display:inline;font-family:'IBM Plex Mono',ui-monospace,monospace;
+   font-weight:600;font-size:.9375rem;color:var(--ink)}
+/* Added since this reader last looked. --hot-text, not --hot: paper on --hot
+   is 4.44:1, and this is 10px uppercase, so it wants the 4.5 floor. The
+   palette already carries the darker accent for exactly this ("anything small
+   takes the darker") and it lands at 5.78:1. In the dark palette the two are
+   the same color, so this is a no-op there and stays at 6.63:1. */
+.since-you{display:inline-block;margin-top:.35rem;font-size:.625rem;
+   letter-spacing:.14em;text-transform:uppercase;color:var(--paper);
+   background:var(--hot-text);padding:.15rem .4rem}
+/* It is an anchor now -- the count doubles as the jump to the first new row.
+   text-decoration has to be said out loud: the color above already beats the
+   UA link color, so this would not have come out browser blue, but it would
+   have come out underlined, and four links on this site have shipped wearing
+   a default the author sheet never overrode. The ring is not set here either;
+   a:focus-visible in BASE_CSS already draws it in --hot. */
+a.since-you{text-decoration:none}
+a.since-you:hover{text-decoration:underline}
+tr.fresh td{background:var(--hover)}
+tr.fresh td.song{box-shadow:inset 3px 0 0 var(--hot)}
+/* Same shape as the still-coming-in notice: state in the bold half, detail in
+   the quiet one, set in the reading face because it is a sentence. */
+.aside-note{margin:.7rem 0 0;padding-left:.8rem;border-left:2px solid var(--rule);
+   max-width:62ch}
+.aside-note b{display:block;font-size:.625rem;letter-spacing:.14em;
+   text-transform:uppercase;color:var(--dim);font-weight:400}
+.aside-note span{font-family:'Literata',Georgia,serif;font-size:.9375rem;
+   line-height:1.5;font-variation-settings:'opsz' 14;color:var(--ink-soft)}
+/* The title carries the link to the song's own page; underlining every one of
+   them would stripe the table, so it colors on hover instead. */
+td.n,td.song{vertical-align:baseline}
+td.song a{color:inherit;text-decoration:none}
+/* :not(.jc-chip), because this cell holds two links and only one of them is a
+   title. This rule is 0-2-2 and the chip's own hover is 0-2-1, so without the
+   exclusion this one won and painted the chip's text the colour of its own
+   fill. Excluding it here rather than escalating there is deliberate: a bigger
+   selector on the chip would only move the race one round on. */
+td.song a:not(.jc-chip):hover{color:var(--hot-text)}
+.place{color:var(--dim);font-size:.75rem;line-height:1.2rem;white-space:nowrap}
+.none{color:var(--dim);font-style:italic}
+/* The show's own notes: the other block of real prose on the site, and set in
+   the reading face for the same reason the song pages' are. */
+.notes{margin:2.2rem 0 0;padding:1rem 1.1rem;border-left:3px solid var(--rule);
+       font-family:'Literata',Georgia,serif;font-size:.9375rem;line-height:1.5;
+       font-variation-settings:'opsz' 14;color:var(--ink-soft);max-width:68ch}
+.notes a{color:var(--hot-text)}
+footer{margin-top:2.4rem;padding-top:.9rem;border-top:1px solid var(--rule);
+   font-size:.75rem;letter-spacing:.14em;text-transform:uppercase;
+   color:var(--dim);display:flex;justify-content:space-between;
+   flex-wrap:wrap;align-items:center;gap:.4rem .9rem;padding-bottom:2.5rem}
+footer a{color:var(--dim);text-decoration:none;
+   border-bottom:1px solid var(--rule)}
+footer a:hover{color:var(--hot-text);border-bottom-color:var(--hot-text)}
+/* 24px tall, without moving the ink -- the same trick `.backtop a` uses, and
+   the same floor the nav links were held to. Measured at 19px before this: the
+   nav got tap targets when it was audited and the footer did not, so every
+   footer link on the site has been under the minimum since it was written. It
+   is safe to grow them here because the row gap is .4rem: 2.5px of new box
+   above and below against 3.2px of clearance, which the sweep over twelve page
+   types at 320/390/430/600/768/1024/1280 confirms leaves no two footer targets
+   overlapping. */
+footer a{position:relative;display:inline-block}
+footer a::before{content:"";position:absolute;left:50%;top:50%;
+   transform:translate(-50%,-50%);width:100%;min-width:24px;height:24px}
+@media screen{
+  .bar .fill{animation:grow .7s cubic-bezier(.2,.8,.3,1) both}
+  @keyframes grow{from{transform:scaleX(0);transform-origin:left}}
+  tr:hover td{background:var(--hover)}
+  /* The whole row leads to the song page on a phone, so it should look like
+     it does. Desktop keeps the title as the target -- there the pointer is
+     precise and a row-wide cursor over a table of figures reads as noise. */
+  @media (max-width:620px){
+    tbody tr:has(td.song a){cursor:pointer}
+    /* The last-performed block is its own destination once the row stacks, so
+       it gets its own edge rather than reading as more of the row above it. */
+    td.last:has(a){padding-left:.55rem;border-left:2px solid var(--rule)}
+    /* A 2px edge was the only thing saying this block goes somewhere else than
+       the rest of the row -- tap the venue expecting the song page and you get
+       the previous show instead. So the label carries a mark saying the block
+       is a way in.
+
+       The mark is a north-east arrow, and the arrow it replaces is why this
+       comment is long. It was "\2192", the same right arrow the hero cards use
+       for "this is a way in" -- which is fine on the index and wrong here,
+       because on a show page that glyph is already spoken for. A setlist uses
+       arrows to say the band ran two songs together, so a decorative one
+       sitting beside a date and a venue is not merely noise, it is a claim
+       about the music. Ian caught it. "\2197" makes no such claim: it is not
+       setlist notation, and it says "leaves this row" rather than "runs into
+       the next one". */
+    td.last:has(a) .cap::after{content:" \2197";color:var(--dim)}
+  }
+}
+/* Narrow viewports: the four-column table becomes a list of stacked rows.
+   A hidden `bar` cell used to leave the table's last column empty -- the
+   cells shifted left into the colgroup widths while the 47% `last` column
+   kept its space -- which is why the rules stopped short of the right edge.
+   Dropping table layout altogether fixes that and buys room for the venue
+   and city, which no longer have to be hidden to make the columns fit. */
+@media screen and (max-width:620px){
+  table,tbody,tr,td{display:block}
+  colgroup,thead{display:none}
+  /* Wide enough for a comma'd four-digit gap in the Georgia fallback. */
+  .typ .full{display:none}
+  .typ .abbr{display:inline}
+  /* minmax(0,1fr) rather than 1fr, because a 1fr track still takes
+     min-width:auto and a long unbreakable run would widen it. Not the cause of
+     anything observed -- the tracks measure 267 + 59 against a 338 row -- but
+     the row has no business being able to grow. */
+  /* 4.6rem, not 3.7. The verdict lives in this cell at every width -- one
+     element rather than a visible copy and a hidden one, which is what let an
+     aria-hidden end up on the copy the phone actually shows. "premature" is
+     the widest word it can hold, 63px at this size, so the track is sized for
+     it: 73.6px. The song column gives up 0.9rem, which it can afford; the
+     alternative costs a screen reader the verdict entirely. */
+  tr{display:grid;grid-template-columns:minmax(0,1fr) 4.6rem;column-gap:.7rem;
+     grid-template-areas:"song gap" "meta gap";
+     padding:.5rem 0;border-bottom:1px solid var(--rule-soft)}
+  /* And nothing inside may refuse to break, or the track has no smaller size
+     to fall back to. */
+  td.song,td.last{min-width:0;overflow-wrap:anywhere}
+  td{border:0;padding:0}
+  td.n{grid-area:gap;padding-right:0;align-self:start;padding-top:.1rem;
+       text-align:right}
+  td.song{grid-area:song}
+  td.last{grid-area:meta}
+  td.bar{display:none}
+  /* The hover tooltip, gone. It is position:absolute and white-space:nowrap,
+     and it was hidden with visibility:hidden -- which still takes part in
+     layout. Every report page was therefore as wide as its longest tooltip:
+     497px inside a 375px viewport, so every report scrolled sideways on a
+     phone, with nothing visible out there to explain why. Measured: disabling
+     this one rule takes the page from 497 to exactly 375.
+     No loss here, because there is no hover on a touch screen to show it. */
+  td[data-tip]::after{content:none}
+  /* No bar here to carry the tick, so the words do all the work. */
+  .typ{font-size:.75rem;margin-top:.2rem}
+  .verdict{font-size:.625rem}
+  .verdict.bustout{font-size:.625rem}
+  .gap{font-size:1.25rem}
+  .song{font-size:1rem;line-height:1.25rem}
+  .last{font-size:.75rem;line-height:1.15rem}
+  .last .cap,td.n .cap{display:block;font-size:.625rem;letter-spacing:.14em;
+     text-transform:uppercase;color:var(--dim);margin-bottom:.15rem}
+  .last .date,.last .venue,.last .place{display:inline}
+  .last .place{white-space:normal}
+  /* --dim rather than --rule. A hairline color is for hairlines: at #413a30
+     on #131210 this separator was invisible on the dark palette. */
+  .last .venue::before,.last .place::before{content:" · ";color:var(--dim);
+    opacity:.7}
+  /* Same two lines, scaled down: date and tour still pair on the first one
+     even at 320px, and the masthead closes up so it reads as one block rather
+     than a stack of separate announcements. */
+  header{padding-bottom:.55rem}
+  /* Two full dates have to share one line here, and at 320px they only just
+     do, so the pager gives up some tracking rather than risk pushing the page
+     sideways.
+
+     `.crumb.pager`, not `.crumb`. It was written as the latter, which was
+     harmless while both strips wanted the same geometry and stopped being so
+     the moment the sections strip got 44px targets on a phone: `gap:.35rem`
+     out-specified the shared block's row gap, the targets in the two rows
+     overlapped, and it showed up on show pages only -- four overlapping pairs
+     at 390px, none anywhere else on the site. The eighth instance of one sheet
+     of several quietly answering for a rule that belongs to all of them. */
+  .crumb.pager{margin-bottom:.7rem;gap:.35rem;font-size:.625rem;
+     letter-spacing:.14em}
+  .crumb.sections{margin-bottom:.7rem}
+  h1{margin-bottom:.45rem}
+  /* At this width the whole thing fits on one line, so it reads better joined
+     -- and a middot cannot be orphaned the way a comma was, because it only
+     exists when the two parts are already side by side. */
+  .where .v-name,.where .v-place{display:inline}
+  /* Margin rather than spaces inside content: a leading or trailing space in
+     a generated string collapses, which left "GARDEN ·NEW YORK". */
+  .where .v-place::before{content:"\00B7";color:var(--dim);
+     margin:0 .45rem 0 .55rem}
+  .show .date{font-size:1.25rem}
+  .show .tour{font-size:.625rem;font-weight:400;letter-spacing:.14em}
+  .show .sep{margin:0 .35rem}
+  .where{margin-top:.2rem;font-size:.75rem;letter-spacing:0}
+  /* The buttons stand twice as tall as a line of footer text, so sharing a row
+     with it inflated that row and opened a gap between the two text lines.
+     They get their own row down here instead. */
+  .theme{order:1;flex-basis:100%}
+  /* All three badges have to hold one line down to a 320px phone. */
+  .links{margin-top:.95rem;gap:.3rem}
+  .badge{font-size:.625rem;letter-spacing:0;padding:.3rem .45rem;gap:.3rem}
+  .badge img{width:12px;height:12px}
+  .card{flex:1 1 45%;padding:.65rem .55rem}
+  .card:nth-child(odd){border-left:0;padding-left:0}
+  .card:nth-child(n+3){border-top:1px solid var(--rule)}
+  .num{font-size:1.5rem}
+  .lbl{font-size:.625rem;letter-spacing:.14em}
+}
+/* Wide layouts have a big empty corner to the right of the wordmark, and the
+   show identity is about as tall as the wordmark is, so the two balance as
+   columns. The masthead keeps the strongest position, top left; the show block
+   gets the hard right edge of the page rather than being tucked into a corner,
+   and the hero rule under both ties them together.
+
+   Scoped to `screen`: a printed report wants its masthead stacked, and the
+   page box measures 538pt, which would fall the wrong side of this threshold
+   by unit accident rather than by intent. */
+@media screen and (min-width:700px){
+  /* The areas name the same order the markup is in. They used to name the
+     opposite one -- the markup ran venue-then-context and this grid printed
+     context-then-venue -- so the page read one way to a screen reader and in
+     print, and the other way to everybody looking at it above 700px. The
+     markup moved rather than the grid, because context-above-venue is the
+     order that was on screen and the one that puts the venue nearest the
+     setlist it introduces. */
+  header{display:grid;grid-template-columns:auto 1fr;column-gap:2.5rem;
+         align-items:start;
+         grid-template-areas:"sections sections" "pager pager"
+                             "title show" "title where"}
+  .crumb.sections{grid-area:sections}
+  .crumb.pager{grid-area:pager}
+  h1{grid-area:title;margin-bottom:0}
+  .show{grid-area:show;justify-content:flex-end;text-align:right}
+  .where{grid-area:where;text-align:right;margin-top:.35rem}
+}
+@media (prefers-reduced-motion:reduce){.bar .fill{animation:none}}
+@page{size:letter;margin:14mm 13mm 12mm}
+@media print{
+  body{padding:0;font-size:10.5pt;background:#fff}
+  .crumb,.links{display:none}
+  /* rem still resolves against the 16px root here while the body drops to
+     10.5pt, so these do not shrink with the column and the widest of them ran
+     into the song title. Sized in points to match the page. */
+  .typ{font-size:7.5pt}
+  .verdict{font-size:6.5pt}
+  .verdict.bustout{font-size:7pt;padding:1pt 2.5pt}
+  .wrap{max-width:none}
+  h1{font-size:34pt}
+  h2{margin-top:16pt;break-after:avoid}
+  table{break-inside:auto}
+  tr{break-inside:avoid}
+  thead{display:table-header-group}
+  footer{break-before:avoid}
+}
+</style><script>
+(function(){
+  // Deliberately not renamed: this is a private key in a reader's own
+  // browser, and changing it would silently reset the light/dark choice
+  // of everyone who has ever set one, to rename a string nobody sees.
+  var KEY='phishgap-theme', root=document.documentElement;
+  function apply(v){
+    if(v==='light'||v==='dark') root.setAttribute('data-theme',v);
+    else root.removeAttribute('data-theme');
+  }
+  try{ apply(localStorage.getItem(KEY)); }catch(e){}
+  document.addEventListener('DOMContentLoaded', function(){
+    var box=document.querySelector('.theme');
+    if(!box) return;
+    var btns=[].slice.call(box.querySelectorAll('button'));
+    function mark(){
+      var cur=root.getAttribute('data-theme')||'auto';
+      btns.forEach(function(b){
+        var on=b.getAttribute('data-theme')===cur;
+        b.classList.toggle('on',on);
+        b.setAttribute('aria-pressed',on?'true':'false');
+      });
+    }
+    btns.forEach(function(b){
+      b.disabled=false;
+      b.addEventListener('click',function(){
+        var v=b.getAttribute('data-theme');
+        apply(v);
+        try{ v==='auto'?localStorage.removeItem(KEY):localStorage.setItem(KEY,v); }
+        catch(e){}
+        mark();
+      });
+    });
+    mark();
+  });
+})();
+</script><script>
+(function(){
+  function ready(fn){
+    if(document.readyState!=='loading') fn();
+    else document.addEventListener('DOMContentLoaded',fn);
+  }
+  ready(function(){
+    var search=document.querySelector('input.search');
+    var prev=document.querySelector('a[rel="prev"]');
+    var next=document.querySelector('a[rel="next"]');
+    var foot=document.querySelector('footer');
+    if(!foot) return;
+    // "Previous show, 2026-07-25" -> "Previous show". The pager already writes
+    // a label saying what it steps through, so the overlay does not have to
+    // guess whether this page is a list of shows or of anything else.
+    function what(a,fallback){
+      var s=(a&&a.getAttribute('aria-label'))||'';
+      s=s.split(',')[0].trim();
+      return s||fallback;
+    }
+    var rows=[];
+    if(search){
+      rows.push(['/','Jump to the search box']);
+      rows.push(['Esc','Clear the search']);
+    }
+    if(prev) rows.push(['[  \u2190', what(prev,'Previous')]);
+    if(next) rows.push([']  \u2192', what(next,'Next')]);
+    rows.push(['?','This list']);
+    var dlg=document.createElement('dialog');
+    dlg.className='keys';
+    dlg.setAttribute('aria-label','Keyboard shortcuts');
+    dlg.innerHTML='<p class="cap">Keyboard</p><dl>'
+      + rows.map(function(r){
+          return '<div><dt><kbd>'+r[0].split('  ').join('</kbd> <kbd>')
+                 +'</kbd></dt><dd>'+r[1]+'</dd></div>'; }).join('')
+      + '</dl>'
+      + (rows.length>1?'':'<p class="none">This page has nothing else to '
+         + 'step through. The show and song lists have more.</p>')
+      + '<form method="dialog"><button>Close</button></form>';
+    document.body.appendChild(dlg);
+    // A button as well as a key, because a shortcut nobody can find is a
+    // shortcut nobody has. It carries the key it stands for.
+    var hint=document.createElement('button');
+    hint.type='button';
+    hint.className='keyhint';
+    hint.setAttribute('aria-haspopup','dialog');
+    hint.innerHTML='Keys <kbd>?</kbd>';
+    hint.addEventListener('click',function(){ dlg.showModal(); });
+    foot.appendChild(hint);
+    document.addEventListener('keydown',function(e){
+      if(e.metaKey||e.ctrlKey||e.altKey||dlg.open) return;
+      var t=e.target;
+      // While typing, every one of these is a character somebody meant.
+      if(t&&(t.tagName==='INPUT'||t.tagName==='TEXTAREA'
+             ||t.tagName==='SELECT'||t.isContentEditable)) return;
+      if(e.key==='?'){ e.preventDefault(); dlg.showModal(); return; }
+      if(prev&&(e.key==='['||e.key==='ArrowLeft')){ e.preventDefault(); prev.click(); }
+      if(next&&(e.key===']'||e.key==='ArrowRight')){ e.preventDefault(); next.click(); }
+    });
+  });
+})();
+</script><script>
+/* "4 minutes ago" rather than "01:47 UTC". A clock time on a page about dates
+   reads like a server log, and the fact a reader wants is elapsed -- has this
+   stalled? -- not the hour it happened. The stamp ships in datetime= so it is
+   correct without JavaScript and correct after the tab has been open an hour;
+   this only renders it. */
+(function(){
+  function say(sec){
+    if(sec<45) return 'just now';
+    var m=Math.round(sec/60);
+    if(m<60) return m+' minute'+(m===1?'':'s')+' ago';
+    var h=Math.round(m/60);
+    return h+' hour'+(h===1?'':'s')+' ago';
+  }
+  function start(){
+    var els=[].slice.call(document.querySelectorAll('time.ago'));
+    if(!els.length) return;
+    function tick(){
+      var now=Date.now();
+      els.forEach(function(e){
+        var t=Date.parse(e.getAttribute('datetime'));
+        if(!isNaN(t)) e.textContent=say((now-t)/1000);
+      });
+    }
+    tick();
+    setInterval(tick,20000);
+  }
+  /* This ships in the head, so on a first load it runs before the body it is
+     looking for exists: querySelectorAll found nothing, the function returned,
+     and every reader saw the bare 03:41 UTC fallback the markup carries for
+     readers with no JavaScript at all. The stamp has been a clock reading on
+     every live page since it was written. */
+  if(document.readyState==='loading')
+    document.addEventListener('DOMContentLoaded', start);
+  else start();
+})();
+</script><script>
+/* Which rows arrived while this reader was away, so a setlist that grew does
+   not have to be re-read from the top. The count is kept in this browser
+   only; nothing is sent anywhere and nothing is stored server-side.
+
+   The claim used to outlive the fact. The count was banked at page *load*,
+   the tag was built once from it and then never touched again -- so "since
+   you last looked" really meant "since this browser last loaded a document
+   for this show", and the tag was a snapshot frozen at load time. Scrolling
+   down to the new songs and back up left it still sitting there insisting
+   they were new, because nothing re-evaluated it. Ian caught it doing exactly
+   that, and asked the right question: how can it know when I last looked.
+
+   It could not, and it was nearly invisible before, because the meta refresh
+   it relied on never fired and the page therefore almost never reloaded.
+   Making the reloads real made the false claim frequent.
+
+   One rule makes the words true: **the stored count only ever advances to
+   rows that have actually been in view.** So "since you last looked" means
+   what it says -- since these rows were last in front of you -- and the tag
+   retires itself the moment that becomes true, instead of asserting it for
+   the life of the document.
+
+   A first attempt also banked the count when the page was hidden or
+   unloaded, to stop an unread page accumulating a claim. That was wrong in
+   both directions and the first test caught it. A reload fires pagehide, so
+   the count was banked from the document being torn down and the rows in the
+   *next* one that the reader had still never seen were recorded as seen: two
+   songs landing without a scroll in between reported "1 new", not 2.
+   Accumulation is not the bug -- if you never look at the new songs they are
+   still new, and saying so is the whole point. */
+(function(){
+  function start(){
+    var live=document.querySelector('.live');
+    if(!live||!window.localStorage) return;
+    var rows=[].slice.call(document.querySelectorAll('tbody tr'));
+    if(!rows.length) return;
+    /* Keyed on the night, which the banner carries explicitly. It used to be
+       derived from document.title -- but the title leads with the song count,
+       "(20) 2026-07-27", so stripping non-digits gave "pl-seen-202026-07-" and
+       a *different* key every time a song landed. seen was therefore always 0,
+       the mark never fired once, and a key was left behind per song count. */
+    var show=live.getAttribute('data-show');
+    if(!show) return;
+    var key='pl-seen-'+show;
+    var seen=parseInt(localStorage.getItem(key)||'0',10);
+    function bank(){ try{ localStorage.setItem(key,String(rows.length)); }catch(e){} }
+    /* Banked here only when there is nothing new to show, where it is a
+       no-op or a correction for a setlist that shrank. With something new it
+       waits for the rows to be seen: writing the count at load is precisely
+       what made the old claim false. */
+    if(!(seen>0&&rows.length>seen)){ bank(); return; }
+    var fresh=rows.slice(seen);
+    fresh.forEach(function(r){ r.classList.add('fresh'); });
+    /* The count is also the way there. Every song row already carries its
+       slug as an id, so this is a real href to a real fragment rather than a
+       scripted scroll -- which matters because a fragment jump is reversible
+       with the Back button and a scroll is not, the same reasoning as the
+       show row's landing spot in docs/TODO.md 2h. It points at the *first*
+       new row, so the reader lands at the start of what they missed and
+       reads down.
+
+       tabindex="-1" so the jump moves focus as well as the viewport, and
+       [tabindex="-1"]:focus already drops the ring for exactly this case: a
+       landing spot is a place, not a control. */
+    var target=fresh[0];
+    var tag=document.createElement(target.id?'a':'span');
+    tag.className='since-you';
+    tag.textContent=(rows.length-seen)+' new since you last looked';
+    if(target.id){
+      target.setAttribute('tabindex','-1');
+      tag.href='#'+target.id;
+      /* Non-breaking, so the arrow can never be left on a line by itself. */
+      tag.textContent+='\u00a0\u2193';
+    }
+    live.appendChild(tag);
+    if(!window.IntersectionObserver){ bank(); return; }
+    /* Retired once the last of those rows has held still in view for a
+       second. One frame would retire it during a flick past the table, which
+       is not looking at it; a second is long enough to mean a deliberate look
+       and short enough that any real one counts. */
+    var timer=null;
+    var io=new IntersectionObserver(function(entries){
+      entries.forEach(function(e){
+        if(e.isIntersecting){
+          if(!timer) timer=setTimeout(function(){
+            io.disconnect();
+            if(tag.parentNode) tag.parentNode.removeChild(tag);
+            bank();
+          },1000);
+        } else if(timer){ clearTimeout(timer); timer=null; }
+      });
+    });
+    io.observe(fresh[fresh.length-1]);
+  }
+  /* Same trap as the relative stamp beside it: this ships in the head, so it
+     ran before .live or a single row existed and returned every time. */
+  if(document.readyState==='loading')
+    document.addEventListener('DOMContentLoaded', start);
+  else start();
+})();
+</script><script>
+/* Watch tonight's report for a song landing, and reload when one does.
+   Replaces <meta http-equiv="refresh">, which was present, well-formed and
+   correctly placed, and did not fire. Two reasons, and it needed both fixed:
+   Pages serves cache-control:max-age=600, so a reload inside ten minutes can
+   be answered out of the browser's own cache with the same document; and
+   browsers throttle or defer a meta refresh in a background tab for as long
+   as they like. Hitting reload by hand during the 2026-07-29 show brought in
+   five songs at once -- about 25 minutes of drift, well past the cache
+   window, so it had not fired at all.
+
+   The report JSON is what is watched rather than the page: it is a few KB
+   against 60, and a changing query string puts each request on its own CDN
+   cache key, which is what defeats both caches. The page reloads only when
+   the song count actually moves, or when the show settles and the banner
+   should go -- a timer that reloads regardless is what the meta refresh was.
+
+   Nothing is polled while the tab is hidden. A background tab is exactly
+   where a reader is not looking, and visibilitychange brings it up to date
+   the moment they look back, which is sooner than any interval would. */
+(function(){
+  function start(){
+    var el=document.querySelector('.live[data-show]');
+    if(!el||!window.fetch) return;
+    var show=el.getAttribute('data-show');
+    var url='../data/shows/'+show+'.json';
+    var seen=parseInt((el.querySelector('.n')||{}).textContent||'0',10);
+    var key='pl-reloaded-'+show, busy=false;
+    function look(){
+      if(busy||document.hidden) return;
+      busy=true;
+      fetch(url+'?t='+Date.now(),{cache:'no-store'}).then(function(r){
+        return r.ok?r.json():null;
+      }).then(function(d){
+        busy=false;
+        if(!d||!d.songs) return;
+        if(d.songs.length===seen&&d.provisional) return;
+        /* One reload per change, remembered for this tab. A reload fetches
+           the document fresh, but if a stale copy comes back anyway the
+           count still would not match and this would reload on every pass
+           for as long as the tab was open. */
+        var mark=d.songs.length+(d.provisional?'':'-done');
+        try{
+          if(sessionStorage.getItem(key)===mark) return;
+          sessionStorage.setItem(key,mark);
+        }catch(e){}
+        location.reload();
+      }).catch(function(){ busy=false; });
+    }
+    setInterval(look,60000);
+    document.addEventListener('visibilitychange',function(){
+      if(!document.hidden) look();
+    });
+  }
+  /* Ships in the head, so .live does not exist yet. The two scripts beside
+     this one were each broken for weeks by exactly that. */
+  if(document.readyState==='loading')
+    document.addEventListener('DOMContentLoaded',start);
+  else start();
+})();
+</script></head><body><div class="wrap">
+<a class="skip" href="#main">Skip to content</a>
+<div class="rule2"></div>
+<header><nav class="crumb sections" aria-label="Sections"><span class="mark">Possum Logic</span><span class="lists"><a href="../index.html" class="sect" aria-current="true">Shows</a><a href="../songs.html">Songs</a><a href="../years.html">Years</a><a href="../venues.html">Venues</a></span><span class="meta"><a href="../faq.html">FAQ</a><a href="../method.html">How this works</a></span></nav><nav class='crumb pager'><a class='prev' rel='prev' href='./2026-10-11.html' aria-label='Previous show, 2026-10-11'>&larr; 2026-10-11</a></nav><h1>2026-10-12<span class="dow">Monday</span></h1>
+<p class="show"><span class='nth'>261st show of 4.0</span><span class='sep'>&middot;</span><span class='tour'><a href='../index.html?q=%222026%20Fall%20Tour%22'>2026 Fall Tour</a></span></p>
+<p class="where"><span class='v-name'><a href='../index.html?q=%22Orion%20Amphitheater%22'>Orion Amphitheater</a></span><span class='v-place'>Huntsville, AL</span></p><p class='live' role='status' aria-live='polite' data-show='2026-10-12'><b>This show is being played right now</b><span><b class='n'>10</b> songs so far &middot; this page was built <time class='ago' datetime='2026-10-13T02:42:59+00:00'>02:42</time></span><span>It updates itself as songs land</span></p></header>
+<section class="hero" id="main" tabindex="-1"><div class='card'><div class='lbl'>Songs Played</div><div class='num'>10</div></div><a class='card' href='#birds-of-a-feather'><div class='lbl'>Longest Gap</div><div class='num hot'>22</div></a><div class='card'><div class='lbl'>Median Gap</div><div class='num'>6</div></div><div class='card'><div class='lbl'>Bustouts</div><div class='num'>0</div></div></section>
+<div class="rule2"></div>
+<p class="links"><a class='badge' href='https://phish.net/setlist/?d=2026-10-12' target='_blank' rel='noopener noreferrer'><img class='' src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAJM0lEQVR42pWXe1BU1x3HP3ef7C4Lyy6wwAYUARVQAopR4yPWRC3SpJE4SZ2k0UmtSSeTadNJJo8/OomtZhIzJm1m0hgz0zhO6jimRuMQdEtsxuIDDI8QKhUBkYcLbFgey7LL7rK//gEB8d3fzJ07c+65v+/nnvO953eOIiLC/xk+n4+Ghgbq67/nyJEjGAxR1NTVsqAlwK+YhRoFADUKjYqXsgUG/nJoPz2ubqqqzvPlsS+pr/+O4WEfyt0AjI2N4fV66e3txel0cv78eXp6eli+fAUPrl7NkWNHOfTeHl4eTScLMxHGU2pQOKH08sVsIT//XiqrqujvcKEKR7BrjDjCOjR3Eu/v76eyspKqqira2tpwuVykpqby8ccfo9PrCQaD1NfVsyhoJoPoSXEAP2M0yiCXmlwEL7YzCyM/IYN0olGPKTQxdOcROHfuHJ999hmrVq0iKyuLoSEvu955m5jYGHRBP0OePqprv+OxPjurlQQ0okwihBFO0I2fMRZjxYEBDSrCRChX3FTda74zwOjoKD6fj6ioKOrr69m5cyelJ+uIRCK8kB7kpXQD34Z97G4KsOCKg4cj9sl3FRTCRFChoEJBEAKM8RXdjJQU8vIf/3DnKdDr9ej1er44coSD+/ZTW1MLiQ+BLpmDA19QovNQYrERws2brna0AYUoFDoYpVsfIj6o8HNJwYaeMEKZ0oOnaB5/emcHWRmZdwYAqKmr5R97/8a2hNk0xnjoVGZCVDK9ygY+uHSUaLuHVrcKc0aQi0lNxNus9PYL/zrjITMUy3pJwk+Y04qHr5NDvL3tGbIyMieMepPw+/14vV60Wi0Go5Hjh4/yG3MG2ZoYfKEoiE4ACYMqlrLuaDqHG1mxwc5HvywgLS2EzWajrGyQitMDJEai+Jwe2vHRpfERHoW3du7gq9LjPP74Yzd6wOPxsGPHDo4ePUpSUhJZWVn0dV5l56xlhMeC/PSf/8atz0eGW5hla6SkWGHTJgvzcqxotdrJPBcueHjvjcv8t6WPKFuElNQ0MmaqSb3Hx4ULag4fvkpv73UmjESEXbt2sX37m4yMjEwmMxiNzE9JIxKJUNPpQoWK5Us1/PZ30axbl47BoAfUgExc4yGDEa784CYmDqzWhIk+ABHOnm1m79726QB1dXWUlJRw+fLlO/oiOlqDw2Hg/vtDLF2WTE5eLAW5FoxGwzQIUE2KTg8hEAhNB3jxxRd5//330ev1iAjBYPCul+eUmbBovoVVSw2seSSF9PRYjEbttK8WEfz+EDqdFo1GRXPLFZCJaG1tlcLCQlEURUwmk+h0OgFFUlI0sn69RaxWs1wzxre8tGrEbtfIxo162bs3Xaqq8sXjKRCRdeL3Pyivvx4tBw9miMg6OXk4RyYBysvLxWaziVqtFq1WI4DMmGGWsrICGRxcLps3JwoodwUBiEaDGI3IjBnImjVqeemlGXLggF2WLFFk2TKzePofEBksmgJwOp0SFxc3mcBkQj74IFFE1opIkZSW5ktcnPauxDMyVPLuu3bZv98uOTkqASQ3F8nORkwmrcTGKnLqVKqIXAPQ2dkpa9asmUyyerUivb0LRGS9iKyXpqZ7paDgzuKJiRo5cGB8iEXWyUcfZUpCgiLHjlnk7Nn58sILZlEU5JVXZolIkfxoURwOB7t372bhwkKio7U880wWCQnxE+4VUlMNpKZG3daIigJPP53CE09kAgqgZsUKM+npQn+/gSVLUnn11TkUF0dx6VI/o6Mjk/8IAOXlX+NyXWXTJiMbN6Zd8wsJUVFx2O3JtwWw29U89VQCijKV1uEYw2qF6upoQEhJSWDbNgvunn6aLvZNB6ioOINOd5Xnn78HvV57g0Bm5iiaW1aPcfHcXOs164BgMBhRq/VcvTq1sM2ZY+GHbg1tTcoUwNmzZzl3rpKly2zk5SXcVGLpUjVm883li1fE8/utuWg06mntOp0Ng8HK8LCbwKgHAJstFa0pgarv2qcAWltbcfd1MDffgKJcv5qNf83ChRls3hyPxTI1DHPnwnPP2fnzJ4kkz9Fd6wh6e/u5dKmTwUE/oSGF0ODEXlEtmM0BGhoGp6qhSqWCSIQUy9gt59hoNPDGG/MoKhqmry+MSiXk5MC83DgU1Y/QCqDwn9peXnutnjZXkOZmWLvcQJR+/FkgEKKjI8xA8LpyrFJBdPTtbCbExhpYu9YwITTV/qN4MOinpdXNXz9ppqLSjFqjwT/iptPjp6W7m7mxOpzOJtxuL+0d1wEEAlBdo+eJX0QYt4fcFGL6fbKW0tJyhQ8/dFFePkRHJywsXElaWiptbW1cuFDDr7deISnpB6qq/KjVMTzy8KobNyT7/t5NfLKOLZvisSfF3kLs+lBx8WIfzz7bTnu7HbM5k4xZahyOFGJiYpg/fz5Wq5WamnpOn76MSJiSkofYs2fPVDXs6Ohg69atOJ1O9HoNhYVaiotjWbvWQmamA4Mhgk6nu6buRxgdDeHzqamp6WTXrkEqKoZ59NGfkZiYiIhw7V5HRBgZGaGnp4fGxkbC4TCFhYXTy7HL5WLLli04nc4Jt4LNpmP2bB0FBUFyclKwWm1otVrc7h6+/babM2fMBAJuZs4UGhoUZsxYzOLFi1CpVJMAiqLQ09NDbW0tGRkZxMfH4/V6uXz58o1bso6ODsrKyti+fTtdXV3k5Wl48skxBgZ0NFyA3kEzowMxiHjIzPSxaFEs993nID8fPv20i7fe8uFwzCEvLw+LxYKijJvV6/Vy5swZOjs7MZvN2O129Hr9rc8FTqeTQ4c+5+TJUh54wE1xcTqJiQqO1GgsMTYUJYJeH8FoVANaQMHlcrFhw0UqK31YLBays7PJysqaBAmFQjQ3N1NdXU1fXx8FBQW3P5iMjY1x/PgJSku/oqamApFWrHEhkpLjyc0dJTtbGBpS8HgidHVF0dIS5PvvzRQVPYparWbfvn1EIhHi4+NJS0sjMTERk8nEwMAA33zzDXl5eXd3OA0Gg3i9Xqqr6zh+/AQulwu9Pkwk4mNgYJjY2DhMJhuzZ89j1arl5OXlAXDq1ClKS0upqKigq6sLn8+HyWTCaDQiIqxcufLuAG4VIyN+hoaGSEhIQK1W3bJfS0sLzc3N9PX1EQgEAEhOTmbJkiX8Dy6oalTSw0WAAAAAAElFTkSuQmCC' alt='' width='13' height='13'><span>phish.net</span></a><a class='badge' href='https://fouldomain.com/shows/2026-10-12' target='_blank' rel='noopener noreferrer'><img class='' src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAC7UlEQVR42u2Xz2tcVRTHP+e+Nz+a2MTa4Ewy0zSpq7ZiFwWhCEIRoxWULhztdBItRbKwW3fdduHfUBDFYIM/diq6cS2KoNAWwSyqTjLMpLVEW9PJzLv36yIabcvUZGZUhJztvfe8zz3nnvM9D7Zt27q0y6WD6dqLo/t79eO6Pbgrvv6qi6n0ChB3c+jq6ZGdfs3tBQ3+VHlgaLU10E7HraHc/HLjHwMQWKOcO+qJcoH4CwhDIN8meyyV1jWv1BHg3FYBbLMbGy+MHQ8Rz4I1cfKGG4TggYvIhkETmXT6tV1vfb/Stwg0KuOPBZIpF5Kvvdkxk9apxcAf6IYdwEkK0FxrTwHv9QXgyqmJrK21SxjDuMxuk0+tZ+LO1ChCLoIgRyj2rQqySfu5gHZuxZlwe+ozucG7IlkuHKmVi9ObArj2UrFQr4yedcGPb/U2QmlH/Iz+8rbqM7lJmZ1wCo83pguH7gmg2cOpJPEvI5sMcpNdFbbXU8snR6c2fPr4aUkxDieFE9VScUdHgKutH3dj0UO9NJYgLDj3qMA0eziFNPHnavRgKq0nOgIkSfp0X/p00D5KxezSzfpBYOSO1UMdAeIQdvRNLLJt5wjRXe/ElHQEaGfsvBS+6/Xbhi0w11hNx1EdY+224MC3HQEKb9aqKHwUgvmeFE66YaCRtxeXTNrojGb6OTL/2T3LcHS+ftlMK13dXCTAApH7ZCPkkRYAFGhK9lV+rvHr33dCs0+Rnse4CQxtnsBCfn7p9dty7t2HjjCcRO6D4juLi5sWo5WZvZPNVhhUlJxxFvsgP4AQWNNMGczZ72IEuAgFefi8cKH2Rl9a8f1zP1zJv1u95MwuAjhjtcPWWxJVgNh0ve9yrBJR1e3ZT5ZbUcvPOuw+M9pgERYyJt1wRtXLHs5fqL3S94HE3sdD9RLA8snCvBfTgo9BRw3yMvuyZXwD/pd/bRhdV7jxJ+uVsfONcvGR/2QqVomoUR47vv1/sG3/e/sNrEkrwQ1sbIcAAAAASUVORK5CYII=' alt='' width='13' height='13'><span>fouldomain</span></a></p>
+<h2><span class='tab'>SET 1</span></h2>
+<table><colgroup><col class='c-song'><col class='c-last'><col class='c-bar'><col class='c-gap'></colgroup><thead><tr><th>Song</th><th>Last Performed</th><th></th><th class='n'>Gap</th></tr></thead><tbody>
+<tr id='mikes-song'><td class='song'><a href='../song/mikes-song.html#2026-10-12'>Mike’s Song</a></td><td class='last'><span class='cap'>Last performed</span><span class='date'><a href='./2026-10-03.html'>2026-10-03</a></span><span class='venue'>Jim Whelan Boardwalk Hall</span><span class='place'>Atlantic City, NJ</span></td><td class='bar' data-tip='5 shows; usually 2 to 9'><span class='track'><span class='band'></span><span class='mid'></span><span class='at usual' style='left:46.09%'></span></span></td><td class='n' data-tip='5 shows; usually 2 to 9'><span class='cap'>Gap</span><span class='gap small'>5</span><span class='typ'>med 5</span><span class='sr'>5 shows; usually 2 to 9</span></td></tr>
+<tr id='shade'><td class='song'><a href='../song/shade.html#2026-10-12'>Shade</a></td><td class='last'><span class='cap'>Last performed</span><span class='date'><a href='./2026-07-18.html'>2026-07-18</a></span><span class='venue'>Merriweather Post Pavilion</span><span class='place'>Columbia, MD</span></td><td class='bar' data-tip='19 shows; usually 3 to 20'><span class='track'><span class='band'></span><span class='mid'></span><span class='at usual' style='left:67.47%'></span></span></td><td class='n' data-tip='19 shows; usually 3 to 20'><span class='cap'>Gap</span><span class='gap small'>19</span><span class='typ'>med 8</span><span class='sr'>19 shows; usually 3 to 20</span></td></tr>
+<tr id='weekapaug-groove'><td class='song'><a href='../song/weekapaug-groove.html#2026-10-12'>Weekapaug Groove</a></td><td class='last'><span class='cap'>Last performed</span><span class='date'><a href='./2026-10-03.html'>2026-10-03</a></span><span class='venue'>Jim Whelan Boardwalk Hall</span><span class='place'>Atlantic City, NJ</span></td><td class='bar' data-tip='5 shows; usually 2 to 8'><span class='track'><span class='band'></span><span class='mid'></span><span class='at usual' style='left:48.75%'></span></span></td><td class='n' data-tip='5 shows; usually 2 to 8'><span class='cap'>Gap</span><span class='gap small'>5</span><span class='typ'>med 5</span><span class='sr'>5 shows; usually 2 to 8</span></td></tr>
+<tr id='acdc-bag'><td class='song'><a href='../song/acdc-bag.html#2026-10-12'>AC/DC Bag</a></td><td class='last'><span class='cap'>Last performed</span><span class='date'><a href='./2026-07-22.html'>2026-07-22</a></span><span class='venue'>Madison Square Garden</span><span class='place'>New York, NY</span></td><td class='bar' data-tip='16 shows; usually 3 to 14'><span class='track'><span class='band'></span><span class='mid'></span><span class='at late' style='left:71.86%'></span></span></td><td class='n' data-tip='16 shows; usually 3 to 14'><span class='cap'>Gap</span><span class='gap small'>16</span><span class='typ'>med 8</span><span class='verdict overdue at-gap'>overdue</span><span class='sr'>16 shows; usually 3 to 14</span></td></tr>
+<tr id='wolfmans-brother'><td class='song'><a href='../song/wolfmans-brother.html#2026-10-12'>Wolfman’s Brother</a></td><td class='last'><span class='cap'>Last performed</span><span class='date'><a href='./2026-10-06.html'>2026-10-06</a></span><span class='venue'>Allianz Amphitheater at Riverfront</span><span class='place'>Richmond, VA</span></td><td class='bar' data-tip='3 shows; usually 2 to 7'><span class='track'><span class='band'></span><span class='mid'></span><span class='at usual' style='left:39.26%'></span></span></td><td class='n' data-tip='3 shows; usually 2 to 7'><span class='cap'>Gap</span><span class='gap small'>3</span><span class='typ'>med 4</span><span class='sr'>3 shows; usually 2 to 7</span></td></tr>
+<tr id='birds-of-a-feather'><td class='song'><a href='../song/birds-of-a-feather.html#2026-10-12'>Birds of a Feather</a></td><td class='last'><span class='cap'>Last performed</span><span class='date'><a href='./2026-07-14.html'>2026-07-14</a></span><span class='venue'>Enmarket Arena</span><span class='place'>Savannah, GA</span></td><td class='bar' data-tip='22 shows; usually 3 to 15'><span class='track'><span class='band'></span><span class='mid'></span><span class='at late' style='left:76.53%'></span></span></td><td class='n' data-tip='22 shows; usually 3 to 15'><span class='cap'>Gap</span><span class='gap small'>22</span><span class='typ'>med 7</span><span class='verdict overdue at-gap'>overdue</span><span class='sr'>22 shows; usually 3 to 15</span></td></tr>
+<tr id='my-friend-my-friend'><td class='song'><a href='../song/my-friend-my-friend.html#2026-10-12'>My Friend, My Friend</a></td><td class='last'><span class='cap'>Last performed</span><span class='date'><a href='./2026-09-06.html'>2026-09-06</a></span><span class='venue'>Dick&#x27;s Sporting Goods Park</span><span class='place'>Commerce City, CO</span></td><td class='bar' data-tip='7 shows; usually 3 to 12'><span class='track'><span class='band'></span><span class='mid'></span><span class='at usual' style='left:47.91%'></span></span></td><td class='n' data-tip='7 shows; usually 3 to 12'><span class='cap'>Gap</span><span class='gap small'>7</span><span class='typ'>med 7</span><span class='sr'>7 shows; usually 3 to 12</span></td></tr>
+</tbody></table>
+<div class='perf'></div><h2><span class='tab'>SET 2</span></h2>
+<table><colgroup><col class='c-song'><col class='c-last'><col class='c-bar'><col class='c-gap'></colgroup><thead><tr><th>Song</th><th>Last Performed</th><th></th><th class='n'>Gap</th></tr></thead><tbody>
+<tr id='no-men-in-no-mans-land'><td class='song'><a href='../song/no-men-in-no-mans-land.html#2026-10-12'>No Men In No Man’s Land</a></td><td class='last'><span class='cap'>Last performed</span><span class='date'><a href='./2026-10-04.html'>2026-10-04</a></span><span class='venue'>Jim Whelan Boardwalk Hall</span><span class='place'>Atlantic City, NJ</span></td><td class='bar' data-tip='4 shows; usually 1 to 7'><span class='track'><span class='band'></span><span class='mid'></span><span class='at usual' style='left:48.64%'></span></span></td><td class='n' data-tip='4 shows; usually 1 to 7'><span class='cap'>Gap</span><span class='gap small'>4</span><span class='typ'>med 4</span><span class='sr'>4 shows; usually 1 to 7</span></td></tr>
+<tr id='prince-caspian'><td class='song'><a href='../song/prince-caspian.html#2026-10-12'>Prince Caspian</a></td><td class='last'><span class='cap'>Last performed</span><span class='date'><a href='./2026-09-04.html'>2026-09-04</a></span><span class='venue'>Dick&#x27;s Sporting Goods Park</span><span class='place'>Commerce City, CO</span></td><td class='bar' data-tip='9 shows; usually 3 to 11'><span class='track'><span class='band'></span><span class='mid'></span><span class='at usual' style='left:58.90%'></span></span></td><td class='n' data-tip='9 shows; usually 3 to 11'><span class='cap'>Gap</span><span class='gap small'>9</span><span class='typ'>med 6</span><span class='sr'>9 shows; usually 3 to 11</span></td></tr>
+<tr id='blaze-on'><td class='song'><a href='../song/blaze-on.html#2026-10-12'>Blaze On</a></td><td class='last'><span class='cap'>Last performed</span><span class='date'><a href='./2026-10-04.html'>2026-10-04</a></span><span class='venue'>Jim Whelan Boardwalk Hall</span><span class='place'>Atlantic City, NJ</span></td><td class='bar' data-tip='4 shows; usually 2 to 6'><span class='track'><span class='band'></span><span class='mid'></span><span class='at usual' style='left:52.85%'></span></span></td><td class='n' data-tip='4 shows; usually 2 to 6'><span class='cap'>Gap</span><span class='gap small'>4</span><span class='typ'>med 4</span><span class='sr'>4 shows; usually 2 to 6</span></td></tr>
+</tbody></table><div class='notes'><p>This was the rescheduled date from the show that had been postponed due to <span>expected severe weather</span> from Hurricane Isaias in Alabama on <a class="show-date-link" href="https://phish.net/setlists/phish-october-10-2026-orion-amphitheater-huntsville-al-usa.html" data-showdate="2026-10-10">October 10, 2026</a>. Trey and Mike teased Nellie Kane in Weekapaug Groove. Wolfman's Brother featured Trey on mini drum kit. My Friend, My Friend did not contain the "Myfe" ending.</p></div>
+<footer><span><a href="../method.html">How this works</a></span>
+<span><a href="../acknowledgments.html">Acknowledgments</a></span>
+<span class='theme' role='group' aria-label='Color theme'><button type='button' data-theme='auto' disabled>Auto</button><button type='button' data-theme='light' disabled>Light</button><button type='button' data-theme='dark' disabled>Dark</button></span>
+<span>Updated 2026-10-13</span></footer>
+<script data-goatcounter="https://imolee.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</div><script>
+(function(){
+  // On a phone the song title is a very small target for a link that is the
+  // only one in its row, so the row follows it. Delegated rather than wrapped,
+  // because an overlay covering the row would swallow the hover the gap
+  // figure's tooltip needs. With scripting off the title still works.
+  var t=document.querySelector('table');
+  if(!t) return;
+  document.addEventListener('click', function(e){
+    if(e.target.closest('a')) return;
+    var tr=e.target.closest('tr');
+    if(!tr) return;
+    // Two questions live in one row: "where does tonight's version sit in this
+    // song's history" and "what else happened the last time they played it".
+    // The whole row used to answer only the first, which swallowed the second
+    // -- reaching for the previous show landed you on the current one.
+    var last=e.target.closest('td.last');
+    var a=(last && last.querySelector('a')) || tr.querySelector('td.song a');
+    if(!a) return;
+    var sel=window.getSelection();
+    if(sel && !sel.isCollapsed) return;   // let people copy a venue name
+    a.click();
+  });
+})();
+</script></body></html>
