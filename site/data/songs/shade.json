@@ -64,6 +64,6 @@
   {"date": "2025-07-15", "venue": "TD Pavilion at the Mann", "city": "Philadelphia", "state": "PA", "gap": 23, "set": "e", "next": "I Didn't Know", "xprev": "Carini", "nb": 1},
   {"date": "2026-05-01", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 32, "set": "2", "prev": "Pillow Jets", "next": "Sand", "nb": 1},
   {"date": "2026-07-18", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 9, "set": "1", "prev": "McGrupp and the Watchful Hosemasters", "in": ">", "next": "Runaway Jim", "nb": 1},
-  {"date": "2026-10-12", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 19, "set": "1", "out": ">", "prev": "Mike's Song", "in": ">", "next": "Weekapaug Groove"}
+  {"date": "2026-10-12", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 19, "set": "1", "out": ">", "prev": "Mike's Song", "in": ">", "next": "Weekapaug Groove", "nb": 1}
  ]
 }
