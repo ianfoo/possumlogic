@@ -164,6 +164,6 @@
   {"date": "2023-07-15", "venue": "Ameris Bank Amphitheatre", "city": "Alpharetta", "state": "GA", "gap": 34, "set": "e", "prev": "Tweezer Reprise", "in": ">", "last": 1, "nb": 1},
   {"date": "2024-08-09", "venue": "Bethel Woods Center for the Arts", "city": "Bethel", "state": "NY", "gap": 56, "set": "e", "next": "Gotta Jibboo", "xprev": "Chalk Dust Torture", "nb": 1},
   {"date": "2026-07-22", "venue": "Madison Square Garden", "city": "New York", "state": "NY", "gap": 88, "set": "e", "prev": "Silent in the Morning", "next": "Run Like an Antelope", "nb": 1},
-  {"date": "2026-10-12", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 16, "set": "2", "prev": "Down with Disease", "in": "->", "next": "Scents and Subtle Sounds", "nb": 1}
+  {"date": "2026-10-12", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 16, "set": "2", "nb": 1, "prev": "Down with Disease", "in": "->", "next": "Scents and Subtle Sounds"}
  ]
 }

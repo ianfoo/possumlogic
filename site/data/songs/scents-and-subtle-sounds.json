@@ -81,6 +81,6 @@
   {"date": "2025-09-21", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 12, "set": "2", "jamchart": true, "jam": "Serenity, now. This sublime version stays true to the tune's namesake as Trey's pure, melodious weaving guides the band's rhythmic center through intimate, dynamic, subtle transformations. Page's synth washes underpin an almost mystical vibe throughout, when around the 17 minute mark Trey plucks out a cosmic riff from the heavens. This motif is then repeated, looped, stacked, and soloed over to create a melodically gorgeous tapestry of catharsis, before quietly fading out > \"Lonely Trip\".", "out": ">", "prev": "What's Going Through Your Mind", "in": "->", "next": "Lonely Trip", "nb": 1},
   {"date": "2026-04-16", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 8, "set": "1", "out": ">", "prev": "Rift", "next": "Steam", "nb": 1},
   {"date": "2026-07-15", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 14, "set": "2", "out": ">", "prev": "Farmhouse", "next": "Ghost", "nb": 1},
-  {"date": "2026-10-12", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 21, "set": "2", "prev": "Big Black Furry Creature from Mars", "next": "Good Times Bad Times", "nb": 1}
+  {"date": "2026-10-12", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 21, "set": "2", "nb": 1, "prev": "Big Black Furry Creature from Mars", "next": "Good Times Bad Times"}
  ]
 }

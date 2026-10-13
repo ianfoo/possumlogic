@@ -66,6 +66,6 @@
   {"date": "2026-01-31", "venue": "Moon Palace", "city": "Cancun", "state": "Quintana Roo", "gap": 4, "set": "1", "prev": "Also Sprach Zarathustra", "in": ">", "xnext": "A Song I Heard the Ocean Sing", "nb": 1},
   {"date": "2026-04-30", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 6, "set": "2", "prev": "Sneakin' Sally Thru the Alley", "xnext": "The Sloth", "nb": 1},
   {"date": "2026-07-15", "venue": "Enmarket Arena", "city": "Savannah", "state": "GA", "gap": 8, "set": "1", "prev": "Halley's Comet", "xnext": "Sightless Escape", "nb": 1},
-  {"date": "2026-10-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 20, "set": "1", "prev": "Ether Edge", "in": ">", "xnext": "Everything's Right", "nb": 1}
+  {"date": "2026-10-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 20, "set": "1", "nb": 1, "prev": "Ether Edge", "in": ">", "xnext": "Everything's Right"}
  ]
 }

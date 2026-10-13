@@ -34,6 +34,6 @@
   {"date": "2025-09-20", "venue": "Hampton Coliseum", "city": "Hampton", "state": "VA", "gap": 9, "set": "1", "jamchart": true, "jam": "The improvisation here blossoms naturally and grows in a way that feels inevitable and which marks the late summer of 2025 as fertile ground and which gives rise to this melodic ascent of spontaneous beauty. The interplay between Trey's clean sound and Page's grand piano is particularly satisfying.", "prev": "It's Ice", "in": ">", "next": "Moonage Daydream", "nb": 1},
   {"date": "2026-05-02", "venue": "Sphere", "city": "Las Vegas", "state": "NV", "gap": 17, "set": "1", "jamchart": true, "jam": "Unidirectional and cohesive, the jam here is focused and the band is locked in from the start with little deviation to deliver a grin inducing and arm raising ride that accelerates to a very satisfying peak before crashing > into Llama.", "out": ">", "prev": "Back on the Train", "next": "Llama", "nb": 1},
   {"date": "2026-07-18", "venue": "Merriweather Post Pavilion", "city": "Columbia", "state": "MD", "gap": 8, "set": "2", "out": ">", "prev": "Gotta Jibboo", "in": "->", "next": "Lifeboy", "nb": 1},
-  {"date": "2026-10-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 18, "set": "1", "out": ">", "prev": "Sand", "next": "Drift While You're Sleeping", "nb": 1}
+  {"date": "2026-10-11", "venue": "Orion Amphitheater", "city": "Huntsville", "state": "AL", "gap": 18, "set": "1", "out": ">", "nb": 1, "prev": "Sand", "next": "Drift While You're Sleeping"}
  ]
 }
