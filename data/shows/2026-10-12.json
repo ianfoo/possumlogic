@@ -6,7 +6,7 @@
   "state": "AL",
   "artist": "Phish",
   "tour": "2026 Fall Tour",
-  "notes": "<p>This was the rescheduled date from the show that had been postponed due to <span>expected severe weather</span> from Hurricane Isaias in Alabama on <a class=\"show-date-link\" href=\"https://phish.net/setlists/phish-october-10-2026-orion-amphitheater-huntsville-al-usa.html\" data-showdate=\"2026-10-10\">October 10, 2026</a>. Trey and Mike teased Nellie Kane in Weekapaug Groove. Wolfman's Brother and Blaze On featured Trey on mini drum kit. My Friend, My Friend include a quote of The Birds from Trey and did not contain the \"Myfe\" ending. Mike teased Mike's Song in Blaze On. Down with Disease contained Dave's Energy Guide teases from Trey and was unfinished.</p>",
+  "notes": "<p>This was the rescheduled date from the show that had been postponed due to <span>expected severe weather</span> from Hurricane Isaias in Alabama on <a class=\"show-date-link\" href=\"https://phish.net/setlists/phish-october-10-2026-orion-amphitheater-huntsville-al-usa.html\" data-showdate=\"2026-10-10\">October 10, 2026</a>. Trey and Mike teased Nellie Kane in Weekapaug Groove. Wolfman's Brother and Blaze On featured Trey on mini drum kit. My Friend, My Friend include a quote of The Birds from Trey and did not contain the \"Myfe\" ending. Down with Disease contained Dave's Energy Guide teases from Trey and was unfinished.</p>",
   "permalink": "https://phish.net/setlists/phish-october-12-2026-orion-amphitheater-huntsville-al-usa.html",
   "songs": [
     {
@@ -341,7 +341,7 @@
       "prev_date": "2026-09-04",
       "prev_venue": "Dick's Sporting Goods Park",
       "prev_place": "Commerce City, CO",
-      "out": "",
+      "out": ">",
       "plays": 113,
       "recent_plays": 25,
       "gap_median": 16,
@@ -390,6 +390,7 @@
       "verdict": "expected"
     }
   ],
+  "foul_score": 59,
   "count_since": "2026-10-13T04:01:00+00:00",
   "encored": true,
   "provisional": false
